@@ -22,7 +22,7 @@ namespace SimulateAllsvenskan
 
         public override string ToString()
         {
-            return Name + "\tavgScore: " + AvrgScored + "\tavgAdmitted: " + AvrgAdmitted;
+            return Name + "\tavgScore: " + Math.Round(AvrgScored, 2) + "\tavgAdmitted: " + Math.Round(AvrgAdmitted, 2);
         }
     }
 }

@@ -10,38 +10,92 @@ namespace SimulateAllsvenskan
     class Program
     {
         public static Random rnd = new Random();
-        static string outputFolder = "Simulated Seasons";
+        public static string outputFolder = "Simulated Seasons";
         static void Main(string[] args)
         {
             List<Team> teams = TeamData.LoadStatsFromFile();
-
-            Console.WriteLine("--- Simulate Allsvenskan ---\n");
-            Console.WriteLine("Found {0} teams", teams.Count);
             
-            if (Directory.Exists(outputFolder))
-            {
-                string[] files = Directory.GetFiles(outputFolder);
-                Console.WriteLine("Found {0} previously simulated seasons", files.Length);
-            }
-
-            else
-            {
+            if (!Directory.Exists(outputFolder))          
                 Directory.CreateDirectory(outputFolder);
-                Console.WriteLine("Found 0 simulated seasons");
-            }
-            Console.WriteLine();
-
-            while(true)
+  
+            ConsoleKey choice;
+            bool run = true;
+            do
             {
+                Console.WriteLine("--- Simulate Allsvenskan ---");
+                Console.WriteLine("S: Simulate Seasons");
+                Console.WriteLine("G: Generate team stats to file");
+                Console.WriteLine("L: Reload team stats from file");
+                Console.WriteLine("T: List Team Stats");
+                Console.WriteLine("E: Exit");
 
-            }
+                choice = Console.ReadKey().Key;
+                Console.Clear();
+                
 
-            //Console.Write("How many more seasons would you like to simulate: ");
+                switch (choice)
+                {
+                    case ConsoleKey.S:
+                        Simulator.SimulateSeason(teams);
+                        PressAnyKey();
+
+                        break;
+
+                    case ConsoleKey.G:
+                        TeamData.GenerateStatsToFile();
+                        break;
+
+                    case ConsoleKey.L:
+                        teams = TeamData.LoadStatsFromFile();
+                        break;
+
+                    case ConsoleKey.T:
+                        ListTeams(teams);
+                        break;
+
+                    case ConsoleKey.E:
+                        run = !YesNoCheck("Do you want to exit?");
+                        break;
+                }
+
+
+            } while (run);
             
-
-
-            Console.ReadKey();
         }
 
+        private static void ListTeams(List<Team> teams)
+        {
+            if (teams.Count == 0)
+                Console.WriteLine("No teams are loaded");
+
+            foreach (Team team in teams)
+                Console.WriteLine(team.ToString());
+
+            PressAnyKey();
+        }
+
+        public static bool YesNoCheck(string message)
+        {
+            ConsoleKey answer;
+
+            do
+            {
+                Console.Clear();
+                Console.WriteLine(message);
+                Console.Write("y/n? ");
+                answer = Console.ReadKey().Key;
+            } while (answer != ConsoleKey.Y && answer != ConsoleKey.N);
+
+            Console.Clear();
+            return answer == ConsoleKey.Y;
+
+        }
+
+        public static void PressAnyKey()
+        {
+            Console.WriteLine("\nPress any key to continue...");
+            Console.ReadKey();
+            Console.Clear();
+        }
     }
 }

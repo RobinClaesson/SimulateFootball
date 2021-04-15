@@ -45,12 +45,16 @@ namespace SimulateAllsvenskan
                 serializer.Serialize(writer, teams);
                 writer.Close();
 
-                Console.WriteLine("Analyzed {0} teams and wrote to Teams.xml: ", teams.Count);
+                Console.WriteLine("Analyzed {0} teams from \"Input Data.txt\" and wrote to Teams.xml: ", teams.Count);
+
+                Program.PressAnyKey();
             }
 
             else
             {
-                Console.WriteLine("No Input Data file found!");
+                Console.WriteLine("No \"Input Data.txt\" file found!");
+
+                Program.PressAnyKey();
             }
         }
 
@@ -58,38 +62,47 @@ namespace SimulateAllsvenskan
         {
             if (File.Exists("Teams.xml"))
             {
+                //Loads file
                 XmlSerializer serializer = new XmlSerializer(typeof(List<Team>));
                 StreamReader reader = new StreamReader("Teams.xml");
 
                 List<Team> teams = (List<Team>)serializer.Deserialize(reader);
                 reader.Close();
 
+                //Normalises team name length for printing
+                int longest = 0;
+                foreach (Team team in teams)
+                    if (team.Name.Length > longest)
+                        longest = team.Name.Length;
+
+                foreach (Team team in teams)
+                    while (team.Name.Length < longest)
+                        team.Name += " ";
+
+
+                Console.WriteLine("Loaded {0} teams from Teams.xml", teams.Count);
+                Program.PressAnyKey();
+
                 return teams;
             }
             else
             {
-                
-                char answer = ' ';
 
-                do
+                bool generate = Program.YesNoCheck("Teams.xml where not found, would you like to generate now?");
+                if (generate)
                 {
-                    Console.Clear();
-                    Console.WriteLine("No team stats where found, would you like to generate now?");
-                    Console.Write("y/n? ");
-                    answer = Console.ReadKey().KeyChar;
-                } while (answer != 'y' && answer != 'n');
 
-                Console.Clear();
-
-
-                if (answer == 'y')
-                {
-                    
                     GenerateStatsToFile();
                     return LoadStatsFromFile();
                 }
                 else
+                {
+                    Console.WriteLine("No teams loaded");
+                    Program.PressAnyKey();
+
                     return new List<Team>();
+                }
+                  
             }
         }
     }
