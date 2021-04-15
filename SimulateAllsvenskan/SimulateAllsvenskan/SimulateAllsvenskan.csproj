@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{47550D23-C3EA-4BE3-A33A-33916FFAD4F8}</ProjectGuid>
+    <ProjectGuid>{65E64446-AB75-4194-B533-2B64214727FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SimulateAllsvenskan.GetStats</RootNamespace>
-    <AssemblyName>SimulateAllsvenskan.GetStats</AssemblyName>
+    <RootNamespace>SimulateAllsvenskan</RootNamespace>
+    <AssemblyName>SimulateAllsvenskan</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,19 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GetStats.cs" />
+    <Compile Include="SimulateAllsvenskan.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Input.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Teams.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Teams\SimulateAllsvenskan.Common.csproj">
+    <ProjectReference Include="..\SimulateAllsvenskan.Common\SimulateAllsvenskan.Common.csproj">
       <Project>{ac3065e9-8125-4bd0-b305-3b37f96109bd}</Project>
       <Name>SimulateAllsvenskan.Common</Name>
     </ProjectReference>

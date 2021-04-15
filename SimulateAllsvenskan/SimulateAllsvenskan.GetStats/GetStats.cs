@@ -44,7 +44,7 @@ namespace SimulateAllsvenskan.GetStats
             serializer.Serialize(writer, teams);
             writer.Close();
 
-            Console.WriteLine("Analyzed {0} teams and wrote to output: ", teams.Count);
+            Console.WriteLine("Analyzed {0} teams and wrote to Teams.xml: ", teams.Count);
             foreach (Team team in teams)
                 Console.WriteLine(team.ToString());
 
