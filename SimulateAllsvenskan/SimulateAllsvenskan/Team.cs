@@ -18,8 +18,9 @@ namespace SimulateAllsvenskan
         public int GamesPlayed { get { return _gamesPlayed; } set { _gamesPlayed = value; } }
         public int GoalsScored { get { return _goalsScored; } set { _goalsScored = value; } }
         public int GoalsAdmitted { get { return _goalsAdmitted; } set { _goalsAdmitted = value; } }
-
         public int[] Resuls { get { return _results; } set { _results = value; } }
+
+        public int Points { get { return 3 * _results[0] + _results[1]; } }
 
 
         public double AvrgScored { get { return (double)_goalsScored / _gamesPlayed; } }

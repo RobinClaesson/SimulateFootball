@@ -30,7 +30,7 @@ namespace SimulateAllsvenskan
                 Console.WriteLine("G: Generate team.xml");
                 Console.WriteLine("D: Delete teams.xml");
                 Console.WriteLine("L: Load teams from teams.xml");
-                Console.WriteLine("T: List loaded teams");
+                Console.WriteLine("T: List loaded teams average stats");
 
 
                 Console.WriteLine("E: Exit");

@@ -33,6 +33,8 @@ namespace SimulateAllsvenskan
                         team.GoalsScored = int.Parse(teamInfo[6]);
                         team.GoalsAdmitted = int.Parse(teamInfo[7]);
 
+                        team.Resuls = new int[] {int.Parse(teamInfo[3]), int.Parse(teamInfo[4]), int.Parse(teamInfo[5])};
+
                         teams.Add(team);
                     }
                 }
