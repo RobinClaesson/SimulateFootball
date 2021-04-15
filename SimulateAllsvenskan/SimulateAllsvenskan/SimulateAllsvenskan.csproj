@@ -43,20 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SimulateAllsvenskan.cs" />
+    <Compile Include="Simulator.cs" />
+    <Compile Include="Team.cs" />
+    <Compile Include="TeamData.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Input Data.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Teams.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\SimulateAllsvenskan.Common\SimulateAllsvenskan.Common.csproj">
-      <Project>{ac3065e9-8125-4bd0-b305-3b37f96109bd}</Project>
-      <Name>SimulateAllsvenskan.Common</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

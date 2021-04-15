@@ -1,0 +1,20 @@
+﻿#Stats from Allsvenskan Season 2020 https://sv.wikipedia.org/wiki/Fotbollsallsvenskan_2020
+#Format with \t between
+#Placement Team gp won draw lost scored admitted diff points
+
+1	Malmö FF	30	17	9	4	64	30	+34	60
+2	IF Elfsborg	30	12	15	3	49	38	+11	51
+3	BK Häcken	30	12	13	5	45	29	+16	49
+4	Djurgårdens IF	30	14	6	10	48	33	+15	48
+5	Mjällby AIF	30	13	8	9	48	44	+4	47
+6	IFK Norrköping	30	13	7	10	60	46	+14	46
+7	Örebro SK	30	12	6	12	37	41	−4	42
+8	Hammarby IF	30	10	11	9	47	47	0	41
+9	AIK	30	10	9	11	30	33	−3	39
+10	IK Sirius	30	9	11	10	43	51	−8	38
+11	Varbergs BoIS	30	10	7	13	45	44	+1	37
+12	IFK Göteborg	30	7	13	10	35	41	−6	34
+13	Östersunds FK	30	8	9	13	27	46	−19	33
+14	Kalmar FF	30	6	10	14	30	49	−19	28
+15	Helsingborgs IF	30	5	11	14	33	48	−15	26
+16	Falkenbergs FF	30	5	9	16	33	54	−21	24

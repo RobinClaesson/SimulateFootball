@@ -45,8 +45,6 @@ namespace SimulateAllsvenskan.GetStats
             writer.Close();
 
             Console.WriteLine("Analyzed {0} teams and wrote to Teams.xml: ", teams.Count);
-            foreach (Team team in teams)
-                Console.WriteLine(team.ToString());
 
             Console.ReadKey();
         }

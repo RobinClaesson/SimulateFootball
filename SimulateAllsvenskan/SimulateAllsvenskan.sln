@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulateAllsvenskan", "SimulateAllsvenskan\SimulateAllsvenskan.csproj", "{65E64446-AB75-4194-B533-2B64214727FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulateAllsvenskan.GetStats", "SimulateAllsvenskan.GetStats\SimulateAllsvenskan.GetStats.csproj", "{47550D23-C3EA-4BE3-A33A-33916FFAD4F8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulateAllsvenskan.Common", "SimulateAllsvenskan.Common\SimulateAllsvenskan.Common.csproj", "{AC3065E9-8125-4BD0-B305-3B37F96109BD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{65E64446-AB75-4194-B533-2B64214727FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65E64446-AB75-4194-B533-2B64214727FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65E64446-AB75-4194-B533-2B64214727FE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{47550D23-C3EA-4BE3-A33A-33916FFAD4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47550D23-C3EA-4BE3-A33A-33916FFAD4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47550D23-C3EA-4BE3-A33A-33916FFAD4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47550D23-C3EA-4BE3-A33A-33916FFAD4F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC3065E9-8125-4BD0-B305-3B37F96109BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC3065E9-8125-4BD0-B305-3B37F96109BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC3065E9-8125-4BD0-B305-3B37F96109BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC3065E9-8125-4BD0-B305-3B37F96109BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
