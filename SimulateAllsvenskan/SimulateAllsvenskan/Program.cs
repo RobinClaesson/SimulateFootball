@@ -10,13 +10,16 @@ namespace SimulateAllsvenskan
     class Program
     {
         public static Random rnd = new Random();
-        public static string outputFolder = "Simulated Seasons";
+        public static string outputFolderSeasons = "Simulated Seasons";
+        public static string outputFolderAnalyze = "Analyzed Seasons";
         static void Main(string[] args)
         {
             List<Team> teams = TeamData.LoadStatsFromFile();
             
-            if (!Directory.Exists(outputFolder))          
-                Directory.CreateDirectory(outputFolder);
+            if (!Directory.Exists(outputFolderSeasons))          
+                Directory.CreateDirectory(outputFolderSeasons);
+            if (!Directory.Exists(outputFolderAnalyze))          
+                Directory.CreateDirectory(outputFolderAnalyze);
   
             ConsoleKey choice;
             bool run = true;
@@ -24,9 +27,12 @@ namespace SimulateAllsvenskan
             {
                 Console.WriteLine("--- Simulate Allsvenskan ---");
                 Console.WriteLine("S: Simulate Seasons");
-                Console.WriteLine("G: Generate team stats to file");
-                Console.WriteLine("L: Reload team stats from file");
-                Console.WriteLine("T: List Team Stats");
+                Console.WriteLine("G: Generate team.xml");
+                Console.WriteLine("D: Delete teams.xml");
+                Console.WriteLine("L: Load teams from teams.xml");
+                Console.WriteLine("T: List loaded teams");
+
+
                 Console.WriteLine("E: Exit");
 
                 choice = Console.ReadKey().Key;

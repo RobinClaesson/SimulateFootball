@@ -9,7 +9,7 @@ namespace SimulateAllsvenskan
 {
     class Simulator
     {
-        static Random rnd = Program.rnd;
+        static readonly Random rnd = Program.rnd;
         public static string SimulateMatch(Team homeTeam, Team awayTeam)
         {
             double homeExpected = (homeTeam.AvrgScored + awayTeam.AvrgAdmitted) * 100;
@@ -36,7 +36,7 @@ namespace SimulateAllsvenskan
                 }
             }
 
-            StreamWriter writer = new StreamWriter(Program.outputFolder + "\\Seaon " + (SimulationsMade + 1) + ".txt");
+            StreamWriter writer = new StreamWriter(Program.outputFolderSeasons + "\\Seaon " + (SimulationsMade + 1) + ".txt");
             foreach (string match in matches)
                 writer.WriteLine(match);
             writer.Close();
@@ -47,8 +47,13 @@ namespace SimulateAllsvenskan
         {
             get
             {
-                return Directory.GetFiles(Program.outputFolder).Length;
+                return Directory.GetFiles(Program.outputFolderSeasons).Length;
             }
+        }
+
+        public static void AnalyzeSeason(int seasonNumber)
+        {
+            
         }
     }
 }

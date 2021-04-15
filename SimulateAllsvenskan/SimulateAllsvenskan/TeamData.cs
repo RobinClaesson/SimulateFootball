@@ -28,12 +28,10 @@ namespace SimulateAllsvenskan
                         Team team = new Team();
                         team.Name = teamInfo[1];
 
-                        double scored = double.Parse(teamInfo[6]);
-                        double admitted = double.Parse(teamInfo[7]);
-                        int gamesPlayed = int.Parse(teamInfo[2]);
 
-                        team.AvrgScored = scored / gamesPlayed;
-                        team.AvrgAdmitted = admitted / gamesPlayed;
+                        team.GamesPlayed = int.Parse(teamInfo[2]);
+                        team.GoalsScored = int.Parse(teamInfo[6]);
+                        team.GoalsAdmitted = int.Parse(teamInfo[7]);
 
                         teams.Add(team);
                     }
