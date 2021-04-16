@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Diagnostics;
 
-namespace SimulateAllsvenskan
+namespace SimulateFootball
 {
     class Simulator
     {
@@ -47,8 +47,12 @@ namespace SimulateAllsvenskan
         public static void SimulateSeasons(List<Team> teams, int numOfseasons)
         {
             DateTime startTime = DateTime.Now;
-            string matchesFilePath = Program.putputFolder + "\\Simulated Matches.txt";
+
+            string matchesFilePath = Program.outputFolder + "\\Simulated Matches.txt";
+            string tablesFilePath = Program.outputFolder + "\\Sumulated Tables.txt";
+
             StreamWriter matchWriter = new StreamWriter(matchesFilePath, false);
+            StreamWriter tableWriter = new StreamWriter(tablesFilePath, false);
 
             DateTime lastPrint = DateTime.Now;
             Console.Clear();
@@ -63,18 +67,26 @@ namespace SimulateAllsvenskan
                     lastPrint = DateTime.Now;
                 }
 
-                List<Match> season = SimulateSeason(teams);
+                List<Match> matches = SimulateSeason(teams);
 
-                matchWriter.WriteLine("----------------------------------");
-                matchWriter.WriteLine("\tSeason {0}", i);
-                matchWriter.WriteLine("----------------------------------");
+                matchWriter.WriteLine("#----------------------------------");
+                matchWriter.WriteLine("#\tSeason {0}", i);
+                matchWriter.WriteLine("#----------------------------------");
 
-                foreach (Match match in season)
+                foreach (Match match in matches)
                     matchWriter.WriteLine(match.ToString());
+
+
+                Season season = new Season(matches);
+                tableWriter.WriteLine("#----------------------------------");
+                tableWriter.WriteLine("#\tSeason {0}", i);
+                tableWriter.WriteLine("#----------------------------------");
+                tableWriter.WriteLine(season.TableString());
 
             }
 
             matchWriter.Close();
+            tableWriter.Close();
 
             Console.Clear();
             Console.WriteLine("Simulations Done!");
@@ -87,10 +99,11 @@ namespace SimulateAllsvenskan
             if (open)
             {
                 Process.Start(matchesFilePath);
+                Process.Start(tablesFilePath);
             }
         }
 
-
-
+        
+       
     }
 }

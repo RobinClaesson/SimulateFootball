@@ -4,12 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimulateAllsvenskan
+namespace SimulateFootball
 {
     class Match
     {
         private string _homeTeam, _awayTeam;
         private int _homeScore, _awayScore;
+
+        public string HomeTeam { get { return _homeTeam; } }
+        public string AwayTeam { get { return _awayTeam; } }
+
+        public int HomeTeamScore { get { return _homeScore; } }
+        public int AwayTeamScore { get { return _awayScore; } }
 
         public Match(string homeTeam, int homeScore, string awayTeam, int awayScore)
         {

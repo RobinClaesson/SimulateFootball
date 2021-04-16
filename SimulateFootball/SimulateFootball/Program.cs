@@ -5,18 +5,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace SimulateAllsvenskan
+namespace SimulateFootball
 {
     class Program
     {
         public static Random rnd = new Random();
-        public static string putputFolder = "Simulations";
+        public static string outputFolder = "Simulations";
         static void Main(string[] args)
         {
             List<Team> teams = TeamData.LoadStatsFromFile();
             
-            if (!Directory.Exists(putputFolder))          
-                Directory.CreateDirectory(putputFolder);
+            if (!Directory.Exists(outputFolder))          
+                Directory.CreateDirectory(outputFolder);
   
             ConsoleKey choice;
             bool run = true;

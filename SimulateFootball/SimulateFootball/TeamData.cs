@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Xml.Serialization;
 
-namespace SimulateAllsvenskan
+namespace SimulateFootball
 {
     class TeamData
     {
@@ -76,14 +76,14 @@ namespace SimulateAllsvenskan
                 reader.Close();
 
                 //Normalises team name length for printing
-                //int longest = 0;
-                //foreach (Team team in teams)
-                //    if (team.Name.Length > longest)
-                //        longest = team.Name.Length;
+                int longest = 0;
+                foreach (Team team in teams)
+                        if (team.Name.Length > longest)
+                            longest = team.Name.Length;
 
-                //foreach (Team team in teams)
-                //    while (team.Name.Length < longest)
-                //        team.Name += " ";
+                foreach (Team team in teams)
+                    while (team.Name.Length < longest)
+                        team.Name += " ";
 
 
                 Console.WriteLine("Loaded {0} teams from Teams.xml", teams.Count);

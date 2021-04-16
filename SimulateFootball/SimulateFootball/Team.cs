@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimulateAllsvenskan
+
+namespace SimulateFootball
 {
-    public class Team
+    public class Team  : IComparable
     {
         private string _name;
         private int _gamesPlayed = 0, _goalsScored = 0, _goalsAdmitted = 0;
@@ -19,6 +20,10 @@ namespace SimulateAllsvenskan
         public int GoalsScored { get { return _goalsScored; } set { _goalsScored = value; } }
         public int GoalsAdmitted { get { return _goalsAdmitted; } set { _goalsAdmitted = value; } }
         public int[] Resuls { get { return _results; } set { _results = value; } }
+
+        public int Wins { get { return _results[0]; } }
+        public int Draws { get { return _results[1]; } }
+        public int Losses { get { return _results[2]; } }
 
         public int Points { get { return 3 * _results[0] + _results[1]; } }
 
@@ -53,7 +58,37 @@ namespace SimulateAllsvenskan
         }
         
 
-        
+        public int CompareTo(object obj)
+        {
+            Team other = (Team)obj;
+
+            if (this.Points < other.Points) //Other team has more points
+                return 1;
+
+            else if (this.Points > other.Points) //This team has more points
+                return -1;
+
+            //Same amount of points
+            else
+            {
+                if (this.GoalDiff < other.GoalDiff) //Other team has better goaldiff
+                    return 1;
+
+                else if (this.GoalDiff > other.GoalDiff) //This team has better gaoldiff
+                    return -1;
+
+                //Same goaldiff
+                else
+                {
+                    if (this.GoalsScored < other.GoalsScored)
+                        return 1;
+                    else if (this.GoalsScored > other.GoalsScored)
+                        return -1;
+
+                    else return 0;
+                }
+            }
+        }
 
     }
 }
