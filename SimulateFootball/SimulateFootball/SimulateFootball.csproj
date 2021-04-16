@@ -58,11 +58,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Match.cs" />
-    <Compile Include="Season.cs" />
-    <Compile Include="Simulator.cs" />
-    <Compile Include="Team.cs" />
-    <Compile Include="TeamData.cs" />
+    <Compile Include="Simulation\Analyzer.cs" />
+    <Compile Include="Dataholders\Match.cs" />
+    <Compile Include="Dataholders\Season.cs" />
+    <Compile Include="Simulation\Simulator.cs" />
+    <Compile Include="Dataholders\Team.cs" />
+    <Compile Include="ReadData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

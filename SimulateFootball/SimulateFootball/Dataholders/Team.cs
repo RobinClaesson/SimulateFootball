@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SimulateFootball
 {
-    public class Team  : IComparable
+    public class Team : IComparable
     {
         private string _name;
         private int _gamesPlayed = 0, _goalsScored = 0, _goalsAdmitted = 0;
@@ -16,6 +16,18 @@ namespace SimulateFootball
 
 
         public string Name { get { return _name; } set { _name = value; } }
+        public string FixedLengthName
+        {
+            get
+            {
+                string s = _name;
+
+                while (s.Length < 20)
+                    s += " ";
+
+                return s;
+            }
+        }
         public int GamesPlayed { get { return _gamesPlayed; } set { _gamesPlayed = value; } }
         public int GoalsScored { get { return _goalsScored; } set { _goalsScored = value; } }
         public int GoalsAdmitted { get { return _goalsAdmitted; } set { _goalsAdmitted = value; } }
@@ -39,7 +51,7 @@ namespace SimulateFootball
 
         public override string ToString()
         {
-            return Name + "\tavgScore: " + Math.Round(AvrgScored, 2) + "\tavgAdmitted: " + Math.Round(AvrgAdmitted, 2);
+            return FixedLengthName + "\tavgScore: " + Math.Round(AvrgScored, 2) + "\tavgAdmitted: " + Math.Round(AvrgAdmitted, 2);
         }
 
         public void AddGame(int scoredGoals, int admittedGoals)
@@ -56,7 +68,7 @@ namespace SimulateFootball
             else
                 _results[1]++;  //draw
         }
-        
+
 
         public int CompareTo(object obj)
         {

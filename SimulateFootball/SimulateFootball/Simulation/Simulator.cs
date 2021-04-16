@@ -44,20 +44,22 @@ namespace SimulateFootball
             return matches;
         }
 
-        public static void SimulateSeasons(List<Team> teams, int numOfseasons)
+        static string matchesFilePath = Program.outputFolder + "\\Simulated Matches.txt";
+        static string tablesFilePath = Program.outputFolder + "\\Simulated Tables.txt";
+        static string statsFilePath = Program.outputFolder + "\\Sumulation Stats.txt";
+        public static void SimulateSeasons(List<Team> teams, int numOfseasons, bool saveMatches, bool saveTables)
         {
             DateTime startTime = DateTime.Now;
 
-            string matchesFilePath = Program.outputFolder + "\\Simulated Matches.txt";
-            string tablesFilePath = Program.outputFolder + "\\Sumulated Tables.txt";
-
             StreamWriter matchWriter = new StreamWriter(matchesFilePath, false);
             StreamWriter tableWriter = new StreamWriter(tablesFilePath, false);
+            StreamWriter statsWriter = new StreamWriter(statsFilePath, false);
 
             DateTime lastPrint = DateTime.Now;
             Console.Clear();
             Console.WriteLine("Simulating Season 1/{0}", numOfseasons);
 
+            Analyzer analyzer = new Analyzer(teams.Count);
             for (int i = 1; i <= numOfseasons; i++)
             {
                 if ((DateTime.Now - lastPrint).TotalMilliseconds > 500)
@@ -69,41 +71,65 @@ namespace SimulateFootball
 
                 List<Match> matches = SimulateSeason(teams);
 
-                matchWriter.WriteLine("#----------------------------------");
-                matchWriter.WriteLine("#\tSeason {0}", i);
-                matchWriter.WriteLine("#----------------------------------");
+                if (saveMatches)
+                {
+                    matchWriter.WriteLine("#----------------------------------");
+                    matchWriter.WriteLine("#\tSeason {0}", i);
+                    matchWriter.WriteLine("#----------------------------------");
 
-                foreach (Match match in matches)
-                    matchWriter.WriteLine(match.ToString());
-
+                    foreach (Match match in matches)
+                        matchWriter.WriteLine(match.ToString());
+                }
 
                 Season season = new Season(matches);
-                tableWriter.WriteLine("#----------------------------------");
-                tableWriter.WriteLine("#\tSeason {0}", i);
-                tableWriter.WriteLine("#----------------------------------");
-                tableWriter.WriteLine(season.TableString());
+                analyzer.AddSeasonStats(season, i);
+                if (saveTables)
+                {
+                    tableWriter.WriteLine("#----------------------------------");
+                    tableWriter.WriteLine("#\tSeason {0}", i);
+                    tableWriter.WriteLine("#----------------------------------");
+                    tableWriter.WriteLine(season.TableString());
+                }
 
+                
             }
 
             matchWriter.Close();
             tableWriter.Close();
 
+
+            string metadata = "Number of Seasons simulated: " + numOfseasons + "\n";
+            metadata += "Total time (h:m:s): " + (DateTime.Now - startTime);
+            string analytics = analyzer.OutputData();
+
             Console.Clear();
             Console.WriteLine("Simulations Done!");
-            Console.WriteLine("Number of Seasons simulated: {0}", numOfseasons);
-            Console.WriteLine("Total time: {0}", (DateTime.Now - startTime));
+            Console.WriteLine(metadata);
+            Console.WriteLine();
+            Console.WriteLine(analytics);
+
+            statsWriter.WriteLine(metadata + "\n");
+            statsWriter.WriteLine(analytics);
+            statsWriter.Close();
 
             Program.PressAnyKey();
             bool open = Program.YesNoCheck("Do you want to open simulation files now? ");
 
             if (open)
             {
-                Process.Start(matchesFilePath);
-                Process.Start(tablesFilePath);
+                OpenFiles();
             }
         }
 
-        
-       
+
+        public static void OpenFiles()
+        {
+            if (File.Exists(matchesFilePath))
+                Process.Start(matchesFilePath);
+            if (File.Exists(tablesFilePath))
+                Process.Start(tablesFilePath);
+            if (File.Exists(statsFilePath))
+                Process.Start(statsFilePath);
+        }
     }
 }

@@ -8,7 +8,7 @@ using System.Xml.Serialization;
 
 namespace SimulateFootball
 {
-    class TeamData
+    class ReadData
     {
         //TODO: Choose from several files
         public static void GenerateStatsToFile()
@@ -43,7 +43,7 @@ namespace SimulateFootball
 
                 WriteTeamsToFile(teams, "Teams.xml");
 
-                Console.WriteLine("Analyzed {0} teams from \"Input Data.txt\" and wrote to Teams.xml: ", teams.Count);
+                Console.WriteLine("Analyzed {0} teams from \"Input Data.txt\" and wrote to Teams file: ", teams.Count);
 
                 Program.PressAnyKey();
             }
@@ -76,17 +76,17 @@ namespace SimulateFootball
                 reader.Close();
 
                 //Normalises team name length for printing
-                int longest = 0;
-                foreach (Team team in teams)
-                        if (team.Name.Length > longest)
-                            longest = team.Name.Length;
+                //int longest = 0;
+                //foreach (Team team in teams)
+                //        if (team.Name.Length > longest)
+                //            longest = team.Name.Length;
 
-                foreach (Team team in teams)
-                    while (team.Name.Length < longest)
-                        team.Name += " ";
+                //foreach (Team team in teams)
+                //    while (team.Name.Length < longest)
+                //        team.Name += " ";
 
 
-                Console.WriteLine("Loaded {0} teams from Teams.xml", teams.Count);
+                Console.WriteLine("Loaded {0} teams from Teams file", teams.Count);
                 Program.PressAnyKey();
 
                 return teams;
@@ -94,7 +94,7 @@ namespace SimulateFootball
             else
             {
 
-                bool generate = Program.YesNoCheck("Teams.xml where not found, would you like to generate now?");
+                bool generate = Program.YesNoCheck("Teams file where not found, would you like to generate now?");
                 if (generate)
                 {
 

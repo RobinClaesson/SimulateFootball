@@ -9,7 +9,6 @@ namespace SimulateFootball
     class Season
     {
         List<Team> _teams = new List<Team>();
-
         public Team[] Teams { get { return _teams.ToArray(); } }
         public Season(List<Match> playedMatches)
         {
@@ -19,6 +18,33 @@ namespace SimulateFootball
             }
 
             _teams.Sort();
+        }
+
+        public Team TeamWithMostScored
+        {
+            get
+            {
+                int t = 0;
+
+                for (int i = 1; i < _teams.Count; i++)
+                    if (_teams[i].GoalsScored > _teams[t].GoalsScored)               
+                        t = i;
+
+                return _teams[t];
+            }
+        }
+        public Team TeamWithLeastScored
+        {
+            get
+            {
+                int t = 0;
+
+                for (int i = 1; i < _teams.Count; i++)
+                    if (_teams[i].GoalsScored < _teams[t].GoalsScored)
+                        t = i;
+
+                return _teams[t];
+            }
         }
 
         public void AddMatch(Match match)
@@ -70,7 +96,7 @@ namespace SimulateFootball
             for (int i = 0; i < _teams.Count; i++)
             {
                 s += (i + 1) + "\t";
-                s += _teams[i].Name + "\t";
+                s += _teams[i].FixedLengthName + "\t";
                 s += _teams[i].GamesPlayed + "\t";
                 s += _teams[i].Wins + "\t";
                 s += _teams[i].Draws + "\t";
