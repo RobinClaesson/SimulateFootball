@@ -1,2 +1,2 @@
-# SimulateAllsvenskan
- A program to do simple simulations of seasons of the Swedish Football league Allsvenskan
+# Simulate Fotball
+ A program to do simple simulations of seasons of the a fotball league. 
