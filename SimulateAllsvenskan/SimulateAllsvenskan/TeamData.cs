@@ -10,6 +10,7 @@ namespace SimulateAllsvenskan
 {
     class TeamData
     {
+        //TODO: Choose from several files
         public static void GenerateStatsToFile()
         {
             if (File.Exists("Input Data.txt"))
@@ -40,10 +41,7 @@ namespace SimulateAllsvenskan
                 }
                 reader.Close();
 
-                XmlSerializer serializer = new XmlSerializer(typeof(List<Team>));
-                StreamWriter writer = new StreamWriter("Teams.xml", false);
-                serializer.Serialize(writer, teams);
-                writer.Close();
+                WriteTeamsToFile(teams, "Teams.xml");
 
                 Console.WriteLine("Analyzed {0} teams from \"Input Data.txt\" and wrote to Teams.xml: ", teams.Count);
 
@@ -58,6 +56,14 @@ namespace SimulateAllsvenskan
             }
         }
 
+        public static void WriteTeamsToFile(List<Team> teams, string filePath)
+        {
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Team>));
+            StreamWriter writer = new StreamWriter(filePath, false);
+            serializer.Serialize(writer, teams);
+            writer.Close();
+        }
+
         public static List<Team> LoadStatsFromFile()
         {
             if (File.Exists("Teams.xml"))
@@ -70,14 +76,14 @@ namespace SimulateAllsvenskan
                 reader.Close();
 
                 //Normalises team name length for printing
-                int longest = 0;
-                foreach (Team team in teams)
-                    if (team.Name.Length > longest)
-                        longest = team.Name.Length;
+                //int longest = 0;
+                //foreach (Team team in teams)
+                //    if (team.Name.Length > longest)
+                //        longest = team.Name.Length;
 
-                foreach (Team team in teams)
-                    while (team.Name.Length < longest)
-                        team.Name += " ";
+                //foreach (Team team in teams)
+                //    while (team.Name.Length < longest)
+                //        team.Name += " ";
 
 
                 Console.WriteLine("Loaded {0} teams from Teams.xml", teams.Count);

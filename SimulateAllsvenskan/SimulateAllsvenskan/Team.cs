@@ -36,5 +36,24 @@ namespace SimulateAllsvenskan
         {
             return Name + "\tavgScore: " + Math.Round(AvrgScored, 2) + "\tavgAdmitted: " + Math.Round(AvrgAdmitted, 2);
         }
+
+        public void AddGame(int scoredGoals, int admittedGoals)
+        {
+            _gamesPlayed++;
+
+            _goalsScored += scoredGoals;
+            _goalsAdmitted += admittedGoals;
+
+            if (scoredGoals > admittedGoals) //win
+                _results[0]++;
+            else if (scoredGoals < admittedGoals) //Lose
+                _results[2]++;
+            else
+                _results[1]++;  //draw
+        }
+        
+
+        
+
     }
 }
