@@ -81,8 +81,8 @@ namespace SimulateFootball
                         matchWriter.WriteLine(match.ToString());
                 }
 
-                Season season = new Season(matches);
-                analyzer.AddSeasonStats(season, i);
+                Season season = new Season(matches, i);
+                analyzer.AddSeasonStats(season);
                 if (saveTables)
                 {
                     tableWriter.WriteLine("#----------------------------------");

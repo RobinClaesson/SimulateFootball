@@ -10,7 +10,7 @@ namespace SimulateFootball
 {
     class ReadData
     {
-        //TODO: Choose from several files
+        //TODO: Choose from several files, also make it to not use a team.xml file as middle step. 
         public static void GenerateStatsToFile()
         {
             if (File.Exists("Input Data.txt"))

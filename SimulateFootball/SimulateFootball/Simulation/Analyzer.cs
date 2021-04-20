@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SimulateFootball.Analyze;
 
 namespace SimulateFootball
 {
@@ -10,82 +11,57 @@ namespace SimulateFootball
     {
         int _numOfTeams, _numOfSeasons = 0;
 
-        int _highestPoints = int.MinValue, _highestPoints_Season;
-        string _highestPoint_Team;
-
-        int _lowestPoints = int.MaxValue, _lowestPoints_Season;
-        string _lowestPoints_Team;
-
-        int _lowestPointsByWinner = int.MaxValue, _lowestPointsByWinner_Season;
-        string _lowestPointsByWinner_Team;
-
-        int _highestPointsByLastPlace = int.MinValue, _highestPointsByLastPlace_Season;
-        string _highestPointsByLastPlace_Team;
-
-        int _highestPointsNeededToWin = int.MinValue, _highestPointsNeededToWin_Season;
-        int _lowestPointsNeededToWin = int.MaxValue, _lowestPointsNeededToWin_Season;
+        Dictionary<string, Record> _records = new Dictionary<string, Record>();
 
 
         int[] _placementPointSums; // Used for average point per placement
 
         //TODO: Save seasons that hold "records"
 
-        public int HighesPoints { get { return _highestPoints; } }
         public Analyzer(int numOfTeams)
         {
             _numOfTeams = numOfTeams;
             _placementPointSums = new int[_numOfTeams];
+
+            _records.Add("HighestPoints", new Record(int.MinValue));
+            _records.Add("LowestPoints", new Record(int.MaxValue));
+
+            _records.Add("LowestPointsByWinner", new Record(int.MaxValue));
+            _records.Add("HighestPointsByLastPlace", new Record(int.MinValue));
+
+            _records.Add("LowestNeededToWin", new Record(int.MaxValue));
+            _records.Add("HighestNeededToToWin", new Record(int.MinValue));
         }
 
-        public void AddSeasonStats(Season season, int seasonNum)
+        public void AddSeasonStats(Season season)
         {
             _numOfSeasons++;
 
             //Highest total points
-            if (season.Teams[0].Points > _highestPoints)
-            {
-                _highestPoints = season.Teams[0].Points;
-                _highestPoint_Team = season.Teams[0].Name;
-                _highestPoints_Season = seasonNum;
-            }
+            if (season.Teams[0].Points > _records["HighestPoints"].Value)
+                _records["HighestPoints"].BeatRecord(season.Teams[0].Points, season.Teams[0].Name, season);
 
             //Lowest total points
-            if (season.Teams.Last().Points < _lowestPoints)
-            {
-                _lowestPoints = season.Teams.Last().Points;
-                _lowestPoints_Team = season.Teams.Last().Name;
-                _lowestPoints_Season = seasonNum;
-            }
+            if (season.Teams.Last().Points < _records["LowestPoints"].Value)
+                _records["LowestPoints"].BeatRecord(season.Teams.Last().Points, season.Teams.Last().Name, season);
 
             //Lowest points by a winner
-            if (season.Teams[0].Points < _lowestPointsByWinner)
-            {
-                _lowestPointsByWinner = season.Teams[0].Points;
-                _lowestPointsByWinner_Team = season.Teams[0].Name;
-                _lowestPointsByWinner_Season = seasonNum;
-            }
+            if (season.Teams[0].Points < _records["LowestPointsByWinner"].Value)
+                _records["LowestPointsByWinner"].BeatRecord(season.Teams[0].Points, season.Teams[0].Name, season);
 
             //Highest points by last place
-            if (season.Teams.Last().Points > _highestPointsByLastPlace)
-            {
-                _highestPointsByLastPlace = season.Teams.Last().Points;
-                _highestPointsByLastPlace_Team = season.Teams.Last().Name;
-                _highestPointsByLastPlace_Season = seasonNum;
-            }
+            if (season.Teams.Last().Points > _records["HighestPointsByLastPlace"].Value)
+                _records["HighestPointsByLastPlace"].BeatRecord(season.Teams.Last().Points, season.Teams.Last().Name, season);
 
-                int neededToWin = season.Teams[1].Points + 1; //1 point more then 2nd place is needed to win
+
+            int neededToWin = season.Teams[1].Points + 1; //1 point more then 2nd place is needed to win
             //Highest amount of points needed to win
-            if (neededToWin > _highestPointsNeededToWin)
-            {
-                _highestPointsNeededToWin = neededToWin;
-                _highestPointsNeededToWin_Season = seasonNum;
-            }
+            if (neededToWin > _records["HighestNeededToToWin"].Value)
+                _records["HighestNeededToToWin"].BeatRecord(neededToWin, "", season);
+
             //Lowest amount of points needed to win
-            if (neededToWin < _lowestPointsNeededToWin)
-            {
-                _lowestPointsNeededToWin = neededToWin;
-                _lowestPointsNeededToWin_Season = seasonNum;
-            }
+            if (neededToWin < _records["LowestNeededToWin"].Value)
+                _records["LowestNeededToWin"].BeatRecord(neededToWin, "", season);
 
             //Placement point sums 
             for (int i = 0; i < _numOfTeams; i++)
@@ -98,20 +74,20 @@ namespace SimulateFootball
         {
             string s = "";
 
-            s += "Highest points by any team: " + _highestPoints + "p, by " + _highestPoint_Team + " in season " + _highestPoints_Season + "\n";
-            s += "Lowest points by any team: " + _lowestPoints + "p, by " + _lowestPoints_Team + " in season " + _lowestPoints_Season + "\n";
+            s += "Highest points by any team: " + _records["HighestPoints"].RecordString("p", true) + "\n";
+            s += "Lowest points by any team: " + _records["LowestPoints"].RecordString("p", true) + "\n";
             s += "\n";
 
-            s += "Lowest points by a winning team: " + _lowestPointsByWinner + "p, by " + _lowestPointsByWinner_Team + " in season " + _lowestPointsByWinner_Season + "\n";
-            s += "Highest points by a team in last place: " + _highestPointsByLastPlace + "p, by " + _highestPointsByLastPlace_Team + " in season " + _highestPointsByLastPlace_Season + "\n";
+            s += "Lowest points by a team in first place: " + _records["LowestPointsByWinner"].RecordString("p", true) + "\n";
+            s += "Higest points by a team in last place: " + _records["HighestPointsByLastPlace"].RecordString("p", true) + "\n";
             s += "\n";
 
-            s += "Highest points needed to win: " + _highestPointsNeededToWin + "p, in season " + _highestPointsNeededToWin_Season + "\n";
-            s += "Lowest points needed to win: " + _lowestPointsNeededToWin + "p, in season " + _lowestPointsNeededToWin_Season + "\n";
-            s += "Average points needed to win: " + Math.Ceiling(1 + (double)_placementPointSums[1] / _numOfSeasons) + "p\n";
+            s += "Highest points needed to win: " + _records["HighestNeededToToWin"].RecordString("p", false) + "\n";
+            s += "Lowest points needed to win: " + _records["LowestNeededToWin"].RecordString("p", false) + "\n";
+            s += "Average points needed to win: " + (Math.Floor((double)_placementPointSums[1] / _numOfSeasons) + 1) + "p\n";
             s += "\n";
 
-
+            //TODO: Highest and lowest to win with record class
             //TODO: Most scored, least scored
             //TODO: Most admitted, least admitted
             //TODO: Best goaldiff, worst goaldiff

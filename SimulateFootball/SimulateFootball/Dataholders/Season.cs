@@ -9,15 +9,22 @@ namespace SimulateFootball
     class Season
     {
         List<Team> _teams = new List<Team>();
+        List<Match> _matches = new List<Match>();
+        int _seasonNumber = 0;
         public Team[] Teams { get { return _teams.ToArray(); } }
-        public Season(List<Match> playedMatches)
+        
+        public int SeasonNumber { get { return _seasonNumber; } }
+        public Season(List<Match> playedMatches, int seasonNumber)
         {
+            _seasonNumber = seasonNumber;
+
             foreach (Match match in playedMatches)
             {
-                AddMatch(match, false);
+                AddMatch(match);
             }
-
             _teams.Sort();
+
+            _matches.AddRange(playedMatches);
         }
 
         public Team TeamWithMostScored
@@ -47,12 +54,9 @@ namespace SimulateFootball
             }
         }
 
-        public void AddMatch(Match match)
-        {
-            AddMatch(match, true);
-        }
+       
 
-        private void AddMatch(Match match, bool sort)
+        private void AddMatch(Match match)
         {
             bool foundHomeTeam = false;
             bool foundAwayTeam = false;
@@ -85,9 +89,6 @@ namespace SimulateFootball
                 awayTeam.AddGame(match.AwayTeamScore, match.HomeTeamScore);
                 _teams.Add(awayTeam);
             }
-
-            if (sort)
-                _teams.Sort();
         }
         public string TableString()
         {

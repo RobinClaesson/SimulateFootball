@@ -22,6 +22,7 @@ namespace SimulateFootball
             bool run = true;
             do
             {
+                //TODO: Redo this to not use team file, just load teams directly from stats file. This is a good redo before selecting from files
                 Console.WriteLine("--- Simulate Football ---");
                 Console.WriteLine("S: Simulate seasons");
                 Console.WriteLine("O: Open simulation files");
@@ -54,8 +55,8 @@ namespace SimulateFootball
                             Console.Write("How many seasons do you want to simulate?: ");
                             int simulations = int.Parse(Console.ReadLine());
 
-                            bool saveMatches = YesNoCheck("Save matches to file?");
-                            bool saveTables = YesNoCheck("Save tables to file?");
+                            bool saveMatches = YesNoCheck("Save all matches to file?");
+                            bool saveTables = YesNoCheck("Save all tables to file?");
 
                             Simulator.SimulateSeasons(teams, simulations, saveMatches, saveTables);
                         }
@@ -102,7 +103,7 @@ namespace SimulateFootball
                         Console.WriteLine("It saves every teams expected goal for and agains to a Teams file.");
                         Console.WriteLine("This file can loaded into the program (done automaticly at start if it exists, else promt to generate and load is given).");
                         Console.WriteLine("The stats for every team can then be used to simulate several new seasons.");
-                        Console.WriteLine("The output is saved in a stats textfile.");
+                        Console.WriteLine("The output is saved in a stats textfile, and seasons that hold records are saved to individual match and table files.");
                         Console.WriteLine("It's also possible to save every match and/or seasons table to files, though match files can be quite large.");
                         Console.WriteLine("(For 200 000 seasons match-file is ca 1.5GB)");
                         Console.WriteLine("For really big simulations (known at 1 000 000) the files becomes to big to open, and also may eventually fail the writing and break the program.");
