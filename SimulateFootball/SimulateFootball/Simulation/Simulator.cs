@@ -44,15 +44,17 @@ namespace SimulateFootball
             return matches;
         }
 
-        static string matchesFilePath = Program.outputFolder + "\\Simulated Matches.txt";
-        static string tablesFilePath = Program.outputFolder + "\\Simulated Tables.txt";
+        static string allMatchesFilePath = Program.outputFolder + "\\All Matches.txt";
+        static string recordMatchesFilePath = Program.outputFolder + "\\Matches from Record Seasons.txt";
+        static string allTablesFilePath = Program.outputFolder + "\\All Simulated Tables.txt";
+        static string recordTablesFilePath = Program.outputFolder + "\\All Simulated Tables.txt";
         static string statsFilePath = Program.outputFolder + "\\Sumulation Stats.txt";
         public static void SimulateSeasons(List<Team> teams, int numOfseasons, bool saveMatches, bool saveTables)
         {
             DateTime startTime = DateTime.Now;
 
-            StreamWriter matchWriter = new StreamWriter(matchesFilePath, false);
-            StreamWriter tableWriter = new StreamWriter(tablesFilePath, false);
+            StreamWriter matchWriter_All = new StreamWriter(allMatchesFilePath, false);
+            StreamWriter tableWriter_All = new StreamWriter(allTablesFilePath, false);
             StreamWriter statsWriter = new StreamWriter(statsFilePath, false);
 
             DateTime lastPrint = DateTime.Now;
@@ -70,32 +72,18 @@ namespace SimulateFootball
                 }
 
                 List<Match> matches = SimulateSeason(teams);
-
-                if (saveMatches)
-                {
-                    matchWriter.WriteLine("#----------------------------------");
-                    matchWriter.WriteLine("#\tSeason {0}", i);
-                    matchWriter.WriteLine("#----------------------------------");
-
-                    foreach (Match match in matches)
-                        matchWriter.WriteLine(match.ToString());
-                }
-
                 Season season = new Season(matches, i);
                 analyzer.AddSeasonStats(season);
-                if (saveTables)
-                {
-                    tableWriter.WriteLine("#----------------------------------");
-                    tableWriter.WriteLine("#\tSeason {0}", i);
-                    tableWriter.WriteLine("#----------------------------------");
-                    tableWriter.WriteLine(season.TableString());
-                }
 
-                
+                if (saveMatches)
+                    matchWriter_All.WriteLine(season.MatchesString());
+
+                if (saveTables)
+                    tableWriter_All.WriteLine(season.TableString());
             }
 
-            matchWriter.Close();
-            tableWriter.Close();
+            matchWriter_All.Close();
+            tableWriter_All.Close();
 
 
             string metadata = "Number of Seasons simulated: " + numOfseasons + "\n";
@@ -115,23 +103,14 @@ namespace SimulateFootball
             Program.PressAnyKey();
             bool open = Program.YesNoCheck("Do you want to open simulation output directory? ");
 
-            if (open)         
+            if (open)
                 OpenOutputFolder();
-            
+
         }
 
         public static void OpenOutputFolder()
         {
             Process.Start(Program.outputFolder + "\\");
-        }
-        public static void OpenOutputFiles()
-        {
-            if (File.Exists(matchesFilePath))
-                Process.Start(matchesFilePath);
-            if (File.Exists(tablesFilePath))
-                Process.Start(tablesFilePath);
-            if (File.Exists(statsFilePath))
-                Process.Start(statsFilePath);
         }
     }
 }
