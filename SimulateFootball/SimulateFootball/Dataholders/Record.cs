@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimulateFootball.Analyze
 {
-    class Record
+    class Record 
     {
         int _value;
         string _team;
@@ -39,5 +39,7 @@ namespace SimulateFootball.Analyze
 
             return s;
         }
+
+        
     }
 }

@@ -12,7 +12,6 @@ namespace SimulateFootball
 {
     class ReadData
     {
-        //TODO: Choose from several files, also make it to not use a team.xml file as middle step. 
         public static List<Team> LoadTeamsFromTableFile(string filePath)
         {
             if (File.Exists(filePath))

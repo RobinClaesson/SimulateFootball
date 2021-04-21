@@ -100,7 +100,6 @@ namespace SimulateFootball
             tableWriter.Close();
 
 
-
             //Saving stats to file
             StreamWriter statsWriter = new StreamWriter(statsFilePath, false);
 

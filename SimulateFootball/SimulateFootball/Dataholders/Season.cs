@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimulateFootball
 {
-    class Season
+    class Season : IComparable
     {
         List<Team> _teams = new List<Team>();
         List<Match> _matches = new List<Match>();
@@ -95,25 +95,6 @@ namespace SimulateFootball
         }
         public string TableString()
         {
-            //string s = "#Placement Team gp w d l scored admitted diff points\n";
-
-            //for (int i = 0; i < _teams.Count; i++)
-            //{
-            //    s += (i + 1) + "\t";
-            //    s += _teams[i].FixedLengthName + "\t";
-            //    s += _teams[i].GamesPlayed + "\t";
-            //    s += _teams[i].Wins + "\t";
-            //    s += _teams[i].Draws + "\t";
-            //    s += _teams[i].Losses + "\t";
-            //    s += _teams[i].GoalsScored + "\t";
-            //    s += _teams[i].GoalsAdmitted + "\t";
-            //    s += _teams[i].GoalDiff + "\t";
-            //    s += _teams[i].Points + "\n";
-
-            //}
-
-            //return s;
-
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(HeaderString());
             sb.AppendLine("#Placement Team gp w d l scored admitted diff points");
@@ -135,16 +116,24 @@ namespace SimulateFootball
             return sb.ToString();
         }
 
-            public string MatchesString()
-            {
-                StringBuilder sb = new StringBuilder();
+        public string MatchesString()
+        {
+            StringBuilder sb = new StringBuilder();
 
-                sb.AppendLine(HeaderString());
+            sb.AppendLine(HeaderString());
 
-                foreach (Match match in _matches)
-                    sb.AppendLine(match.ToString());
+            foreach (Match match in _matches)
+                sb.AppendLine(match.ToString());
 
-                return sb.ToString();
-            }
+            return sb.ToString();
+        }
+
+        //Sorts the seasons from smallest to largest season number
+        public int CompareTo(object obj)
+        {
+            Season other = (Season)obj;
+
+            return this.SeasonNumber - other.SeasonNumber;
         }
     }
+}

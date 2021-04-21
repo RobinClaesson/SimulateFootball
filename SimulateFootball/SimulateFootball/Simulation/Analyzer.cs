@@ -16,8 +16,6 @@ namespace SimulateFootball
 
         int[] _placementPointSums; // Used for average point per placement
 
-        //TODO: Save seasons that hold "records"
-
         public Analyzer(int numOfTeams)
         {
             _numOfTeams = numOfTeams;
@@ -31,6 +29,8 @@ namespace SimulateFootball
 
             _records.Add("LowestNeededToWin", new Record(int.MaxValue));
             _records.Add("HighestNeededToToWin", new Record(int.MinValue));
+
+            _records.Add("MostGoalsInSeason", new Record(int.MinValue));
         }
 
         public void AddSeasonStats(Season season)
@@ -63,8 +63,13 @@ namespace SimulateFootball
             if (neededToWin < _records["LowestNeededToWin"].Value)
                 _records["LowestNeededToWin"].BeatRecord(neededToWin, "", season);
 
+            //Most Goals in a season
+            Team mostGoal_season = season.TeamWithMostScored;
+            if (mostGoal_season.GoalsScored > _records["MostGoalsInSeason"].Value)
+                _records["MostGoalsInSeason"].BeatRecord(mostGoal_season.GoalsScored, mostGoal_season.Name, season);
+
             //Placement point sums 
-            for (int i = 0; i < _numOfTeams; i++)
+                for (int i = 0; i < _numOfTeams; i++)
             {
                 _placementPointSums[i] += season.Teams[i].Points;
             }
@@ -94,8 +99,10 @@ namespace SimulateFootball
             sb.AppendLine((Math.Floor((double)_placementPointSums[1] / _numOfSeasons) + 1) + "p");
             sb.AppendLine();
 
-            //TODO: Highest and lowest to win with record class
-            //TODO: Most scored, least scored
+            sb.Append("Most goals scored in a season: ");
+            sb.AppendLine(_records["MostGoalsInSeason"].RecordString(" goals", true));
+
+            //TODO: least scored
             //TODO: Most admitted, least admitted
             //TODO: Best goaldiff, worst goaldiff
             //TODO: Least scored by winner
@@ -108,35 +115,37 @@ namespace SimulateFootball
             return sb.ToString();
         }
 
-        public string RecordMatchesString()
-        {
-            StringBuilder sb = new StringBuilder();
-            List<int> printed = new List<int>(); // To not print the same seasons twice
 
-            foreach(Record record in _records.Values)
+        private List<Season> RecordsToPrint()
+        {
+            List<Season> toPrint = new List<Season>();
+            foreach (Record record in _records.Values)
             {
-                if(!printed.Contains(record.Season.SeasonNumber))
+                if (!toPrint.Contains(record.Season))
                 {
-                    sb.AppendLine(record.Season.MatchesString());
-                    printed.Add(record.Season.SeasonNumber);
+                    toPrint.Add(record.Season);
                 }
             }
+
+            toPrint.Sort();
+
+            return toPrint;
+        }
+        public string RecordMatchesString()
+        {
+            List<Season> toPrint = RecordsToPrint();
+            StringBuilder sb = new StringBuilder();
+            foreach (Season season in toPrint)
+                sb.AppendLine(season.MatchesString());
 
             return sb.ToString();
         }
         public string RecordTablesString()
         {
+            List<Season> toPrint = RecordsToPrint();
             StringBuilder sb = new StringBuilder();
-            List<int> printed = new List<int>(); // To not print the same seasons twice
-
-            foreach(Record record in _records.Values)
-            {
-                if(!printed.Contains(record.Season.SeasonNumber))
-                {
-                    sb.AppendLine(record.Season.TableString());
-                    printed.Add(record.Season.SeasonNumber);
-                }
-            }
+            foreach (Season season in toPrint)
+                sb.AppendLine(season.TableString());
 
             return sb.ToString();
         }
