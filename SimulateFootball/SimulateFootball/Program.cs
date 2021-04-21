@@ -14,6 +14,7 @@ namespace SimulateFootball
         static void Main(string[] args)
         {
             List<Team> teams = new List<Team>();
+            int bytesPerGame = 0;
             //teams = LoadTeamsFromFile(teams);
 
             if (!Directory.Exists(outputFolder))
@@ -48,11 +49,20 @@ namespace SimulateFootball
                         }
                         else
                         {
+                            Console.WriteLine("Warning!");
+                            Console.WriteLine("New simulations overwrites simulation files!");
+                            Console.WriteLine("Please move/copy any files you want saved from outputfolder now.");
                             Console.Write("How many seasons do you want to simulate?: ");
                             int simulations = int.Parse(Console.ReadLine());
 
-                            bool saveMatches = YesNoCheck("Save all matches to file? ");
-                            bool saveTables = YesNoCheck("Save all tables to file?");
+                            //(Number of games * average bytes per game + headers) * seasons / 10^6 for megabytes ish. Usaly not more than 2% wrong
+                            double matchesBytes = ((teams.Count * (teams.Count) * bytesPerGame) + 100) * simulations / 1000000;
+                            bool saveMatches = YesNoCheck("Save all matches to file?\nEstimated size " + matchesBytes + "MB\nAll seasons with records will always be saved"); ;
+
+                            //For formating all teamnames are here 20 chars long, and a row is ca 50 bytes
+                            //((Number of teams * 45) + headers) * seasons / 10^6 for megabytes ish.  
+                            double tableBytes = ((teams.Count * 50) + 100) * simulations / 1000000;
+                            bool saveTables = YesNoCheck("Save all tables to file? \nEstimated size " + tableBytes + "MB\nAll seasons with records will always be saved");
 
                             Simulator.SimulateSeasons(teams, simulations, saveMatches, saveTables);
                         }
@@ -66,6 +76,18 @@ namespace SimulateFootball
 
                     case ConsoleKey.L:
                         teams = LoadTeamsFromFile(teams);
+
+                        //Used for estimating file sizes
+                        bytesPerGame = 0;
+                        foreach (Team team in teams)
+                            bytesPerGame += team.Name.Length;
+
+                        bytesPerGame /= teams.Count(); //avrg teamname length
+                        bytesPerGame *= 2; //Two teams per game
+                        bytesPerGame += 8; //Scores and linebreak
+
+                        //Console.WriteLine("Average team name length: {0}", avrgNameLength);
+                        //PressAnyKey();
                         break;
 
                     case ConsoleKey.T:
@@ -86,7 +108,7 @@ namespace SimulateFootball
         {
             Console.Clear();
             Console.WriteLine("Choose file to load table from: ");
-            
+
             string loadPath = ReadData.SelectTableFile();
             Console.Clear();
             if (loadPath == "")
