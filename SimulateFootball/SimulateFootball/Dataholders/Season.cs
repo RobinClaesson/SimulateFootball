@@ -52,9 +52,7 @@ namespace SimulateFootball
 
                 return _teams[t];
             }
-        }
-
-       
+        }  
 
         private void AddMatch(Match match)
         {

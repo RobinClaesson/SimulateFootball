@@ -5,17 +5,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Xml.Serialization;
+using System.Windows.Forms;
+using System.Threading;
 
 namespace SimulateFootball
 {
     class ReadData
     {
         //TODO: Choose from several files, also make it to not use a team.xml file as middle step. 
-        public static void GenerateStatsToFile()
+        public static List<Team> LoadTeamsFromTableFile(string filePath)
         {
-            if (File.Exists("Input Data.txt"))
+            if (File.Exists(filePath))
             {
-                StreamReader reader = new StreamReader("Input Data.txt");
+                StreamReader reader = new StreamReader(filePath);
 
                 List<Team> teams = new List<Team>();
 
@@ -34,26 +36,48 @@ namespace SimulateFootball
                         team.GoalsScored = int.Parse(teamInfo[6]);
                         team.GoalsAdmitted = int.Parse(teamInfo[7]);
 
-                        team.Resuls = new int[] {int.Parse(teamInfo[3]), int.Parse(teamInfo[4]), int.Parse(teamInfo[5])};
+                        team.Resuls = new int[] { int.Parse(teamInfo[3]), int.Parse(teamInfo[4]), int.Parse(teamInfo[5]) };
 
                         teams.Add(team);
                     }
                 }
                 reader.Close();
+                return teams;
 
-                WriteTeamsToFile(teams, "Teams.xml");
-
-                Console.WriteLine("Analyzed {0} teams from \"Input Data.txt\" and wrote to Teams file: ", teams.Count);
-
-                Program.PressAnyKey();
             }
 
             else
-            {
-                Console.WriteLine("No \"Input Data.txt\" file found!");
+                return null;
 
-                Program.PressAnyKey();
-            }
+        }
+
+        public static string SelectTableFile()
+        {
+            string path = "";
+
+            //Creates a new thread because OpenFileDialog requiers Thread to be STA 
+            Thread t = new Thread((ThreadStart)(() =>
+            {
+                OpenFileDialog openFileDialog = new OpenFileDialog();
+                openFileDialog.Filter = "Text files (*.txt)|*.txt";
+                openFileDialog.FileName = "Table textfile";
+                openFileDialog.Title = "Select a table textfile to get stats from";
+                openFileDialog.Multiselect = false;
+
+                if (openFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    path = openFileDialog.FileName;
+                }
+
+            }));
+
+            // Run your code from a thread that joins the STA Thread
+            t.SetApartmentState(ApartmentState.STA);
+            t.Start();
+            t.Join();
+
+
+            return path;      
         }
 
         public static void WriteTeamsToFile(List<Team> teams, string filePath)
@@ -64,27 +88,16 @@ namespace SimulateFootball
             writer.Close();
         }
 
-        public static List<Team> LoadStatsFromFile()
+        public static List<Team> LoadTeamsFromXml(string pathToXml)
         {
-            if (File.Exists("Teams.xml"))
+            if (File.Exists(pathToXml))
             {
                 //Loads file
                 XmlSerializer serializer = new XmlSerializer(typeof(List<Team>));
-                StreamReader reader = new StreamReader("Teams.xml");
+                StreamReader reader = new StreamReader(pathToXml);
 
                 List<Team> teams = (List<Team>)serializer.Deserialize(reader);
                 reader.Close();
-
-                //Normalises team name length for printing
-                //int longest = 0;
-                //foreach (Team team in teams)
-                //        if (team.Name.Length > longest)
-                //            longest = team.Name.Length;
-
-                //foreach (Team team in teams)
-                //    while (team.Name.Length < longest)
-                //        team.Name += " ";
-
 
                 Console.WriteLine("Loaded {0} teams from Teams file", teams.Count);
                 Program.PressAnyKey();
@@ -92,24 +105,9 @@ namespace SimulateFootball
                 return teams;
             }
             else
-            {
-
-                bool generate = Program.YesNoCheck("Teams file where not found, would you like to generate now?");
-                if (generate)
-                {
-
-                    GenerateStatsToFile();
-                    return LoadStatsFromFile();
-                }
-                else
-                {
-                    Console.WriteLine("No teams loaded");
-                    Program.PressAnyKey();
-
-                    return new List<Team>();
-                }
-                  
-            }
+                return new List<Team>();
         }
+
+
     }
 }

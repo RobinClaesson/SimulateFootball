@@ -113,16 +113,18 @@ namespace SimulateFootball
             statsWriter.Close();
 
             Program.PressAnyKey();
-            bool open = Program.YesNoCheck("Do you want to open simulation files now? ");
+            bool open = Program.YesNoCheck("Do you want to open simulation output directory? ");
 
-            if (open)
-            {
-                OpenFiles();
-            }
+            if (open)         
+                OpenOutputFolder();
+            
         }
 
-
-        public static void OpenFiles()
+        public static void OpenOutputFolder()
+        {
+            Process.Start(Program.outputFolder + "\\");
+        }
+        public static void OpenOutputFiles()
         {
             if (File.Exists(matchesFilePath))
                 Process.Start(matchesFilePath);

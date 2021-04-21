@@ -1,6 +1,10 @@
 ﻿#Stats from Allsvenskan Season 2020 https://sv.wikipedia.org/wiki/Fotbollsallsvenskan_2020
-#Format with \t between
+#Format with \t between data sections
+#Empty rows and rows starting with # is ignored
+
+#Data:
 #Placement Team gp won draw lost scored admitted diff points
+
 
 1	Malmö FF	30	17	9	4	64	30	+34	60
 2	IF Elfsborg	30	12	15	3	49	38	+11	51
