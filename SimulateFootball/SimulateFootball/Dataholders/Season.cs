@@ -11,9 +11,10 @@ namespace SimulateFootball
         List<Team> _teams = new List<Team>();
         List<Match> _matches = new List<Match>();
         int _seasonNumber = 0;
-        public Team[] Teams { get { return _teams.ToArray(); } }
 
+        public Team[] Teams { get { return _teams.ToArray(); } }
         public int SeasonNumber { get { return _seasonNumber; } }
+
         public Season(List<Match> playedMatches, int seasonNumber)
         {
             _seasonNumber = seasonNumber;
@@ -26,34 +27,6 @@ namespace SimulateFootball
 
             _matches.AddRange(playedMatches);
         }
-
-        public Team TeamWithMostScored
-        {
-            get
-            {
-                int t = 0;
-
-                for (int i = 1; i < _teams.Count; i++)
-                    if (_teams[i].GoalsScored > _teams[t].GoalsScored)
-                        t = i;
-
-                return _teams[t];
-            }
-        }
-        public Team TeamWithLeastScored
-        {
-            get
-            {
-                int t = 0;
-
-                for (int i = 1; i < _teams.Count; i++)
-                    if (_teams[i].GoalsScored < _teams[t].GoalsScored)
-                        t = i;
-
-                return _teams[t];
-            }
-        }
-
         private void AddMatch(Match match)
         {
             bool foundHomeTeam = false;
@@ -88,6 +61,61 @@ namespace SimulateFootball
                 _teams.Add(awayTeam);
             }
         }
+
+        public Team TeamWithMostScored
+        {
+            get
+            {
+                int t = 0;
+
+                for (int i = 1; i < _teams.Count; i++)
+                    if (_teams[i].GoalsScored > _teams[t].GoalsScored)
+                        t = i;
+
+                return _teams[t];
+            }
+        }
+        public Team TeamWithLeastScored
+        {
+            get
+            {
+                int t = 0;
+
+                for (int i = 1; i < _teams.Count; i++)
+                    if (_teams[i].GoalsScored < _teams[t].GoalsScored)
+                        t = i;
+
+                return _teams[t];
+            }
+        }
+
+        public Team TeamWithMostAdmitted
+        {
+            get
+            {
+                int t = 0;
+
+                for (int i = 1; i < _teams.Count; i++)
+                    if (_teams[i].GoalsAdmitted > _teams[t].GoalsAdmitted)
+                        t = i;
+
+                return _teams[t];
+            }
+        }
+        public Team TeamWithLeastAdmitted
+        {
+            get
+            {
+                int t = 0;
+
+                for (int i = 1; i < _teams.Count; i++)
+                    if (_teams[i].GoalsAdmitted < _teams[t].GoalsAdmitted)
+                        t = i;
+
+                return _teams[t];
+            }
+        }
+
 
         private string HeaderString()
         {

@@ -31,6 +31,8 @@ namespace SimulateFootball
             _records.Add("HighestNeededToToWin", new Record(int.MinValue));
 
             _records.Add("MostGoalsInSeason", new Record(int.MinValue));
+            _records.Add("LeastGoalsInSeason", new Record(int.MaxValue));
+
         }
 
         public void AddSeasonStats(Season season)
@@ -63,13 +65,23 @@ namespace SimulateFootball
             if (neededToWin < _records["LowestNeededToWin"].Value)
                 _records["LowestNeededToWin"].BeatRecord(neededToWin, "", season);
 
-            //Most Goals in a season
-            Team mostGoal_season = season.TeamWithMostScored;
-            if (mostGoal_season.GoalsScored > _records["MostGoalsInSeason"].Value)
-                _records["MostGoalsInSeason"].BeatRecord(mostGoal_season.GoalsScored, mostGoal_season.Name, season);
+            //Most Goals scored in a season
+            Team current = season.TeamWithMostScored;
+            if (current.GoalsScored > _records["MostGoalsInSeason"].Value)
+                _records["MostGoalsInSeason"].BeatRecord(current.GoalsScored, current.Name, season);
+
+            //Least Goals scored in a season
+            current = season.TeamWithLeastScored; 
+            if (current.GoalsScored < _records["LeastGoalsInSeason"].Value)
+                _records["LeastGoalsInSeason"].BeatRecord(current.GoalsScored, current.Name, season);
+
+
+
+
+
 
             //Placement point sums 
-                for (int i = 0; i < _numOfTeams; i++)
+            for (int i = 0; i < _numOfTeams; i++)
             {
                 _placementPointSums[i] += season.Teams[i].Points;
             }
@@ -82,7 +94,7 @@ namespace SimulateFootball
             sb.Append("Highest points by any team: ");
             sb.AppendLine(_records["HighestPoints"].RecordString("p", true));
             sb.Append("Lowest points by any team: ");
-            sb.AppendLine( _records["LowestPoints"].RecordString("p", true));
+            sb.AppendLine(_records["LowestPoints"].RecordString("p", true));
             sb.AppendLine();
 
             sb.Append("Lowest points by a team in first place: ");
@@ -101,8 +113,12 @@ namespace SimulateFootball
 
             sb.Append("Most goals scored in a season: ");
             sb.AppendLine(_records["MostGoalsInSeason"].RecordString(" goals", true));
+            sb.Append("Least goals scored in a season: ");
+            sb.AppendLine(_records["LeastGoalsInSeason"].RecordString(" goals", true));
+            sb.AppendLine();
+            
 
-            //TODO: least scored
+
             //TODO: Most admitted, least admitted
             //TODO: Best goaldiff, worst goaldiff
             //TODO: Least scored by winner
