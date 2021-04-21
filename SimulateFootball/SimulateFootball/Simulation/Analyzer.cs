@@ -70,22 +70,29 @@ namespace SimulateFootball
             }
         }
 
-        public string OutputData()
+        public string StatsString()
         {
-            string s = "";
+            StringBuilder sb = new StringBuilder();
 
-            s += "Highest points by any team: " + _records["HighestPoints"].RecordString("p", true) + "\n";
-            s += "Lowest points by any team: " + _records["LowestPoints"].RecordString("p", true) + "\n";
-            s += "\n";
+            sb.Append("Highest points by any team: ");
+            sb.AppendLine(_records["HighestPoints"].RecordString("p", true));
+            sb.Append("Lowest points by any team: ");
+            sb.AppendLine( _records["LowestPoints"].RecordString("p", true));
+            sb.AppendLine();
 
-            s += "Lowest points by a team in first place: " + _records["LowestPointsByWinner"].RecordString("p", true) + "\n";
-            s += "Higest points by a team in last place: " + _records["HighestPointsByLastPlace"].RecordString("p", true) + "\n";
-            s += "\n";
+            sb.Append("Lowest points by a team in first place: ");
+            sb.AppendLine(_records["LowestPointsByWinner"].RecordString("p", true));
+            sb.Append("Higest points by a team in last place: ");
+            sb.AppendLine(_records["HighestPointsByLastPlace"].RecordString("p", true));
+            sb.AppendLine();
 
-            s += "Highest points needed to win: " + _records["HighestNeededToToWin"].RecordString("p", false) + "\n";
-            s += "Lowest points needed to win: " + _records["LowestNeededToWin"].RecordString("p", false) + "\n";
-            s += "Average points needed to win: " + (Math.Floor((double)_placementPointSums[1] / _numOfSeasons) + 1) + "p\n";
-            s += "\n";
+            sb.Append("Highest points needed to win: ");
+            sb.AppendLine(_records["HighestNeededToToWin"].RecordString("p", false));
+            sb.Append("Lowest points needed to win: ");
+            sb.AppendLine(_records["LowestNeededToWin"].RecordString("p", false));
+            sb.Append("Average points needed to win: ");
+            sb.AppendLine((Math.Floor((double)_placementPointSums[1] / _numOfSeasons) + 1) + "p");
+            sb.AppendLine();
 
             //TODO: Highest and lowest to win with record class
             //TODO: Most scored, least scored
@@ -94,11 +101,11 @@ namespace SimulateFootball
             //TODO: Least scored by winner
             //TODO: Most scored by last place
 
-            s += "Average point gained by table position: \n";
+            sb.AppendLine("Average point gained by table position:");
             for (int i = 0; i < _numOfTeams; i++)
-                s += (i + 1) + ":\t" + Math.Round(((double)_placementPointSums[i] / _numOfSeasons), 1) + "p\n";
+                sb.AppendLine((i + 1) + ":\t" + Math.Round(((double)_placementPointSums[i] / _numOfSeasons), 1) + "p"); //Noone died from a little string concatenation
 
-            return s;
+            return sb.ToString();
         }
     }
 }

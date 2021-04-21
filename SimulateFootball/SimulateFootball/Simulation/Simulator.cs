@@ -88,7 +88,7 @@ namespace SimulateFootball
 
             string metadata = "Number of Seasons simulated: " + numOfseasons + "\n";
             metadata += "Total time (h:m:s): " + (DateTime.Now - startTime);
-            string analytics = analyzer.OutputData();
+            string analytics = analyzer.StatsString();
 
             Console.Clear();
             Console.WriteLine("Simulations Done!");
