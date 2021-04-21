@@ -45,23 +45,26 @@ namespace SimulateFootball
         }
 
         static string allMatchesFilePath = Program.outputFolder + "\\All Matches.txt";
-        static string recordMatchesFilePath = Program.outputFolder + "\\Matches from Record Seasons.txt";
-        static string allTablesFilePath = Program.outputFolder + "\\All Simulated Tables.txt";
-        static string recordTablesFilePath = Program.outputFolder + "\\All Simulated Tables.txt";
+        static string recordMatchesFilePath = Program.outputFolder + "\\Matches From Record Seasons.txt";
+
+        static string allTablesFilePath = Program.outputFolder + "\\All Tables.txt";
+        static string recordTablesFilePath = Program.outputFolder + "\\Tables From Record Seasons.txt";
+
         static string statsFilePath = Program.outputFolder + "\\Sumulation Stats.txt";
         public static void SimulateSeasons(List<Team> teams, int numOfseasons, bool saveMatches, bool saveTables)
         {
             DateTime startTime = DateTime.Now;
 
-            StreamWriter matchWriter_All = new StreamWriter(allMatchesFilePath, false);
-            StreamWriter tableWriter_All = new StreamWriter(allTablesFilePath, false);
-            StreamWriter statsWriter = new StreamWriter(statsFilePath, false);
+            StreamWriter matchWriter = new StreamWriter(allMatchesFilePath, false);
+            StreamWriter tableWriter = new StreamWriter(allTablesFilePath, false);
 
             DateTime lastPrint = DateTime.Now;
             Console.Clear();
             Console.WriteLine("Simulating Season 1/{0}", numOfseasons);
 
             Analyzer analyzer = new Analyzer(teams.Count);
+
+            //Simulation loop
             for (int i = 1; i <= numOfseasons; i++)
             {
                 if ((DateTime.Now - lastPrint).TotalMilliseconds > 500)
@@ -76,15 +79,30 @@ namespace SimulateFootball
                 analyzer.AddSeasonStats(season);
 
                 if (saveMatches)
-                    matchWriter_All.WriteLine(season.MatchesString());
+                    matchWriter.WriteLine(season.MatchesString());
 
                 if (saveTables)
-                    tableWriter_All.WriteLine(season.TableString());
+                    tableWriter.WriteLine(season.TableString());
             }
 
-            matchWriter_All.Close();
-            tableWriter_All.Close();
+            matchWriter.Close();
+            tableWriter.Close();
 
+
+            //Saving record seasons to file
+            matchWriter = new StreamWriter(recordMatchesFilePath, false);
+            tableWriter = new StreamWriter(recordTablesFilePath, false);
+
+            matchWriter.Write(analyzer.RecordMatchesString());
+            tableWriter.Write(analyzer.RecordTablesString());
+
+            matchWriter.Close();
+            tableWriter.Close();
+
+
+
+            //Saving stats to file
+            StreamWriter statsWriter = new StreamWriter(statsFilePath, false);
 
             string metadata = "Number of Seasons simulated: " + numOfseasons + "\n";
             metadata += "Total time (h:m:s): " + (DateTime.Now - startTime);

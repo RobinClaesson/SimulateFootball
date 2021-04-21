@@ -107,5 +107,38 @@ namespace SimulateFootball
 
             return sb.ToString();
         }
+
+        public string RecordMatchesString()
+        {
+            StringBuilder sb = new StringBuilder();
+            List<int> printed = new List<int>(); // To not print the same seasons twice
+
+            foreach(Record record in _records.Values)
+            {
+                if(!printed.Contains(record.Season.SeasonNumber))
+                {
+                    sb.AppendLine(record.Season.MatchesString());
+                    printed.Add(record.Season.SeasonNumber);
+                }
+            }
+
+            return sb.ToString();
+        }
+        public string RecordTablesString()
+        {
+            StringBuilder sb = new StringBuilder();
+            List<int> printed = new List<int>(); // To not print the same seasons twice
+
+            foreach(Record record in _records.Values)
+            {
+                if(!printed.Contains(record.Season.SeasonNumber))
+                {
+                    sb.AppendLine(record.Season.TableString());
+                    printed.Add(record.Season.SeasonNumber);
+                }
+            }
+
+            return sb.ToString();
+        }
     }
 }
