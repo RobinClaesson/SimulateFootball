@@ -15,6 +15,8 @@ namespace SimulateFootball.Analyze
         public Record(int startValue)
         {
             _value = startValue;
+            _team = "";
+            _season = new Season(new List<Match>(), int.MaxValue);
         }
 
         public int Value { get { return _value; } set { _value = value; } }

@@ -69,9 +69,25 @@ namespace SimulateFootball
             {
                 if ((DateTime.Now - lastPrint).TotalMilliseconds > 500)
                 {
+                    lastPrint = DateTime.Now;
+                    double percent = (double)i / numOfseasons * 100;
+
                     Console.Clear();
                     Console.WriteLine("Simulating Season {0}/{1}", i, numOfseasons);
-                    lastPrint = DateTime.Now;
+                    Console.Write("|");
+
+                    int x = 0;
+                    while (x <= (int)percent / 2)
+                    {
+                        Console.Write("#");
+                        x++;
+                    }
+                    while (x < 50)
+                    {
+                        Console.Write(" ");
+                        x++;
+                    }
+                    Console.WriteLine("|{0}%", (int)percent);
                 }
 
                 List<Match> matches = SimulateSeason(teams);
@@ -118,10 +134,11 @@ namespace SimulateFootball
             statsWriter.Close();
 
             Program.PressAnyKey();
-            bool open = Program.YesNoCheck("Do you want to open simulation output directory? ");
 
-            if (open)
-                OpenOutputFolder();
+            //bool open = Program.YesNoCheck("Do you want to open simulation output directory? ");
+
+            //if (open)
+            //    OpenOutputFolder();
 
         }
 

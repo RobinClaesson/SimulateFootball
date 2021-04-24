@@ -30,9 +30,23 @@ namespace SimulateFootball
             _records.Add("LowestNeededToWin", new Record(int.MaxValue));
             _records.Add("HighestNeededToToWin", new Record(int.MinValue));
 
-            _records.Add("MostGoalsInSeason", new Record(int.MinValue));
-            _records.Add("LeastGoalsInSeason", new Record(int.MaxValue));
+            _records.Add("MostScored", new Record(int.MinValue));
+            _records.Add("LeastScored", new Record(int.MaxValue));
 
+            _records.Add("MostAdmitted", new Record(int.MinValue));
+            _records.Add("LeastAdmitted", new Record(int.MaxValue));
+
+            _records.Add("BestGoalDiff", new Record(int.MinValue));
+            _records.Add("WorstGoalDiff", new Record(int.MaxValue));
+
+            _records.Add("LeastScoredByWinner", new Record(int.MaxValue));
+            _records.Add("MostScoredByLastPlace", new Record(int.MinValue));
+
+            _records.Add("MostAdmittedByWinner", new Record(int.MinValue));
+            _records.Add("LeastAdmittedByLastPlace", new Record(int.MaxValue));
+
+            _records.Add("BestGoalDiffByLastPlace", new Record(int.MinValue));
+            _records.Add("WorstGoalDiffByWinner", new Record(int.MaxValue));
         }
 
         public void AddSeasonStats(Season season)
@@ -66,20 +80,58 @@ namespace SimulateFootball
                 _records["LowestNeededToWin"].BeatRecord(neededToWin, "", season);
 
             //Most Goals scored in a season
-            Team current = season.TeamWithMostScored;
-            if (current.GoalsScored > _records["MostGoalsInSeason"].Value)
-                _records["MostGoalsInSeason"].BeatRecord(current.GoalsScored, current.Name, season);
+            Team currentTeam = season.TeamWithMostScored;
+            if (currentTeam.GoalsScored > _records["MostScored"].Value)
+                _records["MostScored"].BeatRecord(currentTeam.GoalsScored, currentTeam.Name, season);
 
             //Least Goals scored in a season
-            current = season.TeamWithLeastScored; 
-            if (current.GoalsScored < _records["LeastGoalsInSeason"].Value)
-                _records["LeastGoalsInSeason"].BeatRecord(current.GoalsScored, current.Name, season);
+            currentTeam = season.TeamWithLeastScored;
+            if (currentTeam.GoalsScored < _records["LeastScored"].Value)
+                _records["LeastScored"].BeatRecord(currentTeam.GoalsScored, currentTeam.Name, season);
 
+            //Most Admitted in a season
+            currentTeam = season.TeamWithMostAdmitted;
+            if (currentTeam.GoalsAdmitted > _records["MostAdmitted"].Value)
+                _records["MostAdmitted"].BeatRecord(currentTeam.GoalsAdmitted, currentTeam.Name, season);
 
+            //Least Admitted in a season
+            currentTeam = season.TeamWithLeastAdmitted;
+            if (currentTeam.GoalsAdmitted < _records["LeastAdmitted"].Value)
+                _records["LeastAdmitted"].BeatRecord(currentTeam.GoalsAdmitted, currentTeam.Name, season);
 
+            //Best Goal difference
+            currentTeam = season.TeamWithBestDiff;
+            if (currentTeam.GoalDiff > _records["BestGoalDiff"].Value)
+                _records["BestGoalDiff"].BeatRecord(currentTeam.GoalDiff, currentTeam.Name, season);
 
+            //Worst Goal difference
+            currentTeam = season.TeamWithWorstDiff;
+            if (currentTeam.GoalDiff < _records["WorstGoalDiff"].Value)
+                _records["WorstGoalDiff"].BeatRecord(currentTeam.GoalDiff, currentTeam.Name, season);
 
+            //Least scored by winner
+            if (season.Teams[0].GoalsScored < _records["LeastScoredByWinner"].Value)
+                _records["LeastScoredByWinner"].BeatRecord(season.Teams[0].GoalsScored, season.Teams[0].Name, season);
 
+            //Most scored by last place
+            if (season.Teams.Last().GoalsScored > _records["MostScoredByLastPlace"].Value)
+                _records["MostScoredByLastPlace"].BeatRecord(season.Teams.Last().GoalsScored, season.Teams.Last().Name, season);
+
+            //Most admitted by winner
+            if (season.Teams[0].GoalsAdmitted > _records["MostAdmittedByWinner"].Value)
+                _records["MostAdmittedByWinner"].BeatRecord(season.Teams[0].GoalsAdmitted, season.Teams[0].Name, season);
+
+            //Most scored by last place
+            if (season.Teams.Last().GoalsAdmitted < _records["LeastAdmittedByLastPlace"].Value)
+                _records["LeastAdmittedByLastPlace"].BeatRecord(season.Teams.Last().GoalsAdmitted, season.Teams.Last().Name, season);
+
+            //Worst Goal difference by winner
+            if (season.Teams[0].GoalDiff < _records["WorstGoalDiffByWinner"].Value)
+                _records["WorstGoalDiffByWinner"].BeatRecord(season.Teams[0].GoalDiff, season.Teams[0].Name, season);
+
+            //Best goal difference by last place 
+            if (season.Teams.Last().GoalDiff > _records["BestGoalDiffByLastPlace"].Value)
+                _records["BestGoalDiffByLastPlace"].BeatRecord(season.Teams.Last().GoalDiff, season.Teams.Last().Name, season);
             //Placement point sums 
             for (int i = 0; i < _numOfTeams; i++)
             {
@@ -91,47 +143,89 @@ namespace SimulateFootball
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.Append("Highest points by any team: ");
+            sb.AppendLine("---------------------------------");
+            sb.AppendLine("|       Best Performances:      |");
+            sb.AppendLine("---------------------------------");
+
+            sb.Append("Highest points:       ");
             sb.AppendLine(_records["HighestPoints"].RecordString("p", true));
-            sb.Append("Lowest points by any team: ");
-            sb.AppendLine(_records["LowestPoints"].RecordString("p", true));
+            sb.Append("Most goals scored:    ");
+            sb.AppendLine(_records["MostScored"].RecordString(" goals", true));
+            sb.Append("Least goals admitted: ");
+            sb.AppendLine(_records["LeastAdmitted"].RecordString(" goals", true));
+            sb.Append("Best goal difference: ");
+            sb.AppendLine(_records["BestGoalDiff"].RecordString(" goals", true));
             sb.AppendLine();
 
-            sb.Append("Lowest points by a team in first place: ");
-            sb.AppendLine(_records["LowestPointsByWinner"].RecordString("p", true));
-            sb.Append("Higest points by a team in last place: ");
-            sb.AppendLine(_records["HighestPointsByLastPlace"].RecordString("p", true));
+
+            sb.AppendLine("---------------------------------");
+            sb.AppendLine("|      Worst Performances:      |");
+            sb.AppendLine("---------------------------------");
+
+            sb.Append("Lowest points:         ");
+            sb.AppendLine(_records["LowestPoints"].RecordString("p", true));
+            sb.Append("Least goals scored:    ");
+            sb.AppendLine(_records["LeastScored"].RecordString(" goals", true));
+            sb.Append("Most goals admitted:   ");
+            sb.AppendLine(_records["MostAdmitted"].RecordString(" goals", true));
+            sb.Append("Worst goal difference: ");
+            sb.AppendLine(_records["WorstGoalDiff"].RecordString(" goals", true));
             sb.AppendLine();
+
+
+            sb.AppendLine("---------------------------------");
+            sb.AppendLine("|  Worst teams in first place:  |");
+            sb.AppendLine("---------------------------------");
+
+            sb.Append("Lowest points by a team in first place:         ");
+            sb.AppendLine(_records["LowestPointsByWinner"].RecordString("p", true));
+            sb.Append("Least goals scored by a team in first place:    ");
+            sb.AppendLine(_records["LeastScoredByWinner"].RecordString(" goals", true));
+            sb.Append("Most goals admitted by a team in first place:   ");
+            sb.AppendLine(_records["MostAdmittedByWinner"].RecordString(" goals", true));
+            sb.Append("Worst goal difference by a team in first place: ");
+            sb.AppendLine(_records["WorstGoalDiffByWinner"].RecordString(" goals", true));
+            sb.AppendLine();
+
+            sb.AppendLine("---------------------------------");
+            sb.AppendLine("|   Best teams in last place:   |");
+            sb.AppendLine("---------------------------------");
+
+            sb.Append("Higest points by a team in last place:         ");
+            sb.AppendLine(_records["HighestPointsByLastPlace"].RecordString("p", true));
+            sb.Append("Most goals scored by a team in last place:     ");
+            sb.AppendLine(_records["MostScoredByLastPlace"].RecordString(" goals", true));
+            sb.Append("Least goals admitted by a team in last place:  ");
+            sb.AppendLine(_records["LeastAdmittedByLastPlace"].RecordString(" goals", true));
+            sb.Append("Best goal difference by a team in first place: ");
+            sb.AppendLine(_records["BestGoalDiffByLastPlace"].RecordString(" goals", true));
+            sb.AppendLine();
+
+
+            sb.AppendLine("---------------------------------");
+            sb.AppendLine("|     Points needed to win:     |");
+            sb.AppendLine("---------------------------------");
 
             sb.Append("Highest points needed to win: ");
             sb.AppendLine(_records["HighestNeededToToWin"].RecordString("p", false));
-            sb.Append("Lowest points needed to win: ");
+            sb.Append("Lowest points needed to win:  ");
             sb.AppendLine(_records["LowestNeededToWin"].RecordString("p", false));
             sb.Append("Average points needed to win: ");
             sb.AppendLine((Math.Floor((double)_placementPointSums[1] / _numOfSeasons) + 1) + "p");
             sb.AppendLine();
 
-            sb.Append("Most goals scored in a season: ");
-            sb.AppendLine(_records["MostGoalsInSeason"].RecordString(" goals", true));
-            sb.Append("Least goals scored in a season: ");
-            sb.AppendLine(_records["LeastGoalsInSeason"].RecordString(" goals", true));
-            sb.AppendLine();
-            
 
+            sb.AppendLine("---------------------------------");
+            sb.AppendLine("| Average points per placement: |");
+            sb.AppendLine("---------------------------------");
 
-            //TODO: Most admitted, least admitted
-            //TODO: Best goaldiff, worst goaldiff
-            //TODO: Least scored by winner
-            //TODO: Most scored by last place
-
-            sb.AppendLine("Average point gained by table position:");
             for (int i = 0; i < _numOfTeams; i++)
-                sb.AppendLine((i + 1) + ":\t" + Math.Round(((double)_placementPointSums[i] / _numOfSeasons), 1) + "p"); //Noone died from a little string concatenation
+                sb.AppendLine((i + 1) + ": " + Math.Round(((double)_placementPointSums[i] / _numOfSeasons), 1) + "p");
 
             return sb.ToString();
         }
 
-
+        //Todo: List every teams positionings in a different string to save in a file called team results.txt or something
         private List<Season> RecordsToPrint()
         {
             List<Season> toPrint = new List<Season>();

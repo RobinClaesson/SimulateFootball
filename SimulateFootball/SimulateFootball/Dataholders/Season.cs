@@ -116,6 +116,34 @@ namespace SimulateFootball
             }
         }
 
+        public Team TeamWithBestDiff
+        {
+            get
+            {
+                int t = 0;
+
+                for (int i = 1; i < _teams.Count; i++)
+                    if (_teams[i].GoalDiff > _teams[t].GoalDiff)
+                        t = i;
+
+                return _teams[t];
+            }
+        }
+        
+        public Team TeamWithWorstDiff
+        {
+            get
+            {
+                int t = 0;
+
+                for (int i = 1; i < _teams.Count; i++)
+                    if (_teams[i].GoalDiff < _teams[t].GoalDiff)
+                        t = i;
+
+                return _teams[t];
+            }
+        }
+
 
         private string HeaderString()
         {

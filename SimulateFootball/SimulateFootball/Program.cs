@@ -16,8 +16,8 @@ namespace SimulateFootball
         static void Main(string[] args)
         {
 
-
-            //teams = LoadTeamsFromFile(teams);
+            //TODO: Remove autoload in published version
+            teams = ReadData.LoadTeamsFromTableFile("Allsvenskan 2020.txt");
 
             if (!Directory.Exists(outputFolder))
                 Directory.CreateDirectory(outputFolder);
