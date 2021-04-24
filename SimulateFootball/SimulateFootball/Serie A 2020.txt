@@ -1,5 +1,5 @@
 ﻿#Stats from Serie A Season 19/20 https://en.wikipedia.org/wiki/2019%E2%80%9320_Serie_A
-#Format with \t between data sections
+#Format with tab between data sections
 #Empty rows and rows starting with # is ignored
 
 #Data:

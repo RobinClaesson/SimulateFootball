@@ -1,5 +1,5 @@
 ﻿#Stats from Allsvenskan Season 2020 https://sv.wikipedia.org/wiki/Fotbollsallsvenskan_2020
-#Format with \t between data sections
+#Format with tab between data sections
 #Empty rows and rows starting with # is ignored
 
 #Data:
