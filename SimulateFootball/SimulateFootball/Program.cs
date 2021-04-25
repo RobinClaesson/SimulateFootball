@@ -43,7 +43,6 @@ namespace SimulateFootball
 
                         Console.Clear();
                         SimulateSeasons();
-
                         break;
 
                     case ConsoleKey.O:
@@ -128,9 +127,6 @@ namespace SimulateFootball
             bytesPerGame /= teams.Count(); //avrg teamname length
             bytesPerGame *= 2; //Two teams per game
             bytesPerGame += 8; //Scores and linebreak
-
-            //Console.WriteLine("Average team name length: {0}", avrgNameLength);
-            //PressAnyKey();
         }
 
         private static void ListTeams(List<Team> teams)

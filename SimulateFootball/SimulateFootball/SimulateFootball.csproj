@@ -59,6 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dataholders\Placements.cs" />
     <Compile Include="Dataholders\Record.cs" />
     <Compile Include="Simulation\Analyzer.cs" />
     <Compile Include="Dataholders\Match.cs" />

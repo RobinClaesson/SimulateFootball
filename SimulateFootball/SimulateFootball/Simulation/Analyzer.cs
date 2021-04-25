@@ -12,14 +12,18 @@ namespace SimulateFootball
         int _numOfTeams, _numOfSeasons = 0;
 
         Dictionary<string, Record> _records = new Dictionary<string, Record>();
-
+        List<Placements> _placements = new List<Placements>();
 
         int[] _placementPointSums; // Used for average point per placement
 
-        public Analyzer(int numOfTeams)
+        public Analyzer(List<Team> teams)
         {
-            _numOfTeams = numOfTeams;
+            _numOfTeams = teams.Count(); ;
             _placementPointSums = new int[_numOfTeams];
+
+            for (int i = 0; i < teams.Count; i++)
+                _placements.Add(new Placements(teams[i].Name, _numOfTeams));
+
 
             _records.Add("HighestPoints", new Record(int.MinValue));
             _records.Add("LowestPoints", new Record(int.MaxValue));
@@ -52,7 +56,12 @@ namespace SimulateFootball
         public void AddSeasonStats(Season season)
         {
             _numOfSeasons++;
+            CheckRecords(season);
+            AddPlacements(season);
+        }
 
+        private void CheckRecords(Season season)
+        {
             //Highest total points
             if (season.Teams[0].Points > _records["HighestPoints"].Value)
                 _records["HighestPoints"].BeatRecord(season.Teams[0].Points, season.Teams[0].Name, season);
@@ -132,11 +141,24 @@ namespace SimulateFootball
             //Best goal difference by last place 
             if (season.Teams.Last().GoalDiff > _records["BestGoalDiffByLastPlace"].Value)
                 _records["BestGoalDiffByLastPlace"].BeatRecord(season.Teams.Last().GoalDiff, season.Teams.Last().Name, season);
+
+
             //Placement point sums 
             for (int i = 0; i < _numOfTeams; i++)
             {
                 _placementPointSums[i] += season.Teams[i].Points;
             }
+        }
+
+        private void AddPlacements(Season season)
+        {
+            Team[] teams = season.Teams;
+            foreach (Placements placement in _placements)
+                for (int i = 0; i < teams.Length; i++)
+                {
+                    if (teams[i].Name == placement.Team)
+                        placement.AddPlacement(i + 1);
+                }
         }
 
         public string StatsString()
@@ -197,7 +219,7 @@ namespace SimulateFootball
             sb.AppendLine(_records["MostScoredByLastPlace"].RecordString(" goals", true));
             sb.Append("Least goals admitted by a team in last place:  ");
             sb.AppendLine(_records["LeastAdmittedByLastPlace"].RecordString(" goals", true));
-            sb.Append("Best goal difference by a team in first place: ");
+            sb.Append("Best goal difference by a team in last place: ");
             sb.AppendLine(_records["BestGoalDiffByLastPlace"].RecordString(" goals", true));
             sb.AppendLine();
 
@@ -221,11 +243,47 @@ namespace SimulateFootball
 
             for (int i = 0; i < _numOfTeams; i++)
                 sb.AppendLine((i + 1) + ": " + Math.Round(((double)_placementPointSums[i] / _numOfSeasons), 1) + "p");
+            sb.AppendLine();
+
+            sb.AppendLine("---------------------------------");
+            sb.AppendLine("|      Most league titles       |");
+            sb.AppendLine("---------------------------------");
+            Placements.SortAfter = 1;
+            _placements.Sort(); //Sorts so that team with most victories
+
+            for (int i = 0; i < 5; i++)
+            {
+                sb.Append((i + 1) + ": ");
+                sb.Append(_placements[i].Team);
+                sb.AppendLine(", " + _placements[i].GetPlacement(1) + " times");
+            }
+
+
+            sb.AppendLine("---------------------------------");
+            sb.AppendLine("|      Most league jumbos       |");
+            sb.AppendLine("---------------------------------");
+            Placements.SortAfter = _numOfTeams;
+            _placements.Sort(); //Sorts so that team with most victories
+            for (int i = 0; i < 5; i++)
+            {
+                sb.Append((i + 1) + ": ");
+                sb.Append(_placements[i].Team);
+                sb.AppendLine(", " + _placements[i].GetPlacement(_numOfTeams) + " times");
+            }
 
             return sb.ToString();
         }
 
-        //Todo: List every teams positionings in a different string to save in a file called team results.txt or something
+        public string PlacementString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            foreach (Placements placement in _placements)
+                sb.AppendLine(placement.PlacementString());
+
+            return sb.ToString();
+        }
+
         private List<Season> RecordsToPrint()
         {
             List<Season> toPrint = new List<Season>();

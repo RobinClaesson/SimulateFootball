@@ -51,6 +51,7 @@ namespace SimulateFootball
         static string recordTablesFilePath = Program.outputFolder + "\\Tables From Record Seasons.txt";
 
         static string statsFilePath = Program.outputFolder + "\\Sumulation Stats.txt";
+        static string placementFilePath = Program.outputFolder + "\\Team placements.txt";
         public static void SimulateSeasons(List<Team> teams, int numOfseasons, bool saveMatches, bool saveTables)
         {
             DateTime startTime = DateTime.Now;
@@ -62,7 +63,7 @@ namespace SimulateFootball
             Console.Clear();
             Console.WriteLine("Simulating Season 1/{0}", numOfseasons);
 
-            Analyzer analyzer = new Analyzer(teams.Count);
+            Analyzer analyzer = new Analyzer(teams);
 
             //Simulation loop
             for (int i = 1; i <= numOfseasons; i++)
@@ -114,6 +115,11 @@ namespace SimulateFootball
 
             matchWriter.Close();
             tableWriter.Close();
+
+            //Saving all teams positions to file
+            StreamWriter placeWriter = new StreamWriter(placementFilePath, false);
+            placeWriter.Write(analyzer.PlacementString());
+            placeWriter.Close();
 
 
             //Saving stats to file
