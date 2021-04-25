@@ -55,6 +55,7 @@ As stated the programs algoritm for simulationg a game, and this is (sadly) prob
 The program takes a teams average scored goals and adds the opponents average admitted goals, and vice versa. This gives a base for the expected number of goals from both teams. 
 It then uses the C# built in random to generate the score for each team. 
 On average "Team 1" will score this many goals: 
+
 ![Average goals for Team 1](https://i.imgur.com/4NaWjKH.png)
 
 ### Issues with algoritm
