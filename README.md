@@ -1,5 +1,6 @@
 # Simulate Fotball
 This is a program made for simple simulations of entire seasons of football (soccer for non europeans).
+Inspired by a [Numberphile video](https://www.youtube.com/watch?v=Vv9wpQIGZDw)
 
 ## What does it do? 
 The program uses a basic and fairly crude algoritm to decide how a certrain game will end. 
@@ -55,6 +56,13 @@ The program takes a teams average scored goals and adds the opponents average ad
 It then uses the C# built in random to generate the score for each team. 
 On average "Team 1" will score this many goals: 
 ![Average goals for Team 1](https://i.imgur.com/4NaWjKH.png)
+
+### Issues with algoritm
+The biggest problem with this algoritm is that i won't give any unexpecedly large victories. The max number of goals a team can make is the avrg scored + opponends avrg admitted rounded upp. A large victory like 8-1 is impossible for most simulations in the program, but is possible (even if unlikely). 
+
+The [Numberphile video](https://www.youtube.com/watch?v=Vv9wpQIGZDw) that inspired me to do this I believe uses poisson distribution to generate scored goals, and this is a far superior way to do it. Perhaps I'll refactor the simulation to use some more advance statistics like poisson distribution or something else once I've taken a statistics course at my university.
+
+One small strength that my algoritm do have vs the poisson distribution is that my algoritm is not unlikely to generate a 0-0 game, which Tony Padilla mention in the video their alogritm didn't
 
 ## Format for input stats file 
 Here is a link for an [Example](https://pastebin.com/kMw1kDn9) of a file that I used to simulate. (It's also in the repository).
