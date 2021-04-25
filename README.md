@@ -80,4 +80,4 @@ If any value in bold except for name isn't a number the program will crash. (Yea
 
 ## Build
 This is a Console Aplication build on .NET Framework 4.7.2 and should be buildable with any compiler compatible with that. 
-Or just download the latest release [Here](). 
+Or just download the latest release [Here](https://github.com/RobinClaesson/SimulateFootball/releases/tag/v1.0). 
