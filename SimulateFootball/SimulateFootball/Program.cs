@@ -89,12 +89,12 @@ namespace SimulateFootball
                     int simulations = GetIntInput("How many seasons do you want to simulate?: ");
 
                     //(Number of games * average bytes per game + headers) * seasons / 10^6 for megabytes ish. Usaly not more than 2% wrong
-                    double matchesBytes = ((teams.Count * (teams.Count) * bytesPerGame) + 100) * simulations / 1000000;
-                    bool saveMatches = YesNoCheck("Save all matches to file?\nEstimated size " + matchesBytes + "MB\nAll seasons with records will always be saved"); ;
+                    ulong matchesBytes = (((ulong)teams.Count * (ulong)(teams.Count) * (ulong)bytesPerGame) + 100) * (ulong)simulations / 1000000;
+                    bool saveMatches = YesNoCheck("Save all matches to file?\nEstimated size " + matchesBytes + " MB\nAll seasons with records will always be saved"); ;
 
                     //For formating all teamnames are here 20 chars long, and a row is ca 50 bytes
                     //((Number of teams * 45) + headers) * seasons / 10^6 for megabytes ish. Usaly not mroe than 5-10% wrong 
-                    double tableBytes = ((teams.Count * 50) + 100) * simulations / 1000000;
+                    ulong tableBytes = (((ulong)teams.Count * 50) + 100) * (ulong)simulations / 1000000;
                     bool saveTables = YesNoCheck("Save all tables to file? \nEstimated size " + tableBytes + "MB\nAll seasons with records will always be saved");
 
                     Simulator.SimulateSeasons(teams, simulations, saveMatches, saveTables);
