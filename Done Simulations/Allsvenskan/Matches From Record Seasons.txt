@@ -1,0 +1,4148 @@
+#---------------------------------
+#	 Season 16349
+#---------------------------------
+Malmö FF 0 - 0 IF Elfsborg
+Malmö FF 0 - 0 BK Häcken
+Malmö FF 0 - 2 Djurgårdens IF
+Malmö FF 1 - 1 Mjällby AIF
+Malmö FF 0 - 2 IFK Norrköping
+Malmö FF 2 - 0 Örebro SK
+Malmö FF 1 - 1 Hammarby IF
+Malmö FF 1 - 0 AIK
+Malmö FF 2 - 0 IK Sirius
+Malmö FF 2 - 1 Varbergs BoIS
+Malmö FF 0 - 1 IFK Göteborg
+Malmö FF 2 - 1 Östersunds FK
+Malmö FF 2 - 1 Kalmar FF
+Malmö FF 0 - 1 Helsingborgs IF
+Malmö FF 2 - 1 Falkenbergs FF
+IF Elfsborg 1 - 2 Malmö FF
+IF Elfsborg 0 - 1 BK Häcken
+IF Elfsborg 2 - 1 Djurgårdens IF
+IF Elfsborg 2 - 0 Mjällby AIF
+IF Elfsborg 0 - 1 IFK Norrköping
+IF Elfsborg 2 - 2 Örebro SK
+IF Elfsborg 2 - 0 Hammarby IF
+IF Elfsborg 0 - 1 AIK
+IF Elfsborg 0 - 2 IK Sirius
+IF Elfsborg 2 - 1 Varbergs BoIS
+IF Elfsborg 1 - 0 IFK Göteborg
+IF Elfsborg 0 - 2 Östersunds FK
+IF Elfsborg 1 - 1 Kalmar FF
+IF Elfsborg 1 - 1 Helsingborgs IF
+IF Elfsborg 1 - 0 Falkenbergs FF
+BK Häcken 2 - 1 Malmö FF
+BK Häcken 2 - 1 IF Elfsborg
+BK Häcken 0 - 0 Djurgårdens IF
+BK Häcken 0 - 1 Mjällby AIF
+BK Häcken 1 - 0 IFK Norrköping
+BK Häcken 1 - 0 Örebro SK
+BK Häcken 2 - 0 Hammarby IF
+BK Häcken 2 - 0 AIK
+BK Häcken 2 - 0 IK Sirius
+BK Häcken 1 - 0 Varbergs BoIS
+BK Häcken 1 - 0 IFK Göteborg
+BK Häcken 2 - 0 Östersunds FK
+BK Häcken 0 - 0 Kalmar FF
+BK Häcken 0 - 0 Helsingborgs IF
+BK Häcken 0 - 0 Falkenbergs FF
+Djurgårdens IF 2 - 0 Malmö FF
+Djurgårdens IF 2 - 2 IF Elfsborg
+Djurgårdens IF 1 - 0 BK Häcken
+Djurgårdens IF 2 - 0 Mjällby AIF
+Djurgårdens IF 0 - 2 IFK Norrköping
+Djurgårdens IF 0 - 1 Örebro SK
+Djurgårdens IF 1 - 1 Hammarby IF
+Djurgårdens IF 2 - 0 AIK
+Djurgårdens IF 0 - 0 IK Sirius
+Djurgårdens IF 0 - 0 Varbergs BoIS
+Djurgårdens IF 1 - 0 IFK Göteborg
+Djurgårdens IF 3 - 0 Östersunds FK
+Djurgårdens IF 3 - 1 Kalmar FF
+Djurgårdens IF 2 - 1 Helsingborgs IF
+Djurgårdens IF 1 - 1 Falkenbergs FF
+Mjällby AIF 2 - 0 Malmö FF
+Mjällby AIF 1 - 0 IF Elfsborg
+Mjällby AIF 0 - 1 BK Häcken
+Mjällby AIF 0 - 0 Djurgårdens IF
+Mjällby AIF 2 - 2 IFK Norrköping
+Mjällby AIF 0 - 1 Örebro SK
+Mjällby AIF 1 - 2 Hammarby IF
+Mjällby AIF 2 - 0 AIK
+Mjällby AIF 2 - 1 IK Sirius
+Mjällby AIF 1 - 2 Varbergs BoIS
+Mjällby AIF 0 - 0 IFK Göteborg
+Mjällby AIF 2 - 1 Östersunds FK
+Mjällby AIF 2 - 2 Kalmar FF
+Mjällby AIF 0 - 1 Helsingborgs IF
+Mjällby AIF 2 - 2 Falkenbergs FF
+IFK Norrköping 1 - 1 Malmö FF
+IFK Norrköping 2 - 0 IF Elfsborg
+IFK Norrköping 0 - 0 BK Häcken
+IFK Norrköping 2 - 0 Djurgårdens IF
+IFK Norrköping 0 - 1 Mjällby AIF
+IFK Norrköping 3 - 2 Örebro SK
+IFK Norrköping 1 - 1 Hammarby IF
+IFK Norrköping 0 - 0 AIK
+IFK Norrköping 2 - 0 IK Sirius
+IFK Norrköping 1 - 2 Varbergs BoIS
+IFK Norrköping 2 - 0 IFK Göteborg
+IFK Norrköping 0 - 1 Östersunds FK
+IFK Norrköping 1 - 1 Kalmar FF
+IFK Norrköping 1 - 2 Helsingborgs IF
+IFK Norrköping 0 - 0 Falkenbergs FF
+Örebro SK 0 - 2 Malmö FF
+Örebro SK 1 - 2 IF Elfsborg
+Örebro SK 0 - 2 BK Häcken
+Örebro SK 1 - 0 Djurgårdens IF
+Örebro SK 1 - 2 Mjällby AIF
+Örebro SK 0 - 1 IFK Norrköping
+Örebro SK 0 - 0 Hammarby IF
+Örebro SK 2 - 0 AIK
+Örebro SK 2 - 0 IK Sirius
+Örebro SK 1 - 2 Varbergs BoIS
+Örebro SK 0 - 2 IFK Göteborg
+Örebro SK 0 - 1 Östersunds FK
+Örebro SK 2 - 0 Kalmar FF
+Örebro SK 0 - 0 Helsingborgs IF
+Örebro SK 2 - 1 Falkenbergs FF
+Hammarby IF 1 - 3 Malmö FF
+Hammarby IF 0 - 2 IF Elfsborg
+Hammarby IF 0 - 0 BK Häcken
+Hammarby IF 1 - 1 Djurgårdens IF
+Hammarby IF 0 - 0 Mjällby AIF
+Hammarby IF 0 - 1 IFK Norrköping
+Hammarby IF 1 - 1 Örebro SK
+Hammarby IF 2 - 0 AIK
+Hammarby IF 2 - 0 IK Sirius
+Hammarby IF 2 - 0 Varbergs BoIS
+Hammarby IF 1 - 2 IFK Göteborg
+Hammarby IF 0 - 1 Östersunds FK
+Hammarby IF 0 - 0 Kalmar FF
+Hammarby IF 2 - 1 Helsingborgs IF
+Hammarby IF 3 - 2 Falkenbergs FF
+AIK 1 - 2 Malmö FF
+AIK 0 - 0 IF Elfsborg
+AIK 0 - 0 BK Häcken
+AIK 1 - 1 Djurgårdens IF
+AIK 2 - 2 Mjällby AIF
+AIK 2 - 1 IFK Norrköping
+AIK 0 - 0 Örebro SK
+AIK 1 - 2 Hammarby IF
+AIK 0 - 1 IK Sirius
+AIK 0 - 1 Varbergs BoIS
+AIK 1 - 2 IFK Göteborg
+AIK 0 - 1 Östersunds FK
+AIK 2 - 1 Kalmar FF
+AIK 1 - 1 Helsingborgs IF
+AIK 2 - 1 Falkenbergs FF
+IK Sirius 0 - 3 Malmö FF
+IK Sirius 1 - 1 IF Elfsborg
+IK Sirius 1 - 1 BK Häcken
+IK Sirius 0 - 1 Djurgårdens IF
+IK Sirius 0 - 1 Mjällby AIF
+IK Sirius 2 - 0 IFK Norrköping
+IK Sirius 0 - 2 Örebro SK
+IK Sirius 0 - 0 Hammarby IF
+IK Sirius 2 - 2 AIK
+IK Sirius 2 - 0 Varbergs BoIS
+IK Sirius 0 - 2 IFK Göteborg
+IK Sirius 1 - 0 Östersunds FK
+IK Sirius 0 - 2 Kalmar FF
+IK Sirius 1 - 2 Helsingborgs IF
+IK Sirius 1 - 1 Falkenbergs FF
+Varbergs BoIS 1 - 3 Malmö FF
+Varbergs BoIS 2 - 0 IF Elfsborg
+Varbergs BoIS 1 - 0 BK Häcken
+Varbergs BoIS 2 - 1 Djurgårdens IF
+Varbergs BoIS 2 - 0 Mjällby AIF
+Varbergs BoIS 2 - 2 IFK Norrköping
+Varbergs BoIS 1 - 1 Örebro SK
+Varbergs BoIS 2 - 1 Hammarby IF
+Varbergs BoIS 1 - 0 AIK
+Varbergs BoIS 1 - 1 IK Sirius
+Varbergs BoIS 2 - 2 IFK Göteborg
+Varbergs BoIS 1 - 1 Östersunds FK
+Varbergs BoIS 2 - 0 Kalmar FF
+Varbergs BoIS 0 - 0 Helsingborgs IF
+Varbergs BoIS 0 - 1 Falkenbergs FF
+IFK Göteborg 1 - 0 Malmö FF
+IFK Göteborg 0 - 1 IF Elfsborg
+IFK Göteborg 0 - 2 BK Häcken
+IFK Göteborg 1 - 0 Djurgårdens IF
+IFK Göteborg 1 - 0 Mjällby AIF
+IFK Göteborg 0 - 1 IFK Norrköping
+IFK Göteborg 2 - 2 Örebro SK
+IFK Göteborg 1 - 0 Hammarby IF
+IFK Göteborg 0 - 0 AIK
+IFK Göteborg 1 - 2 IK Sirius
+IFK Göteborg 0 - 0 Varbergs BoIS
+IFK Göteborg 0 - 1 Östersunds FK
+IFK Göteborg 1 - 1 Kalmar FF
+IFK Göteborg 1 - 0 Helsingborgs IF
+IFK Göteborg 0 - 0 Falkenbergs FF
+Östersunds FK 1 - 2 Malmö FF
+Östersunds FK 0 - 1 IF Elfsborg
+Östersunds FK 0 - 1 BK Häcken
+Östersunds FK 1 - 2 Djurgårdens IF
+Östersunds FK 1 - 2 Mjällby AIF
+Östersunds FK 2 - 1 IFK Norrköping
+Östersunds FK 1 - 1 Örebro SK
+Östersunds FK 0 - 1 Hammarby IF
+Östersunds FK 0 - 2 AIK
+Östersunds FK 0 - 1 IK Sirius
+Östersunds FK 0 - 0 Varbergs BoIS
+Östersunds FK 1 - 0 IFK Göteborg
+Östersunds FK 1 - 1 Kalmar FF
+Östersunds FK 2 - 0 Helsingborgs IF
+Östersunds FK 2 - 1 Falkenbergs FF
+Kalmar FF 0 - 0 Malmö FF
+Kalmar FF 0 - 0 IF Elfsborg
+Kalmar FF 0 - 1 BK Häcken
+Kalmar FF 2 - 1 Djurgårdens IF
+Kalmar FF 0 - 3 Mjällby AIF
+Kalmar FF 1 - 1 IFK Norrköping
+Kalmar FF 1 - 2 Örebro SK
+Kalmar FF 2 - 2 Hammarby IF
+Kalmar FF 1 - 2 AIK
+Kalmar FF 1 - 0 IK Sirius
+Kalmar FF 1 - 1 Varbergs BoIS
+Kalmar FF 0 - 2 IFK Göteborg
+Kalmar FF 0 - 1 Östersunds FK
+Kalmar FF 0 - 0 Helsingborgs IF
+Kalmar FF 2 - 2 Falkenbergs FF
+Helsingborgs IF 1 - 1 Malmö FF
+Helsingborgs IF 2 - 0 IF Elfsborg
+Helsingborgs IF 0 - 2 BK Häcken
+Helsingborgs IF 0 - 1 Djurgårdens IF
+Helsingborgs IF 0 - 3 Mjällby AIF
+Helsingborgs IF 1 - 2 IFK Norrköping
+Helsingborgs IF 1 - 0 Örebro SK
+Helsingborgs IF 2 - 1 Hammarby IF
+Helsingborgs IF 1 - 2 AIK
+Helsingborgs IF 1 - 1 IK Sirius
+Helsingborgs IF 2 - 0 Varbergs BoIS
+Helsingborgs IF 2 - 2 IFK Göteborg
+Helsingborgs IF 0 - 2 Östersunds FK
+Helsingborgs IF 2 - 0 Kalmar FF
+Helsingborgs IF 0 - 2 Falkenbergs FF
+Falkenbergs FF 0 - 3 Malmö FF
+Falkenbergs FF 1 - 1 IF Elfsborg
+Falkenbergs FF 0 - 0 BK Häcken
+Falkenbergs FF 1 - 1 Djurgårdens IF
+Falkenbergs FF 1 - 0 Mjällby AIF
+Falkenbergs FF 1 - 3 IFK Norrköping
+Falkenbergs FF 2 - 1 Örebro SK
+Falkenbergs FF 1 - 2 Hammarby IF
+Falkenbergs FF 0 - 0 AIK
+Falkenbergs FF 2 - 1 IK Sirius
+Falkenbergs FF 2 - 1 Varbergs BoIS
+Falkenbergs FF 1 - 1 IFK Göteborg
+Falkenbergs FF 0 - 1 Östersunds FK
+Falkenbergs FF 1 - 0 Kalmar FF
+Falkenbergs FF 0 - 1 Helsingborgs IF
+
+#---------------------------------
+#	 Season 62568
+#---------------------------------
+Malmö FF 2 - 1 IF Elfsborg
+Malmö FF 0 - 2 BK Häcken
+Malmö FF 2 - 1 Djurgårdens IF
+Malmö FF 0 - 1 Mjällby AIF
+Malmö FF 3 - 1 IFK Norrköping
+Malmö FF 0 - 1 Örebro SK
+Malmö FF 2 - 1 Hammarby IF
+Malmö FF 0 - 1 AIK
+Malmö FF 1 - 2 IK Sirius
+Malmö FF 2 - 0 Varbergs BoIS
+Malmö FF 0 - 1 IFK Göteborg
+Malmö FF 2 - 0 Östersunds FK
+Malmö FF 2 - 1 Kalmar FF
+Malmö FF 2 - 0 Helsingborgs IF
+Malmö FF 0 - 1 Falkenbergs FF
+IF Elfsborg 1 - 2 Malmö FF
+IF Elfsborg 2 - 2 BK Häcken
+IF Elfsborg 0 - 0 Djurgårdens IF
+IF Elfsborg 2 - 2 Mjällby AIF
+IF Elfsborg 0 - 3 IFK Norrköping
+IF Elfsborg 2 - 1 Örebro SK
+IF Elfsborg 0 - 1 Hammarby IF
+IF Elfsborg 0 - 1 AIK
+IF Elfsborg 2 - 1 IK Sirius
+IF Elfsborg 2 - 0 Varbergs BoIS
+IF Elfsborg 0 - 1 IFK Göteborg
+IF Elfsborg 1 - 1 Östersunds FK
+IF Elfsborg 2 - 1 Kalmar FF
+IF Elfsborg 0 - 0 Helsingborgs IF
+IF Elfsborg 0 - 0 Falkenbergs FF
+BK Häcken 1 - 2 Malmö FF
+BK Häcken 1 - 0 IF Elfsborg
+BK Häcken 2 - 1 Djurgårdens IF
+BK Häcken 2 - 1 Mjällby AIF
+BK Häcken 1 - 0 IFK Norrköping
+BK Häcken 2 - 0 Örebro SK
+BK Häcken 2 - 1 Hammarby IF
+BK Häcken 0 - 0 AIK
+BK Häcken 1 - 0 IK Sirius
+BK Häcken 2 - 2 Varbergs BoIS
+BK Häcken 2 - 0 IFK Göteborg
+BK Häcken 0 - 1 Östersunds FK
+BK Häcken 1 - 0 Kalmar FF
+BK Häcken 0 - 0 Helsingborgs IF
+BK Häcken 0 - 0 Falkenbergs FF
+Djurgårdens IF 0 - 2 Malmö FF
+Djurgårdens IF 2 - 2 IF Elfsborg
+Djurgårdens IF 0 - 0 BK Häcken
+Djurgårdens IF 0 - 0 Mjällby AIF
+Djurgårdens IF 1 - 1 IFK Norrköping
+Djurgårdens IF 0 - 0 Örebro SK
+Djurgårdens IF 2 - 2 Hammarby IF
+Djurgårdens IF 1 - 1 AIK
+Djurgårdens IF 2 - 1 IK Sirius
+Djurgårdens IF 2 - 0 Varbergs BoIS
+Djurgårdens IF 0 - 0 IFK Göteborg
+Djurgårdens IF 0 - 0 Östersunds FK
+Djurgårdens IF 1 - 0 Kalmar FF
+Djurgårdens IF 2 - 1 Helsingborgs IF
+Djurgårdens IF 1 - 1 Falkenbergs FF
+Mjällby AIF 0 - 2 Malmö FF
+Mjällby AIF 1 - 1 IF Elfsborg
+Mjällby AIF 2 - 0 BK Häcken
+Mjällby AIF 1 - 0 Djurgårdens IF
+Mjällby AIF 1 - 3 IFK Norrköping
+Mjällby AIF 1 - 1 Örebro SK
+Mjällby AIF 1 - 1 Hammarby IF
+Mjällby AIF 2 - 1 AIK
+Mjällby AIF 1 - 1 IK Sirius
+Mjällby AIF 1 - 2 Varbergs BoIS
+Mjällby AIF 1 - 1 IFK Göteborg
+Mjällby AIF 1 - 1 Östersunds FK
+Mjällby AIF 2 - 0 Kalmar FF
+Mjällby AIF 1 - 1 Helsingborgs IF
+Mjällby AIF 1 - 1 Falkenbergs FF
+IFK Norrköping 1 - 1 Malmö FF
+IFK Norrköping 2 - 2 IF Elfsborg
+IFK Norrköping 0 - 1 BK Häcken
+IFK Norrköping 1 - 1 Djurgårdens IF
+IFK Norrköping 3 - 0 Mjällby AIF
+IFK Norrköping 0 - 1 Örebro SK
+IFK Norrköping 0 - 2 Hammarby IF
+IFK Norrköping 2 - 2 AIK
+IFK Norrköping 2 - 2 IK Sirius
+IFK Norrköping 1 - 2 Varbergs BoIS
+IFK Norrköping 3 - 0 IFK Göteborg
+IFK Norrköping 0 - 1 Östersunds FK
+IFK Norrköping 1 - 1 Kalmar FF
+IFK Norrköping 0 - 2 Helsingborgs IF
+IFK Norrköping 1 - 2 Falkenbergs FF
+Örebro SK 1 - 0 Malmö FF
+Örebro SK 1 - 2 IF Elfsborg
+Örebro SK 1 - 2 BK Häcken
+Örebro SK 1 - 1 Djurgårdens IF
+Örebro SK 0 - 1 Mjällby AIF
+Örebro SK 0 - 0 IFK Norrköping
+Örebro SK 1 - 1 Hammarby IF
+Örebro SK 1 - 1 AIK
+Örebro SK 1 - 2 IK Sirius
+Örebro SK 2 - 0 Varbergs BoIS
+Örebro SK 1 - 1 IFK Göteborg
+Örebro SK 0 - 1 Östersunds FK
+Örebro SK 2 - 0 Kalmar FF
+Örebro SK 1 - 0 Helsingborgs IF
+Örebro SK 0 - 1 Falkenbergs FF
+Hammarby IF 0 - 2 Malmö FF
+Hammarby IF 2 - 0 IF Elfsborg
+Hammarby IF 0 - 0 BK Häcken
+Hammarby IF 0 - 1 Djurgårdens IF
+Hammarby IF 0 - 3 Mjällby AIF
+Hammarby IF 0 - 3 IFK Norrköping
+Hammarby IF 1 - 0 Örebro SK
+Hammarby IF 1 - 2 AIK
+Hammarby IF 2 - 1 IK Sirius
+Hammarby IF 0 - 2 Varbergs BoIS
+Hammarby IF 0 - 1 IFK Göteborg
+Hammarby IF 2 - 1 Östersunds FK
+Hammarby IF 1 - 2 Kalmar FF
+Hammarby IF 0 - 2 Helsingborgs IF
+Hammarby IF 3 - 1 Falkenbergs FF
+AIK 1 - 1 Malmö FF
+AIK 1 - 1 IF Elfsborg
+AIK 0 - 1 BK Häcken
+AIK 0 - 0 Djurgårdens IF
+AIK 0 - 1 Mjällby AIF
+AIK 1 - 0 IFK Norrköping
+AIK 1 - 2 Örebro SK
+AIK 2 - 1 Hammarby IF
+AIK 0 - 0 IK Sirius
+AIK 0 - 2 Varbergs BoIS
+AIK 0 - 1 IFK Göteborg
+AIK 2 - 0 Östersunds FK
+AIK 1 - 1 Kalmar FF
+AIK 2 - 0 Helsingborgs IF
+AIK 2 - 0 Falkenbergs FF
+IK Sirius 2 - 1 Malmö FF
+IK Sirius 1 - 1 IF Elfsborg
+IK Sirius 1 - 1 BK Häcken
+IK Sirius 1 - 0 Djurgårdens IF
+IK Sirius 2 - 2 Mjällby AIF
+IK Sirius 2 - 1 IFK Norrköping
+IK Sirius 1 - 1 Örebro SK
+IK Sirius 0 - 2 Hammarby IF
+IK Sirius 1 - 0 AIK
+IK Sirius 1 - 2 Varbergs BoIS
+IK Sirius 2 - 0 IFK Göteborg
+IK Sirius 1 - 2 Östersunds FK
+IK Sirius 0 - 2 Kalmar FF
+IK Sirius 1 - 0 Helsingborgs IF
+IK Sirius 2 - 1 Falkenbergs FF
+Varbergs BoIS 1 - 2 Malmö FF
+Varbergs BoIS 1 - 2 IF Elfsborg
+Varbergs BoIS 1 - 0 BK Häcken
+Varbergs BoIS 2 - 0 Djurgårdens IF
+Varbergs BoIS 1 - 0 Mjällby AIF
+Varbergs BoIS 0 - 0 IFK Norrköping
+Varbergs BoIS 0 - 1 Örebro SK
+Varbergs BoIS 0 - 2 Hammarby IF
+Varbergs BoIS 0 - 0 AIK
+Varbergs BoIS 0 - 2 IK Sirius
+Varbergs BoIS 0 - 1 IFK Göteborg
+Varbergs BoIS 2 - 2 Östersunds FK
+Varbergs BoIS 1 - 2 Kalmar FF
+Varbergs BoIS 2 - 1 Helsingborgs IF
+Varbergs BoIS 0 - 1 Falkenbergs FF
+IFK Göteborg 2 - 1 Malmö FF
+IFK Göteborg 0 - 0 IF Elfsborg
+IFK Göteborg 0 - 2 BK Häcken
+IFK Göteborg 2 - 2 Djurgårdens IF
+IFK Göteborg 0 - 0 Mjällby AIF
+IFK Göteborg 2 - 1 IFK Norrköping
+IFK Göteborg 1 - 0 Örebro SK
+IFK Göteborg 2 - 2 Hammarby IF
+IFK Göteborg 1 - 0 AIK
+IFK Göteborg 2 - 1 IK Sirius
+IFK Göteborg 1 - 0 Varbergs BoIS
+IFK Göteborg 2 - 1 Östersunds FK
+IFK Göteborg 1 - 0 Kalmar FF
+IFK Göteborg 2 - 1 Helsingborgs IF
+IFK Göteborg 0 - 1 Falkenbergs FF
+Östersunds FK 0 - 1 Malmö FF
+Östersunds FK 0 - 2 IF Elfsborg
+Östersunds FK 0 - 1 BK Häcken
+Östersunds FK 1 - 0 Djurgårdens IF
+Östersunds FK 0 - 1 Mjällby AIF
+Östersunds FK 1 - 0 IFK Norrköping
+Östersunds FK 0 - 2 Örebro SK
+Östersunds FK 2 - 2 Hammarby IF
+Östersunds FK 0 - 1 AIK
+Östersunds FK 0 - 2 IK Sirius
+Östersunds FK 0 - 2 Varbergs BoIS
+Östersunds FK 1 - 1 IFK Göteborg
+Östersunds FK 2 - 1 Kalmar FF
+Östersunds FK 1 - 1 Helsingborgs IF
+Östersunds FK 2 - 0 Falkenbergs FF
+Kalmar FF 1 - 1 Malmö FF
+Kalmar FF 1 - 1 IF Elfsborg
+Kalmar FF 1 - 1 BK Häcken
+Kalmar FF 0 - 2 Djurgårdens IF
+Kalmar FF 0 - 0 Mjällby AIF
+Kalmar FF 0 - 2 IFK Norrköping
+Kalmar FF 1 - 1 Örebro SK
+Kalmar FF 2 - 1 Hammarby IF
+Kalmar FF 1 - 0 AIK
+Kalmar FF 2 - 1 IK Sirius
+Kalmar FF 2 - 1 Varbergs BoIS
+Kalmar FF 1 - 1 IFK Göteborg
+Kalmar FF 1 - 1 Östersunds FK
+Kalmar FF 1 - 1 Helsingborgs IF
+Kalmar FF 2 - 1 Falkenbergs FF
+Helsingborgs IF 0 - 0 Malmö FF
+Helsingborgs IF 0 - 0 IF Elfsborg
+Helsingborgs IF 0 - 1 BK Häcken
+Helsingborgs IF 1 - 0 Djurgårdens IF
+Helsingborgs IF 0 - 1 Mjällby AIF
+Helsingborgs IF 0 - 1 IFK Norrköping
+Helsingborgs IF 1 - 2 Örebro SK
+Helsingborgs IF 1 - 0 Hammarby IF
+Helsingborgs IF 0 - 0 AIK
+Helsingborgs IF 2 - 1 IK Sirius
+Helsingborgs IF 2 - 1 Varbergs BoIS
+Helsingborgs IF 1 - 0 IFK Göteborg
+Helsingborgs IF 0 - 1 Östersunds FK
+Helsingborgs IF 1 - 0 Kalmar FF
+Helsingborgs IF 1 - 0 Falkenbergs FF
+Falkenbergs FF 1 - 3 Malmö FF
+Falkenbergs FF 2 - 1 IF Elfsborg
+Falkenbergs FF 1 - 0 BK Häcken
+Falkenbergs FF 1 - 1 Djurgårdens IF
+Falkenbergs FF 2 - 1 Mjällby AIF
+Falkenbergs FF 2 - 3 IFK Norrköping
+Falkenbergs FF 2 - 1 Örebro SK
+Falkenbergs FF 0 - 1 Hammarby IF
+Falkenbergs FF 2 - 1 AIK
+Falkenbergs FF 2 - 1 IK Sirius
+Falkenbergs FF 1 - 1 Varbergs BoIS
+Falkenbergs FF 1 - 0 IFK Göteborg
+Falkenbergs FF 2 - 2 Östersunds FK
+Falkenbergs FF 1 - 2 Kalmar FF
+Falkenbergs FF 2 - 2 Helsingborgs IF
+
+#---------------------------------
+#	 Season 80376
+#---------------------------------
+Malmö FF 1 - 2 IF Elfsborg
+Malmö FF 1 - 2 BK Häcken
+Malmö FF 1 - 0 Djurgårdens IF
+Malmö FF 2 - 2 Mjällby AIF
+Malmö FF 1 - 2 IFK Norrköping
+Malmö FF 2 - 1 Örebro SK
+Malmö FF 0 - 1 Hammarby IF
+Malmö FF 1 - 1 AIK
+Malmö FF 1 - 1 IK Sirius
+Malmö FF 0 - 1 Varbergs BoIS
+Malmö FF 2 - 2 IFK Göteborg
+Malmö FF 3 - 1 Östersunds FK
+Malmö FF 2 - 0 Kalmar FF
+Malmö FF 2 - 2 Helsingborgs IF
+Malmö FF 3 - 0 Falkenbergs FF
+IF Elfsborg 1 - 1 Malmö FF
+IF Elfsborg 0 - 0 BK Häcken
+IF Elfsborg 1 - 1 Djurgårdens IF
+IF Elfsborg 2 - 0 Mjällby AIF
+IF Elfsborg 1 - 0 IFK Norrköping
+IF Elfsborg 0 - 1 Örebro SK
+IF Elfsborg 2 - 0 Hammarby IF
+IF Elfsborg 2 - 2 AIK
+IF Elfsborg 2 - 2 IK Sirius
+IF Elfsborg 3 - 0 Varbergs BoIS
+IF Elfsborg 2 - 0 IFK Göteborg
+IF Elfsborg 0 - 0 Östersunds FK
+IF Elfsborg 3 - 1 Kalmar FF
+IF Elfsborg 0 - 2 Helsingborgs IF
+IF Elfsborg 0 - 2 Falkenbergs FF
+BK Häcken 1 - 2 Malmö FF
+BK Häcken 2 - 0 IF Elfsborg
+BK Häcken 0 - 1 Djurgårdens IF
+BK Häcken 0 - 0 Mjällby AIF
+BK Häcken 2 - 2 IFK Norrköping
+BK Häcken 2 - 0 Örebro SK
+BK Häcken 0 - 2 Hammarby IF
+BK Häcken 1 - 0 AIK
+BK Häcken 0 - 1 IK Sirius
+BK Häcken 2 - 2 Varbergs BoIS
+BK Häcken 1 - 1 IFK Göteborg
+BK Häcken 2 - 1 Östersunds FK
+BK Häcken 0 - 0 Kalmar FF
+BK Häcken 0 - 0 Helsingborgs IF
+BK Häcken 0 - 0 Falkenbergs FF
+Djurgårdens IF 1 - 0 Malmö FF
+Djurgårdens IF 0 - 1 IF Elfsborg
+Djurgårdens IF 1 - 1 BK Häcken
+Djurgårdens IF 1 - 1 Mjällby AIF
+Djurgårdens IF 0 - 1 IFK Norrköping
+Djurgårdens IF 2 - 1 Örebro SK
+Djurgårdens IF 0 - 0 Hammarby IF
+Djurgårdens IF 0 - 1 AIK
+Djurgårdens IF 0 - 0 IK Sirius
+Djurgårdens IF 2 - 2 Varbergs BoIS
+Djurgårdens IF 1 - 1 IFK Göteborg
+Djurgårdens IF 0 - 0 Östersunds FK
+Djurgårdens IF 1 - 1 Kalmar FF
+Djurgårdens IF 2 - 0 Helsingborgs IF
+Djurgårdens IF 0 - 2 Falkenbergs FF
+Mjällby AIF 0 - 0 Malmö FF
+Mjällby AIF 0 - 2 IF Elfsborg
+Mjällby AIF 1 - 2 BK Häcken
+Mjällby AIF 2 - 1 Djurgårdens IF
+Mjällby AIF 0 - 0 IFK Norrköping
+Mjällby AIF 1 - 1 Örebro SK
+Mjällby AIF 1 - 0 Hammarby IF
+Mjällby AIF 0 - 2 AIK
+Mjällby AIF 2 - 2 IK Sirius
+Mjällby AIF 2 - 1 Varbergs BoIS
+Mjällby AIF 0 - 2 IFK Göteborg
+Mjällby AIF 1 - 0 Östersunds FK
+Mjällby AIF 2 - 2 Kalmar FF
+Mjällby AIF 3 - 0 Helsingborgs IF
+Mjällby AIF 0 - 2 Falkenbergs FF
+IFK Norrköping 2 - 2 Malmö FF
+IFK Norrköping 1 - 0 IF Elfsborg
+IFK Norrköping 0 - 1 BK Häcken
+IFK Norrköping 1 - 0 Djurgårdens IF
+IFK Norrköping 1 - 0 Mjällby AIF
+IFK Norrköping 2 - 1 Örebro SK
+IFK Norrköping 0 - 2 Hammarby IF
+IFK Norrköping 0 - 0 AIK
+IFK Norrköping 3 - 2 IK Sirius
+IFK Norrköping 0 - 1 Varbergs BoIS
+IFK Norrköping 0 - 2 IFK Göteborg
+IFK Norrköping 0 - 1 Östersunds FK
+IFK Norrköping 3 - 1 Kalmar FF
+IFK Norrköping 2 - 2 Helsingborgs IF
+IFK Norrköping 0 - 1 Falkenbergs FF
+Örebro SK 2 - 3 Malmö FF
+Örebro SK 1 - 0 IF Elfsborg
+Örebro SK 0 - 2 BK Häcken
+Örebro SK 1 - 1 Djurgårdens IF
+Örebro SK 0 - 1 Mjällby AIF
+Örebro SK 1 - 1 IFK Norrköping
+Örebro SK 1 - 1 Hammarby IF
+Örebro SK 1 - 1 AIK
+Örebro SK 1 - 2 IK Sirius
+Örebro SK 2 - 1 Varbergs BoIS
+Örebro SK 0 - 0 IFK Göteborg
+Örebro SK 0 - 1 Östersunds FK
+Örebro SK 2 - 0 Kalmar FF
+Örebro SK 0 - 2 Helsingborgs IF
+Örebro SK 0 - 1 Falkenbergs FF
+Hammarby IF 0 - 3 Malmö FF
+Hammarby IF 0 - 0 IF Elfsborg
+Hammarby IF 0 - 2 BK Häcken
+Hammarby IF 0 - 2 Djurgårdens IF
+Hammarby IF 1 - 1 Mjällby AIF
+Hammarby IF 0 - 1 IFK Norrköping
+Hammarby IF 1 - 1 Örebro SK
+Hammarby IF 2 - 1 AIK
+Hammarby IF 1 - 2 IK Sirius
+Hammarby IF 2 - 1 Varbergs BoIS
+Hammarby IF 2 - 2 IFK Göteborg
+Hammarby IF 2 - 1 Östersunds FK
+Hammarby IF 1 - 1 Kalmar FF
+Hammarby IF 2 - 2 Helsingborgs IF
+Hammarby IF 1 - 0 Falkenbergs FF
+AIK 1 - 2 Malmö FF
+AIK 0 - 0 IF Elfsborg
+AIK 1 - 1 BK Häcken
+AIK 0 - 1 Djurgårdens IF
+AIK 0 - 2 Mjällby AIF
+AIK 1 - 2 IFK Norrköping
+AIK 0 - 1 Örebro SK
+AIK 0 - 1 Hammarby IF
+AIK 1 - 1 IK Sirius
+AIK 1 - 0 Varbergs BoIS
+AIK 1 - 1 IFK Göteborg
+AIK 0 - 1 Östersunds FK
+AIK 2 - 0 Kalmar FF
+AIK 2 - 0 Helsingborgs IF
+AIK 1 - 1 Falkenbergs FF
+IK Sirius 2 - 0 Malmö FF
+IK Sirius 1 - 0 IF Elfsborg
+IK Sirius 1 - 1 BK Häcken
+IK Sirius 0 - 1 Djurgårdens IF
+IK Sirius 2 - 1 Mjällby AIF
+IK Sirius 0 - 0 IFK Norrköping
+IK Sirius 1 - 2 Örebro SK
+IK Sirius 0 - 0 Hammarby IF
+IK Sirius 0 - 0 AIK
+IK Sirius 0 - 2 Varbergs BoIS
+IK Sirius 0 - 0 IFK Göteborg
+IK Sirius 0 - 1 Östersunds FK
+IK Sirius 1 - 2 Kalmar FF
+IK Sirius 2 - 2 Helsingborgs IF
+IK Sirius 1 - 0 Falkenbergs FF
+Varbergs BoIS 1 - 0 Malmö FF
+Varbergs BoIS 2 - 2 IF Elfsborg
+Varbergs BoIS 2 - 0 BK Häcken
+Varbergs BoIS 0 - 0 Djurgårdens IF
+Varbergs BoIS 2 - 2 Mjällby AIF
+Varbergs BoIS 1 - 0 IFK Norrköping
+Varbergs BoIS 1 - 0 Örebro SK
+Varbergs BoIS 2 - 1 Hammarby IF
+Varbergs BoIS 0 - 0 AIK
+Varbergs BoIS 2 - 2 IK Sirius
+Varbergs BoIS 2 - 2 IFK Göteborg
+Varbergs BoIS 0 - 1 Östersunds FK
+Varbergs BoIS 0 - 1 Kalmar FF
+Varbergs BoIS 0 - 2 Helsingborgs IF
+Varbergs BoIS 2 - 2 Falkenbergs FF
+IFK Göteborg 1 - 1 Malmö FF
+IFK Göteborg 2 - 1 IF Elfsborg
+IFK Göteborg 1 - 0 BK Häcken
+IFK Göteborg 0 - 1 Djurgårdens IF
+IFK Göteborg 2 - 2 Mjällby AIF
+IFK Göteborg 2 - 0 IFK Norrköping
+IFK Göteborg 0 - 0 Örebro SK
+IFK Göteborg 0 - 0 Hammarby IF
+IFK Göteborg 1 - 1 AIK
+IFK Göteborg 1 - 2 IK Sirius
+IFK Göteborg 1 - 1 Varbergs BoIS
+IFK Göteborg 0 - 1 Östersunds FK
+IFK Göteborg 1 - 1 Kalmar FF
+IFK Göteborg 2 - 0 Helsingborgs IF
+IFK Göteborg 1 - 0 Falkenbergs FF
+Östersunds FK 1 - 1 Malmö FF
+Östersunds FK 0 - 0 IF Elfsborg
+Östersunds FK 0 - 0 BK Häcken
+Östersunds FK 0 - 0 Djurgårdens IF
+Östersunds FK 1 - 2 Mjällby AIF
+Östersunds FK 1 - 2 IFK Norrköping
+Östersunds FK 0 - 2 Örebro SK
+Östersunds FK 2 - 1 Hammarby IF
+Östersunds FK 0 - 2 AIK
+Östersunds FK 1 - 0 IK Sirius
+Östersunds FK 0 - 1 Varbergs BoIS
+Östersunds FK 0 - 2 IFK Göteborg
+Östersunds FK 0 - 0 Kalmar FF
+Östersunds FK 0 - 0 Helsingborgs IF
+Östersunds FK 0 - 0 Falkenbergs FF
+Kalmar FF 0 - 0 Malmö FF
+Kalmar FF 2 - 2 IF Elfsborg
+Kalmar FF 1 - 1 BK Häcken
+Kalmar FF 1 - 0 Djurgårdens IF
+Kalmar FF 2 - 3 Mjällby AIF
+Kalmar FF 2 - 1 IFK Norrköping
+Kalmar FF 0 - 2 Örebro SK
+Kalmar FF 1 - 3 Hammarby IF
+Kalmar FF 0 - 0 AIK
+Kalmar FF 2 - 2 IK Sirius
+Kalmar FF 0 - 2 Varbergs BoIS
+Kalmar FF 1 - 1 IFK Göteborg
+Kalmar FF 0 - 1 Östersunds FK
+Kalmar FF 0 - 1 Helsingborgs IF
+Kalmar FF 2 - 0 Falkenbergs FF
+Helsingborgs IF 0 - 3 Malmö FF
+Helsingborgs IF 2 - 1 IF Elfsborg
+Helsingborgs IF 0 - 1 BK Häcken
+Helsingborgs IF 1 - 2 Djurgårdens IF
+Helsingborgs IF 0 - 0 Mjällby AIF
+Helsingborgs IF 2 - 0 IFK Norrköping
+Helsingborgs IF 0 - 1 Örebro SK
+Helsingborgs IF 0 - 2 Hammarby IF
+Helsingborgs IF 0 - 0 AIK
+Helsingborgs IF 0 - 0 IK Sirius
+Helsingborgs IF 2 - 0 Varbergs BoIS
+Helsingborgs IF 1 - 1 IFK Göteborg
+Helsingborgs IF 1 - 0 Östersunds FK
+Helsingborgs IF 1 - 1 Kalmar FF
+Helsingborgs IF 1 - 0 Falkenbergs FF
+Falkenbergs FF 0 - 0 Malmö FF
+Falkenbergs FF 0 - 2 IF Elfsborg
+Falkenbergs FF 2 - 0 BK Häcken
+Falkenbergs FF 1 - 3 Djurgårdens IF
+Falkenbergs FF 1 - 0 Mjällby AIF
+Falkenbergs FF 0 - 1 IFK Norrköping
+Falkenbergs FF 0 - 1 Örebro SK
+Falkenbergs FF 0 - 0 Hammarby IF
+Falkenbergs FF 2 - 0 AIK
+Falkenbergs FF 0 - 1 IK Sirius
+Falkenbergs FF 1 - 2 Varbergs BoIS
+Falkenbergs FF 0 - 2 IFK Göteborg
+Falkenbergs FF 0 - 2 Östersunds FK
+Falkenbergs FF 0 - 1 Kalmar FF
+Falkenbergs FF 2 - 0 Helsingborgs IF
+
+#---------------------------------
+#	 Season 85043
+#---------------------------------
+Malmö FF 2 - 1 IF Elfsborg
+Malmö FF 0 - 0 BK Häcken
+Malmö FF 3 - 1 Djurgårdens IF
+Malmö FF 0 - 2 Mjällby AIF
+Malmö FF 2 - 0 IFK Norrköping
+Malmö FF 3 - 0 Örebro SK
+Malmö FF 0 - 1 Hammarby IF
+Malmö FF 2 - 0 AIK
+Malmö FF 0 - 1 IK Sirius
+Malmö FF 1 - 1 Varbergs BoIS
+Malmö FF 2 - 0 IFK Göteborg
+Malmö FF 0 - 1 Östersunds FK
+Malmö FF 0 - 0 Kalmar FF
+Malmö FF 1 - 1 Helsingborgs IF
+Malmö FF 3 - 0 Falkenbergs FF
+IF Elfsborg 1 - 2 Malmö FF
+IF Elfsborg 1 - 2 BK Häcken
+IF Elfsborg 0 - 1 Djurgårdens IF
+IF Elfsborg 0 - 1 Mjällby AIF
+IF Elfsborg 0 - 2 IFK Norrköping
+IF Elfsborg 1 - 0 Örebro SK
+IF Elfsborg 2 - 1 Hammarby IF
+IF Elfsborg 0 - 0 AIK
+IF Elfsborg 0 - 2 IK Sirius
+IF Elfsborg 1 - 0 Varbergs BoIS
+IF Elfsborg 0 - 1 IFK Göteborg
+IF Elfsborg 0 - 1 Östersunds FK
+IF Elfsborg 2 - 1 Kalmar FF
+IF Elfsborg 2 - 0 Helsingborgs IF
+IF Elfsborg 0 - 1 Falkenbergs FF
+BK Häcken 1 - 1 Malmö FF
+BK Häcken 0 - 0 IF Elfsborg
+BK Häcken 1 - 0 Djurgårdens IF
+BK Häcken 1 - 0 Mjällby AIF
+BK Häcken 1 - 0 IFK Norrköping
+BK Häcken 0 - 1 Örebro SK
+BK Häcken 1 - 2 Hammarby IF
+BK Häcken 0 - 1 AIK
+BK Häcken 1 - 1 IK Sirius
+BK Häcken 2 - 1 Varbergs BoIS
+BK Häcken 0 - 0 IFK Göteborg
+BK Häcken 2 - 0 Östersunds FK
+BK Häcken 0 - 1 Kalmar FF
+BK Häcken 1 - 1 Helsingborgs IF
+BK Häcken 0 - 0 Falkenbergs FF
+Djurgårdens IF 2 - 2 Malmö FF
+Djurgårdens IF 0 - 1 IF Elfsborg
+Djurgårdens IF 0 - 0 BK Häcken
+Djurgårdens IF 2 - 1 Mjällby AIF
+Djurgårdens IF 3 - 2 IFK Norrköping
+Djurgårdens IF 2 - 0 Örebro SK
+Djurgårdens IF 1 - 1 Hammarby IF
+Djurgårdens IF 0 - 1 AIK
+Djurgårdens IF 1 - 0 IK Sirius
+Djurgårdens IF 2 - 0 Varbergs BoIS
+Djurgårdens IF 0 - 0 IFK Göteborg
+Djurgårdens IF 1 - 1 Östersunds FK
+Djurgårdens IF 1 - 2 Kalmar FF
+Djurgårdens IF 1 - 1 Helsingborgs IF
+Djurgårdens IF 0 - 1 Falkenbergs FF
+Mjällby AIF 1 - 2 Malmö FF
+Mjällby AIF 2 - 3 IF Elfsborg
+Mjällby AIF 0 - 1 BK Häcken
+Mjällby AIF 0 - 2 Djurgårdens IF
+Mjällby AIF 1 - 3 IFK Norrköping
+Mjällby AIF 1 - 0 Örebro SK
+Mjällby AIF 1 - 3 Hammarby IF
+Mjällby AIF 2 - 0 AIK
+Mjällby AIF 3 - 1 IK Sirius
+Mjällby AIF 1 - 1 Varbergs BoIS
+Mjällby AIF 1 - 0 IFK Göteborg
+Mjällby AIF 3 - 2 Östersunds FK
+Mjällby AIF 0 - 2 Kalmar FF
+Mjällby AIF 1 - 1 Helsingborgs IF
+Mjällby AIF 2 - 0 Falkenbergs FF
+IFK Norrköping 1 - 1 Malmö FF
+IFK Norrköping 0 - 1 IF Elfsborg
+IFK Norrköping 0 - 0 BK Häcken
+IFK Norrköping 0 - 1 Djurgårdens IF
+IFK Norrköping 1 - 2 Mjällby AIF
+IFK Norrköping 1 - 1 Örebro SK
+IFK Norrköping 2 - 2 Hammarby IF
+IFK Norrköping 1 - 0 AIK
+IFK Norrköping 2 - 1 IK Sirius
+IFK Norrköping 2 - 1 Varbergs BoIS
+IFK Norrköping 0 - 0 IFK Göteborg
+IFK Norrköping 3 - 1 Östersunds FK
+IFK Norrköping 0 - 1 Kalmar FF
+IFK Norrköping 2 - 2 Helsingborgs IF
+IFK Norrköping 3 - 0 Falkenbergs FF
+Örebro SK 2 - 1 Malmö FF
+Örebro SK 0 - 0 IF Elfsborg
+Örebro SK 0 - 0 BK Häcken
+Örebro SK 1 - 0 Djurgårdens IF
+Örebro SK 2 - 2 Mjällby AIF
+Örebro SK 2 - 1 IFK Norrköping
+Örebro SK 0 - 2 Hammarby IF
+Örebro SK 0 - 0 AIK
+Örebro SK 1 - 0 IK Sirius
+Örebro SK 1 - 2 Varbergs BoIS
+Örebro SK 0 - 0 IFK Göteborg
+Örebro SK 0 - 0 Östersunds FK
+Örebro SK 0 - 0 Kalmar FF
+Örebro SK 1 - 1 Helsingborgs IF
+Örebro SK 0 - 1 Falkenbergs FF
+Hammarby IF 0 - 0 Malmö FF
+Hammarby IF 1 - 0 IF Elfsborg
+Hammarby IF 1 - 2 BK Häcken
+Hammarby IF 0 - 1 Djurgårdens IF
+Hammarby IF 1 - 1 Mjällby AIF
+Hammarby IF 1 - 1 IFK Norrköping
+Hammarby IF 1 - 2 Örebro SK
+Hammarby IF 1 - 1 AIK
+Hammarby IF 0 - 0 IK Sirius
+Hammarby IF 1 - 0 Varbergs BoIS
+Hammarby IF 0 - 1 IFK Göteborg
+Hammarby IF 1 - 2 Östersunds FK
+Hammarby IF 0 - 2 Kalmar FF
+Hammarby IF 1 - 2 Helsingborgs IF
+Hammarby IF 3 - 0 Falkenbergs FF
+AIK 1 - 0 Malmö FF
+AIK 0 - 0 IF Elfsborg
+AIK 0 - 1 BK Häcken
+AIK 1 - 2 Djurgårdens IF
+AIK 0 - 0 Mjällby AIF
+AIK 2 - 2 IFK Norrköping
+AIK 1 - 2 Örebro SK
+AIK 1 - 2 Hammarby IF
+AIK 1 - 0 IK Sirius
+AIK 1 - 1 Varbergs BoIS
+AIK 0 - 0 IFK Göteborg
+AIK 0 - 0 Östersunds FK
+AIK 1 - 1 Kalmar FF
+AIK 1 - 1 Helsingborgs IF
+AIK 0 - 1 Falkenbergs FF
+IK Sirius 0 - 1 Malmö FF
+IK Sirius 1 - 1 IF Elfsborg
+IK Sirius 1 - 1 BK Häcken
+IK Sirius 1 - 1 Djurgårdens IF
+IK Sirius 1 - 2 Mjällby AIF
+IK Sirius 2 - 0 IFK Norrköping
+IK Sirius 0 - 0 Örebro SK
+IK Sirius 0 - 0 Hammarby IF
+IK Sirius 0 - 1 AIK
+IK Sirius 1 - 0 Varbergs BoIS
+IK Sirius 1 - 1 IFK Göteborg
+IK Sirius 0 - 0 Östersunds FK
+IK Sirius 2 - 0 Kalmar FF
+IK Sirius 2 - 2 Helsingborgs IF
+IK Sirius 1 - 2 Falkenbergs FF
+Varbergs BoIS 0 - 0 Malmö FF
+Varbergs BoIS 2 - 0 IF Elfsborg
+Varbergs BoIS 2 - 1 BK Häcken
+Varbergs BoIS 0 - 0 Djurgårdens IF
+Varbergs BoIS 0 - 0 Mjällby AIF
+Varbergs BoIS 1 - 0 IFK Norrköping
+Varbergs BoIS 1 - 2 Örebro SK
+Varbergs BoIS 2 - 0 Hammarby IF
+Varbergs BoIS 0 - 0 AIK
+Varbergs BoIS 2 - 0 IK Sirius
+Varbergs BoIS 1 - 0 IFK Göteborg
+Varbergs BoIS 0 - 1 Östersunds FK
+Varbergs BoIS 1 - 0 Kalmar FF
+Varbergs BoIS 0 - 1 Helsingborgs IF
+Varbergs BoIS 2 - 0 Falkenbergs FF
+IFK Göteborg 1 - 1 Malmö FF
+IFK Göteborg 1 - 2 IF Elfsborg
+IFK Göteborg 1 - 2 BK Häcken
+IFK Göteborg 0 - 2 Djurgårdens IF
+IFK Göteborg 0 - 2 Mjällby AIF
+IFK Göteborg 0 - 0 IFK Norrköping
+IFK Göteborg 0 - 1 Örebro SK
+IFK Göteborg 2 - 1 Hammarby IF
+IFK Göteborg 1 - 0 AIK
+IFK Göteborg 1 - 2 IK Sirius
+IFK Göteborg 0 - 2 Varbergs BoIS
+IFK Göteborg 0 - 0 Östersunds FK
+IFK Göteborg 0 - 2 Kalmar FF
+IFK Göteborg 2 - 0 Helsingborgs IF
+IFK Göteborg 2 - 2 Falkenbergs FF
+Östersunds FK 0 - 2 Malmö FF
+Östersunds FK 1 - 2 IF Elfsborg
+Östersunds FK 0 - 2 BK Häcken
+Östersunds FK 0 - 2 Djurgårdens IF
+Östersunds FK 2 - 0 Mjällby AIF
+Östersunds FK 2 - 0 IFK Norrköping
+Östersunds FK 1 - 2 Örebro SK
+Östersunds FK 0 - 1 Hammarby IF
+Östersunds FK 1 - 1 AIK
+Östersunds FK 2 - 0 IK Sirius
+Östersunds FK 0 - 2 Varbergs BoIS
+Östersunds FK 2 - 2 IFK Göteborg
+Östersunds FK 0 - 1 Kalmar FF
+Östersunds FK 1 - 1 Helsingborgs IF
+Östersunds FK 1 - 2 Falkenbergs FF
+Kalmar FF 1 - 0 Malmö FF
+Kalmar FF 0 - 1 IF Elfsborg
+Kalmar FF 1 - 1 BK Häcken
+Kalmar FF 1 - 1 Djurgårdens IF
+Kalmar FF 0 - 0 Mjällby AIF
+Kalmar FF 0 - 0 IFK Norrköping
+Kalmar FF 0 - 1 Örebro SK
+Kalmar FF 2 - 2 Hammarby IF
+Kalmar FF 2 - 0 AIK
+Kalmar FF 0 - 1 IK Sirius
+Kalmar FF 0 - 0 Varbergs BoIS
+Kalmar FF 0 - 1 IFK Göteborg
+Kalmar FF 1 - 0 Östersunds FK
+Kalmar FF 1 - 1 Helsingborgs IF
+Kalmar FF 1 - 1 Falkenbergs FF
+Helsingborgs IF 0 - 3 Malmö FF
+Helsingborgs IF 0 - 0 IF Elfsborg
+Helsingborgs IF 0 - 2 BK Häcken
+Helsingborgs IF 0 - 1 Djurgårdens IF
+Helsingborgs IF 0 - 2 Mjällby AIF
+Helsingborgs IF 2 - 0 IFK Norrköping
+Helsingborgs IF 1 - 1 Örebro SK
+Helsingborgs IF 0 - 0 Hammarby IF
+Helsingborgs IF 1 - 1 AIK
+Helsingborgs IF 0 - 0 IK Sirius
+Helsingborgs IF 1 - 0 Varbergs BoIS
+Helsingborgs IF 0 - 0 IFK Göteborg
+Helsingborgs IF 2 - 1 Östersunds FK
+Helsingborgs IF 1 - 1 Kalmar FF
+Helsingborgs IF 1 - 1 Falkenbergs FF
+Falkenbergs FF 1 - 0 Malmö FF
+Falkenbergs FF 2 - 1 IF Elfsborg
+Falkenbergs FF 1 - 0 BK Häcken
+Falkenbergs FF 0 - 0 Djurgårdens IF
+Falkenbergs FF 0 - 3 Mjällby AIF
+Falkenbergs FF 2 - 1 IFK Norrköping
+Falkenbergs FF 2 - 1 Örebro SK
+Falkenbergs FF 1 - 2 Hammarby IF
+Falkenbergs FF 1 - 2 AIK
+Falkenbergs FF 1 - 2 IK Sirius
+Falkenbergs FF 1 - 0 Varbergs BoIS
+Falkenbergs FF 1 - 0 IFK Göteborg
+Falkenbergs FF 2 - 0 Östersunds FK
+Falkenbergs FF 1 - 0 Kalmar FF
+Falkenbergs FF 0 - 1 Helsingborgs IF
+
+#---------------------------------
+#	 Season 105864
+#---------------------------------
+Malmö FF 2 - 1 IF Elfsborg
+Malmö FF 0 - 2 BK Häcken
+Malmö FF 0 - 0 Djurgårdens IF
+Malmö FF 1 - 1 Mjällby AIF
+Malmö FF 2 - 1 IFK Norrköping
+Malmö FF 2 - 1 Örebro SK
+Malmö FF 1 - 1 Hammarby IF
+Malmö FF 2 - 1 AIK
+Malmö FF 2 - 0 IK Sirius
+Malmö FF 3 - 1 Varbergs BoIS
+Malmö FF 1 - 0 IFK Göteborg
+Malmö FF 1 - 0 Östersunds FK
+Malmö FF 1 - 0 Kalmar FF
+Malmö FF 2 - 0 Helsingborgs IF
+Malmö FF 1 - 0 Falkenbergs FF
+IF Elfsborg 2 - 2 Malmö FF
+IF Elfsborg 2 - 0 BK Häcken
+IF Elfsborg 2 - 1 Djurgårdens IF
+IF Elfsborg 1 - 1 Mjällby AIF
+IF Elfsborg 1 - 1 IFK Norrköping
+IF Elfsborg 0 - 1 Örebro SK
+IF Elfsborg 0 - 0 Hammarby IF
+IF Elfsborg 2 - 1 AIK
+IF Elfsborg 1 - 0 IK Sirius
+IF Elfsborg 1 - 2 Varbergs BoIS
+IF Elfsborg 1 - 1 IFK Göteborg
+IF Elfsborg 0 - 1 Östersunds FK
+IF Elfsborg 1 - 1 Kalmar FF
+IF Elfsborg 0 - 1 Helsingborgs IF
+IF Elfsborg 1 - 0 Falkenbergs FF
+BK Häcken 1 - 2 Malmö FF
+BK Häcken 1 - 1 IF Elfsborg
+BK Häcken 1 - 2 Djurgårdens IF
+BK Häcken 1 - 0 Mjällby AIF
+BK Häcken 2 - 0 IFK Norrköping
+BK Häcken 0 - 0 Örebro SK
+BK Häcken 1 - 1 Hammarby IF
+BK Häcken 1 - 0 AIK
+BK Häcken 0 - 0 IK Sirius
+BK Häcken 2 - 1 Varbergs BoIS
+BK Häcken 2 - 1 IFK Göteborg
+BK Häcken 0 - 0 Östersunds FK
+BK Häcken 1 - 0 Kalmar FF
+BK Häcken 1 - 0 Helsingborgs IF
+BK Häcken 2 - 0 Falkenbergs FF
+Djurgårdens IF 0 - 0 Malmö FF
+Djurgårdens IF 0 - 1 IF Elfsborg
+Djurgårdens IF 2 - 0 BK Häcken
+Djurgårdens IF 3 - 1 Mjällby AIF
+Djurgårdens IF 1 - 2 IFK Norrköping
+Djurgårdens IF 0 - 0 Örebro SK
+Djurgårdens IF 1 - 0 Hammarby IF
+Djurgårdens IF 1 - 0 AIK
+Djurgårdens IF 0 - 1 IK Sirius
+Djurgårdens IF 0 - 0 Varbergs BoIS
+Djurgårdens IF 0 - 2 IFK Göteborg
+Djurgårdens IF 2 - 0 Östersunds FK
+Djurgårdens IF 0 - 0 Kalmar FF
+Djurgårdens IF 2 - 2 Helsingborgs IF
+Djurgårdens IF 0 - 0 Falkenbergs FF
+Mjällby AIF 0 - 0 Malmö FF
+Mjällby AIF 1 - 1 IF Elfsborg
+Mjällby AIF 2 - 0 BK Häcken
+Mjällby AIF 2 - 0 Djurgårdens IF
+Mjällby AIF 1 - 0 IFK Norrköping
+Mjällby AIF 0 - 1 Örebro SK
+Mjällby AIF 2 - 2 Hammarby IF
+Mjällby AIF 0 - 1 AIK
+Mjällby AIF 3 - 2 IK Sirius
+Mjällby AIF 2 - 0 Varbergs BoIS
+Mjällby AIF 0 - 2 IFK Göteborg
+Mjällby AIF 1 - 1 Östersunds FK
+Mjällby AIF 3 - 0 Kalmar FF
+Mjällby AIF 0 - 0 Helsingborgs IF
+Mjällby AIF 1 - 2 Falkenbergs FF
+IFK Norrköping 1 - 0 Malmö FF
+IFK Norrköping 1 - 0 IF Elfsborg
+IFK Norrköping 1 - 0 BK Häcken
+IFK Norrköping 2 - 0 Djurgårdens IF
+IFK Norrköping 0 - 1 Mjällby AIF
+IFK Norrköping 1 - 2 Örebro SK
+IFK Norrköping 0 - 0 Hammarby IF
+IFK Norrköping 0 - 1 AIK
+IFK Norrköping 0 - 0 IK Sirius
+IFK Norrköping 2 - 1 Varbergs BoIS
+IFK Norrköping 0 - 0 IFK Göteborg
+IFK Norrköping 0 - 0 Östersunds FK
+IFK Norrköping 0 - 1 Kalmar FF
+IFK Norrköping 2 - 2 Helsingborgs IF
+IFK Norrköping 1 - 1 Falkenbergs FF
+Örebro SK 2 - 3 Malmö FF
+Örebro SK 1 - 2 IF Elfsborg
+Örebro SK 1 - 0 BK Häcken
+Örebro SK 0 - 1 Djurgårdens IF
+Örebro SK 0 - 0 Mjällby AIF
+Örebro SK 2 - 3 IFK Norrköping
+Örebro SK 1 - 0 Hammarby IF
+Örebro SK 1 - 0 AIK
+Örebro SK 1 - 1 IK Sirius
+Örebro SK 0 - 1 Varbergs BoIS
+Örebro SK 0 - 0 IFK Göteborg
+Örebro SK 0 - 1 Östersunds FK
+Örebro SK 2 - 0 Kalmar FF
+Örebro SK 2 - 0 Helsingborgs IF
+Örebro SK 0 - 2 Falkenbergs FF
+Hammarby IF 1 - 3 Malmö FF
+Hammarby IF 1 - 1 IF Elfsborg
+Hammarby IF 1 - 1 BK Häcken
+Hammarby IF 0 - 1 Djurgårdens IF
+Hammarby IF 1 - 0 Mjällby AIF
+Hammarby IF 0 - 1 IFK Norrköping
+Hammarby IF 2 - 1 Örebro SK
+Hammarby IF 1 - 0 AIK
+Hammarby IF 1 - 2 IK Sirius
+Hammarby IF 1 - 2 Varbergs BoIS
+Hammarby IF 2 - 0 IFK Göteborg
+Hammarby IF 1 - 0 Östersunds FK
+Hammarby IF 1 - 2 Kalmar FF
+Hammarby IF 1 - 0 Helsingborgs IF
+Hammarby IF 0 - 0 Falkenbergs FF
+AIK 0 - 0 Malmö FF
+AIK 1 - 1 IF Elfsborg
+AIK 1 - 0 BK Häcken
+AIK 0 - 0 Djurgårdens IF
+AIK 1 - 2 Mjällby AIF
+AIK 0 - 0 IFK Norrköping
+AIK 2 - 0 Örebro SK
+AIK 0 - 1 Hammarby IF
+AIK 1 - 1 IK Sirius
+AIK 0 - 1 Varbergs BoIS
+AIK 2 - 2 IFK Göteborg
+AIK 1 - 0 Östersunds FK
+AIK 2 - 0 Kalmar FF
+AIK 0 - 1 Helsingborgs IF
+AIK 2 - 1 Falkenbergs FF
+IK Sirius 0 - 0 Malmö FF
+IK Sirius 0 - 0 IF Elfsborg
+IK Sirius 0 - 0 BK Häcken
+IK Sirius 2 - 0 Djurgårdens IF
+IK Sirius 0 - 2 Mjällby AIF
+IK Sirius 2 - 1 IFK Norrköping
+IK Sirius 0 - 1 Örebro SK
+IK Sirius 1 - 2 Hammarby IF
+IK Sirius 0 - 1 AIK
+IK Sirius 2 - 2 Varbergs BoIS
+IK Sirius 1 - 2 IFK Göteborg
+IK Sirius 0 - 1 Östersunds FK
+IK Sirius 0 - 0 Kalmar FF
+IK Sirius 1 - 0 Helsingborgs IF
+IK Sirius 1 - 1 Falkenbergs FF
+Varbergs BoIS 1 - 2 Malmö FF
+Varbergs BoIS 0 - 2 IF Elfsborg
+Varbergs BoIS 2 - 0 BK Häcken
+Varbergs BoIS 0 - 2 Djurgårdens IF
+Varbergs BoIS 0 - 0 Mjällby AIF
+Varbergs BoIS 2 - 0 IFK Norrköping
+Varbergs BoIS 1 - 0 Örebro SK
+Varbergs BoIS 2 - 2 Hammarby IF
+Varbergs BoIS 1 - 0 AIK
+Varbergs BoIS 2 - 0 IK Sirius
+Varbergs BoIS 2 - 2 IFK Göteborg
+Varbergs BoIS 2 - 0 Östersunds FK
+Varbergs BoIS 0 - 0 Kalmar FF
+Varbergs BoIS 0 - 1 Helsingborgs IF
+Varbergs BoIS 0 - 0 Falkenbergs FF
+IFK Göteborg 1 - 2 Malmö FF
+IFK Göteborg 1 - 1 IF Elfsborg
+IFK Göteborg 2 - 0 BK Häcken
+IFK Göteborg 0 - 1 Djurgårdens IF
+IFK Göteborg 2 - 1 Mjällby AIF
+IFK Göteborg 1 - 2 IFK Norrköping
+IFK Göteborg 0 - 1 Örebro SK
+IFK Göteborg 0 - 0 Hammarby IF
+IFK Göteborg 0 - 1 AIK
+IFK Göteborg 2 - 1 IK Sirius
+IFK Göteborg 1 - 0 Varbergs BoIS
+IFK Göteborg 1 - 0 Östersunds FK
+IFK Göteborg 1 - 1 Kalmar FF
+IFK Göteborg 0 - 0 Helsingborgs IF
+IFK Göteborg 1 - 1 Falkenbergs FF
+Östersunds FK 1 - 0 Malmö FF
+Östersunds FK 1 - 3 IF Elfsborg
+Östersunds FK 0 - 0 BK Häcken
+Östersunds FK 0 - 0 Djurgårdens IF
+Östersunds FK 0 - 1 Mjällby AIF
+Östersunds FK 1 - 0 IFK Norrköping
+Östersunds FK 0 - 0 Örebro SK
+Östersunds FK 1 - 0 Hammarby IF
+Östersunds FK 1 - 2 AIK
+Östersunds FK 2 - 0 IK Sirius
+Östersunds FK 0 - 1 Varbergs BoIS
+Östersunds FK 0 - 1 IFK Göteborg
+Östersunds FK 1 - 1 Kalmar FF
+Östersunds FK 0 - 1 Helsingborgs IF
+Östersunds FK 2 - 0 Falkenbergs FF
+Kalmar FF 0 - 3 Malmö FF
+Kalmar FF 2 - 0 IF Elfsborg
+Kalmar FF 1 - 1 BK Häcken
+Kalmar FF 1 - 1 Djurgårdens IF
+Kalmar FF 0 - 0 Mjällby AIF
+Kalmar FF 2 - 0 IFK Norrköping
+Kalmar FF 0 - 0 Örebro SK
+Kalmar FF 2 - 0 Hammarby IF
+Kalmar FF 2 - 0 AIK
+Kalmar FF 1 - 1 IK Sirius
+Kalmar FF 0 - 0 Varbergs BoIS
+Kalmar FF 0 - 1 IFK Göteborg
+Kalmar FF 1 - 1 Östersunds FK
+Kalmar FF 0 - 0 Helsingborgs IF
+Kalmar FF 1 - 0 Falkenbergs FF
+Helsingborgs IF 1 - 3 Malmö FF
+Helsingborgs IF 0 - 0 IF Elfsborg
+Helsingborgs IF 1 - 2 BK Häcken
+Helsingborgs IF 0 - 0 Djurgårdens IF
+Helsingborgs IF 1 - 0 Mjällby AIF
+Helsingborgs IF 0 - 0 IFK Norrköping
+Helsingborgs IF 1 - 2 Örebro SK
+Helsingborgs IF 0 - 3 Hammarby IF
+Helsingborgs IF 2 - 2 AIK
+Helsingborgs IF 1 - 1 IK Sirius
+Helsingborgs IF 1 - 0 Varbergs BoIS
+Helsingborgs IF 2 - 1 IFK Göteborg
+Helsingborgs IF 2 - 0 Östersunds FK
+Helsingborgs IF 1 - 1 Kalmar FF
+Helsingborgs IF 1 - 2 Falkenbergs FF
+Falkenbergs FF 0 - 2 Malmö FF
+Falkenbergs FF 0 - 0 IF Elfsborg
+Falkenbergs FF 0 - 3 BK Häcken
+Falkenbergs FF 1 - 0 Djurgårdens IF
+Falkenbergs FF 1 - 0 Mjällby AIF
+Falkenbergs FF 0 - 2 IFK Norrköping
+Falkenbergs FF 1 - 0 Örebro SK
+Falkenbergs FF 0 - 0 Hammarby IF
+Falkenbergs FF 0 - 1 AIK
+Falkenbergs FF 1 - 2 IK Sirius
+Falkenbergs FF 1 - 0 Varbergs BoIS
+Falkenbergs FF 1 - 0 IFK Göteborg
+Falkenbergs FF 1 - 1 Östersunds FK
+Falkenbergs FF 2 - 1 Kalmar FF
+Falkenbergs FF 0 - 1 Helsingborgs IF
+
+#---------------------------------
+#	 Season 107516
+#---------------------------------
+Malmö FF 0 - 0 IF Elfsborg
+Malmö FF 2 - 0 BK Häcken
+Malmö FF 3 - 0 Djurgårdens IF
+Malmö FF 1 - 0 Mjällby AIF
+Malmö FF 2 - 1 IFK Norrköping
+Malmö FF 3 - 1 Örebro SK
+Malmö FF 2 - 0 Hammarby IF
+Malmö FF 1 - 0 AIK
+Malmö FF 2 - 0 IK Sirius
+Malmö FF 2 - 1 Varbergs BoIS
+Malmö FF 0 - 0 IFK Göteborg
+Malmö FF 1 - 0 Östersunds FK
+Malmö FF 2 - 0 Kalmar FF
+Malmö FF 0 - 0 Helsingborgs IF
+Malmö FF 2 - 2 Falkenbergs FF
+IF Elfsborg 1 - 3 Malmö FF
+IF Elfsborg 0 - 0 BK Häcken
+IF Elfsborg 2 - 0 Djurgårdens IF
+IF Elfsborg 1 - 0 Mjällby AIF
+IF Elfsborg 3 - 2 IFK Norrköping
+IF Elfsborg 1 - 0 Örebro SK
+IF Elfsborg 3 - 1 Hammarby IF
+IF Elfsborg 1 - 2 AIK
+IF Elfsborg 2 - 2 IK Sirius
+IF Elfsborg 1 - 1 Varbergs BoIS
+IF Elfsborg 2 - 0 IFK Göteborg
+IF Elfsborg 1 - 0 Östersunds FK
+IF Elfsborg 1 - 1 Kalmar FF
+IF Elfsborg 2 - 1 Helsingborgs IF
+IF Elfsborg 1 - 1 Falkenbergs FF
+BK Häcken 0 - 2 Malmö FF
+BK Häcken 1 - 1 IF Elfsborg
+BK Häcken 0 - 2 Djurgårdens IF
+BK Häcken 2 - 1 Mjällby AIF
+BK Häcken 1 - 0 IFK Norrköping
+BK Häcken 2 - 1 Örebro SK
+BK Häcken 0 - 2 Hammarby IF
+BK Häcken 2 - 0 AIK
+BK Häcken 1 - 2 IK Sirius
+BK Häcken 1 - 1 Varbergs BoIS
+BK Häcken 1 - 0 IFK Göteborg
+BK Häcken 2 - 0 Östersunds FK
+BK Häcken 0 - 0 Kalmar FF
+BK Häcken 0 - 1 Helsingborgs IF
+BK Häcken 1 - 0 Falkenbergs FF
+Djurgårdens IF 0 - 2 Malmö FF
+Djurgårdens IF 1 - 0 IF Elfsborg
+Djurgårdens IF 2 - 1 BK Häcken
+Djurgårdens IF 1 - 0 Mjällby AIF
+Djurgårdens IF 0 - 1 IFK Norrköping
+Djurgårdens IF 0 - 0 Örebro SK
+Djurgårdens IF 1 - 1 Hammarby IF
+Djurgårdens IF 1 - 0 AIK
+Djurgårdens IF 2 - 2 IK Sirius
+Djurgårdens IF 1 - 0 Varbergs BoIS
+Djurgårdens IF 0 - 2 IFK Göteborg
+Djurgårdens IF 0 - 1 Östersunds FK
+Djurgårdens IF 0 - 1 Kalmar FF
+Djurgårdens IF 0 - 1 Helsingborgs IF
+Djurgårdens IF 2 - 1 Falkenbergs FF
+Mjällby AIF 1 - 0 Malmö FF
+Mjällby AIF 2 - 1 IF Elfsborg
+Mjällby AIF 2 - 0 BK Häcken
+Mjällby AIF 0 - 3 Djurgårdens IF
+Mjällby AIF 0 - 1 IFK Norrköping
+Mjällby AIF 2 - 0 Örebro SK
+Mjällby AIF 2 - 2 Hammarby IF
+Mjällby AIF 1 - 0 AIK
+Mjällby AIF 2 - 1 IK Sirius
+Mjällby AIF 0 - 2 Varbergs BoIS
+Mjällby AIF 1 - 1 IFK Göteborg
+Mjällby AIF 0 - 0 Östersunds FK
+Mjällby AIF 0 - 0 Kalmar FF
+Mjällby AIF 1 - 2 Helsingborgs IF
+Mjällby AIF 0 - 0 Falkenbergs FF
+IFK Norrköping 0 - 2 Malmö FF
+IFK Norrköping 1 - 1 IF Elfsborg
+IFK Norrköping 2 - 0 BK Häcken
+IFK Norrköping 1 - 0 Djurgårdens IF
+IFK Norrköping 1 - 1 Mjällby AIF
+IFK Norrköping 0 - 2 Örebro SK
+IFK Norrköping 2 - 2 Hammarby IF
+IFK Norrköping 1 - 1 AIK
+IFK Norrköping 0 - 1 IK Sirius
+IFK Norrköping 0 - 0 Varbergs BoIS
+IFK Norrköping 3 - 2 IFK Göteborg
+IFK Norrköping 1 - 2 Östersunds FK
+IFK Norrköping 1 - 0 Kalmar FF
+IFK Norrköping 3 - 1 Helsingborgs IF
+IFK Norrköping 1 - 1 Falkenbergs FF
+Örebro SK 1 - 0 Malmö FF
+Örebro SK 2 - 0 IF Elfsborg
+Örebro SK 0 - 0 BK Häcken
+Örebro SK 1 - 0 Djurgårdens IF
+Örebro SK 2 - 1 Mjällby AIF
+Örebro SK 1 - 2 IFK Norrköping
+Örebro SK 2 - 2 Hammarby IF
+Örebro SK 1 - 1 AIK
+Örebro SK 1 - 0 IK Sirius
+Örebro SK 2 - 0 Varbergs BoIS
+Örebro SK 0 - 0 IFK Göteborg
+Örebro SK 1 - 1 Östersunds FK
+Örebro SK 0 - 1 Kalmar FF
+Örebro SK 1 - 1 Helsingborgs IF
+Örebro SK 0 - 1 Falkenbergs FF
+Hammarby IF 0 - 2 Malmö FF
+Hammarby IF 2 - 2 IF Elfsborg
+Hammarby IF 2 - 2 BK Häcken
+Hammarby IF 2 - 2 Djurgårdens IF
+Hammarby IF 2 - 0 Mjällby AIF
+Hammarby IF 0 - 3 IFK Norrköping
+Hammarby IF 1 - 2 Örebro SK
+Hammarby IF 1 - 0 AIK
+Hammarby IF 3 - 1 IK Sirius
+Hammarby IF 1 - 1 Varbergs BoIS
+Hammarby IF 1 - 2 IFK Göteborg
+Hammarby IF 1 - 2 Östersunds FK
+Hammarby IF 1 - 1 Kalmar FF
+Hammarby IF 1 - 0 Helsingborgs IF
+Hammarby IF 3 - 1 Falkenbergs FF
+AIK 1 - 0 Malmö FF
+AIK 0 - 0 IF Elfsborg
+AIK 0 - 2 BK Häcken
+AIK 0 - 2 Djurgårdens IF
+AIK 2 - 1 Mjällby AIF
+AIK 2 - 2 IFK Norrköping
+AIK 1 - 1 Örebro SK
+AIK 0 - 0 Hammarby IF
+AIK 2 - 2 IK Sirius
+AIK 0 - 0 Varbergs BoIS
+AIK 1 - 2 IFK Göteborg
+AIK 0 - 1 Östersunds FK
+AIK 0 - 0 Kalmar FF
+AIK 0 - 1 Helsingborgs IF
+AIK 0 - 0 Falkenbergs FF
+IK Sirius 0 - 2 Malmö FF
+IK Sirius 2 - 3 IF Elfsborg
+IK Sirius 1 - 2 BK Häcken
+IK Sirius 2 - 0 Djurgårdens IF
+IK Sirius 1 - 2 Mjällby AIF
+IK Sirius 2 - 0 IFK Norrköping
+IK Sirius 1 - 2 Örebro SK
+IK Sirius 2 - 2 Hammarby IF
+IK Sirius 0 - 2 AIK
+IK Sirius 2 - 1 Varbergs BoIS
+IK Sirius 2 - 2 IFK Göteborg
+IK Sirius 2 - 2 Östersunds FK
+IK Sirius 0 - 2 Kalmar FF
+IK Sirius 2 - 1 Helsingborgs IF
+IK Sirius 0 - 0 Falkenbergs FF
+Varbergs BoIS 1 - 1 Malmö FF
+Varbergs BoIS 1 - 1 IF Elfsborg
+Varbergs BoIS 0 - 0 BK Häcken
+Varbergs BoIS 2 - 1 Djurgårdens IF
+Varbergs BoIS 1 - 1 Mjällby AIF
+Varbergs BoIS 0 - 2 IFK Norrköping
+Varbergs BoIS 1 - 1 Örebro SK
+Varbergs BoIS 0 - 1 Hammarby IF
+Varbergs BoIS 0 - 1 AIK
+Varbergs BoIS 2 - 1 IK Sirius
+Varbergs BoIS 0 - 0 IFK Göteborg
+Varbergs BoIS 0 - 1 Östersunds FK
+Varbergs BoIS 1 - 1 Kalmar FF
+Varbergs BoIS 2 - 2 Helsingborgs IF
+Varbergs BoIS 2 - 1 Falkenbergs FF
+IFK Göteborg 0 - 0 Malmö FF
+IFK Göteborg 0 - 1 IF Elfsborg
+IFK Göteborg 1 - 1 BK Häcken
+IFK Göteborg 1 - 2 Djurgårdens IF
+IFK Göteborg 0 - 2 Mjällby AIF
+IFK Göteborg 1 - 2 IFK Norrköping
+IFK Göteborg 1 - 0 Örebro SK
+IFK Göteborg 0 - 0 Hammarby IF
+IFK Göteborg 0 - 0 AIK
+IFK Göteborg 2 - 2 IK Sirius
+IFK Göteborg 1 - 0 Varbergs BoIS
+IFK Göteborg 2 - 1 Östersunds FK
+IFK Göteborg 0 - 0 Kalmar FF
+IFK Göteborg 0 - 1 Helsingborgs IF
+IFK Göteborg 0 - 1 Falkenbergs FF
+Östersunds FK 0 - 3 Malmö FF
+Östersunds FK 1 - 2 IF Elfsborg
+Östersunds FK 0 - 2 BK Häcken
+Östersunds FK 1 - 0 Djurgårdens IF
+Östersunds FK 1 - 1 Mjällby AIF
+Östersunds FK 2 - 1 IFK Norrköping
+Östersunds FK 0 - 0 Örebro SK
+Östersunds FK 1 - 0 Hammarby IF
+Östersunds FK 1 - 1 AIK
+Östersunds FK 1 - 1 IK Sirius
+Östersunds FK 0 - 2 Varbergs BoIS
+Östersunds FK 0 - 2 IFK Göteborg
+Östersunds FK 0 - 2 Kalmar FF
+Östersunds FK 1 - 1 Helsingborgs IF
+Östersunds FK 0 - 1 Falkenbergs FF
+Kalmar FF 0 - 2 Malmö FF
+Kalmar FF 2 - 1 IF Elfsborg
+Kalmar FF 1 - 2 BK Häcken
+Kalmar FF 2 - 2 Djurgårdens IF
+Kalmar FF 0 - 1 Mjällby AIF
+Kalmar FF 1 - 3 IFK Norrköping
+Kalmar FF 1 - 0 Örebro SK
+Kalmar FF 2 - 0 Hammarby IF
+Kalmar FF 1 - 2 AIK
+Kalmar FF 2 - 2 IK Sirius
+Kalmar FF 1 - 1 Varbergs BoIS
+Kalmar FF 0 - 1 IFK Göteborg
+Kalmar FF 0 - 1 Östersunds FK
+Kalmar FF 1 - 2 Helsingborgs IF
+Kalmar FF 2 - 0 Falkenbergs FF
+Helsingborgs IF 1 - 0 Malmö FF
+Helsingborgs IF 1 - 0 IF Elfsborg
+Helsingborgs IF 0 - 0 BK Häcken
+Helsingborgs IF 0 - 2 Djurgårdens IF
+Helsingborgs IF 1 - 0 Mjällby AIF
+Helsingborgs IF 0 - 0 IFK Norrköping
+Helsingborgs IF 1 - 0 Örebro SK
+Helsingborgs IF 2 - 1 Hammarby IF
+Helsingborgs IF 0 - 2 AIK
+Helsingborgs IF 2 - 2 IK Sirius
+Helsingborgs IF 2 - 1 Varbergs BoIS
+Helsingborgs IF 1 - 1 IFK Göteborg
+Helsingborgs IF 0 - 1 Östersunds FK
+Helsingborgs IF 1 - 0 Kalmar FF
+Helsingborgs IF 0 - 0 Falkenbergs FF
+Falkenbergs FF 2 - 0 Malmö FF
+Falkenbergs FF 2 - 3 IF Elfsborg
+Falkenbergs FF 1 - 1 BK Häcken
+Falkenbergs FF 0 - 0 Djurgårdens IF
+Falkenbergs FF 2 - 2 Mjällby AIF
+Falkenbergs FF 2 - 1 IFK Norrköping
+Falkenbergs FF 0 - 2 Örebro SK
+Falkenbergs FF 1 - 1 Hammarby IF
+Falkenbergs FF 0 - 0 AIK
+Falkenbergs FF 2 - 2 IK Sirius
+Falkenbergs FF 0 - 2 Varbergs BoIS
+Falkenbergs FF 0 - 0 IFK Göteborg
+Falkenbergs FF 0 - 2 Östersunds FK
+Falkenbergs FF 1 - 0 Kalmar FF
+Falkenbergs FF 0 - 1 Helsingborgs IF
+
+#---------------------------------
+#	 Season 139487
+#---------------------------------
+Malmö FF 1 - 2 IF Elfsborg
+Malmö FF 1 - 2 BK Häcken
+Malmö FF 0 - 2 Djurgårdens IF
+Malmö FF 2 - 2 Mjällby AIF
+Malmö FF 1 - 1 IFK Norrköping
+Malmö FF 2 - 2 Örebro SK
+Malmö FF 0 - 1 Hammarby IF
+Malmö FF 1 - 1 AIK
+Malmö FF 0 - 2 IK Sirius
+Malmö FF 2 - 1 Varbergs BoIS
+Malmö FF 1 - 1 IFK Göteborg
+Malmö FF 3 - 0 Östersunds FK
+Malmö FF 2 - 1 Kalmar FF
+Malmö FF 0 - 0 Helsingborgs IF
+Malmö FF 3 - 0 Falkenbergs FF
+IF Elfsborg 1 - 0 Malmö FF
+IF Elfsborg 1 - 2 BK Häcken
+IF Elfsborg 2 - 1 Djurgårdens IF
+IF Elfsborg 1 - 1 Mjällby AIF
+IF Elfsborg 3 - 1 IFK Norrköping
+IF Elfsborg 1 - 1 Örebro SK
+IF Elfsborg 0 - 0 Hammarby IF
+IF Elfsborg 1 - 1 AIK
+IF Elfsborg 0 - 1 IK Sirius
+IF Elfsborg 2 - 2 Varbergs BoIS
+IF Elfsborg 1 - 1 IFK Göteborg
+IF Elfsborg 1 - 0 Östersunds FK
+IF Elfsborg 2 - 1 Kalmar FF
+IF Elfsborg 3 - 0 Helsingborgs IF
+IF Elfsborg 0 - 1 Falkenbergs FF
+BK Häcken 1 - 1 Malmö FF
+BK Häcken 2 - 0 IF Elfsborg
+BK Häcken 0 - 1 Djurgårdens IF
+BK Häcken 1 - 0 Mjällby AIF
+BK Häcken 1 - 0 IFK Norrköping
+BK Häcken 2 - 1 Örebro SK
+BK Häcken 2 - 0 Hammarby IF
+BK Häcken 0 - 1 AIK
+BK Häcken 1 - 2 IK Sirius
+BK Häcken 1 - 0 Varbergs BoIS
+BK Häcken 1 - 0 IFK Göteborg
+BK Häcken 2 - 1 Östersunds FK
+BK Häcken 1 - 1 Kalmar FF
+BK Häcken 2 - 0 Helsingborgs IF
+BK Häcken 1 - 0 Falkenbergs FF
+Djurgårdens IF 0 - 0 Malmö FF
+Djurgårdens IF 0 - 1 IF Elfsborg
+Djurgårdens IF 1 - 0 BK Häcken
+Djurgårdens IF 2 - 0 Mjällby AIF
+Djurgårdens IF 0 - 2 IFK Norrköping
+Djurgårdens IF 0 - 2 Örebro SK
+Djurgårdens IF 0 - 1 Hammarby IF
+Djurgårdens IF 2 - 1 AIK
+Djurgårdens IF 2 - 0 IK Sirius
+Djurgårdens IF 1 - 2 Varbergs BoIS
+Djurgårdens IF 1 - 0 IFK Göteborg
+Djurgårdens IF 2 - 1 Östersunds FK
+Djurgårdens IF 2 - 0 Kalmar FF
+Djurgårdens IF 2 - 1 Helsingborgs IF
+Djurgårdens IF 2 - 0 Falkenbergs FF
+Mjällby AIF 0 - 1 Malmö FF
+Mjällby AIF 2 - 1 IF Elfsborg
+Mjällby AIF 2 - 2 BK Häcken
+Mjällby AIF 1 - 1 Djurgårdens IF
+Mjällby AIF 1 - 3 IFK Norrköping
+Mjällby AIF 2 - 1 Örebro SK
+Mjällby AIF 2 - 1 Hammarby IF
+Mjällby AIF 0 - 1 AIK
+Mjällby AIF 1 - 0 IK Sirius
+Mjällby AIF 0 - 1 Varbergs BoIS
+Mjällby AIF 0 - 1 IFK Göteborg
+Mjällby AIF 2 - 1 Östersunds FK
+Mjällby AIF 1 - 0 Kalmar FF
+Mjällby AIF 1 - 0 Helsingborgs IF
+Mjällby AIF 2 - 0 Falkenbergs FF
+IFK Norrköping 1 - 2 Malmö FF
+IFK Norrköping 0 - 2 IF Elfsborg
+IFK Norrköping 2 - 2 BK Häcken
+IFK Norrköping 0 - 1 Djurgårdens IF
+IFK Norrköping 2 - 0 Mjällby AIF
+IFK Norrköping 1 - 0 Örebro SK
+IFK Norrköping 2 - 1 Hammarby IF
+IFK Norrköping 2 - 0 AIK
+IFK Norrköping 1 - 1 IK Sirius
+IFK Norrköping 2 - 0 Varbergs BoIS
+IFK Norrköping 2 - 1 IFK Göteborg
+IFK Norrköping 2 - 0 Östersunds FK
+IFK Norrköping 3 - 1 Kalmar FF
+IFK Norrköping 1 - 1 Helsingborgs IF
+IFK Norrköping 3 - 1 Falkenbergs FF
+Örebro SK 0 - 0 Malmö FF
+Örebro SK 2 - 0 IF Elfsborg
+Örebro SK 1 - 0 BK Häcken
+Örebro SK 0 - 2 Djurgårdens IF
+Örebro SK 1 - 1 Mjällby AIF
+Örebro SK 1 - 3 IFK Norrköping
+Örebro SK 1 - 2 Hammarby IF
+Örebro SK 2 - 2 AIK
+Örebro SK 2 - 1 IK Sirius
+Örebro SK 1 - 1 Varbergs BoIS
+Örebro SK 2 - 2 IFK Göteborg
+Örebro SK 1 - 0 Östersunds FK
+Örebro SK 1 - 2 Kalmar FF
+Örebro SK 2 - 2 Helsingborgs IF
+Örebro SK 2 - 0 Falkenbergs FF
+Hammarby IF 0 - 2 Malmö FF
+Hammarby IF 1 - 0 IF Elfsborg
+Hammarby IF 2 - 1 BK Häcken
+Hammarby IF 1 - 1 Djurgårdens IF
+Hammarby IF 2 - 2 Mjällby AIF
+Hammarby IF 2 - 1 IFK Norrköping
+Hammarby IF 2 - 1 Örebro SK
+Hammarby IF 1 - 2 AIK
+Hammarby IF 2 - 2 IK Sirius
+Hammarby IF 1 - 0 Varbergs BoIS
+Hammarby IF 2 - 0 IFK Göteborg
+Hammarby IF 2 - 0 Östersunds FK
+Hammarby IF 2 - 0 Kalmar FF
+Hammarby IF 1 - 1 Helsingborgs IF
+Hammarby IF 2 - 1 Falkenbergs FF
+AIK 0 - 0 Malmö FF
+AIK 0 - 1 IF Elfsborg
+AIK 0 - 2 BK Häcken
+AIK 0 - 1 Djurgårdens IF
+AIK 2 - 1 Mjällby AIF
+AIK 1 - 0 IFK Norrköping
+AIK 1 - 1 Örebro SK
+AIK 1 - 1 Hammarby IF
+AIK 0 - 0 IK Sirius
+AIK 1 - 1 Varbergs BoIS
+AIK 0 - 0 IFK Göteborg
+AIK 1 - 1 Östersunds FK
+AIK 1 - 0 Kalmar FF
+AIK 2 - 0 Helsingborgs IF
+AIK 1 - 1 Falkenbergs FF
+IK Sirius 2 - 3 Malmö FF
+IK Sirius 2 - 0 IF Elfsborg
+IK Sirius 1 - 1 BK Häcken
+IK Sirius 0 - 1 Djurgårdens IF
+IK Sirius 0 - 3 Mjällby AIF
+IK Sirius 2 - 1 IFK Norrköping
+IK Sirius 0 - 2 Örebro SK
+IK Sirius 1 - 1 Hammarby IF
+IK Sirius 0 - 0 AIK
+IK Sirius 1 - 0 Varbergs BoIS
+IK Sirius 0 - 0 IFK Göteborg
+IK Sirius 2 - 0 Östersunds FK
+IK Sirius 1 - 0 Kalmar FF
+IK Sirius 2 - 0 Helsingborgs IF
+IK Sirius 2 - 2 Falkenbergs FF
+Varbergs BoIS 0 - 2 Malmö FF
+Varbergs BoIS 2 - 1 IF Elfsborg
+Varbergs BoIS 1 - 1 BK Häcken
+Varbergs BoIS 0 - 1 Djurgårdens IF
+Varbergs BoIS 0 - 0 Mjällby AIF
+Varbergs BoIS 0 - 2 IFK Norrköping
+Varbergs BoIS 2 - 1 Örebro SK
+Varbergs BoIS 2 - 1 Hammarby IF
+Varbergs BoIS 0 - 1 AIK
+Varbergs BoIS 1 - 2 IK Sirius
+Varbergs BoIS 2 - 1 IFK Göteborg
+Varbergs BoIS 2 - 0 Östersunds FK
+Varbergs BoIS 0 - 1 Kalmar FF
+Varbergs BoIS 0 - 1 Helsingborgs IF
+Varbergs BoIS 2 - 1 Falkenbergs FF
+IFK Göteborg 1 - 0 Malmö FF
+IFK Göteborg 1 - 0 IF Elfsborg
+IFK Göteborg 1 - 2 BK Häcken
+IFK Göteborg 1 - 1 Djurgårdens IF
+IFK Göteborg 0 - 2 Mjällby AIF
+IFK Göteborg 0 - 2 IFK Norrköping
+IFK Göteborg 0 - 0 Örebro SK
+IFK Göteborg 0 - 1 Hammarby IF
+IFK Göteborg 0 - 0 AIK
+IFK Göteborg 1 - 2 IK Sirius
+IFK Göteborg 0 - 2 Varbergs BoIS
+IFK Göteborg 2 - 0 Östersunds FK
+IFK Göteborg 0 - 0 Kalmar FF
+IFK Göteborg 2 - 1 Helsingborgs IF
+IFK Göteborg 0 - 0 Falkenbergs FF
+Östersunds FK 1 - 2 Malmö FF
+Östersunds FK 1 - 2 IF Elfsborg
+Östersunds FK 0 - 2 BK Häcken
+Östersunds FK 0 - 1 Djurgårdens IF
+Östersunds FK 1 - 2 Mjällby AIF
+Östersunds FK 0 - 1 IFK Norrköping
+Östersunds FK 1 - 1 Örebro SK
+Östersunds FK 1 - 3 Hammarby IF
+Östersunds FK 1 - 1 AIK
+Östersunds FK 0 - 2 IK Sirius
+Östersunds FK 0 - 2 Varbergs BoIS
+Östersunds FK 0 - 2 IFK Göteborg
+Östersunds FK 0 - 2 Kalmar FF
+Östersunds FK 1 - 1 Helsingborgs IF
+Östersunds FK 0 - 1 Falkenbergs FF
+Kalmar FF 1 - 2 Malmö FF
+Kalmar FF 0 - 0 IF Elfsborg
+Kalmar FF 0 - 1 BK Häcken
+Kalmar FF 1 - 1 Djurgårdens IF
+Kalmar FF 2 - 0 Mjällby AIF
+Kalmar FF 0 - 2 IFK Norrköping
+Kalmar FF 0 - 1 Örebro SK
+Kalmar FF 1 - 2 Hammarby IF
+Kalmar FF 0 - 0 AIK
+Kalmar FF 0 - 0 IK Sirius
+Kalmar FF 1 - 1 Varbergs BoIS
+Kalmar FF 1 - 1 IFK Göteborg
+Kalmar FF 2 - 1 Östersunds FK
+Kalmar FF 0 - 0 Helsingborgs IF
+Kalmar FF 1 - 1 Falkenbergs FF
+Helsingborgs IF 1 - 2 Malmö FF
+Helsingborgs IF 1 - 0 IF Elfsborg
+Helsingborgs IF 1 - 1 BK Häcken
+Helsingborgs IF 0 - 1 Djurgårdens IF
+Helsingborgs IF 0 - 0 Mjällby AIF
+Helsingborgs IF 0 - 0 IFK Norrköping
+Helsingborgs IF 1 - 0 Örebro SK
+Helsingborgs IF 1 - 1 Hammarby IF
+Helsingborgs IF 1 - 2 AIK
+Helsingborgs IF 0 - 1 IK Sirius
+Helsingborgs IF 0 - 0 Varbergs BoIS
+Helsingborgs IF 0 - 0 IFK Göteborg
+Helsingborgs IF 2 - 1 Östersunds FK
+Helsingborgs IF 0 - 2 Kalmar FF
+Helsingborgs IF 0 - 1 Falkenbergs FF
+Falkenbergs FF 0 - 3 Malmö FF
+Falkenbergs FF 2 - 1 IF Elfsborg
+Falkenbergs FF 1 - 1 BK Häcken
+Falkenbergs FF 0 - 0 Djurgårdens IF
+Falkenbergs FF 1 - 0 Mjällby AIF
+Falkenbergs FF 1 - 0 IFK Norrköping
+Falkenbergs FF 2 - 0 Örebro SK
+Falkenbergs FF 0 - 1 Hammarby IF
+Falkenbergs FF 1 - 0 AIK
+Falkenbergs FF 2 - 1 IK Sirius
+Falkenbergs FF 2 - 1 Varbergs BoIS
+Falkenbergs FF 2 - 2 IFK Göteborg
+Falkenbergs FF 0 - 0 Östersunds FK
+Falkenbergs FF 1 - 1 Kalmar FF
+Falkenbergs FF 1 - 0 Helsingborgs IF
+
+#---------------------------------
+#	 Season 142042
+#---------------------------------
+Malmö FF 2 - 0 IF Elfsborg
+Malmö FF 1 - 1 BK Häcken
+Malmö FF 2 - 1 Djurgårdens IF
+Malmö FF 1 - 2 Mjällby AIF
+Malmö FF 2 - 1 IFK Norrköping
+Malmö FF 1 - 1 Örebro SK
+Malmö FF 2 - 2 Hammarby IF
+Malmö FF 1 - 1 AIK
+Malmö FF 0 - 2 IK Sirius
+Malmö FF 3 - 0 Varbergs BoIS
+Malmö FF 0 - 1 IFK Göteborg
+Malmö FF 1 - 0 Östersunds FK
+Malmö FF 0 - 0 Kalmar FF
+Malmö FF 2 - 0 Helsingborgs IF
+Malmö FF 1 - 1 Falkenbergs FF
+IF Elfsborg 0 - 0 Malmö FF
+IF Elfsborg 1 - 0 BK Häcken
+IF Elfsborg 2 - 2 Djurgårdens IF
+IF Elfsborg 1 - 1 Mjällby AIF
+IF Elfsborg 1 - 2 IFK Norrköping
+IF Elfsborg 1 - 1 Örebro SK
+IF Elfsborg 2 - 1 Hammarby IF
+IF Elfsborg 1 - 0 AIK
+IF Elfsborg 2 - 0 IK Sirius
+IF Elfsborg 1 - 2 Varbergs BoIS
+IF Elfsborg 1 - 0 IFK Göteborg
+IF Elfsborg 3 - 1 Östersunds FK
+IF Elfsborg 2 - 0 Kalmar FF
+IF Elfsborg 2 - 0 Helsingborgs IF
+IF Elfsborg 0 - 1 Falkenbergs FF
+BK Häcken 1 - 2 Malmö FF
+BK Häcken 1 - 2 IF Elfsborg
+BK Häcken 1 - 0 Djurgårdens IF
+BK Häcken 1 - 1 Mjällby AIF
+BK Häcken 0 - 2 IFK Norrköping
+BK Häcken 0 - 1 Örebro SK
+BK Häcken 1 - 0 Hammarby IF
+BK Häcken 1 - 0 AIK
+BK Häcken 2 - 1 IK Sirius
+BK Häcken 2 - 0 Varbergs BoIS
+BK Häcken 0 - 1 IFK Göteborg
+BK Häcken 2 - 0 Östersunds FK
+BK Häcken 0 - 1 Kalmar FF
+BK Häcken 0 - 1 Helsingborgs IF
+BK Häcken 1 - 1 Falkenbergs FF
+Djurgårdens IF 0 - 0 Malmö FF
+Djurgårdens IF 0 - 2 IF Elfsborg
+Djurgårdens IF 2 - 2 BK Häcken
+Djurgårdens IF 0 - 2 Mjällby AIF
+Djurgårdens IF 0 - 0 IFK Norrköping
+Djurgårdens IF 2 - 0 Örebro SK
+Djurgårdens IF 0 - 2 Hammarby IF
+Djurgårdens IF 2 - 1 AIK
+Djurgårdens IF 0 - 1 IK Sirius
+Djurgårdens IF 1 - 1 Varbergs BoIS
+Djurgårdens IF 0 - 0 IFK Göteborg
+Djurgårdens IF 0 - 0 Östersunds FK
+Djurgårdens IF 1 - 0 Kalmar FF
+Djurgårdens IF 0 - 2 Helsingborgs IF
+Djurgårdens IF 2 - 1 Falkenbergs FF
+Mjällby AIF 0 - 2 Malmö FF
+Mjällby AIF 0 - 1 IF Elfsborg
+Mjällby AIF 1 - 2 BK Häcken
+Mjällby AIF 1 - 1 Djurgårdens IF
+Mjällby AIF 0 - 1 IFK Norrköping
+Mjällby AIF 1 - 2 Örebro SK
+Mjällby AIF 1 - 2 Hammarby IF
+Mjällby AIF 0 - 1 AIK
+Mjällby AIF 1 - 2 IK Sirius
+Mjällby AIF 1 - 1 Varbergs BoIS
+Mjällby AIF 2 - 1 IFK Göteborg
+Mjällby AIF 0 - 2 Östersunds FK
+Mjällby AIF 0 - 2 Kalmar FF
+Mjällby AIF 0 - 0 Helsingborgs IF
+Mjällby AIF 1 - 1 Falkenbergs FF
+IFK Norrköping 2 - 0 Malmö FF
+IFK Norrköping 0 - 1 IF Elfsborg
+IFK Norrköping 0 - 0 BK Häcken
+IFK Norrköping 0 - 1 Djurgårdens IF
+IFK Norrköping 0 - 3 Mjällby AIF
+IFK Norrköping 0 - 1 Örebro SK
+IFK Norrköping 1 - 2 Hammarby IF
+IFK Norrköping 0 - 0 AIK
+IFK Norrköping 1 - 0 IK Sirius
+IFK Norrköping 2 - 2 Varbergs BoIS
+IFK Norrköping 2 - 0 IFK Göteborg
+IFK Norrköping 1 - 0 Östersunds FK
+IFK Norrköping 0 - 1 Kalmar FF
+IFK Norrköping 1 - 0 Helsingborgs IF
+IFK Norrköping 0 - 2 Falkenbergs FF
+Örebro SK 1 - 1 Malmö FF
+Örebro SK 2 - 1 IF Elfsborg
+Örebro SK 1 - 0 BK Häcken
+Örebro SK 1 - 0 Djurgårdens IF
+Örebro SK 2 - 0 Mjällby AIF
+Örebro SK 1 - 3 IFK Norrköping
+Örebro SK 1 - 1 Hammarby IF
+Örebro SK 0 - 0 AIK
+Örebro SK 0 - 1 IK Sirius
+Örebro SK 2 - 2 Varbergs BoIS
+Örebro SK 1 - 1 IFK Göteborg
+Örebro SK 0 - 1 Östersunds FK
+Örebro SK 0 - 1 Kalmar FF
+Örebro SK 2 - 2 Helsingborgs IF
+Örebro SK 1 - 1 Falkenbergs FF
+Hammarby IF 1 - 0 Malmö FF
+Hammarby IF 0 - 1 IF Elfsborg
+Hammarby IF 0 - 2 BK Häcken
+Hammarby IF 1 - 0 Djurgårdens IF
+Hammarby IF 0 - 2 Mjällby AIF
+Hammarby IF 1 - 0 IFK Norrköping
+Hammarby IF 1 - 1 Örebro SK
+Hammarby IF 0 - 1 AIK
+Hammarby IF 1 - 2 IK Sirius
+Hammarby IF 0 - 2 Varbergs BoIS
+Hammarby IF 1 - 2 IFK Göteborg
+Hammarby IF 1 - 0 Östersunds FK
+Hammarby IF 1 - 0 Kalmar FF
+Hammarby IF 1 - 0 Helsingborgs IF
+Hammarby IF 1 - 0 Falkenbergs FF
+AIK 1 - 2 Malmö FF
+AIK 2 - 0 IF Elfsborg
+AIK 0 - 1 BK Häcken
+AIK 1 - 0 Djurgårdens IF
+AIK 1 - 0 Mjällby AIF
+AIK 1 - 0 IFK Norrköping
+AIK 0 - 0 Örebro SK
+AIK 0 - 0 Hammarby IF
+AIK 0 - 1 IK Sirius
+AIK 0 - 1 Varbergs BoIS
+AIK 0 - 0 IFK Göteborg
+AIK 1 - 1 Östersunds FK
+AIK 0 - 1 Kalmar FF
+AIK 1 - 0 Helsingborgs IF
+AIK 2 - 0 Falkenbergs FF
+IK Sirius 1 - 0 Malmö FF
+IK Sirius 1 - 0 IF Elfsborg
+IK Sirius 0 - 2 BK Häcken
+IK Sirius 0 - 0 Djurgårdens IF
+IK Sirius 0 - 2 Mjällby AIF
+IK Sirius 0 - 0 IFK Norrköping
+IK Sirius 0 - 2 Örebro SK
+IK Sirius 0 - 1 Hammarby IF
+IK Sirius 1 - 0 AIK
+IK Sirius 2 - 0 Varbergs BoIS
+IK Sirius 2 - 2 IFK Göteborg
+IK Sirius 0 - 2 Östersunds FK
+IK Sirius 2 - 1 Kalmar FF
+IK Sirius 0 - 1 Helsingborgs IF
+IK Sirius 0 - 1 Falkenbergs FF
+Varbergs BoIS 2 - 2 Malmö FF
+Varbergs BoIS 0 - 1 IF Elfsborg
+Varbergs BoIS 2 - 0 BK Häcken
+Varbergs BoIS 0 - 1 Djurgårdens IF
+Varbergs BoIS 2 - 1 Mjällby AIF
+Varbergs BoIS 2 - 0 IFK Norrköping
+Varbergs BoIS 1 - 1 Örebro SK
+Varbergs BoIS 1 - 0 Hammarby IF
+Varbergs BoIS 2 - 1 AIK
+Varbergs BoIS 0 - 1 IK Sirius
+Varbergs BoIS 1 - 0 IFK Göteborg
+Varbergs BoIS 0 - 1 Östersunds FK
+Varbergs BoIS 0 - 1 Kalmar FF
+Varbergs BoIS 0 - 1 Helsingborgs IF
+Varbergs BoIS 0 - 1 Falkenbergs FF
+IFK Göteborg 1 - 0 Malmö FF
+IFK Göteborg 2 - 1 IF Elfsborg
+IFK Göteborg 2 - 1 BK Häcken
+IFK Göteborg 1 - 2 Djurgårdens IF
+IFK Göteborg 0 - 2 Mjällby AIF
+IFK Göteborg 0 - 0 IFK Norrköping
+IFK Göteborg 1 - 0 Örebro SK
+IFK Göteborg 1 - 2 Hammarby IF
+IFK Göteborg 0 - 1 AIK
+IFK Göteborg 1 - 1 IK Sirius
+IFK Göteborg 1 - 1 Varbergs BoIS
+IFK Göteborg 0 - 1 Östersunds FK
+IFK Göteborg 0 - 1 Kalmar FF
+IFK Göteborg 1 - 1 Helsingborgs IF
+IFK Göteborg 0 - 0 Falkenbergs FF
+Östersunds FK 0 - 2 Malmö FF
+Östersunds FK 0 - 0 IF Elfsborg
+Östersunds FK 0 - 2 BK Häcken
+Östersunds FK 0 - 2 Djurgårdens IF
+Östersunds FK 1 - 0 Mjällby AIF
+Östersunds FK 1 - 0 IFK Norrköping
+Östersunds FK 1 - 0 Örebro SK
+Östersunds FK 1 - 0 Hammarby IF
+Östersunds FK 1 - 1 AIK
+Östersunds FK 0 - 1 IK Sirius
+Östersunds FK 0 - 2 Varbergs BoIS
+Östersunds FK 0 - 1 IFK Göteborg
+Östersunds FK 0 - 2 Kalmar FF
+Östersunds FK 2 - 0 Helsingborgs IF
+Östersunds FK 0 - 1 Falkenbergs FF
+Kalmar FF 1 - 0 Malmö FF
+Kalmar FF 1 - 2 IF Elfsborg
+Kalmar FF 1 - 1 BK Häcken
+Kalmar FF 2 - 1 Djurgårdens IF
+Kalmar FF 0 - 2 Mjällby AIF
+Kalmar FF 1 - 2 IFK Norrköping
+Kalmar FF 2 - 1 Örebro SK
+Kalmar FF 0 - 1 Hammarby IF
+Kalmar FF 0 - 2 AIK
+Kalmar FF 0 - 0 IK Sirius
+Kalmar FF 1 - 2 Varbergs BoIS
+Kalmar FF 0 - 2 IFK Göteborg
+Kalmar FF 0 - 0 Östersunds FK
+Kalmar FF 0 - 1 Helsingborgs IF
+Kalmar FF 2 - 0 Falkenbergs FF
+Helsingborgs IF 1 - 0 Malmö FF
+Helsingborgs IF 1 - 0 IF Elfsborg
+Helsingborgs IF 0 - 0 BK Häcken
+Helsingborgs IF 1 - 2 Djurgårdens IF
+Helsingborgs IF 1 - 3 Mjällby AIF
+Helsingborgs IF 0 - 1 IFK Norrköping
+Helsingborgs IF 0 - 1 Örebro SK
+Helsingborgs IF 0 - 2 Hammarby IF
+Helsingborgs IF 1 - 2 AIK
+Helsingborgs IF 1 - 1 IK Sirius
+Helsingborgs IF 2 - 0 Varbergs BoIS
+Helsingborgs IF 2 - 0 IFK Göteborg
+Helsingborgs IF 1 - 2 Östersunds FK
+Helsingborgs IF 2 - 1 Kalmar FF
+Helsingborgs IF 2 - 1 Falkenbergs FF
+Falkenbergs FF 0 - 2 Malmö FF
+Falkenbergs FF 0 - 0 IF Elfsborg
+Falkenbergs FF 1 - 1 BK Häcken
+Falkenbergs FF 2 - 2 Djurgårdens IF
+Falkenbergs FF 0 - 2 Mjällby AIF
+Falkenbergs FF 2 - 1 IFK Norrköping
+Falkenbergs FF 0 - 0 Örebro SK
+Falkenbergs FF 2 - 1 Hammarby IF
+Falkenbergs FF 0 - 2 AIK
+Falkenbergs FF 1 - 1 IK Sirius
+Falkenbergs FF 1 - 1 Varbergs BoIS
+Falkenbergs FF 1 - 1 IFK Göteborg
+Falkenbergs FF 0 - 1 Östersunds FK
+Falkenbergs FF 0 - 0 Kalmar FF
+Falkenbergs FF 1 - 0 Helsingborgs IF
+
+#---------------------------------
+#	 Season 166012
+#---------------------------------
+Malmö FF 2 - 1 IF Elfsborg
+Malmö FF 2 - 1 BK Häcken
+Malmö FF 1 - 1 Djurgårdens IF
+Malmö FF 1 - 2 Mjällby AIF
+Malmö FF 3 - 0 IFK Norrköping
+Malmö FF 2 - 2 Örebro SK
+Malmö FF 1 - 0 Hammarby IF
+Malmö FF 1 - 1 AIK
+Malmö FF 3 - 1 IK Sirius
+Malmö FF 0 - 0 Varbergs BoIS
+Malmö FF 0 - 0 IFK Göteborg
+Malmö FF 1 - 0 Östersunds FK
+Malmö FF 1 - 1 Kalmar FF
+Malmö FF 0 - 1 Helsingborgs IF
+Malmö FF 1 - 0 Falkenbergs FF
+IF Elfsborg 0 - 0 Malmö FF
+IF Elfsborg 0 - 0 BK Häcken
+IF Elfsborg 1 - 1 Djurgårdens IF
+IF Elfsborg 2 - 0 Mjällby AIF
+IF Elfsborg 0 - 0 IFK Norrköping
+IF Elfsborg 2 - 2 Örebro SK
+IF Elfsborg 1 - 0 Hammarby IF
+IF Elfsborg 0 - 0 AIK
+IF Elfsborg 3 - 2 IK Sirius
+IF Elfsborg 1 - 1 Varbergs BoIS
+IF Elfsborg 2 - 1 IFK Göteborg
+IF Elfsborg 0 - 1 Östersunds FK
+IF Elfsborg 2 - 0 Kalmar FF
+IF Elfsborg 1 - 1 Helsingborgs IF
+IF Elfsborg 0 - 1 Falkenbergs FF
+BK Häcken 0 - 2 Malmö FF
+BK Häcken 1 - 2 IF Elfsborg
+BK Häcken 2 - 1 Djurgårdens IF
+BK Häcken 2 - 0 Mjällby AIF
+BK Häcken 2 - 2 IFK Norrköping
+BK Häcken 2 - 1 Örebro SK
+BK Häcken 1 - 2 Hammarby IF
+BK Häcken 0 - 0 AIK
+BK Häcken 2 - 0 IK Sirius
+BK Häcken 0 - 0 Varbergs BoIS
+BK Häcken 2 - 0 IFK Göteborg
+BK Häcken 0 - 1 Östersunds FK
+BK Häcken 0 - 1 Kalmar FF
+BK Häcken 2 - 1 Helsingborgs IF
+BK Häcken 1 - 0 Falkenbergs FF
+Djurgårdens IF 0 - 1 Malmö FF
+Djurgårdens IF 0 - 1 IF Elfsborg
+Djurgårdens IF 1 - 0 BK Häcken
+Djurgårdens IF 0 - 1 Mjällby AIF
+Djurgårdens IF 1 - 1 IFK Norrköping
+Djurgårdens IF 0 - 1 Örebro SK
+Djurgårdens IF 3 - 1 Hammarby IF
+Djurgårdens IF 1 - 0 AIK
+Djurgårdens IF 2 - 0 IK Sirius
+Djurgårdens IF 0 - 1 Varbergs BoIS
+Djurgårdens IF 1 - 0 IFK Göteborg
+Djurgårdens IF 1 - 1 Östersunds FK
+Djurgårdens IF 2 - 2 Kalmar FF
+Djurgårdens IF 1 - 1 Helsingborgs IF
+Djurgårdens IF 2 - 0 Falkenbergs FF
+Mjällby AIF 2 - 0 Malmö FF
+Mjällby AIF 2 - 2 IF Elfsborg
+Mjällby AIF 1 - 1 BK Häcken
+Mjällby AIF 1 - 0 Djurgårdens IF
+Mjällby AIF 0 - 1 IFK Norrköping
+Mjällby AIF 0 - 0 Örebro SK
+Mjällby AIF 2 - 1 Hammarby IF
+Mjällby AIF 0 - 0 AIK
+Mjällby AIF 1 - 1 IK Sirius
+Mjällby AIF 1 - 2 Varbergs BoIS
+Mjällby AIF 0 - 1 IFK Göteborg
+Mjällby AIF 1 - 2 Östersunds FK
+Mjällby AIF 1 - 0 Kalmar FF
+Mjällby AIF 2 - 1 Helsingborgs IF
+Mjällby AIF 2 - 2 Falkenbergs FF
+IFK Norrköping 1 - 1 Malmö FF
+IFK Norrköping 2 - 0 IF Elfsborg
+IFK Norrköping 2 - 0 BK Häcken
+IFK Norrköping 0 - 0 Djurgårdens IF
+IFK Norrköping 0 - 0 Mjällby AIF
+IFK Norrköping 2 - 1 Örebro SK
+IFK Norrköping 0 - 3 Hammarby IF
+IFK Norrköping 0 - 0 AIK
+IFK Norrköping 2 - 0 IK Sirius
+IFK Norrköping 2 - 1 Varbergs BoIS
+IFK Norrköping 2 - 2 IFK Göteborg
+IFK Norrköping 1 - 2 Östersunds FK
+IFK Norrköping 3 - 0 Kalmar FF
+IFK Norrköping 2 - 2 Helsingborgs IF
+IFK Norrköping 0 - 1 Falkenbergs FF
+Örebro SK 1 - 0 Malmö FF
+Örebro SK 0 - 1 IF Elfsborg
+Örebro SK 1 - 2 BK Häcken
+Örebro SK 1 - 1 Djurgårdens IF
+Örebro SK 1 - 2 Mjällby AIF
+Örebro SK 0 - 0 IFK Norrköping
+Örebro SK 1 - 1 Hammarby IF
+Örebro SK 2 - 1 AIK
+Örebro SK 1 - 0 IK Sirius
+Örebro SK 1 - 1 Varbergs BoIS
+Örebro SK 1 - 1 IFK Göteborg
+Örebro SK 1 - 0 Östersunds FK
+Örebro SK 0 - 1 Kalmar FF
+Örebro SK 0 - 2 Helsingborgs IF
+Örebro SK 1 - 0 Falkenbergs FF
+Hammarby IF 1 - 0 Malmö FF
+Hammarby IF 2 - 1 IF Elfsborg
+Hammarby IF 0 - 2 BK Häcken
+Hammarby IF 0 - 2 Djurgårdens IF
+Hammarby IF 0 - 1 Mjällby AIF
+Hammarby IF 1 - 0 IFK Norrköping
+Hammarby IF 1 - 2 Örebro SK
+Hammarby IF 0 - 1 AIK
+Hammarby IF 0 - 2 IK Sirius
+Hammarby IF 2 - 1 Varbergs BoIS
+Hammarby IF 2 - 1 IFK Göteborg
+Hammarby IF 0 - 1 Östersunds FK
+Hammarby IF 0 - 0 Kalmar FF
+Hammarby IF 1 - 2 Helsingborgs IF
+Hammarby IF 0 - 0 Falkenbergs FF
+AIK 1 - 1 Malmö FF
+AIK 0 - 0 IF Elfsborg
+AIK 0 - 2 BK Häcken
+AIK 0 - 0 Djurgårdens IF
+AIK 0 - 0 Mjällby AIF
+AIK 0 - 2 IFK Norrköping
+AIK 0 - 0 Örebro SK
+AIK 2 - 0 Hammarby IF
+AIK 0 - 1 IK Sirius
+AIK 0 - 1 Varbergs BoIS
+AIK 0 - 0 IFK Göteborg
+AIK 0 - 1 Östersunds FK
+AIK 0 - 0 Kalmar FF
+AIK 0 - 0 Helsingborgs IF
+AIK 0 - 0 Falkenbergs FF
+IK Sirius 1 - 1 Malmö FF
+IK Sirius 1 - 2 IF Elfsborg
+IK Sirius 1 - 0 BK Häcken
+IK Sirius 0 - 0 Djurgårdens IF
+IK Sirius 1 - 1 Mjällby AIF
+IK Sirius 0 - 0 IFK Norrköping
+IK Sirius 2 - 2 Örebro SK
+IK Sirius 0 - 1 Hammarby IF
+IK Sirius 0 - 0 AIK
+IK Sirius 2 - 2 Varbergs BoIS
+IK Sirius 2 - 1 IFK Göteborg
+IK Sirius 2 - 1 Östersunds FK
+IK Sirius 0 - 1 Kalmar FF
+IK Sirius 1 - 0 Helsingborgs IF
+IK Sirius 2 - 0 Falkenbergs FF
+Varbergs BoIS 1 - 3 Malmö FF
+Varbergs BoIS 2 - 2 IF Elfsborg
+Varbergs BoIS 1 - 2 BK Häcken
+Varbergs BoIS 0 - 1 Djurgårdens IF
+Varbergs BoIS 0 - 2 Mjällby AIF
+Varbergs BoIS 0 - 3 IFK Norrköping
+Varbergs BoIS 0 - 1 Örebro SK
+Varbergs BoIS 1 - 0 Hammarby IF
+Varbergs BoIS 0 - 0 AIK
+Varbergs BoIS 1 - 0 IK Sirius
+Varbergs BoIS 2 - 0 IFK Göteborg
+Varbergs BoIS 1 - 1 Östersunds FK
+Varbergs BoIS 1 - 1 Kalmar FF
+Varbergs BoIS 1 - 0 Helsingborgs IF
+Varbergs BoIS 2 - 0 Falkenbergs FF
+IFK Göteborg 1 - 3 Malmö FF
+IFK Göteborg 0 - 1 IF Elfsborg
+IFK Göteborg 1 - 1 BK Häcken
+IFK Göteborg 0 - 0 Djurgårdens IF
+IFK Göteborg 0 - 1 Mjällby AIF
+IFK Göteborg 0 - 2 IFK Norrköping
+IFK Göteborg 1 - 0 Örebro SK
+IFK Göteborg 1 - 0 Hammarby IF
+IFK Göteborg 1 - 0 AIK
+IFK Göteborg 2 - 2 IK Sirius
+IFK Göteborg 1 - 0 Varbergs BoIS
+IFK Göteborg 1 - 1 Östersunds FK
+IFK Göteborg 0 - 1 Kalmar FF
+IFK Göteborg 0 - 0 Helsingborgs IF
+IFK Göteborg 0 - 2 Falkenbergs FF
+Östersunds FK 0 - 0 Malmö FF
+Östersunds FK 1 - 0 IF Elfsborg
+Östersunds FK 0 - 0 BK Häcken
+Östersunds FK 1 - 1 Djurgårdens IF
+Östersunds FK 2 - 0 Mjällby AIF
+Östersunds FK 1 - 3 IFK Norrköping
+Östersunds FK 0 - 0 Örebro SK
+Östersunds FK 2 - 0 Hammarby IF
+Östersunds FK 0 - 1 AIK
+Östersunds FK 2 - 1 IK Sirius
+Östersunds FK 0 - 0 Varbergs BoIS
+Östersunds FK 0 - 2 IFK Göteborg
+Östersunds FK 1 - 1 Kalmar FF
+Östersunds FK 1 - 1 Helsingborgs IF
+Östersunds FK 0 - 2 Falkenbergs FF
+Kalmar FF 0 - 0 Malmö FF
+Kalmar FF 2 - 0 IF Elfsborg
+Kalmar FF 0 - 0 BK Häcken
+Kalmar FF 0 - 2 Djurgårdens IF
+Kalmar FF 0 - 1 Mjällby AIF
+Kalmar FF 1 - 0 IFK Norrköping
+Kalmar FF 1 - 2 Örebro SK
+Kalmar FF 0 - 1 Hammarby IF
+Kalmar FF 1 - 1 AIK
+Kalmar FF 2 - 0 IK Sirius
+Kalmar FF 1 - 2 Varbergs BoIS
+Kalmar FF 1 - 2 IFK Göteborg
+Kalmar FF 2 - 0 Östersunds FK
+Kalmar FF 2 - 2 Helsingborgs IF
+Kalmar FF 1 - 1 Falkenbergs FF
+Helsingborgs IF 1 - 0 Malmö FF
+Helsingborgs IF 1 - 3 IF Elfsborg
+Helsingborgs IF 0 - 2 BK Häcken
+Helsingborgs IF 0 - 0 Djurgårdens IF
+Helsingborgs IF 1 - 2 Mjällby AIF
+Helsingborgs IF 2 - 2 IFK Norrköping
+Helsingborgs IF 1 - 0 Örebro SK
+Helsingborgs IF 0 - 3 Hammarby IF
+Helsingborgs IF 1 - 1 AIK
+Helsingborgs IF 1 - 0 IK Sirius
+Helsingborgs IF 2 - 2 Varbergs BoIS
+Helsingborgs IF 1 - 2 IFK Göteborg
+Helsingborgs IF 1 - 0 Östersunds FK
+Helsingborgs IF 1 - 0 Kalmar FF
+Helsingborgs IF 0 - 0 Falkenbergs FF
+Falkenbergs FF 0 - 1 Malmö FF
+Falkenbergs FF 0 - 2 IF Elfsborg
+Falkenbergs FF 1 - 1 BK Häcken
+Falkenbergs FF 1 - 1 Djurgårdens IF
+Falkenbergs FF 1 - 1 Mjällby AIF
+Falkenbergs FF 1 - 1 IFK Norrköping
+Falkenbergs FF 1 - 0 Örebro SK
+Falkenbergs FF 1 - 2 Hammarby IF
+Falkenbergs FF 0 - 0 AIK
+Falkenbergs FF 2 - 3 IK Sirius
+Falkenbergs FF 1 - 0 Varbergs BoIS
+Falkenbergs FF 0 - 0 IFK Göteborg
+Falkenbergs FF 1 - 2 Östersunds FK
+Falkenbergs FF 1 - 1 Kalmar FF
+Falkenbergs FF 1 - 2 Helsingborgs IF
+
+#---------------------------------
+#	 Season 358269
+#---------------------------------
+Malmö FF 1 - 0 IF Elfsborg
+Malmö FF 2 - 1 BK Häcken
+Malmö FF 1 - 0 Djurgårdens IF
+Malmö FF 3 - 0 Mjällby AIF
+Malmö FF 1 - 0 IFK Norrköping
+Malmö FF 2 - 0 Örebro SK
+Malmö FF 2 - 0 Hammarby IF
+Malmö FF 1 - 0 AIK
+Malmö FF 2 - 0 IK Sirius
+Malmö FF 1 - 2 Varbergs BoIS
+Malmö FF 2 - 0 IFK Göteborg
+Malmö FF 1 - 0 Östersunds FK
+Malmö FF 2 - 0 Kalmar FF
+Malmö FF 3 - 0 Helsingborgs IF
+Malmö FF 3 - 0 Falkenbergs FF
+IF Elfsborg 0 - 2 Malmö FF
+IF Elfsborg 0 - 0 BK Häcken
+IF Elfsborg 0 - 2 Djurgårdens IF
+IF Elfsborg 1 - 0 Mjällby AIF
+IF Elfsborg 2 - 1 IFK Norrköping
+IF Elfsborg 1 - 1 Örebro SK
+IF Elfsborg 0 - 0 Hammarby IF
+IF Elfsborg 1 - 1 AIK
+IF Elfsborg 3 - 2 IK Sirius
+IF Elfsborg 2 - 1 Varbergs BoIS
+IF Elfsborg 1 - 0 IFK Göteborg
+IF Elfsborg 2 - 1 Östersunds FK
+IF Elfsborg 1 - 0 Kalmar FF
+IF Elfsborg 2 - 1 Helsingborgs IF
+IF Elfsborg 2 - 0 Falkenbergs FF
+BK Häcken 1 - 2 Malmö FF
+BK Häcken 0 - 0 IF Elfsborg
+BK Häcken 0 - 2 Djurgårdens IF
+BK Häcken 2 - 1 Mjällby AIF
+BK Häcken 1 - 1 IFK Norrköping
+BK Häcken 1 - 1 Örebro SK
+BK Häcken 1 - 0 Hammarby IF
+BK Häcken 0 - 0 AIK
+BK Häcken 0 - 1 IK Sirius
+BK Häcken 1 - 2 Varbergs BoIS
+BK Häcken 1 - 1 IFK Göteborg
+BK Häcken 1 - 0 Östersunds FK
+BK Häcken 1 - 0 Kalmar FF
+BK Häcken 0 - 0 Helsingborgs IF
+BK Häcken 2 - 0 Falkenbergs FF
+Djurgårdens IF 0 - 3 Malmö FF
+Djurgårdens IF 1 - 2 IF Elfsborg
+Djurgårdens IF 2 - 2 BK Häcken
+Djurgårdens IF 1 - 2 Mjällby AIF
+Djurgårdens IF 0 - 2 IFK Norrköping
+Djurgårdens IF 2 - 1 Örebro SK
+Djurgårdens IF 0 - 0 Hammarby IF
+Djurgårdens IF 1 - 1 AIK
+Djurgårdens IF 2 - 1 IK Sirius
+Djurgårdens IF 2 - 0 Varbergs BoIS
+Djurgårdens IF 2 - 0 IFK Göteborg
+Djurgårdens IF 0 - 1 Östersunds FK
+Djurgårdens IF 1 - 1 Kalmar FF
+Djurgårdens IF 0 - 1 Helsingborgs IF
+Djurgårdens IF 2 - 2 Falkenbergs FF
+Mjällby AIF 2 - 2 Malmö FF
+Mjällby AIF 1 - 1 IF Elfsborg
+Mjällby AIF 0 - 2 BK Häcken
+Mjällby AIF 0 - 1 Djurgårdens IF
+Mjällby AIF 0 - 1 IFK Norrköping
+Mjällby AIF 1 - 0 Örebro SK
+Mjällby AIF 1 - 2 Hammarby IF
+Mjällby AIF 0 - 0 AIK
+Mjällby AIF 1 - 1 IK Sirius
+Mjällby AIF 2 - 1 Varbergs BoIS
+Mjällby AIF 0 - 1 IFK Göteborg
+Mjällby AIF 2 - 1 Östersunds FK
+Mjällby AIF 0 - 2 Kalmar FF
+Mjällby AIF 2 - 1 Helsingborgs IF
+Mjällby AIF 0 - 0 Falkenbergs FF
+IFK Norrköping 1 - 3 Malmö FF
+IFK Norrköping 0 - 0 IF Elfsborg
+IFK Norrköping 2 - 0 BK Häcken
+IFK Norrköping 2 - 2 Djurgårdens IF
+IFK Norrköping 2 - 2 Mjällby AIF
+IFK Norrköping 2 - 0 Örebro SK
+IFK Norrköping 1 - 0 Hammarby IF
+IFK Norrköping 2 - 1 AIK
+IFK Norrköping 2 - 0 IK Sirius
+IFK Norrköping 1 - 1 Varbergs BoIS
+IFK Norrköping 0 - 2 IFK Göteborg
+IFK Norrköping 2 - 0 Östersunds FK
+IFK Norrköping 2 - 1 Kalmar FF
+IFK Norrköping 3 - 0 Helsingborgs IF
+IFK Norrköping 0 - 0 Falkenbergs FF
+Örebro SK 2 - 2 Malmö FF
+Örebro SK 1 - 2 IF Elfsborg
+Örebro SK 1 - 1 BK Häcken
+Örebro SK 0 - 1 Djurgårdens IF
+Örebro SK 0 - 2 Mjällby AIF
+Örebro SK 0 - 2 IFK Norrköping
+Örebro SK 1 - 2 Hammarby IF
+Örebro SK 2 - 0 AIK
+Örebro SK 0 - 1 IK Sirius
+Örebro SK 1 - 1 Varbergs BoIS
+Örebro SK 0 - 1 IFK Göteborg
+Örebro SK 0 - 1 Östersunds FK
+Örebro SK 0 - 2 Kalmar FF
+Örebro SK 0 - 0 Helsingborgs IF
+Örebro SK 1 - 0 Falkenbergs FF
+Hammarby IF 1 - 2 Malmö FF
+Hammarby IF 1 - 1 IF Elfsborg
+Hammarby IF 2 - 0 BK Häcken
+Hammarby IF 1 - 1 Djurgårdens IF
+Hammarby IF 1 - 1 Mjällby AIF
+Hammarby IF 1 - 1 IFK Norrköping
+Hammarby IF 0 - 1 Örebro SK
+Hammarby IF 0 - 0 AIK
+Hammarby IF 0 - 2 IK Sirius
+Hammarby IF 0 - 1 Varbergs BoIS
+Hammarby IF 1 - 1 IFK Göteborg
+Hammarby IF 1 - 1 Östersunds FK
+Hammarby IF 0 - 1 Kalmar FF
+Hammarby IF 1 - 1 Helsingborgs IF
+Hammarby IF 2 - 2 Falkenbergs FF
+AIK 0 - 2 Malmö FF
+AIK 1 - 2 IF Elfsborg
+AIK 0 - 1 BK Häcken
+AIK 0 - 0 Djurgårdens IF
+AIK 2 - 2 Mjällby AIF
+AIK 1 - 2 IFK Norrköping
+AIK 2 - 0 Örebro SK
+AIK 0 - 2 Hammarby IF
+AIK 0 - 1 IK Sirius
+AIK 0 - 2 Varbergs BoIS
+AIK 1 - 0 IFK Göteborg
+AIK 0 - 0 Östersunds FK
+AIK 2 - 2 Kalmar FF
+AIK 0 - 0 Helsingborgs IF
+AIK 1 - 0 Falkenbergs FF
+IK Sirius 1 - 3 Malmö FF
+IK Sirius 1 - 2 IF Elfsborg
+IK Sirius 0 - 2 BK Häcken
+IK Sirius 1 - 0 Djurgårdens IF
+IK Sirius 0 - 3 Mjällby AIF
+IK Sirius 1 - 0 IFK Norrköping
+IK Sirius 2 - 0 Örebro SK
+IK Sirius 2 - 1 Hammarby IF
+IK Sirius 1 - 0 AIK
+IK Sirius 1 - 1 Varbergs BoIS
+IK Sirius 0 - 0 IFK Göteborg
+IK Sirius 1 - 2 Östersunds FK
+IK Sirius 0 - 2 Kalmar FF
+IK Sirius 1 - 2 Helsingborgs IF
+IK Sirius 0 - 1 Falkenbergs FF
+Varbergs BoIS 0 - 3 Malmö FF
+Varbergs BoIS 1 - 1 IF Elfsborg
+Varbergs BoIS 0 - 1 BK Häcken
+Varbergs BoIS 0 - 0 Djurgårdens IF
+Varbergs BoIS 0 - 0 Mjällby AIF
+Varbergs BoIS 0 - 3 IFK Norrköping
+Varbergs BoIS 0 - 1 Örebro SK
+Varbergs BoIS 1 - 1 Hammarby IF
+Varbergs BoIS 1 - 2 AIK
+Varbergs BoIS 0 - 0 IK Sirius
+Varbergs BoIS 1 - 2 IFK Göteborg
+Varbergs BoIS 1 - 0 Östersunds FK
+Varbergs BoIS 0 - 1 Kalmar FF
+Varbergs BoIS 1 - 2 Helsingborgs IF
+Varbergs BoIS 1 - 1 Falkenbergs FF
+IFK Göteborg 0 - 2 Malmö FF
+IFK Göteborg 0 - 2 IF Elfsborg
+IFK Göteborg 1 - 1 BK Häcken
+IFK Göteborg 1 - 1 Djurgårdens IF
+IFK Göteborg 0 - 0 Mjällby AIF
+IFK Göteborg 0 - 1 IFK Norrköping
+IFK Göteborg 0 - 0 Örebro SK
+IFK Göteborg 0 - 1 Hammarby IF
+IFK Göteborg 1 - 0 AIK
+IFK Göteborg 0 - 2 IK Sirius
+IFK Göteborg 0 - 2 Varbergs BoIS
+IFK Göteborg 1 - 2 Östersunds FK
+IFK Göteborg 0 - 0 Kalmar FF
+IFK Göteborg 1 - 1 Helsingborgs IF
+IFK Göteborg 1 - 1 Falkenbergs FF
+Östersunds FK 0 - 1 Malmö FF
+Östersunds FK 1 - 2 IF Elfsborg
+Östersunds FK 0 - 1 BK Häcken
+Östersunds FK 1 - 1 Djurgårdens IF
+Östersunds FK 1 - 0 Mjällby AIF
+Östersunds FK 0 - 0 IFK Norrköping
+Östersunds FK 2 - 0 Örebro SK
+Östersunds FK 2 - 0 Hammarby IF
+Östersunds FK 1 - 0 AIK
+Östersunds FK 2 - 2 IK Sirius
+Östersunds FK 1 - 1 Varbergs BoIS
+Östersunds FK 1 - 1 IFK Göteborg
+Östersunds FK 0 - 1 Kalmar FF
+Östersunds FK 0 - 0 Helsingborgs IF
+Östersunds FK 1 - 0 Falkenbergs FF
+Kalmar FF 1 - 3 Malmö FF
+Kalmar FF 2 - 1 IF Elfsborg
+Kalmar FF 0 - 3 BK Häcken
+Kalmar FF 1 - 1 Djurgårdens IF
+Kalmar FF 0 - 1 Mjällby AIF
+Kalmar FF 1 - 1 IFK Norrköping
+Kalmar FF 0 - 0 Örebro SK
+Kalmar FF 1 - 0 Hammarby IF
+Kalmar FF 1 - 0 AIK
+Kalmar FF 2 - 0 IK Sirius
+Kalmar FF 1 - 1 Varbergs BoIS
+Kalmar FF 1 - 1 IFK Göteborg
+Kalmar FF 2 - 1 Östersunds FK
+Kalmar FF 2 - 0 Helsingborgs IF
+Kalmar FF 1 - 2 Falkenbergs FF
+Helsingborgs IF 0 - 2 Malmö FF
+Helsingborgs IF 1 - 1 IF Elfsborg
+Helsingborgs IF 0 - 0 BK Häcken
+Helsingborgs IF 0 - 1 Djurgårdens IF
+Helsingborgs IF 2 - 2 Mjällby AIF
+Helsingborgs IF 1 - 0 IFK Norrköping
+Helsingborgs IF 2 - 1 Örebro SK
+Helsingborgs IF 0 - 0 Hammarby IF
+Helsingborgs IF 0 - 1 AIK
+Helsingborgs IF 0 - 0 IK Sirius
+Helsingborgs IF 1 - 0 Varbergs BoIS
+Helsingborgs IF 0 - 1 IFK Göteborg
+Helsingborgs IF 1 - 1 Östersunds FK
+Helsingborgs IF 0 - 0 Kalmar FF
+Helsingborgs IF 1 - 1 Falkenbergs FF
+Falkenbergs FF 0 - 2 Malmö FF
+Falkenbergs FF 0 - 1 IF Elfsborg
+Falkenbergs FF 1 - 3 BK Häcken
+Falkenbergs FF 1 - 3 Djurgårdens IF
+Falkenbergs FF 2 - 1 Mjällby AIF
+Falkenbergs FF 2 - 1 IFK Norrköping
+Falkenbergs FF 0 - 0 Örebro SK
+Falkenbergs FF 1 - 2 Hammarby IF
+Falkenbergs FF 1 - 0 AIK
+Falkenbergs FF 1 - 1 IK Sirius
+Falkenbergs FF 1 - 1 Varbergs BoIS
+Falkenbergs FF 0 - 1 IFK Göteborg
+Falkenbergs FF 0 - 0 Östersunds FK
+Falkenbergs FF 0 - 0 Kalmar FF
+Falkenbergs FF 2 - 2 Helsingborgs IF
+
+#---------------------------------
+#	 Season 450781
+#---------------------------------
+Malmö FF 2 - 1 IF Elfsborg
+Malmö FF 2 - 0 BK Häcken
+Malmö FF 0 - 0 Djurgårdens IF
+Malmö FF 1 - 0 Mjällby AIF
+Malmö FF 2 - 0 IFK Norrköping
+Malmö FF 3 - 0 Örebro SK
+Malmö FF 3 - 1 Hammarby IF
+Malmö FF 1 - 0 AIK
+Malmö FF 2 - 1 IK Sirius
+Malmö FF 2 - 0 Varbergs BoIS
+Malmö FF 3 - 0 IFK Göteborg
+Malmö FF 3 - 1 Östersunds FK
+Malmö FF 2 - 1 Kalmar FF
+Malmö FF 3 - 0 Helsingborgs IF
+Malmö FF 2 - 1 Falkenbergs FF
+IF Elfsborg 0 - 1 Malmö FF
+IF Elfsborg 2 - 2 BK Häcken
+IF Elfsborg 0 - 1 Djurgårdens IF
+IF Elfsborg 3 - 1 Mjällby AIF
+IF Elfsborg 0 - 0 IFK Norrköping
+IF Elfsborg 0 - 0 Örebro SK
+IF Elfsborg 3 - 1 Hammarby IF
+IF Elfsborg 1 - 0 AIK
+IF Elfsborg 0 - 2 IK Sirius
+IF Elfsborg 2 - 1 Varbergs BoIS
+IF Elfsborg 0 - 1 IFK Göteborg
+IF Elfsborg 0 - 1 Östersunds FK
+IF Elfsborg 1 - 0 Kalmar FF
+IF Elfsborg 1 - 0 Helsingborgs IF
+IF Elfsborg 2 - 0 Falkenbergs FF
+BK Häcken 0 - 1 Malmö FF
+BK Häcken 0 - 2 IF Elfsborg
+BK Häcken 2 - 1 Djurgårdens IF
+BK Häcken 1 - 2 Mjällby AIF
+BK Häcken 0 - 2 IFK Norrköping
+BK Häcken 0 - 2 Örebro SK
+BK Häcken 1 - 1 Hammarby IF
+BK Häcken 0 - 1 AIK
+BK Häcken 1 - 1 IK Sirius
+BK Häcken 0 - 1 Varbergs BoIS
+BK Häcken 2 - 0 IFK Göteborg
+BK Häcken 0 - 0 Östersunds FK
+BK Häcken 1 - 0 Kalmar FF
+BK Häcken 0 - 0 Helsingborgs IF
+BK Häcken 1 - 1 Falkenbergs FF
+Djurgårdens IF 0 - 2 Malmö FF
+Djurgårdens IF 0 - 1 IF Elfsborg
+Djurgårdens IF 1 - 1 BK Häcken
+Djurgårdens IF 2 - 0 Mjällby AIF
+Djurgårdens IF 2 - 0 IFK Norrköping
+Djurgårdens IF 1 - 0 Örebro SK
+Djurgårdens IF 2 - 2 Hammarby IF
+Djurgårdens IF 1 - 0 AIK
+Djurgårdens IF 0 - 1 IK Sirius
+Djurgårdens IF 1 - 2 Varbergs BoIS
+Djurgårdens IF 0 - 0 IFK Göteborg
+Djurgårdens IF 2 - 0 Östersunds FK
+Djurgårdens IF 1 - 0 Kalmar FF
+Djurgårdens IF 0 - 0 Helsingborgs IF
+Djurgårdens IF 1 - 0 Falkenbergs FF
+Mjällby AIF 0 - 0 Malmö FF
+Mjällby AIF 1 - 0 IF Elfsborg
+Mjällby AIF 1 - 1 BK Häcken
+Mjällby AIF 2 - 2 Djurgårdens IF
+Mjällby AIF 3 - 2 IFK Norrköping
+Mjällby AIF 1 - 1 Örebro SK
+Mjällby AIF 2 - 0 Hammarby IF
+Mjällby AIF 2 - 1 AIK
+Mjällby AIF 1 - 1 IK Sirius
+Mjällby AIF 2 - 1 Varbergs BoIS
+Mjällby AIF 0 - 1 IFK Göteborg
+Mjällby AIF 2 - 1 Östersunds FK
+Mjällby AIF 2 - 0 Kalmar FF
+Mjällby AIF 3 - 2 Helsingborgs IF
+Mjällby AIF 0 - 1 Falkenbergs FF
+IFK Norrköping 1 - 2 Malmö FF
+IFK Norrköping 2 - 1 IF Elfsborg
+IFK Norrköping 2 - 1 BK Häcken
+IFK Norrköping 2 - 2 Djurgårdens IF
+IFK Norrköping 0 - 0 Mjällby AIF
+IFK Norrköping 1 - 1 Örebro SK
+IFK Norrköping 2 - 2 Hammarby IF
+IFK Norrköping 0 - 1 AIK
+IFK Norrköping 0 - 2 IK Sirius
+IFK Norrköping 0 - 2 Varbergs BoIS
+IFK Norrköping 3 - 2 IFK Göteborg
+IFK Norrköping 2 - 2 Östersunds FK
+IFK Norrköping 0 - 1 Kalmar FF
+IFK Norrköping 1 - 0 Helsingborgs IF
+IFK Norrköping 0 - 1 Falkenbergs FF
+Örebro SK 0 - 3 Malmö FF
+Örebro SK 1 - 1 IF Elfsborg
+Örebro SK 0 - 2 BK Häcken
+Örebro SK 1 - 1 Djurgårdens IF
+Örebro SK 0 - 1 Mjällby AIF
+Örebro SK 2 - 2 IFK Norrköping
+Örebro SK 0 - 1 Hammarby IF
+Örebro SK 2 - 1 AIK
+Örebro SK 2 - 0 IK Sirius
+Örebro SK 0 - 0 Varbergs BoIS
+Örebro SK 2 - 0 IFK Göteborg
+Örebro SK 2 - 0 Östersunds FK
+Örebro SK 1 - 1 Kalmar FF
+Örebro SK 0 - 1 Helsingborgs IF
+Örebro SK 0 - 0 Falkenbergs FF
+Hammarby IF 0 - 2 Malmö FF
+Hammarby IF 1 - 1 IF Elfsborg
+Hammarby IF 1 - 1 BK Häcken
+Hammarby IF 2 - 0 Djurgårdens IF
+Hammarby IF 1 - 1 Mjällby AIF
+Hammarby IF 2 - 2 IFK Norrköping
+Hammarby IF 2 - 1 Örebro SK
+Hammarby IF 2 - 0 AIK
+Hammarby IF 1 - 0 IK Sirius
+Hammarby IF 0 - 1 Varbergs BoIS
+Hammarby IF 2 - 0 IFK Göteborg
+Hammarby IF 2 - 2 Östersunds FK
+Hammarby IF 2 - 0 Kalmar FF
+Hammarby IF 0 - 0 Helsingborgs IF
+Hammarby IF 0 - 1 Falkenbergs FF
+AIK 1 - 3 Malmö FF
+AIK 0 - 2 IF Elfsborg
+AIK 0 - 0 BK Häcken
+AIK 0 - 2 Djurgårdens IF
+AIK 2 - 1 Mjällby AIF
+AIK 2 - 2 IFK Norrköping
+AIK 0 - 1 Örebro SK
+AIK 1 - 0 Hammarby IF
+AIK 0 - 0 IK Sirius
+AIK 1 - 0 Varbergs BoIS
+AIK 0 - 0 IFK Göteborg
+AIK 1 - 1 Östersunds FK
+AIK 1 - 1 Kalmar FF
+AIK 1 - 1 Helsingborgs IF
+AIK 2 - 0 Falkenbergs FF
+IK Sirius 0 - 1 Malmö FF
+IK Sirius 0 - 3 IF Elfsborg
+IK Sirius 1 - 3 BK Häcken
+IK Sirius 1 - 2 Djurgårdens IF
+IK Sirius 1 - 1 Mjällby AIF
+IK Sirius 0 - 2 IFK Norrköping
+IK Sirius 0 - 1 Örebro SK
+IK Sirius 1 - 0 Hammarby IF
+IK Sirius 2 - 0 AIK
+IK Sirius 1 - 2 Varbergs BoIS
+IK Sirius 0 - 2 IFK Göteborg
+IK Sirius 2 - 2 Östersunds FK
+IK Sirius 1 - 2 Kalmar FF
+IK Sirius 0 - 1 Helsingborgs IF
+IK Sirius 1 - 1 Falkenbergs FF
+Varbergs BoIS 1 - 2 Malmö FF
+Varbergs BoIS 0 - 1 IF Elfsborg
+Varbergs BoIS 0 - 1 BK Häcken
+Varbergs BoIS 1 - 1 Djurgårdens IF
+Varbergs BoIS 0 - 1 Mjällby AIF
+Varbergs BoIS 1 - 1 IFK Norrköping
+Varbergs BoIS 2 - 0 Örebro SK
+Varbergs BoIS 0 - 0 Hammarby IF
+Varbergs BoIS 2 - 0 AIK
+Varbergs BoIS 0 - 1 IK Sirius
+Varbergs BoIS 2 - 1 IFK Göteborg
+Varbergs BoIS 0 - 0 Östersunds FK
+Varbergs BoIS 0 - 0 Kalmar FF
+Varbergs BoIS 2 - 0 Helsingborgs IF
+Varbergs BoIS 1 - 1 Falkenbergs FF
+IFK Göteborg 1 - 2 Malmö FF
+IFK Göteborg 1 - 2 IF Elfsborg
+IFK Göteborg 1 - 1 BK Häcken
+IFK Göteborg 1 - 1 Djurgårdens IF
+IFK Göteborg 1 - 0 Mjällby AIF
+IFK Göteborg 0 - 1 IFK Norrköping
+IFK Göteborg 2 - 0 Örebro SK
+IFK Göteborg 0 - 1 Hammarby IF
+IFK Göteborg 0 - 1 AIK
+IFK Göteborg 2 - 0 IK Sirius
+IFK Göteborg 2 - 0 Varbergs BoIS
+IFK Göteborg 1 - 2 Östersunds FK
+IFK Göteborg 1 - 2 Kalmar FF
+IFK Göteborg 1 - 0 Helsingborgs IF
+IFK Göteborg 0 - 1 Falkenbergs FF
+Östersunds FK 1 - 2 Malmö FF
+Östersunds FK 0 - 1 IF Elfsborg
+Östersunds FK 1 - 2 BK Häcken
+Östersunds FK 1 - 2 Djurgårdens IF
+Östersunds FK 0 - 2 Mjällby AIF
+Östersunds FK 1 - 1 IFK Norrköping
+Östersunds FK 1 - 0 Örebro SK
+Östersunds FK 0 - 1 Hammarby IF
+Östersunds FK 1 - 0 AIK
+Östersunds FK 2 - 1 IK Sirius
+Östersunds FK 0 - 2 Varbergs BoIS
+Östersunds FK 0 - 0 IFK Göteborg
+Östersunds FK 2 - 1 Kalmar FF
+Östersunds FK 0 - 1 Helsingborgs IF
+Östersunds FK 1 - 2 Falkenbergs FF
+Kalmar FF 1 - 2 Malmö FF
+Kalmar FF 0 - 2 IF Elfsborg
+Kalmar FF 0 - 2 BK Häcken
+Kalmar FF 1 - 0 Djurgårdens IF
+Kalmar FF 1 - 1 Mjällby AIF
+Kalmar FF 1 - 1 IFK Norrköping
+Kalmar FF 1 - 0 Örebro SK
+Kalmar FF 1 - 1 Hammarby IF
+Kalmar FF 0 - 1 AIK
+Kalmar FF 2 - 0 IK Sirius
+Kalmar FF 0 - 1 Varbergs BoIS
+Kalmar FF 0 - 1 IFK Göteborg
+Kalmar FF 1 - 2 Östersunds FK
+Kalmar FF 0 - 2 Helsingborgs IF
+Kalmar FF 1 - 2 Falkenbergs FF
+Helsingborgs IF 0 - 1 Malmö FF
+Helsingborgs IF 0 - 1 IF Elfsborg
+Helsingborgs IF 1 - 0 BK Häcken
+Helsingborgs IF 2 - 0 Djurgårdens IF
+Helsingborgs IF 1 - 0 Mjällby AIF
+Helsingborgs IF 2 - 2 IFK Norrköping
+Helsingborgs IF 1 - 1 Örebro SK
+Helsingborgs IF 2 - 1 Hammarby IF
+Helsingborgs IF 1 - 0 AIK
+Helsingborgs IF 1 - 1 IK Sirius
+Helsingborgs IF 1 - 1 Varbergs BoIS
+Helsingborgs IF 1 - 0 IFK Göteborg
+Helsingborgs IF 1 - 1 Östersunds FK
+Helsingborgs IF 1 - 2 Kalmar FF
+Helsingborgs IF 2 - 0 Falkenbergs FF
+Falkenbergs FF 0 - 2 Malmö FF
+Falkenbergs FF 1 - 1 IF Elfsborg
+Falkenbergs FF 2 - 0 BK Häcken
+Falkenbergs FF 0 - 0 Djurgårdens IF
+Falkenbergs FF 0 - 1 Mjällby AIF
+Falkenbergs FF 1 - 0 IFK Norrköping
+Falkenbergs FF 2 - 1 Örebro SK
+Falkenbergs FF 0 - 1 Hammarby IF
+Falkenbergs FF 1 - 1 AIK
+Falkenbergs FF 1 - 0 IK Sirius
+Falkenbergs FF 1 - 0 Varbergs BoIS
+Falkenbergs FF 0 - 0 IFK Göteborg
+Falkenbergs FF 0 - 2 Östersunds FK
+Falkenbergs FF 2 - 0 Kalmar FF
+Falkenbergs FF 1 - 0 Helsingborgs IF
+
+#---------------------------------
+#	 Season 535948
+#---------------------------------
+Malmö FF 0 - 2 IF Elfsborg
+Malmö FF 1 - 2 BK Häcken
+Malmö FF 2 - 1 Djurgårdens IF
+Malmö FF 2 - 0 Mjällby AIF
+Malmö FF 3 - 1 IFK Norrköping
+Malmö FF 2 - 1 Örebro SK
+Malmö FF 1 - 0 Hammarby IF
+Malmö FF 2 - 0 AIK
+Malmö FF 1 - 1 IK Sirius
+Malmö FF 1 - 1 Varbergs BoIS
+Malmö FF 1 - 1 IFK Göteborg
+Malmö FF 0 - 0 Östersunds FK
+Malmö FF 1 - 0 Kalmar FF
+Malmö FF 3 - 0 Helsingborgs IF
+Malmö FF 1 - 1 Falkenbergs FF
+IF Elfsborg 1 - 1 Malmö FF
+IF Elfsborg 0 - 2 BK Häcken
+IF Elfsborg 0 - 0 Djurgårdens IF
+IF Elfsborg 0 - 2 Mjällby AIF
+IF Elfsborg 1 - 2 IFK Norrköping
+IF Elfsborg 0 - 1 Örebro SK
+IF Elfsborg 0 - 1 Hammarby IF
+IF Elfsborg 0 - 1 AIK
+IF Elfsborg 2 - 2 IK Sirius
+IF Elfsborg 2 - 1 Varbergs BoIS
+IF Elfsborg 0 - 0 IFK Göteborg
+IF Elfsborg 1 - 2 Östersunds FK
+IF Elfsborg 1 - 0 Kalmar FF
+IF Elfsborg 1 - 0 Helsingborgs IF
+IF Elfsborg 2 - 1 Falkenbergs FF
+BK Häcken 2 - 1 Malmö FF
+BK Häcken 1 - 1 IF Elfsborg
+BK Häcken 1 - 0 Djurgårdens IF
+BK Häcken 0 - 1 Mjällby AIF
+BK Häcken 3 - 1 IFK Norrköping
+BK Häcken 0 - 1 Örebro SK
+BK Häcken 3 - 2 Hammarby IF
+BK Häcken 1 - 1 AIK
+BK Häcken 1 - 1 IK Sirius
+BK Häcken 0 - 1 Varbergs BoIS
+BK Häcken 1 - 1 IFK Göteborg
+BK Häcken 0 - 0 Östersunds FK
+BK Häcken 0 - 0 Kalmar FF
+BK Häcken 0 - 0 Helsingborgs IF
+BK Häcken 0 - 1 Falkenbergs FF
+Djurgårdens IF 1 - 0 Malmö FF
+Djurgårdens IF 0 - 2 IF Elfsborg
+Djurgårdens IF 2 - 1 BK Häcken
+Djurgårdens IF 2 - 2 Mjällby AIF
+Djurgårdens IF 2 - 3 IFK Norrköping
+Djurgårdens IF 1 - 0 Örebro SK
+Djurgårdens IF 3 - 1 Hammarby IF
+Djurgårdens IF 0 - 1 AIK
+Djurgårdens IF 0 - 1 IK Sirius
+Djurgårdens IF 1 - 1 Varbergs BoIS
+Djurgårdens IF 2 - 1 IFK Göteborg
+Djurgårdens IF 3 - 0 Östersunds FK
+Djurgårdens IF 0 - 2 Kalmar FF
+Djurgårdens IF 0 - 1 Helsingborgs IF
+Djurgårdens IF 0 - 0 Falkenbergs FF
+Mjällby AIF 0 - 3 Malmö FF
+Mjällby AIF 0 - 0 IF Elfsborg
+Mjällby AIF 1 - 2 BK Häcken
+Mjällby AIF 1 - 3 Djurgårdens IF
+Mjällby AIF 2 - 2 IFK Norrköping
+Mjällby AIF 0 - 1 Örebro SK
+Mjällby AIF 2 - 0 Hammarby IF
+Mjällby AIF 0 - 0 AIK
+Mjällby AIF 2 - 2 IK Sirius
+Mjällby AIF 2 - 1 Varbergs BoIS
+Mjällby AIF 0 - 1 IFK Göteborg
+Mjällby AIF 2 - 1 Östersunds FK
+Mjällby AIF 2 - 2 Kalmar FF
+Mjällby AIF 0 - 0 Helsingborgs IF
+Mjällby AIF 2 - 2 Falkenbergs FF
+IFK Norrköping 1 - 0 Malmö FF
+IFK Norrköping 1 - 2 IF Elfsborg
+IFK Norrköping 2 - 1 BK Häcken
+IFK Norrköping 2 - 2 Djurgårdens IF
+IFK Norrköping 3 - 1 Mjällby AIF
+IFK Norrköping 1 - 0 Örebro SK
+IFK Norrköping 2 - 1 Hammarby IF
+IFK Norrköping 1 - 0 AIK
+IFK Norrköping 0 - 2 IK Sirius
+IFK Norrköping 3 - 2 Varbergs BoIS
+IFK Norrköping 0 - 1 IFK Göteborg
+IFK Norrköping 3 - 2 Östersunds FK
+IFK Norrköping 3 - 1 Kalmar FF
+IFK Norrköping 0 - 1 Helsingborgs IF
+IFK Norrköping 1 - 2 Falkenbergs FF
+Örebro SK 1 - 1 Malmö FF
+Örebro SK 0 - 2 IF Elfsborg
+Örebro SK 0 - 2 BK Häcken
+Örebro SK 0 - 0 Djurgårdens IF
+Örebro SK 1 - 2 Mjällby AIF
+Örebro SK 1 - 0 IFK Norrköping
+Örebro SK 2 - 0 Hammarby IF
+Örebro SK 2 - 2 AIK
+Örebro SK 2 - 1 IK Sirius
+Örebro SK 0 - 2 Varbergs BoIS
+Örebro SK 2 - 0 IFK Göteborg
+Örebro SK 0 - 1 Östersunds FK
+Örebro SK 2 - 0 Kalmar FF
+Örebro SK 0 - 1 Helsingborgs IF
+Örebro SK 2 - 0 Falkenbergs FF
+Hammarby IF 0 - 0 Malmö FF
+Hammarby IF 0 - 0 IF Elfsborg
+Hammarby IF 2 - 0 BK Häcken
+Hammarby IF 0 - 2 Djurgårdens IF
+Hammarby IF 0 - 2 Mjällby AIF
+Hammarby IF 2 - 3 IFK Norrköping
+Hammarby IF 1 - 0 Örebro SK
+Hammarby IF 1 - 2 AIK
+Hammarby IF 1 - 1 IK Sirius
+Hammarby IF 2 - 2 Varbergs BoIS
+Hammarby IF 2 - 1 IFK Göteborg
+Hammarby IF 1 - 1 Östersunds FK
+Hammarby IF 3 - 0 Kalmar FF
+Hammarby IF 0 - 1 Helsingborgs IF
+Hammarby IF 0 - 0 Falkenbergs FF
+AIK 1 - 1 Malmö FF
+AIK 0 - 0 IF Elfsborg
+AIK 0 - 0 BK Häcken
+AIK 2 - 2 Djurgårdens IF
+AIK 1 - 2 Mjällby AIF
+AIK 2 - 0 IFK Norrköping
+AIK 0 - 0 Örebro SK
+AIK 0 - 2 Hammarby IF
+AIK 2 - 0 IK Sirius
+AIK 0 - 0 Varbergs BoIS
+AIK 1 - 1 IFK Göteborg
+AIK 2 - 1 Östersunds FK
+AIK 0 - 1 Kalmar FF
+AIK 1 - 1 Helsingborgs IF
+AIK 0 - 1 Falkenbergs FF
+IK Sirius 2 - 2 Malmö FF
+IK Sirius 1 - 3 IF Elfsborg
+IK Sirius 0 - 1 BK Häcken
+IK Sirius 2 - 0 Djurgårdens IF
+IK Sirius 1 - 1 Mjällby AIF
+IK Sirius 2 - 2 IFK Norrköping
+IK Sirius 0 - 2 Örebro SK
+IK Sirius 0 - 1 Hammarby IF
+IK Sirius 1 - 0 AIK
+IK Sirius 1 - 0 Varbergs BoIS
+IK Sirius 1 - 0 IFK Göteborg
+IK Sirius 0 - 0 Östersunds FK
+IK Sirius 1 - 2 Kalmar FF
+IK Sirius 1 - 0 Helsingborgs IF
+IK Sirius 3 - 2 Falkenbergs FF
+Varbergs BoIS 1 - 0 Malmö FF
+Varbergs BoIS 2 - 2 IF Elfsborg
+Varbergs BoIS 2 - 0 BK Häcken
+Varbergs BoIS 1 - 0 Djurgårdens IF
+Varbergs BoIS 0 - 1 Mjällby AIF
+Varbergs BoIS 2 - 2 IFK Norrköping
+Varbergs BoIS 1 - 2 Örebro SK
+Varbergs BoIS 0 - 0 Hammarby IF
+Varbergs BoIS 1 - 2 AIK
+Varbergs BoIS 3 - 2 IK Sirius
+Varbergs BoIS 0 - 0 IFK Göteborg
+Varbergs BoIS 0 - 2 Östersunds FK
+Varbergs BoIS 0 - 2 Kalmar FF
+Varbergs BoIS 1 - 1 Helsingborgs IF
+Varbergs BoIS 0 - 0 Falkenbergs FF
+IFK Göteborg 0 - 2 Malmö FF
+IFK Göteborg 0 - 2 IF Elfsborg
+IFK Göteborg 1 - 2 BK Häcken
+IFK Göteborg 1 - 0 Djurgårdens IF
+IFK Göteborg 2 - 2 Mjällby AIF
+IFK Göteborg 2 - 0 IFK Norrköping
+IFK Göteborg 0 - 2 Örebro SK
+IFK Göteborg 0 - 2 Hammarby IF
+IFK Göteborg 1 - 0 AIK
+IFK Göteborg 2 - 1 IK Sirius
+IFK Göteborg 0 - 1 Varbergs BoIS
+IFK Göteborg 0 - 0 Östersunds FK
+IFK Göteborg 2 - 0 Kalmar FF
+IFK Göteborg 2 - 2 Helsingborgs IF
+IFK Göteborg 2 - 0 Falkenbergs FF
+Östersunds FK 1 - 0 Malmö FF
+Östersunds FK 2 - 2 IF Elfsborg
+Östersunds FK 0 - 0 BK Häcken
+Östersunds FK 0 - 2 Djurgårdens IF
+Östersunds FK 2 - 1 Mjällby AIF
+Östersunds FK 0 - 1 IFK Norrköping
+Östersunds FK 0 - 0 Örebro SK
+Östersunds FK 2 - 2 Hammarby IF
+Östersunds FK 0 - 0 AIK
+Östersunds FK 1 - 0 IK Sirius
+Östersunds FK 0 - 0 Varbergs BoIS
+Östersunds FK 1 - 1 IFK Göteborg
+Östersunds FK 2 - 1 Kalmar FF
+Östersunds FK 1 - 0 Helsingborgs IF
+Östersunds FK 2 - 2 Falkenbergs FF
+Kalmar FF 1 - 3 Malmö FF
+Kalmar FF 0 - 2 IF Elfsborg
+Kalmar FF 0 - 2 BK Häcken
+Kalmar FF 0 - 0 Djurgårdens IF
+Kalmar FF 1 - 0 Mjällby AIF
+Kalmar FF 1 - 3 IFK Norrköping
+Kalmar FF 1 - 1 Örebro SK
+Kalmar FF 1 - 3 Hammarby IF
+Kalmar FF 1 - 2 AIK
+Kalmar FF 0 - 2 IK Sirius
+Kalmar FF 2 - 1 Varbergs BoIS
+Kalmar FF 0 - 1 IFK Göteborg
+Kalmar FF 2 - 1 Östersunds FK
+Kalmar FF 1 - 0 Helsingborgs IF
+Kalmar FF 2 - 2 Falkenbergs FF
+Helsingborgs IF 1 - 1 Malmö FF
+Helsingborgs IF 1 - 0 IF Elfsborg
+Helsingborgs IF 1 - 0 BK Häcken
+Helsingborgs IF 0 - 0 Djurgårdens IF
+Helsingborgs IF 0 - 0 Mjällby AIF
+Helsingborgs IF 1 - 3 IFK Norrköping
+Helsingborgs IF 1 - 1 Örebro SK
+Helsingborgs IF 2 - 1 Hammarby IF
+Helsingborgs IF 1 - 2 AIK
+Helsingborgs IF 0 - 2 IK Sirius
+Helsingborgs IF 0 - 1 Varbergs BoIS
+Helsingborgs IF 2 - 0 IFK Göteborg
+Helsingborgs IF 2 - 0 Östersunds FK
+Helsingborgs IF 2 - 1 Kalmar FF
+Helsingborgs IF 2 - 1 Falkenbergs FF
+Falkenbergs FF 0 - 3 Malmö FF
+Falkenbergs FF 0 - 2 IF Elfsborg
+Falkenbergs FF 0 - 0 BK Häcken
+Falkenbergs FF 0 - 0 Djurgårdens IF
+Falkenbergs FF 0 - 0 Mjällby AIF
+Falkenbergs FF 2 - 0 IFK Norrköping
+Falkenbergs FF 2 - 0 Örebro SK
+Falkenbergs FF 0 - 3 Hammarby IF
+Falkenbergs FF 1 - 1 AIK
+Falkenbergs FF 2 - 1 IK Sirius
+Falkenbergs FF 2 - 1 Varbergs BoIS
+Falkenbergs FF 0 - 0 IFK Göteborg
+Falkenbergs FF 2 - 2 Östersunds FK
+Falkenbergs FF 1 - 1 Kalmar FF
+Falkenbergs FF 0 - 0 Helsingborgs IF
+
+#---------------------------------
+#	 Season 554817
+#---------------------------------
+Malmö FF 0 - 1 IF Elfsborg
+Malmö FF 0 - 2 BK Häcken
+Malmö FF 1 - 2 Djurgårdens IF
+Malmö FF 1 - 0 Mjällby AIF
+Malmö FF 3 - 0 IFK Norrköping
+Malmö FF 0 - 0 Örebro SK
+Malmö FF 1 - 1 Hammarby IF
+Malmö FF 1 - 0 AIK
+Malmö FF 1 - 0 IK Sirius
+Malmö FF 2 - 2 Varbergs BoIS
+Malmö FF 0 - 0 IFK Göteborg
+Malmö FF 2 - 0 Östersunds FK
+Malmö FF 3 - 1 Kalmar FF
+Malmö FF 3 - 0 Helsingborgs IF
+Malmö FF 3 - 0 Falkenbergs FF
+IF Elfsborg 1 - 2 Malmö FF
+IF Elfsborg 0 - 1 BK Häcken
+IF Elfsborg 0 - 0 Djurgårdens IF
+IF Elfsborg 1 - 2 Mjällby AIF
+IF Elfsborg 1 - 0 IFK Norrköping
+IF Elfsborg 1 - 0 Örebro SK
+IF Elfsborg 1 - 2 Hammarby IF
+IF Elfsborg 2 - 0 AIK
+IF Elfsborg 0 - 0 IK Sirius
+IF Elfsborg 0 - 1 Varbergs BoIS
+IF Elfsborg 0 - 1 IFK Göteborg
+IF Elfsborg 0 - 1 Östersunds FK
+IF Elfsborg 1 - 0 Kalmar FF
+IF Elfsborg 2 - 0 Helsingborgs IF
+IF Elfsborg 3 - 1 Falkenbergs FF
+BK Häcken 0 - 0 Malmö FF
+BK Häcken 0 - 1 IF Elfsborg
+BK Häcken 1 - 0 Djurgårdens IF
+BK Häcken 0 - 2 Mjällby AIF
+BK Häcken 1 - 0 IFK Norrköping
+BK Häcken 1 - 0 Örebro SK
+BK Häcken 2 - 0 Hammarby IF
+BK Häcken 1 - 1 AIK
+BK Häcken 1 - 1 IK Sirius
+BK Häcken 0 - 1 Varbergs BoIS
+BK Häcken 1 - 1 IFK Göteborg
+BK Häcken 0 - 0 Östersunds FK
+BK Häcken 2 - 0 Kalmar FF
+BK Häcken 1 - 1 Helsingborgs IF
+BK Häcken 3 - 2 Falkenbergs FF
+Djurgårdens IF 1 - 1 Malmö FF
+Djurgårdens IF 2 - 2 IF Elfsborg
+Djurgårdens IF 0 - 0 BK Häcken
+Djurgårdens IF 0 - 1 Mjällby AIF
+Djurgårdens IF 1 - 1 IFK Norrköping
+Djurgårdens IF 0 - 0 Örebro SK
+Djurgårdens IF 2 - 2 Hammarby IF
+Djurgårdens IF 0 - 1 AIK
+Djurgårdens IF 2 - 2 IK Sirius
+Djurgårdens IF 0 - 2 Varbergs BoIS
+Djurgårdens IF 1 - 0 IFK Göteborg
+Djurgårdens IF 2 - 0 Östersunds FK
+Djurgårdens IF 0 - 1 Kalmar FF
+Djurgårdens IF 0 - 0 Helsingborgs IF
+Djurgårdens IF 2 - 0 Falkenbergs FF
+Mjällby AIF 1 - 2 Malmö FF
+Mjällby AIF 0 - 1 IF Elfsborg
+Mjällby AIF 1 - 0 BK Häcken
+Mjällby AIF 0 - 2 Djurgårdens IF
+Mjällby AIF 0 - 0 IFK Norrköping
+Mjällby AIF 1 - 2 Örebro SK
+Mjällby AIF 0 - 1 Hammarby IF
+Mjällby AIF 0 - 0 AIK
+Mjällby AIF 1 - 0 IK Sirius
+Mjällby AIF 0 - 2 Varbergs BoIS
+Mjällby AIF 1 - 1 IFK Göteborg
+Mjällby AIF 1 - 0 Östersunds FK
+Mjällby AIF 1 - 0 Kalmar FF
+Mjällby AIF 1 - 1 Helsingborgs IF
+Mjällby AIF 2 - 1 Falkenbergs FF
+IFK Norrköping 0 - 0 Malmö FF
+IFK Norrköping 2 - 0 IF Elfsborg
+IFK Norrköping 2 - 2 BK Häcken
+IFK Norrköping 0 - 1 Djurgårdens IF
+IFK Norrköping 0 - 2 Mjällby AIF
+IFK Norrköping 1 - 0 Örebro SK
+IFK Norrköping 3 - 2 Hammarby IF
+IFK Norrköping 0 - 1 AIK
+IFK Norrköping 3 - 1 IK Sirius
+IFK Norrköping 0 - 0 Varbergs BoIS
+IFK Norrköping 3 - 2 IFK Göteborg
+IFK Norrköping 2 - 2 Östersunds FK
+IFK Norrköping 2 - 0 Kalmar FF
+IFK Norrköping 0 - 2 Helsingborgs IF
+IFK Norrköping 3 - 0 Falkenbergs FF
+Örebro SK 1 - 2 Malmö FF
+Örebro SK 2 - 1 IF Elfsborg
+Örebro SK 0 - 1 BK Häcken
+Örebro SK 0 - 2 Djurgårdens IF
+Örebro SK 1 - 1 Mjällby AIF
+Örebro SK 2 - 0 IFK Norrköping
+Örebro SK 0 - 0 Hammarby IF
+Örebro SK 1 - 1 AIK
+Örebro SK 2 - 1 IK Sirius
+Örebro SK 2 - 2 Varbergs BoIS
+Örebro SK 1 - 2 IFK Göteborg
+Örebro SK 1 - 1 Östersunds FK
+Örebro SK 1 - 0 Kalmar FF
+Örebro SK 0 - 2 Helsingborgs IF
+Örebro SK 2 - 1 Falkenbergs FF
+Hammarby IF 1 - 1 Malmö FF
+Hammarby IF 1 - 2 IF Elfsborg
+Hammarby IF 0 - 2 BK Häcken
+Hammarby IF 0 - 1 Djurgårdens IF
+Hammarby IF 2 - 1 Mjällby AIF
+Hammarby IF 1 - 0 IFK Norrköping
+Hammarby IF 2 - 1 Örebro SK
+Hammarby IF 0 - 2 AIK
+Hammarby IF 2 - 1 IK Sirius
+Hammarby IF 1 - 0 Varbergs BoIS
+Hammarby IF 1 - 1 IFK Göteborg
+Hammarby IF 0 - 0 Östersunds FK
+Hammarby IF 2 - 1 Kalmar FF
+Hammarby IF 0 - 0 Helsingborgs IF
+Hammarby IF 2 - 1 Falkenbergs FF
+AIK 0 - 0 Malmö FF
+AIK 0 - 2 IF Elfsborg
+AIK 0 - 1 BK Häcken
+AIK 0 - 0 Djurgårdens IF
+AIK 0 - 1 Mjällby AIF
+AIK 1 - 0 IFK Norrköping
+AIK 1 - 0 Örebro SK
+AIK 0 - 1 Hammarby IF
+AIK 0 - 0 IK Sirius
+AIK 0 - 1 Varbergs BoIS
+AIK 1 - 1 IFK Göteborg
+AIK 1 - 1 Östersunds FK
+AIK 0 - 2 Kalmar FF
+AIK 0 - 1 Helsingborgs IF
+AIK 2 - 0 Falkenbergs FF
+IK Sirius 1 - 2 Malmö FF
+IK Sirius 1 - 0 IF Elfsborg
+IK Sirius 0 - 1 BK Häcken
+IK Sirius 1 - 3 Djurgårdens IF
+IK Sirius 1 - 2 Mjällby AIF
+IK Sirius 1 - 2 IFK Norrköping
+IK Sirius 1 - 2 Örebro SK
+IK Sirius 1 - 0 Hammarby IF
+IK Sirius 2 - 2 AIK
+IK Sirius 2 - 1 Varbergs BoIS
+IK Sirius 1 - 0 IFK Göteborg
+IK Sirius 2 - 0 Östersunds FK
+IK Sirius 0 - 1 Kalmar FF
+IK Sirius 1 - 1 Helsingborgs IF
+IK Sirius 1 - 0 Falkenbergs FF
+Varbergs BoIS 0 - 2 Malmö FF
+Varbergs BoIS 0 - 1 IF Elfsborg
+Varbergs BoIS 2 - 2 BK Häcken
+Varbergs BoIS 1 - 1 Djurgårdens IF
+Varbergs BoIS 2 - 2 Mjällby AIF
+Varbergs BoIS 1 - 0 IFK Norrköping
+Varbergs BoIS 2 - 1 Örebro SK
+Varbergs BoIS 0 - 2 Hammarby IF
+Varbergs BoIS 0 - 1 AIK
+Varbergs BoIS 0 - 0 IK Sirius
+Varbergs BoIS 0 - 0 IFK Göteborg
+Varbergs BoIS 2 - 1 Östersunds FK
+Varbergs BoIS 2 - 1 Kalmar FF
+Varbergs BoIS 2 - 1 Helsingborgs IF
+Varbergs BoIS 2 - 1 Falkenbergs FF
+IFK Göteborg 1 - 0 Malmö FF
+IFK Göteborg 0 - 0 IF Elfsborg
+IFK Göteborg 1 - 2 BK Häcken
+IFK Göteborg 1 - 2 Djurgårdens IF
+IFK Göteborg 2 - 2 Mjällby AIF
+IFK Göteborg 1 - 0 IFK Norrköping
+IFK Göteborg 2 - 2 Örebro SK
+IFK Göteborg 2 - 1 Hammarby IF
+IFK Göteborg 0 - 0 AIK
+IFK Göteborg 0 - 1 IK Sirius
+IFK Göteborg 0 - 2 Varbergs BoIS
+IFK Göteborg 1 - 0 Östersunds FK
+IFK Göteborg 2 - 2 Kalmar FF
+IFK Göteborg 2 - 1 Helsingborgs IF
+IFK Göteborg 2 - 0 Falkenbergs FF
+Östersunds FK 0 - 0 Malmö FF
+Östersunds FK 1 - 1 IF Elfsborg
+Östersunds FK 0 - 1 BK Häcken
+Östersunds FK 1 - 1 Djurgårdens IF
+Östersunds FK 0 - 1 Mjällby AIF
+Östersunds FK 0 - 1 IFK Norrköping
+Östersunds FK 1 - 0 Örebro SK
+Östersunds FK 2 - 2 Hammarby IF
+Östersunds FK 0 - 2 AIK
+Östersunds FK 1 - 1 IK Sirius
+Östersunds FK 0 - 1 Varbergs BoIS
+Östersunds FK 1 - 0 IFK Göteborg
+Östersunds FK 0 - 2 Kalmar FF
+Östersunds FK 1 - 0 Helsingborgs IF
+Östersunds FK 0 - 1 Falkenbergs FF
+Kalmar FF 1 - 3 Malmö FF
+Kalmar FF 2 - 1 IF Elfsborg
+Kalmar FF 1 - 0 BK Häcken
+Kalmar FF 0 - 1 Djurgårdens IF
+Kalmar FF 2 - 0 Mjällby AIF
+Kalmar FF 1 - 3 IFK Norrköping
+Kalmar FF 0 - 1 Örebro SK
+Kalmar FF 0 - 2 Hammarby IF
+Kalmar FF 0 - 1 AIK
+Kalmar FF 1 - 0 IK Sirius
+Kalmar FF 1 - 0 Varbergs BoIS
+Kalmar FF 2 - 1 IFK Göteborg
+Kalmar FF 0 - 1 Östersunds FK
+Kalmar FF 2 - 1 Helsingborgs IF
+Kalmar FF 0 - 0 Falkenbergs FF
+Helsingborgs IF 2 - 2 Malmö FF
+Helsingborgs IF 0 - 1 IF Elfsborg
+Helsingborgs IF 1 - 1 BK Häcken
+Helsingborgs IF 1 - 0 Djurgårdens IF
+Helsingborgs IF 1 - 2 Mjällby AIF
+Helsingborgs IF 1 - 2 IFK Norrköping
+Helsingborgs IF 0 - 1 Örebro SK
+Helsingborgs IF 2 - 1 Hammarby IF
+Helsingborgs IF 0 - 2 AIK
+Helsingborgs IF 2 - 1 IK Sirius
+Helsingborgs IF 1 - 0 Varbergs BoIS
+Helsingborgs IF 1 - 0 IFK Göteborg
+Helsingborgs IF 0 - 1 Östersunds FK
+Helsingborgs IF 2 - 1 Kalmar FF
+Helsingborgs IF 1 - 0 Falkenbergs FF
+Falkenbergs FF 0 - 3 Malmö FF
+Falkenbergs FF 1 - 2 IF Elfsborg
+Falkenbergs FF 0 - 2 BK Häcken
+Falkenbergs FF 1 - 3 Djurgårdens IF
+Falkenbergs FF 0 - 3 Mjällby AIF
+Falkenbergs FF 0 - 3 IFK Norrköping
+Falkenbergs FF 2 - 2 Örebro SK
+Falkenbergs FF 1 - 2 Hammarby IF
+Falkenbergs FF 2 - 1 AIK
+Falkenbergs FF 1 - 2 IK Sirius
+Falkenbergs FF 1 - 3 Varbergs BoIS
+Falkenbergs FF 1 - 2 IFK Göteborg
+Falkenbergs FF 1 - 2 Östersunds FK
+Falkenbergs FF 0 - 2 Kalmar FF
+Falkenbergs FF 0 - 2 Helsingborgs IF
+
+#---------------------------------
+#	 Season 566418
+#---------------------------------
+Malmö FF 2 - 1 IF Elfsborg
+Malmö FF 0 - 0 BK Häcken
+Malmö FF 0 - 2 Djurgårdens IF
+Malmö FF 3 - 1 Mjällby AIF
+Malmö FF 2 - 2 IFK Norrköping
+Malmö FF 1 - 1 Örebro SK
+Malmö FF 3 - 1 Hammarby IF
+Malmö FF 1 - 0 AIK
+Malmö FF 2 - 1 IK Sirius
+Malmö FF 3 - 0 Varbergs BoIS
+Malmö FF 3 - 0 IFK Göteborg
+Malmö FF 2 - 0 Östersunds FK
+Malmö FF 3 - 0 Kalmar FF
+Malmö FF 1 - 0 Helsingborgs IF
+Malmö FF 2 - 0 Falkenbergs FF
+IF Elfsborg 1 - 2 Malmö FF
+IF Elfsborg 0 - 2 BK Häcken
+IF Elfsborg 1 - 1 Djurgårdens IF
+IF Elfsborg 2 - 1 Mjällby AIF
+IF Elfsborg 1 - 1 IFK Norrköping
+IF Elfsborg 2 - 2 Örebro SK
+IF Elfsborg 2 - 2 Hammarby IF
+IF Elfsborg 0 - 0 AIK
+IF Elfsborg 2 - 2 IK Sirius
+IF Elfsborg 0 - 0 Varbergs BoIS
+IF Elfsborg 1 - 0 IFK Göteborg
+IF Elfsborg 0 - 1 Östersunds FK
+IF Elfsborg 2 - 1 Kalmar FF
+IF Elfsborg 2 - 1 Helsingborgs IF
+IF Elfsborg 1 - 0 Falkenbergs FF
+BK Häcken 1 - 2 Malmö FF
+BK Häcken 2 - 0 IF Elfsborg
+BK Häcken 0 - 1 Djurgårdens IF
+BK Häcken 1 - 0 Mjällby AIF
+BK Häcken 2 - 0 IFK Norrköping
+BK Häcken 1 - 0 Örebro SK
+BK Häcken 0 - 0 Hammarby IF
+BK Häcken 0 - 0 AIK
+BK Häcken 2 - 2 IK Sirius
+BK Häcken 0 - 0 Varbergs BoIS
+BK Häcken 1 - 0 IFK Göteborg
+BK Häcken 0 - 0 Östersunds FK
+BK Häcken 2 - 0 Kalmar FF
+BK Häcken 1 - 0 Helsingborgs IF
+BK Häcken 1 - 1 Falkenbergs FF
+Djurgårdens IF 2 - 3 Malmö FF
+Djurgårdens IF 2 - 0 IF Elfsborg
+Djurgårdens IF 2 - 0 BK Häcken
+Djurgårdens IF 2 - 0 Mjällby AIF
+Djurgårdens IF 1 - 1 IFK Norrköping
+Djurgårdens IF 2 - 1 Örebro SK
+Djurgårdens IF 3 - 0 Hammarby IF
+Djurgårdens IF 1 - 0 AIK
+Djurgårdens IF 3 - 2 IK Sirius
+Djurgårdens IF 2 - 1 Varbergs BoIS
+Djurgårdens IF 2 - 1 IFK Göteborg
+Djurgårdens IF 2 - 0 Östersunds FK
+Djurgårdens IF 2 - 0 Kalmar FF
+Djurgårdens IF 2 - 1 Helsingborgs IF
+Djurgårdens IF 1 - 1 Falkenbergs FF
+Mjällby AIF 0 - 0 Malmö FF
+Mjällby AIF 2 - 0 IF Elfsborg
+Mjällby AIF 0 - 2 BK Häcken
+Mjällby AIF 1 - 2 Djurgårdens IF
+Mjällby AIF 1 - 0 IFK Norrköping
+Mjällby AIF 0 - 0 Örebro SK
+Mjällby AIF 1 - 1 Hammarby IF
+Mjällby AIF 1 - 2 AIK
+Mjällby AIF 1 - 0 IK Sirius
+Mjällby AIF 2 - 2 Varbergs BoIS
+Mjällby AIF 1 - 1 IFK Göteborg
+Mjällby AIF 1 - 1 Östersunds FK
+Mjällby AIF 0 - 2 Kalmar FF
+Mjällby AIF 0 - 2 Helsingborgs IF
+Mjällby AIF 1 - 2 Falkenbergs FF
+IFK Norrköping 1 - 1 Malmö FF
+IFK Norrköping 0 - 1 IF Elfsborg
+IFK Norrköping 0 - 2 BK Häcken
+IFK Norrköping 2 - 2 Djurgårdens IF
+IFK Norrköping 2 - 2 Mjällby AIF
+IFK Norrköping 2 - 2 Örebro SK
+IFK Norrköping 1 - 1 Hammarby IF
+IFK Norrköping 1 - 1 AIK
+IFK Norrköping 1 - 1 IK Sirius
+IFK Norrköping 2 - 2 Varbergs BoIS
+IFK Norrköping 2 - 1 IFK Göteborg
+IFK Norrköping 1 - 1 Östersunds FK
+IFK Norrköping 1 - 1 Kalmar FF
+IFK Norrköping 2 - 2 Helsingborgs IF
+IFK Norrköping 3 - 0 Falkenbergs FF
+Örebro SK 1 - 2 Malmö FF
+Örebro SK 1 - 1 IF Elfsborg
+Örebro SK 1 - 1 BK Häcken
+Örebro SK 0 - 2 Djurgårdens IF
+Örebro SK 0 - 2 Mjällby AIF
+Örebro SK 2 - 1 IFK Norrköping
+Örebro SK 0 - 0 Hammarby IF
+Örebro SK 2 - 1 AIK
+Örebro SK 0 - 0 IK Sirius
+Örebro SK 0 - 1 Varbergs BoIS
+Örebro SK 1 - 2 IFK Göteborg
+Örebro SK 0 - 1 Östersunds FK
+Örebro SK 0 - 2 Kalmar FF
+Örebro SK 2 - 1 Helsingborgs IF
+Örebro SK 0 - 1 Falkenbergs FF
+Hammarby IF 0 - 3 Malmö FF
+Hammarby IF 2 - 1 IF Elfsborg
+Hammarby IF 0 - 0 BK Häcken
+Hammarby IF 1 - 2 Djurgårdens IF
+Hammarby IF 1 - 2 Mjällby AIF
+Hammarby IF 0 - 2 IFK Norrköping
+Hammarby IF 0 - 2 Örebro SK
+Hammarby IF 2 - 0 AIK
+Hammarby IF 0 - 1 IK Sirius
+Hammarby IF 1 - 2 Varbergs BoIS
+Hammarby IF 1 - 1 IFK Göteborg
+Hammarby IF 2 - 0 Östersunds FK
+Hammarby IF 2 - 1 Kalmar FF
+Hammarby IF 1 - 2 Helsingborgs IF
+Hammarby IF 1 - 2 Falkenbergs FF
+AIK 1 - 2 Malmö FF
+AIK 1 - 1 IF Elfsborg
+AIK 1 - 0 BK Häcken
+AIK 1 - 2 Djurgårdens IF
+AIK 2 - 2 Mjällby AIF
+AIK 2 - 0 IFK Norrköping
+AIK 1 - 0 Örebro SK
+AIK 1 - 1 Hammarby IF
+AIK 1 - 0 IK Sirius
+AIK 1 - 0 Varbergs BoIS
+AIK 1 - 1 IFK Göteborg
+AIK 2 - 0 Östersunds FK
+AIK 2 - 1 Kalmar FF
+AIK 0 - 1 Helsingborgs IF
+AIK 2 - 1 Falkenbergs FF
+IK Sirius 1 - 2 Malmö FF
+IK Sirius 1 - 2 IF Elfsborg
+IK Sirius 0 - 0 BK Häcken
+IK Sirius 0 - 1 Djurgårdens IF
+IK Sirius 0 - 2 Mjällby AIF
+IK Sirius 1 - 1 IFK Norrköping
+IK Sirius 1 - 2 Örebro SK
+IK Sirius 2 - 1 Hammarby IF
+IK Sirius 0 - 0 AIK
+IK Sirius 2 - 0 Varbergs BoIS
+IK Sirius 2 - 0 IFK Göteborg
+IK Sirius 0 - 0 Östersunds FK
+IK Sirius 1 - 0 Kalmar FF
+IK Sirius 0 - 0 Helsingborgs IF
+IK Sirius 2 - 0 Falkenbergs FF
+Varbergs BoIS 2 - 3 Malmö FF
+Varbergs BoIS 2 - 0 IF Elfsborg
+Varbergs BoIS 2 - 0 BK Häcken
+Varbergs BoIS 1 - 2 Djurgårdens IF
+Varbergs BoIS 0 - 0 Mjällby AIF
+Varbergs BoIS 1 - 0 IFK Norrköping
+Varbergs BoIS 0 - 2 Örebro SK
+Varbergs BoIS 1 - 0 Hammarby IF
+Varbergs BoIS 2 - 0 AIK
+Varbergs BoIS 1 - 0 IK Sirius
+Varbergs BoIS 0 - 2 IFK Göteborg
+Varbergs BoIS 2 - 1 Östersunds FK
+Varbergs BoIS 1 - 1 Kalmar FF
+Varbergs BoIS 1 - 0 Helsingborgs IF
+Varbergs BoIS 0 - 2 Falkenbergs FF
+IFK Göteborg 0 - 3 Malmö FF
+IFK Göteborg 1 - 0 IF Elfsborg
+IFK Göteborg 2 - 1 BK Häcken
+IFK Göteborg 1 - 0 Djurgårdens IF
+IFK Göteborg 2 - 1 Mjällby AIF
+IFK Göteborg 2 - 1 IFK Norrköping
+IFK Göteborg 0 - 1 Örebro SK
+IFK Göteborg 1 - 2 Hammarby IF
+IFK Göteborg 0 - 0 AIK
+IFK Göteborg 2 - 0 IK Sirius
+IFK Göteborg 0 - 0 Varbergs BoIS
+IFK Göteborg 2 - 1 Östersunds FK
+IFK Göteborg 2 - 2 Kalmar FF
+IFK Göteborg 0 - 0 Helsingborgs IF
+IFK Göteborg 1 - 0 Falkenbergs FF
+Östersunds FK 1 - 1 Malmö FF
+Östersunds FK 1 - 1 IF Elfsborg
+Östersunds FK 0 - 2 BK Häcken
+Östersunds FK 1 - 0 Djurgårdens IF
+Östersunds FK 2 - 2 Mjällby AIF
+Östersunds FK 1 - 2 IFK Norrköping
+Östersunds FK 0 - 2 Örebro SK
+Östersunds FK 1 - 0 Hammarby IF
+Östersunds FK 1 - 0 AIK
+Östersunds FK 0 - 2 IK Sirius
+Östersunds FK 1 - 1 Varbergs BoIS
+Östersunds FK 0 - 0 IFK Göteborg
+Östersunds FK 1 - 0 Kalmar FF
+Östersunds FK 0 - 0 Helsingborgs IF
+Östersunds FK 0 - 0 Falkenbergs FF
+Kalmar FF 1 - 1 Malmö FF
+Kalmar FF 1 - 1 IF Elfsborg
+Kalmar FF 1 - 0 BK Häcken
+Kalmar FF 1 - 2 Djurgårdens IF
+Kalmar FF 1 - 2 Mjällby AIF
+Kalmar FF 0 - 3 IFK Norrköping
+Kalmar FF 0 - 2 Örebro SK
+Kalmar FF 1 - 1 Hammarby IF
+Kalmar FF 1 - 2 AIK
+Kalmar FF 0 - 2 IK Sirius
+Kalmar FF 0 - 2 Varbergs BoIS
+Kalmar FF 2 - 2 IFK Göteborg
+Kalmar FF 1 - 0 Östersunds FK
+Kalmar FF 0 - 1 Helsingborgs IF
+Kalmar FF 1 - 2 Falkenbergs FF
+Helsingborgs IF 1 - 2 Malmö FF
+Helsingborgs IF 1 - 2 IF Elfsborg
+Helsingborgs IF 0 - 1 BK Häcken
+Helsingborgs IF 0 - 2 Djurgårdens IF
+Helsingborgs IF 2 - 0 Mjällby AIF
+Helsingborgs IF 0 - 0 IFK Norrköping
+Helsingborgs IF 1 - 1 Örebro SK
+Helsingborgs IF 2 - 2 Hammarby IF
+Helsingborgs IF 2 - 1 AIK
+Helsingborgs IF 1 - 0 IK Sirius
+Helsingborgs IF 0 - 0 Varbergs BoIS
+Helsingborgs IF 2 - 1 IFK Göteborg
+Helsingborgs IF 2 - 1 Östersunds FK
+Helsingborgs IF 0 - 2 Kalmar FF
+Helsingborgs IF 2 - 1 Falkenbergs FF
+Falkenbergs FF 0 - 1 Malmö FF
+Falkenbergs FF 0 - 2 IF Elfsborg
+Falkenbergs FF 0 - 1 BK Häcken
+Falkenbergs FF 0 - 1 Djurgårdens IF
+Falkenbergs FF 1 - 0 Mjällby AIF
+Falkenbergs FF 0 - 0 IFK Norrköping
+Falkenbergs FF 0 - 2 Örebro SK
+Falkenbergs FF 1 - 0 Hammarby IF
+Falkenbergs FF 0 - 0 AIK
+Falkenbergs FF 2 - 2 IK Sirius
+Falkenbergs FF 0 - 2 Varbergs BoIS
+Falkenbergs FF 2 - 1 IFK Göteborg
+Falkenbergs FF 1 - 1 Östersunds FK
+Falkenbergs FF 1 - 1 Kalmar FF
+Falkenbergs FF 0 - 2 Helsingborgs IF
+
+#---------------------------------
+#	 Season 579623
+#---------------------------------
+Malmö FF 2 - 1 IF Elfsborg
+Malmö FF 2 - 2 BK Häcken
+Malmö FF 2 - 0 Djurgårdens IF
+Malmö FF 2 - 2 Mjällby AIF
+Malmö FF 2 - 1 IFK Norrköping
+Malmö FF 1 - 0 Örebro SK
+Malmö FF 3 - 1 Hammarby IF
+Malmö FF 1 - 1 AIK
+Malmö FF 3 - 0 IK Sirius
+Malmö FF 3 - 2 Varbergs BoIS
+Malmö FF 2 - 0 IFK Göteborg
+Malmö FF 3 - 1 Östersunds FK
+Malmö FF 2 - 1 Kalmar FF
+Malmö FF 3 - 0 Helsingborgs IF
+Malmö FF 2 - 0 Falkenbergs FF
+IF Elfsborg 0 - 3 Malmö FF
+IF Elfsborg 0 - 0 BK Häcken
+IF Elfsborg 0 - 1 Djurgårdens IF
+IF Elfsborg 1 - 1 Mjällby AIF
+IF Elfsborg 1 - 0 IFK Norrköping
+IF Elfsborg 2 - 1 Örebro SK
+IF Elfsborg 0 - 1 Hammarby IF
+IF Elfsborg 0 - 0 AIK
+IF Elfsborg 3 - 2 IK Sirius
+IF Elfsborg 0 - 1 Varbergs BoIS
+IF Elfsborg 1 - 0 IFK Göteborg
+IF Elfsborg 1 - 0 Östersunds FK
+IF Elfsborg 1 - 1 Kalmar FF
+IF Elfsborg 1 - 1 Helsingborgs IF
+IF Elfsborg 0 - 1 Falkenbergs FF
+BK Häcken 0 - 0 Malmö FF
+BK Häcken 0 - 1 IF Elfsborg
+BK Häcken 0 - 1 Djurgårdens IF
+BK Häcken 0 - 1 Mjällby AIF
+BK Häcken 1 - 2 IFK Norrköping
+BK Häcken 1 - 1 Örebro SK
+BK Häcken 2 - 2 Hammarby IF
+BK Häcken 0 - 1 AIK
+BK Häcken 0 - 1 IK Sirius
+BK Häcken 2 - 1 Varbergs BoIS
+BK Häcken 2 - 0 IFK Göteborg
+BK Häcken 0 - 1 Östersunds FK
+BK Häcken 1 - 0 Kalmar FF
+BK Häcken 1 - 1 Helsingborgs IF
+BK Häcken 2 - 0 Falkenbergs FF
+Djurgårdens IF 2 - 2 Malmö FF
+Djurgårdens IF 0 - 2 IF Elfsborg
+Djurgårdens IF 0 - 1 BK Häcken
+Djurgårdens IF 1 - 1 Mjällby AIF
+Djurgårdens IF 0 - 1 IFK Norrköping
+Djurgårdens IF 2 - 0 Örebro SK
+Djurgårdens IF 1 - 0 Hammarby IF
+Djurgårdens IF 0 - 1 AIK
+Djurgårdens IF 0 - 1 IK Sirius
+Djurgårdens IF 0 - 1 Varbergs BoIS
+Djurgårdens IF 1 - 0 IFK Göteborg
+Djurgårdens IF 3 - 1 Östersunds FK
+Djurgårdens IF 2 - 1 Kalmar FF
+Djurgårdens IF 2 - 0 Helsingborgs IF
+Djurgårdens IF 0 - 0 Falkenbergs FF
+Mjällby AIF 0 - 1 Malmö FF
+Mjällby AIF 2 - 3 IF Elfsborg
+Mjällby AIF 2 - 2 BK Häcken
+Mjällby AIF 1 - 3 Djurgårdens IF
+Mjällby AIF 2 - 1 IFK Norrköping
+Mjällby AIF 1 - 1 Örebro SK
+Mjällby AIF 1 - 0 Hammarby IF
+Mjällby AIF 2 - 1 AIK
+Mjällby AIF 2 - 2 IK Sirius
+Mjällby AIF 2 - 1 Varbergs BoIS
+Mjällby AIF 2 - 1 IFK Göteborg
+Mjällby AIF 2 - 0 Östersunds FK
+Mjällby AIF 2 - 2 Kalmar FF
+Mjällby AIF 2 - 1 Helsingborgs IF
+Mjällby AIF 3 - 0 Falkenbergs FF
+IFK Norrköping 2 - 0 Malmö FF
+IFK Norrköping 0 - 2 IF Elfsborg
+IFK Norrköping 1 - 1 BK Häcken
+IFK Norrköping 1 - 1 Djurgårdens IF
+IFK Norrköping 1 - 0 Mjällby AIF
+IFK Norrköping 1 - 0 Örebro SK
+IFK Norrköping 0 - 2 Hammarby IF
+IFK Norrköping 0 - 2 AIK
+IFK Norrköping 2 - 2 IK Sirius
+IFK Norrköping 2 - 0 Varbergs BoIS
+IFK Norrköping 0 - 2 IFK Göteborg
+IFK Norrköping 1 - 1 Östersunds FK
+IFK Norrköping 2 - 1 Kalmar FF
+IFK Norrköping 2 - 1 Helsingborgs IF
+IFK Norrköping 0 - 0 Falkenbergs FF
+Örebro SK 0 - 3 Malmö FF
+Örebro SK 0 - 1 IF Elfsborg
+Örebro SK 1 - 1 BK Häcken
+Örebro SK 0 - 1 Djurgårdens IF
+Örebro SK 2 - 1 Mjällby AIF
+Örebro SK 0 - 1 IFK Norrköping
+Örebro SK 1 - 1 Hammarby IF
+Örebro SK 0 - 1 AIK
+Örebro SK 1 - 0 IK Sirius
+Örebro SK 0 - 0 Varbergs BoIS
+Örebro SK 0 - 2 IFK Göteborg
+Örebro SK 2 - 1 Östersunds FK
+Örebro SK 2 - 1 Kalmar FF
+Örebro SK 1 - 1 Helsingborgs IF
+Örebro SK 0 - 2 Falkenbergs FF
+Hammarby IF 2 - 3 Malmö FF
+Hammarby IF 0 - 0 IF Elfsborg
+Hammarby IF 0 - 1 BK Häcken
+Hammarby IF 0 - 1 Djurgårdens IF
+Hammarby IF 2 - 2 Mjällby AIF
+Hammarby IF 1 - 0 IFK Norrköping
+Hammarby IF 2 - 0 Örebro SK
+Hammarby IF 0 - 2 AIK
+Hammarby IF 0 - 2 IK Sirius
+Hammarby IF 0 - 0 Varbergs BoIS
+Hammarby IF 2 - 1 IFK Göteborg
+Hammarby IF 1 - 0 Östersunds FK
+Hammarby IF 2 - 0 Kalmar FF
+Hammarby IF 0 - 0 Helsingborgs IF
+Hammarby IF 1 - 2 Falkenbergs FF
+AIK 1 - 2 Malmö FF
+AIK 0 - 2 IF Elfsborg
+AIK 1 - 0 BK Häcken
+AIK 0 - 1 Djurgårdens IF
+AIK 1 - 1 Mjällby AIF
+AIK 0 - 0 IFK Norrköping
+AIK 0 - 1 Örebro SK
+AIK 1 - 0 Hammarby IF
+AIK 0 - 1 IK Sirius
+AIK 1 - 0 Varbergs BoIS
+AIK 1 - 1 IFK Göteborg
+AIK 1 - 0 Östersunds FK
+AIK 0 - 0 Kalmar FF
+AIK 1 - 0 Helsingborgs IF
+AIK 1 - 0 Falkenbergs FF
+IK Sirius 1 - 3 Malmö FF
+IK Sirius 2 - 3 IF Elfsborg
+IK Sirius 2 - 2 BK Häcken
+IK Sirius 2 - 0 Djurgårdens IF
+IK Sirius 1 - 2 Mjällby AIF
+IK Sirius 2 - 3 IFK Norrköping
+IK Sirius 1 - 2 Örebro SK
+IK Sirius 2 - 1 Hammarby IF
+IK Sirius 0 - 2 AIK
+IK Sirius 1 - 2 Varbergs BoIS
+IK Sirius 0 - 1 IFK Göteborg
+IK Sirius 2 - 1 Östersunds FK
+IK Sirius 1 - 2 Kalmar FF
+IK Sirius 0 - 0 Helsingborgs IF
+IK Sirius 2 - 0 Falkenbergs FF
+Varbergs BoIS 1 - 3 Malmö FF
+Varbergs BoIS 2 - 1 IF Elfsborg
+Varbergs BoIS 0 - 1 BK Häcken
+Varbergs BoIS 0 - 0 Djurgårdens IF
+Varbergs BoIS 1 - 2 Mjällby AIF
+Varbergs BoIS 0 - 0 IFK Norrköping
+Varbergs BoIS 2 - 1 Örebro SK
+Varbergs BoIS 1 - 1 Hammarby IF
+Varbergs BoIS 0 - 2 AIK
+Varbergs BoIS 1 - 1 IK Sirius
+Varbergs BoIS 0 - 2 IFK Göteborg
+Varbergs BoIS 1 - 1 Östersunds FK
+Varbergs BoIS 2 - 1 Kalmar FF
+Varbergs BoIS 0 - 1 Helsingborgs IF
+Varbergs BoIS 1 - 0 Falkenbergs FF
+IFK Göteborg 1 - 3 Malmö FF
+IFK Göteborg 0 - 0 IF Elfsborg
+IFK Göteborg 0 - 2 BK Häcken
+IFK Göteborg 2 - 2 Djurgårdens IF
+IFK Göteborg 1 - 0 Mjällby AIF
+IFK Göteborg 0 - 2 IFK Norrköping
+IFK Göteborg 0 - 2 Örebro SK
+IFK Göteborg 1 - 0 Hammarby IF
+IFK Göteborg 1 - 0 AIK
+IFK Göteborg 0 - 2 IK Sirius
+IFK Göteborg 1 - 0 Varbergs BoIS
+IFK Göteborg 1 - 0 Östersunds FK
+IFK Göteborg 2 - 2 Kalmar FF
+IFK Göteborg 0 - 0 Helsingborgs IF
+IFK Göteborg 1 - 1 Falkenbergs FF
+Östersunds FK 0 - 3 Malmö FF
+Östersunds FK 1 - 1 IF Elfsborg
+Östersunds FK 1 - 0 BK Häcken
+Östersunds FK 1 - 1 Djurgårdens IF
+Östersunds FK 0 - 1 Mjällby AIF
+Östersunds FK 1 - 1 IFK Norrköping
+Östersunds FK 0 - 0 Örebro SK
+Östersunds FK 0 - 1 Hammarby IF
+Östersunds FK 0 - 1 AIK
+Östersunds FK 0 - 2 IK Sirius
+Östersunds FK 2 - 0 Varbergs BoIS
+Östersunds FK 0 - 1 IFK Göteborg
+Östersunds FK 1 - 1 Kalmar FF
+Östersunds FK 1 - 0 Helsingborgs IF
+Östersunds FK 0 - 1 Falkenbergs FF
+Kalmar FF 1 - 3 Malmö FF
+Kalmar FF 1 - 0 IF Elfsborg
+Kalmar FF 1 - 1 BK Häcken
+Kalmar FF 0 - 2 Djurgårdens IF
+Kalmar FF 2 - 0 Mjällby AIF
+Kalmar FF 0 - 0 IFK Norrköping
+Kalmar FF 1 - 1 Örebro SK
+Kalmar FF 0 - 0 Hammarby IF
+Kalmar FF 0 - 0 AIK
+Kalmar FF 2 - 1 IK Sirius
+Kalmar FF 0 - 1 Varbergs BoIS
+Kalmar FF 2 - 1 IFK Göteborg
+Kalmar FF 1 - 0 Östersunds FK
+Kalmar FF 1 - 0 Helsingborgs IF
+Kalmar FF 0 - 1 Falkenbergs FF
+Helsingborgs IF 1 - 2 Malmö FF
+Helsingborgs IF 0 - 3 IF Elfsborg
+Helsingborgs IF 1 - 2 BK Häcken
+Helsingborgs IF 2 - 0 Djurgårdens IF
+Helsingborgs IF 1 - 2 Mjällby AIF
+Helsingborgs IF 0 - 2 IFK Norrköping
+Helsingborgs IF 2 - 0 Örebro SK
+Helsingborgs IF 1 - 2 Hammarby IF
+Helsingborgs IF 0 - 1 AIK
+Helsingborgs IF 0 - 0 IK Sirius
+Helsingborgs IF 1 - 1 Varbergs BoIS
+Helsingborgs IF 0 - 2 IFK Göteborg
+Helsingborgs IF 0 - 0 Östersunds FK
+Helsingborgs IF 2 - 2 Kalmar FF
+Helsingborgs IF 1 - 1 Falkenbergs FF
+Falkenbergs FF 1 - 3 Malmö FF
+Falkenbergs FF 1 - 1 IF Elfsborg
+Falkenbergs FF 0 - 1 BK Häcken
+Falkenbergs FF 2 - 2 Djurgårdens IF
+Falkenbergs FF 2 - 1 Mjällby AIF
+Falkenbergs FF 0 - 2 IFK Norrköping
+Falkenbergs FF 1 - 2 Örebro SK
+Falkenbergs FF 0 - 2 Hammarby IF
+Falkenbergs FF 1 - 2 AIK
+Falkenbergs FF 2 - 2 IK Sirius
+Falkenbergs FF 2 - 3 Varbergs BoIS
+Falkenbergs FF 1 - 2 IFK Göteborg
+Falkenbergs FF 0 - 1 Östersunds FK
+Falkenbergs FF 1 - 1 Kalmar FF
+Falkenbergs FF 2 - 1 Helsingborgs IF
+
+#---------------------------------
+#	 Season 582482
+#---------------------------------
+Malmö FF 0 - 1 IF Elfsborg
+Malmö FF 0 - 0 BK Häcken
+Malmö FF 2 - 1 Djurgårdens IF
+Malmö FF 1 - 0 Mjällby AIF
+Malmö FF 0 - 0 IFK Norrköping
+Malmö FF 1 - 1 Örebro SK
+Malmö FF 1 - 1 Hammarby IF
+Malmö FF 2 - 1 AIK
+Malmö FF 0 - 1 IK Sirius
+Malmö FF 3 - 0 Varbergs BoIS
+Malmö FF 0 - 0 IFK Göteborg
+Malmö FF 3 - 1 Östersunds FK
+Malmö FF 0 - 0 Kalmar FF
+Malmö FF 0 - 1 Helsingborgs IF
+Malmö FF 1 - 1 Falkenbergs FF
+IF Elfsborg 2 - 2 Malmö FF
+IF Elfsborg 1 - 1 BK Häcken
+IF Elfsborg 0 - 1 Djurgårdens IF
+IF Elfsborg 1 - 0 Mjällby AIF
+IF Elfsborg 2 - 0 IFK Norrköping
+IF Elfsborg 2 - 0 Örebro SK
+IF Elfsborg 1 - 0 Hammarby IF
+IF Elfsborg 0 - 0 AIK
+IF Elfsborg 1 - 1 IK Sirius
+IF Elfsborg 0 - 0 Varbergs BoIS
+IF Elfsborg 0 - 0 IFK Göteborg
+IF Elfsborg 0 - 1 Östersunds FK
+IF Elfsborg 1 - 1 Kalmar FF
+IF Elfsborg 2 - 1 Helsingborgs IF
+IF Elfsborg 0 - 0 Falkenbergs FF
+BK Häcken 1 - 3 Malmö FF
+BK Häcken 2 - 1 IF Elfsborg
+BK Häcken 1 - 1 Djurgårdens IF
+BK Häcken 0 - 0 Mjällby AIF
+BK Häcken 1 - 0 IFK Norrköping
+BK Häcken 0 - 1 Örebro SK
+BK Häcken 2 - 2 Hammarby IF
+BK Häcken 0 - 1 AIK
+BK Häcken 2 - 1 IK Sirius
+BK Häcken 1 - 2 Varbergs BoIS
+BK Häcken 2 - 1 IFK Göteborg
+BK Häcken 0 - 1 Östersunds FK
+BK Häcken 1 - 1 Kalmar FF
+BK Häcken 1 - 1 Helsingborgs IF
+BK Häcken 2 - 0 Falkenbergs FF
+Djurgårdens IF 2 - 0 Malmö FF
+Djurgårdens IF 0 - 1 IF Elfsborg
+Djurgårdens IF 1 - 2 BK Häcken
+Djurgårdens IF 1 - 2 Mjällby AIF
+Djurgårdens IF 2 - 2 IFK Norrköping
+Djurgårdens IF 2 - 1 Örebro SK
+Djurgårdens IF 0 - 2 Hammarby IF
+Djurgårdens IF 0 - 0 AIK
+Djurgårdens IF 1 - 1 IK Sirius
+Djurgårdens IF 2 - 1 Varbergs BoIS
+Djurgårdens IF 0 - 0 IFK Göteborg
+Djurgårdens IF 0 - 0 Östersunds FK
+Djurgårdens IF 1 - 2 Kalmar FF
+Djurgårdens IF 2 - 1 Helsingborgs IF
+Djurgårdens IF 1 - 1 Falkenbergs FF
+Mjällby AIF 2 - 2 Malmö FF
+Mjällby AIF 0 - 2 IF Elfsborg
+Mjällby AIF 1 - 0 BK Häcken
+Mjällby AIF 1 - 0 Djurgårdens IF
+Mjällby AIF 0 - 0 IFK Norrköping
+Mjällby AIF 1 - 2 Örebro SK
+Mjällby AIF 2 - 1 Hammarby IF
+Mjällby AIF 2 - 0 AIK
+Mjällby AIF 1 - 1 IK Sirius
+Mjällby AIF 2 - 2 Varbergs BoIS
+Mjällby AIF 1 - 0 IFK Göteborg
+Mjällby AIF 2 - 0 Östersunds FK
+Mjällby AIF 1 - 1 Kalmar FF
+Mjällby AIF 2 - 0 Helsingborgs IF
+Mjällby AIF 0 - 1 Falkenbergs FF
+IFK Norrköping 0 - 1 Malmö FF
+IFK Norrköping 1 - 0 IF Elfsborg
+IFK Norrköping 2 - 0 BK Häcken
+IFK Norrköping 0 - 0 Djurgårdens IF
+IFK Norrköping 1 - 2 Mjällby AIF
+IFK Norrköping 2 - 0 Örebro SK
+IFK Norrköping 0 - 1 Hammarby IF
+IFK Norrköping 0 - 0 AIK
+IFK Norrköping 1 - 2 IK Sirius
+IFK Norrköping 0 - 0 Varbergs BoIS
+IFK Norrköping 1 - 0 IFK Göteborg
+IFK Norrköping 3 - 0 Östersunds FK
+IFK Norrköping 1 - 2 Kalmar FF
+IFK Norrköping 2 - 0 Helsingborgs IF
+IFK Norrköping 2 - 2 Falkenbergs FF
+Örebro SK 0 - 1 Malmö FF
+Örebro SK 2 - 1 IF Elfsborg
+Örebro SK 2 - 2 BK Häcken
+Örebro SK 0 - 1 Djurgårdens IF
+Örebro SK 1 - 1 Mjällby AIF
+Örebro SK 0 - 0 IFK Norrköping
+Örebro SK 2 - 2 Hammarby IF
+Örebro SK 0 - 0 AIK
+Örebro SK 2 - 1 IK Sirius
+Örebro SK 2 - 0 Varbergs BoIS
+Örebro SK 0 - 0 IFK Göteborg
+Örebro SK 2 - 0 Östersunds FK
+Örebro SK 0 - 2 Kalmar FF
+Örebro SK 1 - 0 Helsingborgs IF
+Örebro SK 2 - 0 Falkenbergs FF
+Hammarby IF 1 - 0 Malmö FF
+Hammarby IF 1 - 1 IF Elfsborg
+Hammarby IF 1 - 0 BK Häcken
+Hammarby IF 0 - 2 Djurgårdens IF
+Hammarby IF 1 - 0 Mjällby AIF
+Hammarby IF 2 - 3 IFK Norrköping
+Hammarby IF 0 - 1 Örebro SK
+Hammarby IF 2 - 0 AIK
+Hammarby IF 1 - 2 IK Sirius
+Hammarby IF 0 - 0 Varbergs BoIS
+Hammarby IF 2 - 0 IFK Göteborg
+Hammarby IF 0 - 0 Östersunds FK
+Hammarby IF 2 - 1 Kalmar FF
+Hammarby IF 2 - 1 Helsingborgs IF
+Hammarby IF 1 - 0 Falkenbergs FF
+AIK 0 - 0 Malmö FF
+AIK 2 - 1 IF Elfsborg
+AIK 0 - 2 BK Häcken
+AIK 1 - 1 Djurgårdens IF
+AIK 1 - 0 Mjällby AIF
+AIK 1 - 0 IFK Norrköping
+AIK 0 - 1 Örebro SK
+AIK 1 - 0 Hammarby IF
+AIK 2 - 0 IK Sirius
+AIK 0 - 2 Varbergs BoIS
+AIK 1 - 1 IFK Göteborg
+AIK 0 - 0 Östersunds FK
+AIK 0 - 0 Kalmar FF
+AIK 0 - 0 Helsingborgs IF
+AIK 1 - 0 Falkenbergs FF
+IK Sirius 0 - 2 Malmö FF
+IK Sirius 0 - 1 IF Elfsborg
+IK Sirius 1 - 2 BK Häcken
+IK Sirius 2 - 1 Djurgårdens IF
+IK Sirius 1 - 0 Mjällby AIF
+IK Sirius 1 - 3 IFK Norrköping
+IK Sirius 1 - 0 Örebro SK
+IK Sirius 1 - 2 Hammarby IF
+IK Sirius 0 - 1 AIK
+IK Sirius 2 - 2 Varbergs BoIS
+IK Sirius 1 - 1 IFK Göteborg
+IK Sirius 1 - 1 Östersunds FK
+IK Sirius 1 - 2 Kalmar FF
+IK Sirius 2 - 1 Helsingborgs IF
+IK Sirius 1 - 2 Falkenbergs FF
+Varbergs BoIS 2 - 0 Malmö FF
+Varbergs BoIS 2 - 1 IF Elfsborg
+Varbergs BoIS 1 - 0 BK Häcken
+Varbergs BoIS 0 - 1 Djurgårdens IF
+Varbergs BoIS 2 - 2 Mjällby AIF
+Varbergs BoIS 1 - 1 IFK Norrköping
+Varbergs BoIS 1 - 0 Örebro SK
+Varbergs BoIS 0 - 2 Hammarby IF
+Varbergs BoIS 0 - 0 AIK
+Varbergs BoIS 2 - 0 IK Sirius
+Varbergs BoIS 2 - 1 IFK Göteborg
+Varbergs BoIS 2 - 2 Östersunds FK
+Varbergs BoIS 1 - 1 Kalmar FF
+Varbergs BoIS 0 - 1 Helsingborgs IF
+Varbergs BoIS 0 - 2 Falkenbergs FF
+IFK Göteborg 1 - 0 Malmö FF
+IFK Göteborg 0 - 1 IF Elfsborg
+IFK Göteborg 0 - 1 BK Häcken
+IFK Göteborg 2 - 2 Djurgårdens IF
+IFK Göteborg 0 - 1 Mjällby AIF
+IFK Göteborg 2 - 2 IFK Norrköping
+IFK Göteborg 1 - 2 Örebro SK
+IFK Göteborg 0 - 0 Hammarby IF
+IFK Göteborg 0 - 1 AIK
+IFK Göteborg 0 - 1 IK Sirius
+IFK Göteborg 1 - 2 Varbergs BoIS
+IFK Göteborg 2 - 0 Östersunds FK
+IFK Göteborg 0 - 0 Kalmar FF
+IFK Göteborg 1 - 0 Helsingborgs IF
+IFK Göteborg 2 - 0 Falkenbergs FF
+Östersunds FK 0 - 1 Malmö FF
+Östersunds FK 1 - 0 IF Elfsborg
+Östersunds FK 1 - 0 BK Häcken
+Östersunds FK 0 - 2 Djurgårdens IF
+Östersunds FK 2 - 2 Mjällby AIF
+Östersunds FK 2 - 0 IFK Norrköping
+Östersunds FK 1 - 0 Örebro SK
+Östersunds FK 1 - 0 Hammarby IF
+Östersunds FK 0 - 1 AIK
+Östersunds FK 1 - 1 IK Sirius
+Östersunds FK 1 - 1 Varbergs BoIS
+Östersunds FK 0 - 0 IFK Göteborg
+Östersunds FK 0 - 2 Kalmar FF
+Östersunds FK 0 - 0 Helsingborgs IF
+Östersunds FK 1 - 0 Falkenbergs FF
+Kalmar FF 1 - 3 Malmö FF
+Kalmar FF 2 - 0 IF Elfsborg
+Kalmar FF 0 - 1 BK Häcken
+Kalmar FF 0 - 1 Djurgårdens IF
+Kalmar FF 0 - 0 Mjällby AIF
+Kalmar FF 2 - 0 IFK Norrköping
+Kalmar FF 1 - 1 Örebro SK
+Kalmar FF 2 - 1 Hammarby IF
+Kalmar FF 0 - 1 AIK
+Kalmar FF 1 - 2 IK Sirius
+Kalmar FF 0 - 2 Varbergs BoIS
+Kalmar FF 1 - 1 IFK Göteborg
+Kalmar FF 1 - 0 Östersunds FK
+Kalmar FF 0 - 0 Helsingborgs IF
+Kalmar FF 2 - 0 Falkenbergs FF
+Helsingborgs IF 1 - 0 Malmö FF
+Helsingborgs IF 0 - 2 IF Elfsborg
+Helsingborgs IF 1 - 0 BK Häcken
+Helsingborgs IF 0 - 1 Djurgårdens IF
+Helsingborgs IF 1 - 0 Mjällby AIF
+Helsingborgs IF 0 - 2 IFK Norrköping
+Helsingborgs IF 1 - 0 Örebro SK
+Helsingborgs IF 1 - 1 Hammarby IF
+Helsingborgs IF 0 - 1 AIK
+Helsingborgs IF 1 - 2 IK Sirius
+Helsingborgs IF 2 - 2 Varbergs BoIS
+Helsingborgs IF 1 - 1 IFK Göteborg
+Helsingborgs IF 2 - 0 Östersunds FK
+Helsingborgs IF 0 - 1 Kalmar FF
+Helsingborgs IF 2 - 0 Falkenbergs FF
+Falkenbergs FF 0 - 3 Malmö FF
+Falkenbergs FF 1 - 3 IF Elfsborg
+Falkenbergs FF 1 - 2 BK Häcken
+Falkenbergs FF 1 - 2 Djurgårdens IF
+Falkenbergs FF 1 - 2 Mjällby AIF
+Falkenbergs FF 0 - 2 IFK Norrköping
+Falkenbergs FF 2 - 0 Örebro SK
+Falkenbergs FF 2 - 1 Hammarby IF
+Falkenbergs FF 0 - 0 AIK
+Falkenbergs FF 0 - 0 IK Sirius
+Falkenbergs FF 0 - 1 Varbergs BoIS
+Falkenbergs FF 1 - 0 IFK Göteborg
+Falkenbergs FF 0 - 0 Östersunds FK
+Falkenbergs FF 1 - 1 Kalmar FF
+Falkenbergs FF 2 - 2 Helsingborgs IF
+
+#---------------------------------
+#	 Season 767719
+#---------------------------------
+Malmö FF 3 - 0 IF Elfsborg
+Malmö FF 1 - 1 BK Häcken
+Malmö FF 0 - 1 Djurgårdens IF
+Malmö FF 2 - 0 Mjällby AIF
+Malmö FF 0 - 1 IFK Norrköping
+Malmö FF 1 - 1 Örebro SK
+Malmö FF 2 - 0 Hammarby IF
+Malmö FF 2 - 1 AIK
+Malmö FF 0 - 0 IK Sirius
+Malmö FF 0 - 0 Varbergs BoIS
+Malmö FF 0 - 1 IFK Göteborg
+Malmö FF 2 - 0 Östersunds FK
+Malmö FF 0 - 0 Kalmar FF
+Malmö FF 1 - 0 Helsingborgs IF
+Malmö FF 3 - 1 Falkenbergs FF
+IF Elfsborg 1 - 0 Malmö FF
+IF Elfsborg 1 - 0 BK Häcken
+IF Elfsborg 2 - 1 Djurgårdens IF
+IF Elfsborg 0 - 0 Mjällby AIF
+IF Elfsborg 2 - 2 IFK Norrköping
+IF Elfsborg 1 - 2 Örebro SK
+IF Elfsborg 0 - 2 Hammarby IF
+IF Elfsborg 1 - 1 AIK
+IF Elfsborg 1 - 2 IK Sirius
+IF Elfsborg 2 - 1 Varbergs BoIS
+IF Elfsborg 0 - 0 IFK Göteborg
+IF Elfsborg 2 - 0 Östersunds FK
+IF Elfsborg 2 - 0 Kalmar FF
+IF Elfsborg 2 - 0 Helsingborgs IF
+IF Elfsborg 1 - 0 Falkenbergs FF
+BK Häcken 2 - 1 Malmö FF
+BK Häcken 1 - 1 IF Elfsborg
+BK Häcken 2 - 1 Djurgårdens IF
+BK Häcken 0 - 1 Mjällby AIF
+BK Häcken 1 - 0 IFK Norrköping
+BK Häcken 2 - 2 Örebro SK
+BK Häcken 1 - 0 Hammarby IF
+BK Häcken 1 - 0 AIK
+BK Häcken 1 - 2 IK Sirius
+BK Häcken 2 - 0 Varbergs BoIS
+BK Häcken 1 - 1 IFK Göteborg
+BK Häcken 1 - 0 Östersunds FK
+BK Häcken 1 - 0 Kalmar FF
+BK Häcken 1 - 1 Helsingborgs IF
+BK Häcken 1 - 1 Falkenbergs FF
+Djurgårdens IF 2 - 2 Malmö FF
+Djurgårdens IF 2 - 1 IF Elfsborg
+Djurgårdens IF 2 - 0 BK Häcken
+Djurgårdens IF 1 - 1 Mjällby AIF
+Djurgårdens IF 2 - 3 IFK Norrköping
+Djurgårdens IF 2 - 2 Örebro SK
+Djurgårdens IF 1 - 1 Hammarby IF
+Djurgårdens IF 1 - 0 AIK
+Djurgårdens IF 1 - 0 IK Sirius
+Djurgårdens IF 1 - 1 Varbergs BoIS
+Djurgårdens IF 2 - 1 IFK Göteborg
+Djurgårdens IF 0 - 0 Östersunds FK
+Djurgårdens IF 1 - 0 Kalmar FF
+Djurgårdens IF 2 - 0 Helsingborgs IF
+Djurgårdens IF 0 - 0 Falkenbergs FF
+Mjällby AIF 0 - 2 Malmö FF
+Mjällby AIF 0 - 2 IF Elfsborg
+Mjällby AIF 1 - 0 BK Häcken
+Mjällby AIF 0 - 2 Djurgårdens IF
+Mjällby AIF 1 - 0 IFK Norrköping
+Mjällby AIF 1 - 1 Örebro SK
+Mjällby AIF 0 - 2 Hammarby IF
+Mjällby AIF 1 - 1 AIK
+Mjällby AIF 1 - 2 IK Sirius
+Mjällby AIF 2 - 0 Varbergs BoIS
+Mjällby AIF 2 - 0 IFK Göteborg
+Mjällby AIF 3 - 1 Östersunds FK
+Mjällby AIF 1 - 0 Kalmar FF
+Mjällby AIF 1 - 1 Helsingborgs IF
+Mjällby AIF 0 - 1 Falkenbergs FF
+IFK Norrköping 1 - 1 Malmö FF
+IFK Norrköping 1 - 1 IF Elfsborg
+IFK Norrköping 2 - 0 BK Häcken
+IFK Norrköping 2 - 1 Djurgårdens IF
+IFK Norrköping 0 - 1 Mjällby AIF
+IFK Norrköping 0 - 1 Örebro SK
+IFK Norrköping 2 - 1 Hammarby IF
+IFK Norrköping 3 - 0 AIK
+IFK Norrköping 1 - 1 IK Sirius
+IFK Norrköping 2 - 1 Varbergs BoIS
+IFK Norrköping 2 - 2 IFK Göteborg
+IFK Norrköping 1 - 0 Östersunds FK
+IFK Norrköping 1 - 0 Kalmar FF
+IFK Norrköping 2 - 0 Helsingborgs IF
+IFK Norrköping 1 - 0 Falkenbergs FF
+Örebro SK 0 - 2 Malmö FF
+Örebro SK 1 - 2 IF Elfsborg
+Örebro SK 1 - 0 BK Häcken
+Örebro SK 0 - 2 Djurgårdens IF
+Örebro SK 0 - 1 Mjällby AIF
+Örebro SK 2 - 3 IFK Norrköping
+Örebro SK 2 - 0 Hammarby IF
+Örebro SK 2 - 0 AIK
+Örebro SK 0 - 1 IK Sirius
+Örebro SK 2 - 0 Varbergs BoIS
+Örebro SK 1 - 0 IFK Göteborg
+Örebro SK 2 - 1 Östersunds FK
+Örebro SK 2 - 1 Kalmar FF
+Örebro SK 0 - 0 Helsingborgs IF
+Örebro SK 2 - 1 Falkenbergs FF
+Hammarby IF 1 - 2 Malmö FF
+Hammarby IF 0 - 2 IF Elfsborg
+Hammarby IF 0 - 1 BK Häcken
+Hammarby IF 0 - 3 Djurgårdens IF
+Hammarby IF 1 - 2 Mjällby AIF
+Hammarby IF 0 - 2 IFK Norrköping
+Hammarby IF 1 - 0 Örebro SK
+Hammarby IF 1 - 2 AIK
+Hammarby IF 0 - 0 IK Sirius
+Hammarby IF 0 - 0 Varbergs BoIS
+Hammarby IF 2 - 2 IFK Göteborg
+Hammarby IF 1 - 0 Östersunds FK
+Hammarby IF 1 - 0 Kalmar FF
+Hammarby IF 2 - 2 Helsingborgs IF
+Hammarby IF 0 - 1 Falkenbergs FF
+AIK 0 - 2 Malmö FF
+AIK 1 - 1 IF Elfsborg
+AIK 1 - 0 BK Häcken
+AIK 1 - 2 Djurgårdens IF
+AIK 0 - 1 Mjällby AIF
+AIK 0 - 0 IFK Norrköping
+AIK 0 - 0 Örebro SK
+AIK 0 - 2 Hammarby IF
+AIK 1 - 1 IK Sirius
+AIK 2 - 2 Varbergs BoIS
+AIK 0 - 1 IFK Göteborg
+AIK 0 - 1 Östersunds FK
+AIK 2 - 1 Kalmar FF
+AIK 0 - 1 Helsingborgs IF
+AIK 0 - 1 Falkenbergs FF
+IK Sirius 1 - 0 Malmö FF
+IK Sirius 2 - 0 IF Elfsborg
+IK Sirius 1 - 1 BK Häcken
+IK Sirius 2 - 0 Djurgårdens IF
+IK Sirius 0 - 1 Mjällby AIF
+IK Sirius 0 - 1 IFK Norrköping
+IK Sirius 0 - 1 Örebro SK
+IK Sirius 2 - 1 Hammarby IF
+IK Sirius 1 - 1 AIK
+IK Sirius 0 - 2 Varbergs BoIS
+IK Sirius 1 - 0 IFK Göteborg
+IK Sirius 0 - 0 Östersunds FK
+IK Sirius 0 - 0 Kalmar FF
+IK Sirius 1 - 0 Helsingborgs IF
+IK Sirius 1 - 1 Falkenbergs FF
+Varbergs BoIS 0 - 0 Malmö FF
+Varbergs BoIS 1 - 0 IF Elfsborg
+Varbergs BoIS 0 - 0 BK Häcken
+Varbergs BoIS 0 - 0 Djurgårdens IF
+Varbergs BoIS 1 - 2 Mjällby AIF
+Varbergs BoIS 2 - 2 IFK Norrköping
+Varbergs BoIS 1 - 1 Örebro SK
+Varbergs BoIS 2 - 2 Hammarby IF
+Varbergs BoIS 1 - 1 AIK
+Varbergs BoIS 3 - 0 IK Sirius
+Varbergs BoIS 2 - 2 IFK Göteborg
+Varbergs BoIS 2 - 1 Östersunds FK
+Varbergs BoIS 0 - 0 Kalmar FF
+Varbergs BoIS 0 - 2 Helsingborgs IF
+Varbergs BoIS 2 - 1 Falkenbergs FF
+IFK Göteborg 1 - 3 Malmö FF
+IFK Göteborg 1 - 2 IF Elfsborg
+IFK Göteborg 0 - 0 BK Häcken
+IFK Göteborg 1 - 0 Djurgårdens IF
+IFK Göteborg 1 - 1 Mjällby AIF
+IFK Göteborg 0 - 2 IFK Norrköping
+IFK Göteborg 0 - 0 Örebro SK
+IFK Göteborg 1 - 0 Hammarby IF
+IFK Göteborg 1 - 1 AIK
+IFK Göteborg 1 - 0 IK Sirius
+IFK Göteborg 1 - 2 Varbergs BoIS
+IFK Göteborg 0 - 0 Östersunds FK
+IFK Göteborg 2 - 0 Kalmar FF
+IFK Göteborg 0 - 2 Helsingborgs IF
+IFK Göteborg 2 - 1 Falkenbergs FF
+Östersunds FK 0 - 1 Malmö FF
+Östersunds FK 0 - 3 IF Elfsborg
+Östersunds FK 1 - 0 BK Häcken
+Östersunds FK 0 - 1 Djurgårdens IF
+Östersunds FK 0 - 2 Mjällby AIF
+Östersunds FK 0 - 2 IFK Norrköping
+Östersunds FK 0 - 1 Örebro SK
+Östersunds FK 0 - 0 Hammarby IF
+Östersunds FK 1 - 1 AIK
+Östersunds FK 2 - 0 IK Sirius
+Östersunds FK 1 - 1 Varbergs BoIS
+Östersunds FK 0 - 1 IFK Göteborg
+Östersunds FK 2 - 0 Kalmar FF
+Östersunds FK 2 - 0 Helsingborgs IF
+Östersunds FK 0 - 2 Falkenbergs FF
+Kalmar FF 1 - 3 Malmö FF
+Kalmar FF 0 - 2 IF Elfsborg
+Kalmar FF 0 - 2 BK Häcken
+Kalmar FF 0 - 0 Djurgårdens IF
+Kalmar FF 0 - 1 Mjällby AIF
+Kalmar FF 0 - 0 IFK Norrköping
+Kalmar FF 0 - 1 Örebro SK
+Kalmar FF 0 - 3 Hammarby IF
+Kalmar FF 0 - 1 AIK
+Kalmar FF 0 - 1 IK Sirius
+Kalmar FF 1 - 2 Varbergs BoIS
+Kalmar FF 0 - 2 IFK Göteborg
+Kalmar FF 0 - 1 Östersunds FK
+Kalmar FF 0 - 2 Helsingborgs IF
+Kalmar FF 0 - 2 Falkenbergs FF
+Helsingborgs IF 0 - 2 Malmö FF
+Helsingborgs IF 1 - 1 IF Elfsborg
+Helsingborgs IF 1 - 1 BK Häcken
+Helsingborgs IF 1 - 1 Djurgårdens IF
+Helsingborgs IF 0 - 1 Mjällby AIF
+Helsingborgs IF 2 - 2 IFK Norrköping
+Helsingborgs IF 0 - 0 Örebro SK
+Helsingborgs IF 0 - 0 Hammarby IF
+Helsingborgs IF 0 - 1 AIK
+Helsingborgs IF 1 - 2 IK Sirius
+Helsingborgs IF 1 - 0 Varbergs BoIS
+Helsingborgs IF 0 - 1 IFK Göteborg
+Helsingborgs IF 0 - 0 Östersunds FK
+Helsingborgs IF 2 - 0 Kalmar FF
+Helsingborgs IF 1 - 1 Falkenbergs FF
+Falkenbergs FF 1 - 2 Malmö FF
+Falkenbergs FF 2 - 1 IF Elfsborg
+Falkenbergs FF 0 - 1 BK Häcken
+Falkenbergs FF 1 - 2 Djurgårdens IF
+Falkenbergs FF 1 - 2 Mjällby AIF
+Falkenbergs FF 0 - 3 IFK Norrköping
+Falkenbergs FF 1 - 2 Örebro SK
+Falkenbergs FF 2 - 3 Hammarby IF
+Falkenbergs FF 0 - 1 AIK
+Falkenbergs FF 1 - 0 IK Sirius
+Falkenbergs FF 1 - 1 Varbergs BoIS
+Falkenbergs FF 0 - 0 IFK Göteborg
+Falkenbergs FF 0 - 0 Östersunds FK
+Falkenbergs FF 1 - 0 Kalmar FF
+Falkenbergs FF 0 - 2 Helsingborgs IF
+

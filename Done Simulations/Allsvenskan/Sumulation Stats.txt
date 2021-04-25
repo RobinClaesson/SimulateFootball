@@ -1,0 +1,79 @@
+Number of Seasons simulated: 1000000
+Total time (h:m:s): 00:06:10.2827235
+
+---------------------------------
+|       Best Performances:      |
+---------------------------------
+Highest points:       86p, by Malmö FF in season 450781
+Most goals scored:    67 goals, by Malmö FF in season 579623
+Least goals admitted: 6 goals, by BK Häcken in season 16349
+Best goal difference: 49 goals, by Malmö FF in season 358269
+
+---------------------------------
+|      Worst Performances:      |
+---------------------------------
+Lowest points:         5p, by Östersunds FK in season 139487
+Least goals scored:    4 goals, by Kalmar FF in season 767719
+Most goals admitted:   62 goals, by Falkenbergs FF in season 554817
+Worst goal difference: -43 goals, by Falkenbergs FF in season 554817
+
+---------------------------------
+|  Worst teams in first place:  |
+---------------------------------
+Lowest points by a team in first place:         44p, by IFK Göteborg in season 80376
+Least goals scored by a team in first place:    17 goals, by AIK in season 582482
+Most goals admitted by a team in first place:   44 goals, by IFK Norrköping in season 535948
+Worst goal difference by a team in first place: -4 goals, by Falkenbergs FF in season 85043
+
+---------------------------------
+|   Best teams in last place:   |
+---------------------------------
+Higest points by a team in last place:         36p, by Mjällby AIF in season 142042
+Most goals scored by a team in last place:     40 goals, by IK Sirius in season 107516
+Least goals admitted by a team in last place:  15 goals, by AIK in season 166012
+Best goal difference by a team in last place: 2 goals, by IFK Norrköping in season 62568
+
+---------------------------------
+|     Points needed to win:     |
+---------------------------------
+Highest points needed to win: 74p, in season 566418
+Lowest points needed to win:  43p, in season 105864
+Average points needed to win: 54p
+
+---------------------------------
+| Average points per placement: |
+---------------------------------
+1: 58,3p
+2: 53,1p
+3: 50p
+4: 47,6p
+5: 45,6p
+6: 43,8p
+7: 42,1p
+8: 40,6p
+9: 39p
+10: 37,5p
+11: 35,9p
+12: 34,3p
+13: 32,5p
+14: 30,5p
+15: 28p
+16: 24,2p
+
+---------------------------------
+|      Most league titles       |
+---------------------------------
+1: Malmö FF, 526603 times
+2: BK Häcken, 120136 times
+3: Djurgårdens IF, 103636 times
+4: IFK Norrköping, 94991 times
+5: IF Elfsborg, 64730 times
+---------------------------------
+|      Most league jumbos       |
+---------------------------------
+1: Östersunds FK, 221462 times
+2: Falkenbergs FF, 219817 times
+3: Kalmar FF, 203171 times
+4: Helsingborgs IF, 131364 times
+5: IK Sirius, 56212 times
+

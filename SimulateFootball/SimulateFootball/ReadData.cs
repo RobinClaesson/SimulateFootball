@@ -10,7 +10,6 @@ using System.Threading;
 
 namespace SimulateFootball
 {
-    //TODO: Add france league stats
     class ReadData
     {
         public static List<Team> LoadTeamsFromTableFile(string filePath)
