@@ -253,9 +253,12 @@ namespace SimulateFootball
 
             for (int i = 0; i < 5; i++)
             {
-                sb.Append((i + 1) + ": ");
-                sb.Append(_placements[i].Team);
-                sb.AppendLine(", " + _placements[i].GetPlacement(1) + " times");
+                if (_placements[i].GetPlacement(1) != 0)
+                {
+                    sb.Append((i + 1) + ": ");
+                    sb.Append(_placements[i].Team);
+                    sb.AppendLine(", " + _placements[i].GetPlacement(1) + " times"); //Adds how many times the team got in first place
+                }
             }
 
 
@@ -263,12 +266,15 @@ namespace SimulateFootball
             sb.AppendLine("|      Most league jumbos       |");
             sb.AppendLine("---------------------------------");
             Placements.SortAfter = _numOfTeams;
-            _placements.Sort(); //Sorts so that team with most victories
+            _placements.Sort(); //Sorts so that team with most jumbos
             for (int i = 0; i < 5; i++)
             {
-                sb.Append((i + 1) + ": ");
-                sb.Append(_placements[i].Team);
-                sb.AppendLine(", " + _placements[i].GetPlacement(_numOfTeams) + " times");
+                if (_placements[i].GetPlacement(_numOfTeams) != 0)
+                {
+                    sb.Append((i + 1) + ": ");
+                    sb.Append(_placements[i].Team);
+                    sb.AppendLine(", " + _placements[i].GetPlacement(_numOfTeams) + " times");//Adds how many times the team got in last plac
+                }
             }
 
             return sb.ToString();

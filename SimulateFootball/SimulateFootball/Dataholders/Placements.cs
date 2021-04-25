@@ -14,7 +14,7 @@ namespace SimulateFootball
 
         public static int SortAfter { get; set; }
       
-        public int AveragePlacement
+        public int AveragePlacement //TODO: Fix this hot garbage
         {
             get
             {

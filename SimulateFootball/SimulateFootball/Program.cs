@@ -16,8 +16,8 @@ namespace SimulateFootball
         static void Main(string[] args)
         {
 
-            //TODO: Remove autoload in published version
-            teams = ReadData.LoadTeamsFromTableFile("Allsvenskan 2020.txt");
+            //Autoloads predefed file for debugging
+            //teams = ReadData.LoadTeamsFromTableFile("Allsvenskan 2020.txt");
 
             if (!Directory.Exists(outputFolder))
                 Directory.CreateDirectory(outputFolder);
@@ -119,14 +119,18 @@ namespace SimulateFootball
             }
             PressAnyKey();
 
+
             //Used for estimating file sizes
             bytesPerGame = 0;
-            foreach (Team team in teams)
-                bytesPerGame += team.Name.Length;
+            if (teams.Count > 0)
+            {
+                foreach (Team team in teams)
+                    bytesPerGame += team.Name.Length;
 
-            bytesPerGame /= teams.Count(); //avrg teamname length
-            bytesPerGame *= 2; //Two teams per game
-            bytesPerGame += 8; //Scores and linebreak
+                bytesPerGame /= teams.Count(); //avrg teamname length
+                bytesPerGame *= 2; //Two teams per game
+                bytesPerGame += 8; //Scores and linebreak
+            }
         }
 
         private static void ListTeams(List<Team> teams)
