@@ -1,0 +1,414 @@
+#---------------------------------
+#	 Season 15678
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	RB Leipzig          	34	23	7	4	61	19	42	76
+2	Bayern Munich       	34	19	9	6	56	27	29	66
+3	Borussia Mönchengladbach	34	18	7	9	45	32	13	61
+4	Borussia Dortmund   	34	15	10	9	54	34	20	55
+5	1899 Hoffenheim     	34	13	14	7	42	30	12	53
+6	Hertha BSC          	34	14	11	9	37	35	2	53
+7	VfL Wolfsburg       	34	12	14	8	35	29	6	50
+8	Bayer Leverkusen    	34	12	11	11	42	41	1	47
+9	SC Freiburg         	34	11	12	11	28	25	3	45
+10	Eintracht Frankfurt 	34	12	9	13	36	36	0	45
+11	Union Berlin        	34	10	12	12	35	36	-1	42
+12	1. FC Köln          	34	11	8	15	33	46	-13	41
+13	FC Augsburg         	34	7	16	11	26	31	-5	37
+14	Werder Bremen       	34	10	7	17	31	44	-13	37
+15	Schalke 04          	34	9	9	16	26	33	-7	36
+16	SC Paderborn        	34	9	8	17	22	42	-20	35
+17	Fortuna Düsseldorf  	34	7	8	19	27	55	-28	29
+18	Mainz 05            	34	2	12	20	9	50	-41	18
+
+#---------------------------------
+#	 Season 45117
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	SC Freiburg         	34	15	10	9	38	29	9	55
+2	RB Leipzig          	34	15	10	9	36	28	8	55
+3	Union Berlin        	34	15	10	9	30	25	5	55
+4	FC Augsburg         	34	15	8	11	34	36	-2	53
+5	Borussia Mönchengladbach	34	13	13	8	43	32	11	52
+6	Eintracht Frankfurt 	34	14	10	10	44	36	8	52
+7	Bayern Munich       	34	13	12	9	41	28	13	51
+8	Borussia Dortmund   	34	13	11	10	41	29	12	50
+9	1899 Hoffenheim     	34	15	5	14	40	38	2	50
+10	Bayer Leverkusen    	34	12	12	10	37	27	10	48
+11	Schalke 04          	34	10	17	7	31	24	7	47
+12	Mainz 05            	34	14	5	15	40	42	-2	47
+13	Werder Bremen       	34	12	11	11	37	41	-4	47
+14	SC Paderborn        	34	10	8	16	29	42	-13	38
+15	VfL Wolfsburg       	34	9	8	17	31	42	-11	35
+16	Fortuna Düsseldorf  	34	10	5	19	25	43	-18	35
+17	Hertha BSC          	34	6	13	15	29	45	-16	31
+18	1. FC Köln          	34	6	10	18	30	49	-19	28
+
+#---------------------------------
+#	 Season 48198
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	RB Leipzig          	34	23	6	5	65	25	40	75
+2	Bayern Munich       	34	19	8	7	60	34	26	65
+3	Borussia Dortmund   	34	16	10	8	50	37	13	58
+4	Borussia Mönchengladbach	34	14	13	7	41	30	11	55
+5	Bayer Leverkusen    	34	15	6	13	41	27	14	51
+6	1899 Hoffenheim     	34	13	11	10	49	45	4	50
+7	Schalke 04          	34	12	11	11	38	39	-1	47
+8	FC Augsburg         	34	15	2	17	40	44	-4	47
+9	Eintracht Frankfurt 	34	12	10	12	43	42	1	46
+10	Hertha BSC          	34	13	7	14	31	38	-7	46
+11	SC Freiburg         	34	11	11	12	28	33	-5	44
+12	1. FC Köln          	34	12	8	14	35	43	-8	44
+13	SC Paderborn        	34	11	10	13	28	37	-9	43
+14	Werder Bremen       	34	12	5	17	30	46	-16	41
+15	Union Berlin        	34	9	7	18	27	46	-19	34
+16	Mainz 05            	34	7	11	16	33	51	-18	32
+17	Fortuna Düsseldorf  	34	7	9	18	22	38	-16	30
+18	VfL Wolfsburg       	34	4	17	13	21	27	-6	29
+
+#---------------------------------
+#	 Season 198121
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	RB Leipzig          	34	23	6	5	62	23	39	75
+2	Bayern Munich       	34	20	8	6	64	26	38	68
+3	Borussia Mönchengladbach	34	16	9	9	50	34	16	57
+4	Bayer Leverkusen    	34	16	8	10	46	27	19	56
+5	Borussia Dortmund   	34	17	5	12	44	36	8	56
+6	Schalke 04          	34	14	8	12	37	35	2	50
+7	Hertha BSC          	34	12	10	12	33	34	-1	46
+8	FC Augsburg         	34	12	10	12	38	45	-7	46
+9	VfL Wolfsburg       	34	11	12	11	33	30	3	45
+10	1899 Hoffenheim     	34	10	11	13	37	38	-1	41
+11	1. FC Köln          	34	12	5	17	32	46	-14	41
+12	Werder Bremen       	34	10	10	14	25	39	-14	40
+13	Eintracht Frankfurt 	34	12	4	18	31	52	-21	40
+14	Union Berlin        	34	10	9	15	29	40	-11	39
+15	Fortuna Düsseldorf  	34	9	11	14	31	46	-15	38
+16	SC Freiburg         	34	9	8	17	32	42	-10	35
+17	SC Paderborn        	34	9	8	17	19	34	-15	35
+18	Mainz 05            	34	9	8	17	49	65	-16	35
+
+#---------------------------------
+#	 Season 214195
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	SC Paderborn        	34	19	6	9	37	35	2	63
+2	RB Leipzig          	34	19	5	10	49	33	16	62
+3	Borussia Dortmund   	34	16	11	7	52	27	25	59
+4	SC Freiburg         	34	18	5	11	43	34	9	59
+5	Borussia Mönchengladbach	34	16	8	10	50	35	15	56
+6	Bayern Munich       	34	15	9	10	45	30	15	54
+7	Mainz 05            	34	13	10	11	33	36	-3	49
+8	Hertha BSC          	34	12	12	10	36	34	2	48
+9	FC Augsburg         	34	12	10	12	40	39	1	46
+10	Eintracht Frankfurt 	34	12	9	13	32	36	-4	45
+11	Fortuna Düsseldorf  	34	14	3	17	34	45	-11	45
+12	Bayer Leverkusen    	34	11	10	13	42	42	0	43
+13	VfL Wolfsburg       	34	11	9	14	35	35	0	42
+14	Werder Bremen       	34	9	12	13	32	40	-8	39
+15	Schalke 04          	34	9	10	15	31	40	-9	37
+16	1. FC Köln          	34	10	5	19	33	49	-16	35
+17	1899 Hoffenheim     	34	8	10	16	33	45	-12	34
+18	Union Berlin        	34	6	8	20	22	44	-22	26
+
+#---------------------------------
+#	 Season 219509
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Bayern Munich       	34	21	8	5	62	31	31	71
+2	Bayer Leverkusen    	34	20	6	8	46	24	22	66
+3	Borussia Dortmund   	34	15	11	8	43	28	15	56
+4	Eintracht Frankfurt 	34	14	13	7	31	27	4	55
+5	VfL Wolfsburg       	34	15	8	11	36	32	4	53
+6	Mainz 05            	34	12	12	10	34	34	0	48
+7	RB Leipzig          	34	12	11	11	37	35	2	47
+8	SC Freiburg         	34	11	12	11	35	33	2	45
+9	Union Berlin        	34	12	9	13	37	37	0	45
+10	FC Augsburg         	34	10	12	12	33	37	-4	42
+11	1899 Hoffenheim     	34	11	7	16	40	45	-5	40
+12	1. FC Köln          	34	10	9	15	35	45	-10	39
+13	Hertha BSC          	34	8	14	12	30	40	-10	38
+14	Schalke 04          	34	9	11	14	24	35	-11	38
+15	SC Paderborn        	34	10	7	17	27	40	-13	37
+16	Werder Bremen       	34	8	13	13	27	43	-16	37
+17	Fortuna Düsseldorf  	34	9	9	16	29	40	-11	36
+18	Borussia Mönchengladbach	34	9	8	17	34	34	0	35
+
+#---------------------------------
+#	 Season 313467
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Bayern Munich       	34	19	8	7	57	23	34	65
+2	Borussia Mönchengladbach	34	18	5	11	42	24	18	59
+3	RB Leipzig          	34	16	7	11	48	28	20	55
+4	Borussia Dortmund   	34	16	6	12	49	38	11	54
+5	Union Berlin        	34	12	12	10	32	34	-2	48
+6	1899 Hoffenheim     	34	13	8	13	39	39	0	47
+7	Bayer Leverkusen    	34	11	13	10	34	34	0	46
+8	Eintracht Frankfurt 	34	11	12	11	36	36	0	45
+9	FC Augsburg         	34	11	11	12	36	47	-11	44
+10	VfL Wolfsburg       	34	11	10	13	38	37	1	43
+11	Mainz 05            	34	12	7	15	31	32	-1	43
+12	Werder Bremen       	34	11	10	13	33	43	-10	43
+13	SC Paderborn        	34	11	9	14	37	48	-11	42
+14	1. FC Köln          	34	10	12	12	26	43	-17	42
+15	SC Freiburg         	34	9	13	12	30	32	-2	40
+16	Hertha BSC          	34	10	9	15	39	45	-6	39
+17	Schalke 04          	34	9	12	13	25	35	-10	39
+18	Fortuna Düsseldorf  	34	11	6	17	30	44	-14	39
+
+#---------------------------------
+#	 Season 344902
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Bayern Munich       	34	22	9	3	55	19	36	75
+2	RB Leipzig          	34	13	11	10	40	27	13	50
+3	Borussia Dortmund   	34	12	13	9	44	34	10	49
+4	Werder Bremen       	34	13	10	11	30	30	0	49
+5	Bayer Leverkusen    	34	12	10	12	33	28	5	46
+6	Eintracht Frankfurt 	34	11	13	10	32	31	1	46
+7	VfL Wolfsburg       	34	13	7	14	32	36	-4	46
+8	SC Freiburg         	34	11	12	11	36	34	2	45
+9	1. FC Köln          	34	9	18	7	35	35	0	45
+10	1899 Hoffenheim     	34	11	12	11	31	36	-5	45
+11	Fortuna Düsseldorf  	34	11	12	11	30	35	-5	45
+12	Hertha BSC          	34	13	5	16	40	45	-5	44
+13	SC Paderborn        	34	13	5	16	30	38	-8	44
+14	Borussia Mönchengladbach	34	11	10	13	35	35	0	43
+15	Union Berlin        	34	9	14	11	32	36	-4	41
+16	FC Augsburg         	34	11	7	16	30	37	-7	40
+17	Mainz 05            	34	11	4	19	35	47	-12	37
+18	Schalke 04          	34	8	12	14	22	39	-17	36
+
+#---------------------------------
+#	 Season 440639
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Bayern Munich       	34	31	1	2	91	15	76	94
+2	Borussia Mönchengladbach	34	20	7	7	53	24	29	67
+3	RB Leipzig          	34	19	6	9	55	32	23	63
+4	Borussia Dortmund   	34	15	9	10	56	35	21	54
+5	1899 Hoffenheim     	34	14	11	9	42	31	11	53
+6	Bayer Leverkusen    	34	14	11	9	45	37	8	53
+7	SC Freiburg         	34	11	15	8	39	29	10	48
+8	FC Augsburg         	34	10	12	12	33	38	-5	42
+9	VfL Wolfsburg       	34	10	12	12	35	41	-6	42
+10	1. FC Köln          	34	10	12	12	34	44	-10	42
+11	Fortuna Düsseldorf  	34	11	7	16	25	43	-18	40
+12	Werder Bremen       	34	10	9	15	34	45	-11	39
+13	Union Berlin        	34	10	8	16	31	45	-14	38
+14	Hertha BSC          	34	10	7	17	32	50	-18	37
+15	Eintracht Frankfurt 	34	10	5	19	41	57	-16	35
+16	Schalke 04          	34	8	9	17	31	47	-16	33
+17	SC Paderborn        	34	8	9	17	31	60	-29	33
+18	Mainz 05            	34	6	8	20	20	55	-35	26
+
+#---------------------------------
+#	 Season 497480
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Bayern Munich       	34	29	2	3	79	21	58	89
+2	Borussia Dortmund   	34	28	4	2	76	27	49	88
+3	RB Leipzig          	34	14	12	8	42	31	11	54
+4	VfL Wolfsburg       	34	15	7	12	33	32	1	52
+5	SC Freiburg         	34	13	10	11	39	36	3	49
+6	Schalke 04          	34	14	7	13	30	32	-2	49
+7	Borussia Mönchengladbach	34	12	12	10	33	29	4	48
+8	Werder Bremen       	34	12	10	12	37	41	-4	46
+9	1899 Hoffenheim     	34	12	9	13	36	35	1	45
+10	Eintracht Frankfurt 	34	11	10	13	43	46	-3	43
+11	1. FC Köln          	34	12	6	16	38	47	-9	42
+12	Bayer Leverkusen    	34	9	10	15	29	36	-7	37
+13	Fortuna Düsseldorf  	34	8	13	13	31	45	-14	37
+14	Hertha BSC          	34	10	6	18	34	45	-11	36
+15	SC Paderborn        	34	9	7	18	29	48	-19	34
+16	Mainz 05            	34	7	10	17	21	45	-24	31
+17	Union Berlin        	34	6	12	16	26	43	-17	30
+18	FC Augsburg         	34	7	9	18	25	42	-17	30
+
+#---------------------------------
+#	 Season 544876
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Borussia Dortmund   	34	24	8	2	67	24	43	80
+2	Bayern Munich       	34	21	7	6	62	20	42	70
+3	Bayer Leverkusen    	34	20	8	6	42	25	17	68
+4	RB Leipzig          	34	18	11	5	54	30	24	65
+5	Borussia Mönchengladbach	34	16	9	9	46	29	17	57
+6	Eintracht Frankfurt 	34	14	8	12	42	39	3	50
+7	VfL Wolfsburg       	34	13	10	11	36	30	6	49
+8	Hertha BSC          	34	12	11	11	34	37	-3	47
+9	Union Berlin        	34	12	10	12	27	30	-3	46
+10	SC Freiburg         	34	10	13	11	35	31	4	43
+11	1899 Hoffenheim     	34	11	10	13	33	43	-10	43
+12	FC Augsburg         	34	11	6	17	32	42	-10	39
+13	Werder Bremen       	34	10	9	15	36	51	-15	39
+14	Mainz 05            	34	9	10	15	37	44	-7	37
+15	1. FC Köln          	34	9	9	16	25	40	-15	36
+16	Fortuna Düsseldorf  	34	9	8	17	33	46	-13	35
+17	Schalke 04          	34	7	7	20	23	47	-24	28
+18	SC Paderborn        	34	1	4	29	17	73	-56	7
+
+#---------------------------------
+#	 Season 573713
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Bayern Munich       	34	33	1	0	85	22	63	100
+2	RB Leipzig          	34	19	11	4	57	29	28	68
+3	Borussia Mönchengladbach	34	17	8	9	45	35	10	59
+4	Borussia Dortmund   	34	14	10	10	49	37	12	52
+5	Bayer Leverkusen    	34	16	4	14	41	33	8	52
+6	1899 Hoffenheim     	34	12	10	12	39	39	0	46
+7	VfL Wolfsburg       	34	12	10	12	32	33	-1	46
+8	Schalke 04          	34	10	13	11	33	32	1	43
+9	SC Freiburg         	34	10	12	12	33	34	-1	42
+10	Werder Bremen       	34	11	9	14	36	48	-12	42
+11	Hertha BSC          	34	11	8	15	26	38	-12	41
+12	FC Augsburg         	34	11	7	16	39	50	-11	40
+13	Mainz 05            	34	11	7	16	34	46	-12	40
+14	Fortuna Düsseldorf  	34	9	10	15	37	51	-14	37
+15	Eintracht Frankfurt 	34	8	9	17	33	45	-12	33
+16	SC Paderborn        	34	5	17	12	29	43	-14	32
+17	1. FC Köln          	34	7	11	16	30	46	-16	32
+18	Union Berlin        	34	8	7	19	30	47	-17	31
+
+#---------------------------------
+#	 Season 605917
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Bayern Munich       	34	25	5	4	97	29	68	80
+2	RB Leipzig          	34	21	7	6	52	20	32	70
+3	Borussia Mönchengladbach	34	18	10	6	51	33	18	64
+4	1899 Hoffenheim     	34	14	13	7	45	36	9	55
+5	Eintracht Frankfurt 	34	15	8	11	47	45	2	53
+6	Bayer Leverkusen    	34	15	6	13	47	36	11	51
+7	Borussia Dortmund   	34	13	9	12	42	34	8	48
+8	Union Berlin        	34	12	11	11	38	40	-2	47
+9	VfL Wolfsburg       	34	12	10	12	35	38	-3	46
+10	Hertha BSC          	34	13	7	14	37	50	-13	46
+11	Werder Bremen       	34	11	8	15	39	48	-9	41
+12	FC Augsburg         	34	10	10	14	31	46	-15	40
+13	SC Freiburg         	34	8	15	11	42	46	-4	39
+14	1. FC Köln          	34	10	9	15	38	49	-11	39
+15	Mainz 05            	34	9	9	16	28	40	-12	36
+16	Schalke 04          	34	7	10	17	21	42	-21	31
+17	SC Paderborn        	34	6	8	20	24	55	-31	26
+18	Fortuna Düsseldorf  	34	5	9	20	22	49	-27	24
+
+#---------------------------------
+#	 Season 635936
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Bayern Munich       	34	24	6	4	71	18	53	78
+2	RB Leipzig          	34	20	4	10	51	24	27	64
+3	VfL Wolfsburg       	34	18	8	8	44	28	16	62
+4	Borussia Dortmund   	34	18	7	9	48	30	18	61
+5	Borussia Mönchengladbach	34	16	9	9	41	32	9	57
+6	1899 Hoffenheim     	34	14	9	11	37	34	3	51
+7	1. FC Köln          	34	14	9	11	40	40	0	51
+8	SC Freiburg         	34	14	8	12	43	38	5	50
+9	Bayer Leverkusen    	34	14	8	12	36	32	4	50
+10	Union Berlin        	34	14	7	13	36	33	3	49
+11	Schalke 04          	34	13	9	12	33	29	4	48
+12	Eintracht Frankfurt 	34	14	6	14	49	49	0	48
+13	Werder Bremen       	34	12	5	17	31	48	-17	41
+14	Fortuna Düsseldorf  	34	10	7	17	30	51	-21	37
+15	FC Augsburg         	34	8	8	18	26	47	-21	32
+16	Hertha BSC          	34	7	10	17	28	38	-10	31
+17	Mainz 05            	34	5	13	16	30	49	-19	28
+18	SC Paderborn        	34	3	3	28	26	80	-54	12
+
+#---------------------------------
+#	 Season 643835
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	RB Leipzig          	34	23	7	4	56	26	30	76
+2	Borussia Dortmund   	34	20	9	5	59	27	32	69
+3	Bayern Munich       	34	20	8	6	59	28	31	68
+4	Bayer Leverkusen    	34	18	7	9	52	36	16	61
+5	Eintracht Frankfurt 	34	18	5	11	45	35	10	59
+6	FC Augsburg         	34	14	13	7	48	37	11	55
+7	1899 Hoffenheim     	34	15	9	10	46	38	8	54
+8	1. FC Köln          	34	15	5	14	42	47	-5	50
+9	VfL Wolfsburg       	34	13	10	11	37	32	5	49
+10	Borussia Mönchengladbach	34	13	9	12	43	38	5	48
+11	Schalke 04          	34	12	10	12	31	32	-1	46
+12	SC Freiburg         	34	12	9	13	33	34	-1	45
+13	Union Berlin        	34	13	5	16	33	45	-12	44
+14	Fortuna Düsseldorf  	34	7	13	14	30	44	-14	34
+15	Hertha BSC          	34	9	5	20	30	44	-14	32
+16	Mainz 05            	34	6	11	17	28	48	-20	29
+17	Werder Bremen       	34	7	4	23	24	55	-31	25
+18	SC Paderborn        	34	0	3	31	19	69	-50	3
+
+#---------------------------------
+#	 Season 819765
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Schalke 04          	34	20	7	7	27	18	9	67
+2	Bayern Munich       	34	19	7	8	52	24	28	64
+3	Borussia Mönchengladbach	34	18	8	8	47	31	16	62
+4	Borussia Dortmund   	34	17	7	10	51	30	21	58
+5	Bayer Leverkusen    	34	17	7	10	40	25	15	58
+6	Eintracht Frankfurt 	34	14	13	7	34	25	9	55
+7	RB Leipzig          	34	15	9	10	45	31	14	54
+8	1899 Hoffenheim     	34	13	9	12	39	38	1	48
+9	Hertha BSC          	34	10	15	9	43	41	2	45
+10	SC Paderborn        	34	13	6	15	25	39	-14	45
+11	SC Freiburg         	34	10	9	15	28	31	-3	39
+12	VfL Wolfsburg       	34	9	12	13	33	39	-6	39
+13	Werder Bremen       	34	11	6	17	29	42	-13	39
+14	1. FC Köln          	34	8	14	12	34	40	-6	38
+15	Mainz 05            	34	8	9	17	33	50	-17	33
+16	FC Augsburg         	34	5	16	13	27	41	-14	31
+17	Union Berlin        	34	4	15	15	28	47	-19	27
+18	Fortuna Düsseldorf  	34	5	11	18	29	52	-23	26
+
+#---------------------------------
+#	 Season 853306
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Bayern Munich       	34	23	10	1	59	7	52	79
+2	RB Leipzig          	34	19	9	6	48	24	24	66
+3	Borussia Dortmund   	34	18	10	6	47	25	22	64
+4	Bayer Leverkusen    	34	15	9	10	39	31	8	54
+5	SC Freiburg         	34	14	11	9	32	26	6	53
+6	Borussia Mönchengladbach	34	13	10	11	34	30	4	49
+7	Eintracht Frankfurt 	34	12	12	10	40	39	1	48
+8	Union Berlin        	34	13	7	14	29	35	-6	46
+9	Schalke 04          	34	12	9	13	35	35	0	45
+10	Werder Bremen       	34	11	11	12	31	36	-5	44
+11	Hertha BSC          	34	11	11	12	29	34	-5	44
+12	VfL Wolfsburg       	34	11	11	12	32	39	-7	44
+13	FC Augsburg         	34	12	6	16	32	42	-10	42
+14	1899 Hoffenheim     	34	10	8	16	32	43	-11	38
+15	SC Paderborn        	34	7	10	17	28	43	-15	31
+16	Fortuna Düsseldorf  	34	7	10	17	25	40	-15	31
+17	Mainz 05            	34	7	9	18	29	48	-19	30
+18	1. FC Köln          	34	5	9	20	25	49	-24	24
+
+#---------------------------------
+#	 Season 917875
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Eintracht Frankfurt 	34	20	7	7	59	51	8	67
+2	Bayern Munich       	34	19	9	6	62	24	38	66
+3	RB Leipzig          	34	19	8	7	46	27	19	65
+4	Bayer Leverkusen    	34	14	10	10	38	29	9	52
+5	VfL Wolfsburg       	34	13	13	8	35	28	7	52
+6	Borussia Dortmund   	34	13	12	9	45	35	10	51
+7	Hertha BSC          	34	13	12	9	41	35	6	51
+8	1899 Hoffenheim     	34	14	7	13	43	35	8	49
+9	Borussia Mönchengladbach	34	13	9	12	44	39	5	48
+10	SC Freiburg         	34	14	5	15	38	42	-4	47
+11	Fortuna Düsseldorf  	34	13	7	14	30	39	-9	46
+12	1. FC Köln          	34	9	11	14	39	48	-9	38
+13	Mainz 05            	34	9	10	15	31	44	-13	37
+14	Union Berlin        	34	9	9	16	30	43	-13	36
+15	FC Augsburg         	34	8	11	15	31	43	-12	35
+16	Werder Bremen       	34	8	9	17	37	53	-16	33
+17	Schalke 04          	34	6	12	16	31	46	-15	30
+18	SC Paderborn        	34	5	13	16	32	51	-19	28
+

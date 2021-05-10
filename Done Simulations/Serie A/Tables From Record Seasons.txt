@@ -1,0 +1,450 @@
+#---------------------------------
+#	 Season 45465
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Juventus            	38	15	14	9	47	31	16	59
+2	Atalanta            	38	16	11	11	56	45	11	59
+3	Internazionale      	38	15	13	10	42	29	13	58
+4	Lazio               	38	17	7	14	46	36	10	58
+5	Parma               	38	16	10	12	49	40	9	58
+6	Fiorentina          	38	16	10	12	37	32	5	58
+7	Sampdoria           	38	13	17	8	38	32	6	56
+8	Roma                	38	14	13	11	49	39	10	55
+9	Milan               	38	13	15	10	41	29	12	54
+10	Bologna             	38	12	14	12	30	30	0	50
+11	Cagliari            	38	12	13	13	35	39	-4	49
+12	Lecce               	38	12	11	15	37	43	-6	47
+13	Napoli              	38	12	11	15	39	47	-8	47
+14	Udinese             	38	13	8	17	28	36	-8	47
+15	Genoa               	38	13	8	17	33	43	-10	47
+16	Brescia             	38	12	10	16	29	46	-17	46
+17	Sassuolo            	38	10	15	13	41	47	-6	45
+18	Hellas Verona       	38	9	16	13	36	42	-6	43
+19	Torino              	38	10	13	15	31	41	-10	43
+20	SPAL                	38	9	13	16	26	43	-17	40
+
+#---------------------------------
+#	 Season 47002
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Lazio               	38	21	10	7	57	30	27	73
+2	Atalanta            	38	18	14	6	60	41	19	68
+3	Internazionale      	38	17	14	7	47	31	16	65
+4	Roma                	38	17	12	9	42	29	13	63
+5	Juventus            	38	17	12	9	46	34	12	63
+6	Sassuolo            	38	14	18	6	53	41	12	60
+7	Fiorentina          	38	18	6	14	36	34	2	60
+8	Milan               	38	17	8	13	40	33	7	59
+9	Parma               	38	14	11	13	35	30	5	53
+10	Torino              	38	13	10	15	40	44	-4	49
+11	Lecce               	38	13	9	16	36	41	-5	48
+12	Napoli              	38	11	14	13	38	40	-2	47
+13	Bologna             	38	12	11	15	35	39	-4	47
+14	Brescia             	38	13	8	17	30	45	-15	47
+15	Sampdoria           	38	11	12	15	38	44	-6	45
+16	Hellas Verona       	38	11	11	16	33	37	-4	44
+17	Udinese             	38	9	15	14	28	35	-7	42
+18	Cagliari            	38	10	7	21	36	50	-14	37
+19	Genoa               	38	7	13	18	29	50	-21	34
+20	SPAL                	38	3	13	22	6	37	-31	22
+
+#---------------------------------
+#	 Season 86032
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Internazionale      	38	21	9	8	55	28	27	72
+2	Sassuolo            	38	22	6	10	47	32	15	72
+3	Atalanta            	38	20	8	10	56	36	20	68
+4	Roma                	38	19	10	9	59	39	20	67
+5	Milan               	38	18	12	8	48	31	17	66
+6	Lazio               	38	17	9	12	40	32	8	60
+7	Napoli              	38	15	14	9	43	34	9	59
+8	Juventus            	38	16	10	12	46	38	8	58
+9	Bologna             	38	12	14	12	39	41	-2	50
+10	Fiorentina          	38	12	13	13	37	38	-1	49
+11	Parma               	38	11	16	11	39	43	-4	49
+12	Hellas Verona       	38	12	9	17	27	35	-8	45
+13	Sampdoria           	38	10	14	14	37	44	-7	44
+14	Genoa               	38	9	15	14	37	43	-6	42
+15	Torino              	38	9	15	14	39	47	-8	42
+16	Cagliari            	38	9	12	17	30	45	-15	39
+17	Lecce               	38	9	11	18	43	60	-17	38
+18	SPAL                	38	8	13	17	19	41	-22	37
+19	Brescia             	38	6	13	19	34	57	-23	31
+20	Udinese             	38	3	21	14	15	26	-11	30
+
+#---------------------------------
+#	 Season 99692
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Atalanta            	38	20	11	7	65	36	29	71
+2	Lazio               	38	20	10	8	50	27	23	70
+3	Internazionale      	38	21	7	10	46	28	18	70
+4	Roma                	38	20	9	9	53	33	20	69
+5	Sassuolo            	38	15	13	10	44	32	12	58
+6	Juventus            	38	15	13	10	45	35	10	58
+7	Milan               	38	15	12	11	38	34	4	57
+8	Fiorentina          	38	12	16	10	35	29	6	52
+9	Bologna             	38	12	16	10	40	42	-2	52
+10	Sampdoria           	38	13	13	12	44	49	-5	52
+11	Parma               	38	14	9	15	46	48	-2	51
+12	Cagliari            	38	12	11	15	41	42	-1	47
+13	Napoli              	38	12	11	15	26	34	-8	47
+14	Torino              	38	13	7	18	35	47	-12	46
+15	Hellas Verona       	38	10	13	15	30	37	-7	43
+16	Brescia             	38	10	10	18	32	48	-16	40
+17	Genoa               	38	11	7	20	31	52	-21	40
+18	Udinese             	38	8	12	18	28	43	-15	36
+19	SPAL                	38	8	12	18	25	45	-20	36
+20	Lecce               	38	9	8	21	51	64	-13	35
+
+#---------------------------------
+#	 Season 136663
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Juventus            	38	23	8	7	52	22	30	77
+2	Lazio               	38	16	10	12	53	44	9	58
+3	Atalanta            	38	15	12	11	45	31	14	57
+4	Napoli              	38	13	18	7	40	31	9	57
+5	Sassuolo            	38	15	11	12	52	46	6	56
+6	Milan               	38	16	8	14	36	37	-1	56
+7	Torino              	38	14	13	11	40	36	4	55
+8	Sampdoria           	38	15	10	13	33	33	0	55
+9	Parma               	38	14	12	12	37	33	4	54
+10	Hellas Verona       	38	14	12	12	36	33	3	54
+11	Internazionale      	38	14	11	13	41	32	9	53
+12	Udinese             	38	10	22	6	31	28	3	52
+13	Cagliari            	38	14	10	14	35	33	2	52
+14	Fiorentina          	38	12	15	11	33	29	4	51
+15	Roma                	38	12	12	14	40	37	3	48
+16	Brescia             	38	11	12	15	23	38	-15	45
+17	Bologna             	38	9	14	15	40	53	-13	41
+18	Lecce               	38	9	10	19	34	54	-20	37
+19	Genoa               	38	8	10	20	28	50	-22	34
+20	SPAL                	38	3	16	19	21	50	-29	25
+
+#---------------------------------
+#	 Season 227323
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Atalanta            	38	30	6	2	79	33	46	96
+2	Internazionale      	38	30	4	4	65	20	45	94
+3	Lazio               	38	19	10	9	52	27	25	67
+4	Milan               	38	18	9	11	46	38	8	63
+5	Juventus            	38	14	15	9	46	37	9	57
+6	Sampdoria           	38	15	11	12	46	43	3	56
+7	Napoli              	38	17	5	16	45	45	0	56
+8	Fiorentina          	38	15	10	13	41	37	4	55
+9	Sassuolo            	38	15	9	14	52	46	6	54
+10	Hellas Verona       	38	13	14	11	33	32	1	53
+11	Parma               	38	13	9	16	39	40	-1	48
+12	Roma                	38	12	10	16	37	41	-4	46
+13	Cagliari            	38	11	12	15	45	46	-1	45
+14	Torino              	38	11	10	17	38	48	-10	43
+15	Lecce               	38	11	10	17	39	59	-20	43
+16	Udinese             	38	9	13	16	33	43	-10	40
+17	Genoa               	38	9	13	16	39	51	-12	40
+18	Brescia             	38	8	11	19	27	56	-29	35
+19	Bologna             	38	5	12	21	30	51	-21	27
+20	SPAL                	38	4	9	25	25	64	-39	21
+
+#---------------------------------
+#	 Season 240306
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Atalanta            	38	22	7	9	76	53	23	73
+2	Internazionale      	38	21	8	9	50	28	22	71
+3	Lazio               	38	19	11	8	53	28	25	68
+4	Fiorentina          	38	18	11	9	46	31	15	65
+5	Sassuolo            	38	19	7	12	55	40	15	64
+6	Hellas Verona       	38	17	13	8	32	23	9	64
+7	Juventus            	38	17	12	9	50	34	16	63
+8	Bologna             	38	17	6	15	39	38	1	57
+9	Roma                	38	15	9	14	42	39	3	54
+10	Milan               	38	13	13	12	37	31	6	52
+11	Napoli              	38	13	9	16	35	34	1	48
+12	SPAL                	38	12	12	14	28	39	-11	48
+13	Udinese             	38	12	10	16	29	36	-7	46
+14	Genoa               	38	10	16	12	30	41	-11	46
+15	Cagliari            	38	10	12	16	34	43	-9	42
+16	Lecce               	38	9	13	16	38	56	-18	40
+17	Parma               	38	10	9	19	43	51	-8	39
+18	Torino              	38	9	11	18	29	45	-16	38
+19	Sampdoria           	38	8	9	21	25	46	-21	33
+20	Brescia             	38	5	10	23	25	60	-35	25
+
+#---------------------------------
+#	 Season 295802
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Atalanta            	38	29	9	0	91	21	70	96
+2	Roma                	38	20	9	9	46	29	17	69
+3	Milan               	38	19	10	9	40	30	10	67
+4	Internazionale      	38	17	12	9	51	34	17	63
+5	Hellas Verona       	38	14	17	7	36	26	10	59
+6	Napoli              	38	15	13	10	38	29	9	58
+7	Parma               	38	16	7	15	46	42	4	55
+8	Fiorentina          	38	13	14	11	36	32	4	53
+9	Bologna             	38	13	14	11	42	40	2	53
+10	Juventus            	38	14	10	14	45	42	3	52
+11	Cagliari            	38	14	9	15	35	32	3	51
+12	Lazio               	38	13	11	14	34	29	5	50
+13	Sassuolo            	38	12	12	14	46	53	-7	48
+14	Udinese             	38	10	13	15	27	37	-10	43
+15	Sampdoria           	38	10	13	15	35	47	-12	43
+16	Lecce               	38	9	13	16	37	49	-12	40
+17	Genoa               	38	9	10	19	30	49	-19	37
+18	Torino              	38	5	15	18	23	53	-30	30
+19	Brescia             	38	5	14	19	24	51	-27	29
+20	SPAL                	38	4	13	21	21	58	-37	25
+
+#---------------------------------
+#	 Season 408444
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Atalanta            	38	19	9	10	46	29	17	66
+2	Roma                	38	17	11	10	57	37	20	62
+3	Lazio               	38	15	13	10	51	34	17	58
+4	Fiorentina          	38	16	9	13	43	39	4	57
+5	Juventus            	38	16	8	14	50	44	6	56
+6	Sassuolo            	38	15	11	12	47	43	4	56
+7	Internazionale      	38	13	15	10	36	29	7	54
+8	Milan               	38	15	9	14	38	37	1	54
+9	Cagliari            	38	15	8	15	44	43	1	53
+10	Torino              	38	14	11	13	35	34	1	53
+11	Parma               	38	12	14	12	45	38	7	50
+12	Sampdoria           	38	15	5	18	33	40	-7	50
+13	Lecce               	38	13	11	14	35	46	-11	50
+14	Brescia             	38	13	9	16	30	43	-13	48
+15	Bologna             	38	12	11	15	32	34	-2	47
+16	Napoli              	38	13	8	17	31	36	-5	47
+17	Genoa               	38	14	5	19	37	50	-13	47
+18	Hellas Verona       	38	10	15	13	28	34	-6	45
+19	Udinese             	38	12	8	18	30	43	-13	44
+20	SPAL                	38	12	8	18	29	44	-15	44
+
+#---------------------------------
+#	 Season 417530
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Atalanta            	38	23	8	7	60	33	27	77
+2	Lazio               	38	22	6	10	59	33	26	72
+3	Milan               	38	21	6	11	50	36	14	69
+4	Sassuolo            	38	19	10	9	53	33	20	67
+5	Juventus            	38	18	11	9	43	22	21	65
+6	Internazionale      	38	18	10	10	44	26	18	64
+7	Roma                	38	17	11	10	45	30	15	62
+8	Napoli              	38	18	8	12	46	32	14	62
+9	Sampdoria           	38	16	9	13	40	36	4	57
+10	Parma               	38	16	7	15	40	42	-2	55
+11	Bologna             	38	15	8	15	44	49	-5	53
+12	Fiorentina          	38	14	9	15	43	43	0	51
+13	Brescia             	38	12	11	15	33	44	-11	47
+14	Cagliari            	38	10	16	12	35	38	-3	46
+15	Genoa               	38	9	14	15	45	57	-12	41
+16	Udinese             	38	10	9	19	27	38	-11	39
+17	Torino              	38	8	14	16	32	51	-19	38
+18	Hellas Verona       	38	8	10	20	28	45	-17	34
+19	SPAL                	38	5	13	20	25	52	-27	28
+20	Lecce               	38	3	6	29	34	86	-52	15
+
+#---------------------------------
+#	 Season 444999
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Internazionale      	38	29	7	2	61	8	53	94
+2	Roma                	38	21	10	7	56	35	21	73
+3	Atalanta            	38	18	15	5	55	25	30	69
+4	Lazio               	38	17	12	9	47	32	15	63
+5	Cagliari            	38	17	11	10	41	35	6	62
+6	Sassuolo            	38	17	10	11	45	34	11	61
+7	Milan               	38	16	10	12	47	39	8	58
+8	Juventus            	38	14	12	12	41	35	6	54
+9	Parma               	38	13	12	13	39	40	-1	51
+10	Napoli              	38	13	10	15	31	32	-1	49
+11	Udinese             	38	12	13	13	28	33	-5	49
+12	Fiorentina          	38	12	12	14	31	31	0	48
+13	Hellas Verona       	38	9	17	12	33	35	-2	44
+14	Torino              	38	11	10	17	32	41	-9	43
+15	Lecce               	38	10	8	20	30	50	-20	38
+16	Genoa               	38	9	10	19	36	54	-18	37
+17	Brescia             	38	9	10	19	19	47	-28	37
+18	SPAL                	38	7	14	17	18	41	-23	35
+19	Sampdoria           	38	8	8	22	28	48	-20	32
+20	Bologna             	38	7	11	20	27	50	-23	32
+
+#---------------------------------
+#	 Season 463809
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Juventus            	38	21	12	5	50	22	28	75
+2	Internazionale      	38	19	11	8	53	30	23	68
+3	Atalanta            	38	19	11	8	57	39	18	68
+4	Napoli              	38	17	14	7	48	34	14	65
+5	Lazio               	38	18	10	10	48	29	19	64
+6	Parma               	38	19	6	13	46	41	5	63
+7	Sampdoria           	38	17	10	11	46	37	9	61
+8	Roma                	38	18	6	14	50	31	19	60
+9	Hellas Verona       	38	17	9	12	39	28	11	60
+10	Fiorentina          	38	15	10	13	40	35	5	55
+11	Sassuolo            	38	15	8	15	46	45	1	53
+12	Milan               	38	13	12	13	38	36	2	51
+13	Udinese             	38	11	16	11	32	33	-1	49
+14	Genoa               	38	11	14	13	33	37	-4	47
+15	Cagliari            	38	10	15	13	31	42	-11	45
+16	Torino              	38	11	8	19	37	60	-23	41
+17	Bologna             	38	8	15	15	35	48	-13	39
+18	Lecce               	38	9	7	22	31	55	-24	34
+19	SPAL                	38	8	8	22	26	52	-26	32
+20	Brescia             	38	0	6	32	22	74	-52	6
+
+#---------------------------------
+#	 Season 552137
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Udinese             	38	19	8	11	34	32	2	65
+2	Sassuolo            	38	19	6	13	43	35	8	63
+3	Napoli              	38	19	6	13	43	36	7	63
+4	Roma                	38	19	5	14	44	34	10	62
+5	Juventus            	38	16	13	9	48	31	17	61
+6	Internazionale      	38	18	7	13	43	32	11	61
+7	Parma               	38	17	9	12	37	28	9	60
+8	Lazio               	38	17	8	13	43	34	9	59
+9	Atalanta            	38	15	12	11	56	39	17	57
+10	Cagliari            	38	15	11	12	36	30	6	56
+11	Fiorentina          	38	14	13	11	33	29	4	55
+12	Milan               	38	13	13	12	35	30	5	52
+13	Sampdoria           	38	13	11	14	37	41	-4	50
+14	SPAL                	38	13	11	14	27	38	-11	50
+15	Brescia             	38	12	8	18	30	41	-11	44
+16	Hellas Verona       	38	12	6	20	32	44	-12	42
+17	Bologna             	38	9	13	16	28	38	-10	40
+18	Torino              	38	11	7	20	24	39	-15	40
+19	Genoa               	38	8	13	17	26	46	-20	37
+20	Lecce               	38	9	4	25	37	59	-22	31
+
+#---------------------------------
+#	 Season 562787
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Juventus            	38	24	9	5	63	28	35	81
+2	Atalanta            	38	23	10	5	75	37	38	79
+3	Internazionale      	38	22	10	6	50	24	26	76
+4	Parma               	38	17	11	10	43	34	9	62
+5	Sassuolo            	38	15	12	11	49	42	7	57
+6	Milan               	38	14	14	10	42	33	9	56
+7	Lazio               	38	14	12	12	55	41	14	54
+8	Fiorentina          	38	14	12	12	37	37	0	54
+9	Hellas Verona       	38	13	14	11	35	31	4	53
+10	Cagliari            	38	13	13	12	38	40	-2	52
+11	Bologna             	38	12	14	12	48	45	3	50
+12	Udinese             	38	12	14	12	26	34	-8	50
+13	Torino              	38	11	16	11	47	43	4	49
+14	Sampdoria           	38	14	7	17	37	48	-11	49
+15	Genoa               	38	12	7	19	36	45	-9	43
+16	Roma                	38	12	6	20	36	40	-4	42
+17	Lecce               	38	11	8	19	43	55	-12	41
+18	Napoli              	38	9	13	16	37	48	-11	40
+19	Brescia             	38	6	11	21	27	59	-32	29
+20	SPAL                	38	1	9	28	16	76	-60	12
+
+#---------------------------------
+#	 Season 677053
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Fiorentina          	38	20	10	8	31	20	11	70
+2	Internazionale      	38	18	14	6	48	21	27	68
+3	Atalanta            	38	20	7	11	61	41	20	67
+4	Lazio               	38	20	7	11	50	36	14	67
+5	Milan               	38	18	11	9	43	27	16	65
+6	Sassuolo            	38	16	14	8	54	38	16	62
+7	Napoli              	38	16	12	10	42	31	11	60
+8	Hellas Verona       	38	16	11	11	36	30	6	59
+9	Juventus            	38	15	11	12	41	35	6	56
+10	Sampdoria           	38	15	9	14	34	38	-4	54
+11	Parma               	38	12	17	9	39	39	0	53
+12	Roma                	38	11	19	8	52	46	6	52
+13	Udinese             	38	14	9	15	29	33	-4	51
+14	Bologna             	38	12	8	18	34	40	-6	44
+15	Cagliari            	38	10	11	17	41	52	-11	41
+16	Torino              	38	10	10	18	34	50	-16	40
+17	Lecce               	38	9	11	18	39	50	-11	38
+18	Genoa               	38	6	14	18	34	52	-18	32
+19	SPAL                	38	6	12	20	24	52	-28	30
+20	Brescia             	38	4	7	27	26	61	-35	19
+
+#---------------------------------
+#	 Season 826379
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Atalanta            	38	33	4	1	97	31	66	103
+2	Lazio               	38	20	14	4	52	29	23	74
+3	Internazionale      	38	21	8	9	50	26	24	71
+4	Juventus            	38	20	9	9	52	36	16	69
+5	Roma                	38	18	13	7	59	32	27	67
+6	Milan               	38	17	9	12	47	35	12	60
+7	Fiorentina          	38	17	7	14	40	38	2	58
+8	Hellas Verona       	38	17	6	15	37	36	1	57
+9	Napoli              	38	15	8	15	46	40	6	53
+10	Parma               	38	13	13	12	39	36	3	52
+11	Cagliari            	38	11	12	15	39	48	-9	45
+12	Genoa               	38	13	5	20	39	52	-13	44
+13	Torino              	38	11	10	17	31	41	-10	43
+14	Sampdoria           	38	11	7	20	33	56	-23	40
+15	Bologna             	38	11	6	21	31	41	-10	39
+16	Lecce               	38	9	11	18	33	58	-25	38
+17	Udinese             	38	7	14	17	27	42	-15	35
+18	SPAL                	38	9	8	21	31	59	-28	35
+19	Brescia             	38	9	7	22	25	54	-29	34
+20	Sassuolo            	38	8	9	21	40	58	-18	33
+
+#---------------------------------
+#	 Season 834982
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Atalanta            	38	35	2	1	87	23	64	107
+2	Roma                	38	19	10	9	56	39	17	67
+3	Internazionale      	38	17	14	7	57	30	27	65
+4	Lazio               	38	16	16	6	51	30	21	64
+5	Milan               	38	17	12	9	43	27	16	63
+6	Torino              	38	17	10	11	38	37	1	61
+7	Juventus            	38	17	9	12	40	26	14	60
+8	Napoli              	38	15	11	12	43	40	3	56
+9	Sassuolo            	38	15	6	17	45	54	-9	51
+10	Cagliari            	38	15	5	18	35	35	0	50
+11	Hellas Verona       	38	12	13	13	37	35	2	49
+12	Bologna             	38	12	13	13	38	40	-2	49
+13	Parma               	38	12	13	13	36	44	-8	49
+14	Fiorentina          	38	11	13	14	28	35	-7	46
+15	Genoa               	38	11	8	19	35	50	-15	41
+16	Udinese             	38	9	11	18	34	43	-9	38
+17	Sampdoria           	38	9	10	19	34	51	-17	37
+18	Brescia             	38	7	9	22	31	61	-30	30
+19	Lecce               	38	7	8	23	35	72	-37	29
+20	SPAL                	38	5	11	22	23	54	-31	26
+
+#---------------------------------
+#	 Season 985797
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Internazionale      	38	23	9	6	61	23	38	78
+2	Lazio               	38	20	13	5	53	25	28	73
+3	Milan               	38	19	7	12	41	32	9	64
+4	Atalanta            	38	17	11	10	48	32	16	62
+5	Cagliari            	38	17	9	12	44	37	7	60
+6	Roma                	38	14	13	11	49	44	5	55
+7	Juventus            	38	14	11	13	40	32	8	53
+8	Napoli              	38	12	17	9	42	35	7	53
+9	Parma               	38	13	14	11	37	36	1	53
+10	Genoa               	38	14	7	17	38	42	-4	49
+11	Brescia             	38	14	7	17	37	48	-11	49
+12	Sampdoria           	38	11	13	14	42	50	-8	46
+13	Sassuolo            	38	12	9	17	46	50	-4	45
+14	Bologna             	38	11	11	16	33	46	-13	44
+15	Lecce               	38	12	7	19	31	43	-12	43
+16	Hellas Verona       	38	9	14	15	31	38	-7	41
+17	Udinese             	38	10	11	17	21	39	-18	41
+18	Torino              	38	10	11	17	26	46	-20	41
+19	SPAL                	38	11	8	19	22	43	-21	41
+20	Fiorentina          	38	8	16	14	37	38	-1	40
+

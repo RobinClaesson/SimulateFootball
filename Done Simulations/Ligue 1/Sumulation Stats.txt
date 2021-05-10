@@ -1,0 +1,83 @@
+Number of Seasons simulated: 1000000
+Total time (h:m:s): 00:10:03.6116092
+
+---------------------------------
+|       Best Performances:      |
+---------------------------------
+Highest points:       108p, by Paris Saint-Germain in season 505777
+Most goals scored:    82 goals, by Paris Saint-Germain in season 156632
+Least goals admitted: 4 goals, by Lille in season 878049
+Best goal difference: 64 goals, by Paris Saint-Germain in season 473362
+
+---------------------------------
+|      Worst Performances:      |
+---------------------------------
+Lowest points:         6p, by Dijon in season 228388
+Least goals scored:    5 goals, by Dijon in season 675492
+Most goals admitted:   70 goals, by Lorient in season 191267
+Worst goal difference: -53 goals, by Dijon in season 99228
+
+---------------------------------
+|  Worst teams in first place:  |
+---------------------------------
+Lowest points by a team in first place:         60p, by Lille in season 322215
+Least goals scored by a team in first place:    26 goals, by Lille in season 231022
+Most goals admitted by a team in first place:   45 goals, by Montpellier in season 66439
+Worst goal difference by a team in first place: 4 goals, by Montpellier in season 425058
+
+---------------------------------
+|   Best teams in last place:   |
+---------------------------------
+Higest points by a team in last place:         43p, by Montpellier in season 611169
+Most goals scored by a team in last place:     45 goals, by Montpellier in season 56684
+Least goals admitted by a team in last place:  22 goals, by Metz in season 161048
+Best goal difference by a team in last place: -2 goals, by Marseille in season 17674
+
+---------------------------------
+|     Points needed to win:     |
+---------------------------------
+Highest points needed to win: 95p, in season 8333
+Lowest points needed to win:  57p, in season 190457
+Average points needed to win: 73p
+
+---------------------------------
+| Average points per placement: |
+---------------------------------
+1: 78,4p
+2: 72,3p
+3: 68p
+4: 64,3p
+5: 60,9p
+6: 58,1p
+7: 55,8p
+8: 53,7p
+9: 51,9p
+10: 50,2p
+11: 48,6p
+12: 47p
+13: 45,5p
+14: 43,9p
+15: 42,3p
+16: 40,6p
+17: 38,6p
+18: 36,4p
+19: 33,4p
+20: 28,6p
+
+---------------------------------
+|      Most league titles       |
+---------------------------------
+1: Paris Saint-Germain, 522193 times
+2: Lille, 183092 times
+3: Lyon, 147806 times
+4: Monaco, 122068 times
+5: Rennes, 10336 times
+---------------------------------
+|      Most league jumbos       |
+---------------------------------
+1: Dijon, 486673 times
+2: Nîmes, 186680 times
+3: Angers, 58706 times
+4: Nantes, 58063 times
+5: Lorient, 53919 times
+

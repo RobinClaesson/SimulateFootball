@@ -1,0 +1,83 @@
+Number of Seasons simulated: 1000000
+Total time (h:m:s): 00:10:21.4065313
+
+---------------------------------
+|       Best Performances:      |
+---------------------------------
+Highest points:       108p, by Manchester City in season 430651
+Most goals scored:    92 goals, by Manchester City in season 701703
+Least goals admitted: 6 goals, by Liverpool in season 658888
+Best goal difference: 75 goals, by Manchester City in season 35103
+
+---------------------------------
+|      Worst Performances:      |
+---------------------------------
+Lowest points:         4p, by Norwich City in season 312613
+Least goals scored:    6 goals, by Norwich City in season 125791
+Most goals admitted:   73 goals, by Norwich City in season 132268
+Worst goal difference: -58 goals, by Norwich City in season 608965
+
+---------------------------------
+|  Worst teams in first place:  |
+---------------------------------
+Lowest points by a team in first place:         60p, by Manchester City in season 242792
+Least goals scored by a team in first place:    28 goals, by Sheffield United in season 125203
+Most goals admitted by a team in first place:   46 goals, by Chelsea in season 437847
+Worst goal difference by a team in first place: 4 goals, by Arsenal in season 360566
+
+---------------------------------
+|   Best teams in last place:   |
+---------------------------------
+Higest points by a team in last place:         42p, by West Ham United in season 235205
+Most goals scored by a team in last place:     42 goals, by Chelsea in season 151103
+Least goals admitted by a team in last place:  22 goals, by Crystal Palace in season 463695
+Best goal difference by a team in last place: -3 goals, by West Ham United in season 403813
+
+---------------------------------
+|     Points needed to win:     |
+---------------------------------
+Highest points needed to win: 99p, in season 369964
+Lowest points needed to win:  58p, in season 242402
+Average points needed to win: 74p
+
+---------------------------------
+| Average points per placement: |
+---------------------------------
+1: 80,1p
+2: 73,2p
+3: 68,1p
+4: 64,3p
+5: 61,3p
+6: 58,7p
+7: 56,3p
+8: 54,2p
+9: 52,2p
+10: 50,3p
+11: 48,5p
+12: 46,8p
+13: 45,2p
+14: 43,5p
+15: 41,8p
+16: 40p
+17: 38p
+18: 35,7p
+19: 32,7p
+20: 27,6p
+
+---------------------------------
+|      Most league titles       |
+---------------------------------
+1: Manchester City, 587498 times
+2: Liverpool, 291210 times
+3: Manchester United, 56806 times
+4: Leicester City, 35887 times
+5: Chelsea, 9389 times
+---------------------------------
+|      Most league jumbos       |
+---------------------------------
+1: Norwich City, 551142 times
+2: Watford, 108427 times
+3: Aston Villa, 79770 times
+4: Bournemouth, 75934 times
+5: Newcastle United, 49381 times
+

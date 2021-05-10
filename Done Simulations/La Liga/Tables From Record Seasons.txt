@@ -1,0 +1,450 @@
+#---------------------------------
+#	 Season 32417
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Barcelona           	38	22	12	4	51	16	35	78
+2	Atlético Madrid     	38	20	14	4	38	17	21	74
+3	Levante             	38	17	14	7	34	17	17	65
+4	Real Madrid         	38	15	19	4	36	17	19	64
+5	Real Betis          	38	15	14	9	38	30	8	59
+6	Villarreal          	38	15	14	9	45	38	7	59
+7	Granada             	38	17	8	13	32	28	4	59
+8	Sevilla             	38	12	15	11	31	27	4	51
+9	Osasuna             	38	12	12	14	26	33	-7	48
+10	Valencia            	38	9	19	10	30	30	0	46
+11	Mallorca            	38	9	19	10	25	26	-1	46
+12	Athletic Bilbao     	38	10	16	12	21	26	-5	46
+13	Getafe              	38	8	21	9	20	21	-1	45
+14	Valladolid          	38	9	15	14	24	31	-7	42
+15	Celta Vigo          	38	9	15	14	22	30	-8	42
+16	Real Sociedad       	38	9	13	16	29	36	-7	40
+17	Eibar               	38	8	14	16	24	36	-12	38
+18	Leganés             	38	7	14	17	14	30	-16	35
+19	Alavés              	38	7	13	18	19	36	-17	34
+20	Espanyol            	38	3	13	22	5	39	-34	22
+
+#---------------------------------
+#	 Season 52957
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Barcelona           	38	34	4	0	76	19	57	106
+2	Real Madrid         	38	19	13	6	46	21	25	70
+3	Atlético Madrid     	38	18	11	9	36	25	11	65
+4	Real Sociedad       	38	16	13	9	42	34	8	61
+5	Osasuna             	38	16	10	12	36	36	0	58
+6	Celta Vigo          	38	15	11	12	30	30	0	56
+7	Villarreal          	38	15	10	13	32	30	2	55
+8	Sevilla             	38	12	18	8	29	23	6	54
+9	Granada             	38	12	14	12	25	27	-2	50
+10	Leganés             	38	11	14	13	25	33	-8	47
+11	Getafe              	38	10	16	12	20	22	-2	46
+12	Levante             	38	12	10	16	30	36	-6	46
+13	Athletic Bilbao     	38	9	16	13	23	27	-4	43
+14	Mallorca            	38	11	10	17	30	37	-7	43
+15	Valencia            	38	10	12	16	31	36	-5	42
+16	Eibar               	38	9	14	15	24	36	-12	41
+17	Espanyol            	38	9	10	19	21	35	-14	37
+18	Real Betis          	38	7	14	17	25	38	-13	35
+19	Valladolid          	38	5	16	17	23	40	-17	31
+20	Alavés              	38	5	14	19	20	39	-19	29
+
+#---------------------------------
+#	 Season 82660
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Athletic Bilbao     	38	18	9	11	33	30	3	63
+2	Real Madrid         	38	17	11	10	39	20	19	62
+3	Osasuna             	38	16	13	9	36	29	7	61
+4	Real Sociedad       	38	14	16	8	37	28	9	58
+5	Levante             	38	15	13	10	37	31	6	58
+6	Granada             	38	16	10	12	37	31	6	58
+7	Atlético Madrid     	38	13	18	7	29	21	8	57
+8	Villarreal          	38	16	8	14	42	34	8	56
+9	Real Betis          	38	14	14	10	28	24	4	56
+10	Barcelona           	38	14	12	12	39	30	9	54
+11	Eibar               	38	12	12	14	24	30	-6	48
+12	Sevilla             	38	11	14	13	28	28	0	47
+13	Celta Vigo          	38	11	14	13	24	28	-4	47
+14	Valladolid          	38	11	13	14	23	29	-6	46
+15	Leganés             	38	11	12	15	25	34	-9	45
+16	Mallorca            	38	10	14	14	27	33	-6	44
+17	Getafe              	38	8	17	13	21	25	-4	41
+18	Valencia            	38	9	13	16	27	35	-8	40
+19	Espanyol            	38	8	11	19	13	34	-21	35
+20	Alavés              	38	6	16	16	19	34	-15	34
+
+#---------------------------------
+#	 Season 123933
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Real Madrid         	38	22	13	3	44	18	26	79
+2	Levante             	38	12	19	7	39	33	6	55
+3	Athletic Bilbao     	38	14	13	11	29	25	4	55
+4	Eibar               	38	15	10	13	32	29	3	55
+5	Granada             	38	13	15	10	34	28	6	54
+6	Sevilla             	38	14	12	12	30	24	6	54
+7	Real Betis          	38	13	14	11	38	39	-1	53
+8	Barcelona           	38	14	10	14	41	33	8	52
+9	Getafe              	38	11	18	9	29	25	4	51
+10	Atlético Madrid     	38	10	21	7	21	17	4	51
+11	Celta Vigo          	38	14	9	15	28	31	-3	51
+12	Valencia            	38	13	11	14	34	35	-1	50
+13	Mallorca            	38	12	14	12	30	31	-1	50
+14	Valladolid          	38	12	13	13	23	27	-4	49
+15	Real Sociedad       	38	11	15	12	34	33	1	48
+16	Villarreal          	38	11	14	13	35	36	-1	47
+17	Leganés             	38	11	12	15	21	28	-7	45
+18	Alavés              	38	9	15	14	25	35	-10	42
+19	Osasuna             	38	6	15	17	27	47	-20	33
+20	Espanyol            	38	5	13	20	15	35	-20	28
+
+#---------------------------------
+#	 Season 145115
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Real Madrid         	38	31	4	3	56	17	39	97
+2	Barcelona           	38	30	5	3	59	18	41	95
+3	Sevilla             	38	17	11	10	38	23	15	62
+4	Atlético Madrid     	38	16	13	9	33	24	9	61
+5	Real Sociedad       	38	16	12	10	39	29	10	60
+6	Villarreal          	38	15	13	10	42	32	10	58
+7	Granada             	38	15	12	11	30	27	3	57
+8	Levante             	38	12	15	11	26	23	3	51
+9	Osasuna             	38	11	16	11	29	30	-1	49
+10	Eibar               	38	11	15	12	27	31	-4	48
+11	Valencia            	38	9	14	15	25	31	-6	41
+12	Athletic Bilbao     	38	8	17	13	24	30	-6	41
+13	Celta Vigo          	38	9	14	15	22	29	-7	41
+14	Real Betis          	38	10	11	17	26	38	-12	41
+15	Getafe              	38	7	19	12	23	30	-7	40
+16	Valladolid          	38	8	16	14	17	27	-10	40
+17	Alavés              	38	8	13	17	28	43	-15	37
+18	Mallorca            	38	7	12	19	24	44	-20	33
+19	Leganés             	38	4	17	17	24	44	-20	29
+20	Espanyol            	38	6	11	21	15	37	-22	29
+
+#---------------------------------
+#	 Season 170593
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Real Madrid         	38	31	6	1	53	3	50	99
+2	Barcelona           	38	22	9	7	54	19	35	75
+3	Granada             	38	17	12	9	31	23	8	63
+4	Atlético Madrid     	38	16	14	8	31	20	11	62
+5	Sevilla             	38	15	15	8	34	22	12	60
+6	Getafe              	38	15	13	10	28	20	8	58
+7	Osasuna             	38	11	19	8	27	22	5	52
+8	Villarreal          	38	15	7	16	34	35	-1	52
+9	Valladolid          	38	13	13	12	25	28	-3	52
+10	Valencia            	38	12	12	14	28	34	-6	48
+11	Levante             	38	11	14	13	28	32	-4	47
+12	Real Sociedad       	38	10	14	14	24	30	-6	44
+13	Eibar               	38	10	14	14	25	35	-10	44
+14	Celta Vigo          	38	7	20	11	20	27	-7	41
+15	Athletic Bilbao     	38	10	10	18	19	30	-11	40
+16	Real Betis          	38	8	14	16	18	34	-16	38
+17	Mallorca            	38	7	15	16	33	45	-12	36
+18	Alavés              	38	6	15	17	19	35	-16	33
+19	Leganés             	38	7	12	19	21	38	-17	33
+20	Espanyol            	38	4	18	16	17	37	-20	30
+
+#---------------------------------
+#	 Season 198200
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Real Madrid         	38	23	9	6	42	16	26	78
+2	Barcelona           	38	17	13	8	45	25	20	64
+3	Sevilla             	38	16	13	9	34	27	7	61
+4	Real Sociedad       	38	16	13	9	32	25	7	61
+5	Atlético Madrid     	38	12	16	10	27	21	6	52
+6	Getafe              	38	12	16	10	27	24	3	52
+7	Real Betis          	38	15	7	16	34	35	-1	52
+8	Leganés             	38	11	17	10	22	23	-1	50
+9	Celta Vigo          	38	13	10	15	24	28	-4	49
+10	Levante             	38	12	12	14	28	30	-2	48
+11	Alavés              	38	14	5	19	23	35	-12	47
+12	Valencia            	38	11	13	14	28	31	-3	46
+13	Eibar               	38	12	10	16	24	33	-9	46
+14	Villarreal          	38	12	9	17	34	37	-3	45
+15	Mallorca            	38	11	12	15	25	32	-7	45
+16	Espanyol            	38	11	12	15	21	28	-7	45
+17	Valladolid          	38	8	20	10	23	24	-1	44
+18	Osasuna             	38	10	14	14	30	37	-7	44
+19	Granada             	38	9	16	13	34	39	-5	43
+20	Athletic Bilbao     	38	10	13	15	28	35	-7	43
+
+#---------------------------------
+#	 Season 247489
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Villarreal          	38	24	7	7	61	40	21	79
+2	Barcelona           	38	20	12	6	49	24	25	72
+3	Valencia            	38	18	12	8	39	26	13	66
+4	Sevilla             	38	16	15	7	42	26	16	63
+5	Atlético Madrid     	38	18	9	11	31	22	9	63
+6	Getafe              	38	15	14	9	34	25	9	59
+7	Granada             	38	13	14	11	35	33	2	53
+8	Real Betis          	38	13	12	13	36	35	1	51
+9	Valladolid          	38	11	17	10	25	25	0	50
+10	Real Madrid         	38	10	18	10	30	24	6	48
+11	Real Sociedad       	38	12	12	14	36	37	-1	48
+12	Osasuna             	38	10	16	12	33	34	-1	46
+13	Eibar               	38	9	17	12	25	31	-6	44
+14	Leganés             	38	10	14	14	18	25	-7	44
+15	Levante             	38	11	11	16	26	34	-8	44
+16	Celta Vigo          	38	8	17	13	21	31	-10	41
+17	Athletic Bilbao     	38	7	16	15	16	31	-15	37
+18	Alavés              	38	6	14	18	19	36	-17	32
+19	Mallorca            	38	6	14	18	22	41	-19	32
+20	Espanyol            	38	5	15	18	20	38	-18	30
+
+#---------------------------------
+#	 Season 450094
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Real Madrid         	38	25	10	3	46	16	30	85
+2	Barcelona           	38	16	17	5	43	20	23	65
+3	Osasuna             	38	14	17	7	33	27	6	59
+4	Getafe              	38	16	11	11	31	28	3	59
+5	Eibar               	38	15	13	10	32	28	4	58
+6	Athletic Bilbao     	38	13	18	7	29	19	10	57
+7	Real Sociedad       	38	14	15	9	36	31	5	57
+8	Alavés              	38	13	15	10	24	26	-2	54
+9	Atlético Madrid     	38	13	14	11	32	25	7	53
+10	Real Betis          	38	12	16	10	29	27	2	52
+11	Sevilla             	38	13	12	13	30	27	3	51
+12	Granada             	38	13	12	13	31	30	1	51
+13	Levante             	38	12	14	12	28	31	-3	50
+14	Villarreal          	38	11	12	15	29	35	-6	45
+15	Valladolid          	38	9	17	12	23	27	-4	44
+16	Valencia            	38	8	17	13	28	35	-7	41
+17	Celta Vigo          	38	8	15	15	28	32	-4	39
+18	Espanyol            	38	7	15	16	23	35	-12	36
+19	Leganés             	38	8	11	19	20	35	-15	35
+20	Mallorca            	38	0	9	29	12	53	-41	9
+
+#---------------------------------
+#	 Season 468068
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Real Madrid         	38	22	11	5	42	16	26	77
+2	Barcelona           	38	19	12	7	46	25	21	69
+3	Sevilla             	38	20	9	9	36	21	15	69
+4	Atlético Madrid     	38	17	14	7	37	24	13	65
+5	Villarreal          	38	18	10	10	37	26	11	64
+6	Athletic Bilbao     	38	17	9	12	28	25	3	60
+7	Getafe              	38	14	17	7	32	20	12	59
+8	Celta Vigo          	38	14	12	12	29	24	5	54
+9	Real Sociedad       	38	12	14	12	34	30	4	50
+10	Granada             	38	12	14	12	37	36	1	50
+11	Valladolid          	38	11	17	10	20	21	-1	50
+12	Levante             	38	11	15	12	30	31	-1	48
+13	Osasuna             	38	12	10	16	29	35	-6	46
+14	Real Betis          	38	10	15	13	30	38	-8	45
+15	Alavés              	38	10	10	18	23	36	-13	40
+16	Espanyol            	38	8	16	14	21	35	-14	40
+17	Valencia            	38	8	15	15	30	35	-5	39
+18	Eibar               	38	7	16	15	22	35	-13	37
+19	Leganés             	38	5	16	17	15	32	-17	31
+20	Mallorca            	38	3	8	27	31	64	-33	17
+
+#---------------------------------
+#	 Season 485616
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Atlético Madrid     	38	17	14	7	23	11	12	65
+2	Real Madrid         	38	16	14	8	35	22	13	62
+3	Real Sociedad       	38	16	14	8	38	27	11	62
+4	Barcelona           	38	15	16	7	39	26	13	61
+5	Athletic Bilbao     	38	15	16	7	34	21	13	61
+6	Granada             	38	14	17	7	29	21	8	59
+7	Levante             	38	14	15	9	30	25	5	57
+8	Villarreal          	38	12	20	6	27	22	5	56
+9	Sevilla             	38	11	20	7	25	17	8	53
+10	Eibar               	38	15	7	16	29	33	-4	52
+11	Osasuna             	38	12	14	12	33	30	3	50
+12	Getafe              	38	11	14	13	29	29	0	47
+13	Alavés              	38	12	11	15	23	27	-4	47
+14	Valladolid          	38	9	16	13	20	27	-7	43
+15	Real Betis          	38	10	12	16	29	38	-9	42
+16	Mallorca            	38	8	15	15	27	39	-12	39
+17	Valencia            	38	8	14	16	26	33	-7	38
+18	Leganés             	38	8	13	17	20	30	-10	37
+19	Celta Vigo          	38	9	10	19	18	34	-16	37
+20	Espanyol            	38	7	10	21	17	39	-22	31
+
+#---------------------------------
+#	 Season 512865
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Real Madrid         	38	22	12	4	44	18	26	78
+2	Barcelona           	38	21	9	8	47	25	22	72
+3	Atlético Madrid     	38	17	14	7	30	12	18	65
+4	Real Sociedad       	38	19	8	11	41	29	12	65
+5	Real Betis          	38	16	9	13	33	30	3	57
+6	Granada             	38	14	11	13	37	36	1	53
+7	Athletic Bilbao     	38	13	12	13	28	25	3	51
+8	Getafe              	38	12	15	11	29	27	2	51
+9	Sevilla             	38	11	17	10	27	27	0	50
+10	Villarreal          	38	14	8	16	34	41	-7	50
+11	Valencia            	38	11	16	11	33	29	4	49
+12	Osasuna             	38	14	7	17	28	37	-9	49
+13	Eibar               	38	12	10	16	26	35	-9	46
+14	Alavés              	38	10	14	14	25	29	-4	44
+15	Mallorca            	38	11	11	16	26	35	-9	44
+16	Leganés             	38	9	14	15	17	25	-8	41
+17	Celta Vigo          	38	8	15	15	24	34	-10	39
+18	Levante             	38	8	14	16	21	35	-14	38
+19	Espanyol            	38	9	11	18	17	31	-14	38
+20	Valladolid          	38	4	23	11	11	18	-7	35
+
+#---------------------------------
+#	 Season 648180
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Villarreal          	38	14	16	8	43	33	10	58
+2	Sevilla             	38	13	19	6	30	20	10	58
+3	Granada             	38	15	13	10	27	21	6	58
+4	Getafe              	38	15	12	11	26	21	5	57
+5	Levante             	38	15	12	11	25	21	4	57
+6	Barcelona           	38	14	14	10	43	30	13	56
+7	Real Madrid         	38	13	17	8	32	21	11	56
+8	Athletic Bilbao     	38	14	14	10	27	18	9	56
+9	Celta Vigo          	38	15	11	12	31	28	3	56
+10	Atlético Madrid     	38	14	13	11	26	19	7	55
+11	Valencia            	38	13	15	10	33	30	3	54
+12	Leganés             	38	13	13	12	27	29	-2	52
+13	Osasuna             	38	13	11	14	34	34	0	50
+14	Real Sociedad       	38	12	12	14	32	35	-3	48
+15	Real Betis          	38	10	16	12	25	28	-3	46
+16	Valladolid          	38	9	18	11	25	31	-6	45
+17	Alavés              	38	6	18	14	17	32	-15	36
+18	Espanyol            	38	8	12	18	19	35	-16	36
+19	Eibar               	38	6	16	16	23	41	-18	34
+20	Mallorca            	38	7	10	21	19	37	-18	31
+
+#---------------------------------
+#	 Season 657775
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Real Madrid         	38	21	12	5	44	16	28	75
+2	Barcelona           	38	21	9	8	52	21	31	72
+3	Atlético Madrid     	38	19	13	6	31	15	16	70
+4	Sevilla             	38	19	12	7	38	24	14	69
+5	Real Sociedad       	38	19	11	8	45	21	24	68
+6	Athletic Bilbao     	38	16	14	8	26	16	10	62
+7	Getafe              	38	13	16	9	25	22	3	55
+8	Mallorca            	38	14	13	11	27	27	0	55
+9	Villarreal          	38	13	10	15	31	32	-1	49
+10	Granada             	38	14	7	17	33	35	-2	49
+11	Celta Vigo          	38	11	15	12	24	26	-2	48
+12	Real Betis          	38	12	11	15	31	42	-11	47
+13	Eibar               	38	10	14	14	32	37	-5	44
+14	Valladolid          	38	10	13	15	20	26	-6	43
+15	Valencia            	38	9	16	13	27	37	-10	43
+16	Levante             	38	9	13	16	25	34	-9	40
+17	Osasuna             	38	9	13	16	27	41	-14	40
+18	Leganés             	38	8	15	15	19	27	-8	39
+19	Alavés              	38	10	9	19	25	37	-12	39
+20	Espanyol            	38	1	8	29	6	52	-46	11
+
+#---------------------------------
+#	 Season 722222
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Barcelona           	38	22	14	2	51	15	36	80
+2	Villarreal          	38	18	9	11	39	30	9	63
+3	Real Madrid         	38	16	14	8	36	19	17	62
+4	Atlético Madrid     	38	16	13	9	30	22	8	61
+5	Sevilla             	38	16	12	10	34	23	11	60
+6	Granada             	38	15	11	12	32	28	4	56
+7	Real Betis          	38	13	13	12	31	35	-4	52
+8	Getafe              	38	12	15	11	26	25	1	51
+9	Valencia            	38	12	12	14	33	36	-3	48
+10	Levante             	38	13	9	16	33	41	-8	48
+11	Real Sociedad       	38	11	14	13	29	30	-1	47
+12	Celta Vigo          	38	9	19	10	25	24	1	46
+13	Valladolid          	38	9	16	13	27	32	-5	43
+14	Mallorca            	38	11	10	17	27	33	-6	43
+15	Leganés             	38	9	16	13	23	34	-11	43
+16	Espanyol            	38	10	13	15	24	36	-12	43
+17	Eibar               	38	10	12	16	26	34	-8	42
+18	Osasuna             	38	10	11	17	27	40	-13	41
+19	Alavés              	38	9	13	16	21	36	-15	40
+20	Athletic Bilbao     	38	7	18	13	22	23	-1	39
+
+#---------------------------------
+#	 Season 783460
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Barcelona           	38	20	16	2	57	21	36	76
+2	Real Madrid         	38	20	14	4	42	17	25	74
+3	Real Sociedad       	38	19	9	10	32	23	9	66
+4	Atlético Madrid     	38	16	15	7	27	15	12	63
+5	Villarreal          	38	16	10	12	37	28	9	58
+6	Getafe              	38	13	18	7	30	21	9	57
+7	Sevilla             	38	11	18	9	27	24	3	51
+8	Valladolid          	38	11	16	11	25	24	1	49
+9	Athletic Bilbao     	38	11	15	12	21	22	-1	48
+10	Granada             	38	12	11	15	32	35	-3	47
+11	Celta Vigo          	38	10	17	11	24	27	-3	47
+12	Eibar               	38	11	13	14	33	36	-3	46
+13	Levante             	38	9	17	12	24	31	-7	44
+14	Valencia            	38	10	13	15	30	36	-6	43
+15	Osasuna             	38	9	15	14	27	34	-7	42
+16	Espanyol            	38	8	14	16	18	35	-17	38
+17	Leganés             	38	7	16	15	23	34	-11	37
+18	Mallorca            	38	7	16	15	26	41	-15	37
+19	Alavés              	38	8	12	18	18	36	-18	36
+20	Real Betis          	38	6	17	15	39	52	-13	35
+
+#---------------------------------
+#	 Season 795848
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Barcelona           	38	30	4	4	80	30	50	94
+2	Villarreal          	38	20	8	10	43	26	17	68
+3	Real Madrid         	38	19	10	9	41	24	17	67
+4	Real Sociedad       	38	15	12	11	40	33	7	57
+5	Atlético Madrid     	38	14	15	9	33	27	6	57
+6	Levante             	38	13	17	8	28	25	3	56
+7	Sevilla             	38	15	9	14	34	32	2	54
+8	Eibar               	38	14	11	13	36	35	1	53
+9	Real Betis          	38	14	9	15	32	33	-1	51
+10	Osasuna             	38	14	9	15	28	31	-3	51
+11	Granada             	38	12	10	16	28	31	-3	46
+12	Athletic Bilbao     	38	10	16	12	25	28	-3	46
+13	Valladolid          	38	11	13	14	29	38	-9	46
+14	Getafe              	38	10	15	13	26	28	-2	45
+15	Valencia            	38	11	10	17	27	39	-12	43
+16	Celta Vigo          	38	8	17	13	24	30	-6	41
+17	Alavés              	38	9	13	16	27	38	-11	40
+18	Mallorca            	38	7	15	16	23	39	-16	36
+19	Leganés             	38	6	18	14	21	37	-16	36
+20	Espanyol            	38	4	17	17	18	39	-21	29
+
+#---------------------------------
+#	 Season 995349
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Barcelona           	38	31	5	2	74	13	61	98
+2	Real Madrid         	38	21	10	7	41	20	21	73
+3	Atlético Madrid     	38	19	15	4	37	14	23	72
+4	Sevilla             	38	16	17	5	38	24	14	65
+5	Villarreal          	38	18	8	12	39	29	10	62
+6	Athletic Bilbao     	38	13	12	13	24	20	4	51
+7	Leganés             	38	10	18	10	23	29	-6	48
+8	Osasuna             	38	10	17	11	27	29	-2	47
+9	Granada             	38	12	11	15	26	32	-6	47
+10	Getafe              	38	10	16	12	24	25	-1	46
+11	Valencia            	38	10	14	14	28	34	-6	44
+12	Real Betis          	38	11	11	16	34	41	-7	44
+13	Levante             	38	11	11	16	25	34	-9	44
+14	Alavés              	38	11	8	19	19	38	-19	41
+15	Celta Vigo          	38	8	16	14	25	32	-7	40
+16	Real Sociedad       	38	8	16	14	23	31	-8	40
+17	Eibar               	38	8	15	15	26	35	-9	39
+18	Espanyol            	38	10	8	20	19	43	-24	38
+19	Valladolid          	38	7	15	16	20	32	-12	36
+20	Mallorca            	38	7	15	16	25	42	-17	36
+

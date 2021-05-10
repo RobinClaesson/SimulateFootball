@@ -1,0 +1,83 @@
+Number of Seasons simulated: 1000000
+Total time (h:m:s): 00:10:01.0893971
+
+---------------------------------
+|       Best Performances:      |
+---------------------------------
+Highest points:       107p, by Atalanta in season 834982
+Most goals scored:    97 goals, by Atalanta in season 826379
+Least goals admitted: 8 goals, by Internazionale in season 444999
+Best goal difference: 70 goals, by Atalanta in season 295802
+
+---------------------------------
+|      Worst Performances:      |
+---------------------------------
+Lowest points:         6p, by Brescia in season 463809
+Least goals scored:    6 goals, by SPAL in season 47002
+Most goals admitted:   86 goals, by Lecce in season 417530
+Worst goal difference: -60 goals, by SPAL in season 562787
+
+---------------------------------
+|  Worst teams in first place:  |
+---------------------------------
+Lowest points by a team in first place:         59p, by Juventus in season 45465
+Least goals scored by a team in first place:    31 goals, by Fiorentina in season 677053
+Most goals admitted by a team in first place:   53 goals, by Atalanta in season 240306
+Worst goal difference by a team in first place: 2 goals, by Udinese in season 552137
+
+---------------------------------
+|   Best teams in last place:   |
+---------------------------------
+Higest points by a team in last place:         44p, by SPAL in season 408444
+Most goals scored by a team in last place:     51 goals, by Lecce in season 99692
+Least goals admitted by a team in last place:  26 goals, by Udinese in season 86032
+Best goal difference by a team in last place: -1 goals, by Fiorentina in season 985797
+
+---------------------------------
+|     Points needed to win:     |
+---------------------------------
+Highest points needed to win: 95p, in season 227323
+Lowest points needed to win:  59p, in season 136663
+Average points needed to win: 72p
+
+---------------------------------
+| Average points per placement: |
+---------------------------------
+1: 76,7p
+2: 71,4p
+3: 67,8p
+4: 64,8p
+5: 62,2p
+6: 59,8p
+7: 57,6p
+8: 55,6p
+9: 53,7p
+10: 51,9p
+11: 50,1p
+12: 48,3p
+13: 46,6p
+14: 44,8p
+15: 42,9p
+16: 40,9p
+17: 38,6p
+18: 36p
+19: 32,6p
+20: 27,5p
+
+---------------------------------
+|      Most league titles       |
+---------------------------------
+1: Atalanta, 328173 times
+2: Internazionale, 284882 times
+3: Lazio, 156349 times
+4: Juventus, 113239 times
+5: Roma, 61785 times
+---------------------------------
+|      Most league jumbos       |
+---------------------------------
+1: SPAL, 462760 times
+2: Brescia, 266636 times
+3: Lecce, 92503 times
+4: Genoa, 58312 times
+5: Torino, 40875 times
+

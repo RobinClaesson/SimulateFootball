@@ -1,0 +1,4960 @@
+#---------------------------------
+#	 Season 34295
+#---------------------------------
+Ajax 3 - 1 AZ
+Ajax 1 - 0 Feyenoord
+Ajax 0 - 1 PSV Eindhoven
+Ajax 0 - 1 Willem II
+Ajax 1 - 2 FC Utrecht
+Ajax 0 - 1 Vitesse
+Ajax 1 - 1 Heracles Almelo
+Ajax 2 - 0 FC Groningen
+Ajax 2 - 2 Heerenveen
+Ajax 3 - 1 Sparta Rotterdam
+Ajax 1 - 0 FC Emmen
+Ajax 2 - 0 VVV-Venlo
+Ajax 1 - 1 FC Twente
+Ajax 0 - 1 PEC Zwolle
+Ajax 2 - 1 Fortuna Sittard
+Ajax 0 - 1 ADO Den Haag
+Ajax 2 - 0 RKC Waalwijk
+AZ 0 - 0 Ajax
+AZ 2 - 1 Feyenoord
+AZ 0 - 2 PSV Eindhoven
+AZ 0 - 0 Willem II
+AZ 0 - 0 FC Utrecht
+AZ 1 - 0 Vitesse
+AZ 2 - 1 Heracles Almelo
+AZ 2 - 1 FC Groningen
+AZ 0 - 1 Heerenveen
+AZ 3 - 0 Sparta Rotterdam
+AZ 3 - 1 FC Emmen
+AZ 0 - 1 VVV-Venlo
+AZ 3 - 0 FC Twente
+AZ 1 - 0 PEC Zwolle
+AZ 0 - 1 Fortuna Sittard
+AZ 3 - 0 ADO Den Haag
+AZ 0 - 0 RKC Waalwijk
+Feyenoord 0 - 2 Ajax
+Feyenoord 2 - 0 AZ
+Feyenoord 2 - 0 PSV Eindhoven
+Feyenoord 2 - 1 Willem II
+Feyenoord 3 - 0 FC Utrecht
+Feyenoord 0 - 0 Vitesse
+Feyenoord 0 - 0 Heracles Almelo
+Feyenoord 2 - 1 FC Groningen
+Feyenoord 2 - 1 Heerenveen
+Feyenoord 3 - 0 Sparta Rotterdam
+Feyenoord 0 - 1 FC Emmen
+Feyenoord 0 - 1 VVV-Venlo
+Feyenoord 2 - 2 FC Twente
+Feyenoord 1 - 1 PEC Zwolle
+Feyenoord 3 - 1 Fortuna Sittard
+Feyenoord 2 - 0 ADO Den Haag
+Feyenoord 0 - 0 RKC Waalwijk
+PSV Eindhoven 1 - 0 Ajax
+PSV Eindhoven 2 - 2 AZ
+PSV Eindhoven 2 - 2 Feyenoord
+PSV Eindhoven 1 - 1 Willem II
+PSV Eindhoven 2 - 2 FC Utrecht
+PSV Eindhoven 2 - 2 Vitesse
+PSV Eindhoven 1 - 0 Heracles Almelo
+PSV Eindhoven 1 - 0 FC Groningen
+PSV Eindhoven 0 - 0 Heerenveen
+PSV Eindhoven 1 - 2 Sparta Rotterdam
+PSV Eindhoven 0 - 1 FC Emmen
+PSV Eindhoven 1 - 0 VVV-Venlo
+PSV Eindhoven 2 - 2 FC Twente
+PSV Eindhoven 3 - 0 PEC Zwolle
+PSV Eindhoven 2 - 1 Fortuna Sittard
+PSV Eindhoven 2 - 0 ADO Den Haag
+PSV Eindhoven 0 - 1 RKC Waalwijk
+Willem II 1 - 2 Ajax
+Willem II 1 - 2 AZ
+Willem II 1 - 0 Feyenoord
+Willem II 1 - 2 PSV Eindhoven
+Willem II 1 - 0 FC Utrecht
+Willem II 2 - 2 Vitesse
+Willem II 0 - 0 Heracles Almelo
+Willem II 2 - 1 FC Groningen
+Willem II 0 - 0 Heerenveen
+Willem II 2 - 0 Sparta Rotterdam
+Willem II 0 - 1 FC Emmen
+Willem II 2 - 1 VVV-Venlo
+Willem II 1 - 2 FC Twente
+Willem II 0 - 0 PEC Zwolle
+Willem II 3 - 0 Fortuna Sittard
+Willem II 1 - 1 ADO Den Haag
+Willem II 2 - 1 RKC Waalwijk
+FC Utrecht 0 - 3 Ajax
+FC Utrecht 1 - 1 AZ
+FC Utrecht 1 - 1 Feyenoord
+FC Utrecht 0 - 1 PSV Eindhoven
+FC Utrecht 0 - 0 Willem II
+FC Utrecht 0 - 2 Vitesse
+FC Utrecht 2 - 1 Heracles Almelo
+FC Utrecht 0 - 0 FC Groningen
+FC Utrecht 1 - 0 Heerenveen
+FC Utrecht 1 - 2 Sparta Rotterdam
+FC Utrecht 2 - 0 FC Emmen
+FC Utrecht 3 - 0 VVV-Venlo
+FC Utrecht 1 - 2 FC Twente
+FC Utrecht 3 - 0 PEC Zwolle
+FC Utrecht 3 - 0 Fortuna Sittard
+FC Utrecht 3 - 0 ADO Den Haag
+FC Utrecht 0 - 1 RKC Waalwijk
+Vitesse 2 - 0 Ajax
+Vitesse 2 - 2 AZ
+Vitesse 2 - 1 Feyenoord
+Vitesse 2 - 2 PSV Eindhoven
+Vitesse 1 - 1 Willem II
+Vitesse 1 - 1 FC Utrecht
+Vitesse 0 - 1 Heracles Almelo
+Vitesse 0 - 1 FC Groningen
+Vitesse 0 - 0 Heerenveen
+Vitesse 0 - 2 Sparta Rotterdam
+Vitesse 0 - 0 FC Emmen
+Vitesse 0 - 1 VVV-Venlo
+Vitesse 0 - 1 FC Twente
+Vitesse 1 - 2 PEC Zwolle
+Vitesse 2 - 2 Fortuna Sittard
+Vitesse 1 - 1 ADO Den Haag
+Vitesse 2 - 0 RKC Waalwijk
+Heracles Almelo 1 - 0 Ajax
+Heracles Almelo 0 - 1 AZ
+Heracles Almelo 1 - 0 Feyenoord
+Heracles Almelo 2 - 2 PSV Eindhoven
+Heracles Almelo 2 - 0 Willem II
+Heracles Almelo 1 - 2 FC Utrecht
+Heracles Almelo 1 - 1 Vitesse
+Heracles Almelo 0 - 2 FC Groningen
+Heracles Almelo 1 - 2 Heerenveen
+Heracles Almelo 0 - 1 Sparta Rotterdam
+Heracles Almelo 1 - 2 FC Emmen
+Heracles Almelo 3 - 1 VVV-Venlo
+Heracles Almelo 2 - 2 FC Twente
+Heracles Almelo 3 - 0 PEC Zwolle
+Heracles Almelo 0 - 1 Fortuna Sittard
+Heracles Almelo 0 - 1 ADO Den Haag
+Heracles Almelo 3 - 0 RKC Waalwijk
+FC Groningen 1 - 3 Ajax
+FC Groningen 1 - 1 AZ
+FC Groningen 1 - 0 Feyenoord
+FC Groningen 1 - 1 PSV Eindhoven
+FC Groningen 0 - 2 Willem II
+FC Groningen 2 - 0 FC Utrecht
+FC Groningen 0 - 0 Vitesse
+FC Groningen 1 - 1 Heracles Almelo
+FC Groningen 1 - 1 Heerenveen
+FC Groningen 2 - 0 Sparta Rotterdam
+FC Groningen 1 - 1 FC Emmen
+FC Groningen 0 - 1 VVV-Venlo
+FC Groningen 2 - 1 FC Twente
+FC Groningen 0 - 1 PEC Zwolle
+FC Groningen 1 - 1 Fortuna Sittard
+FC Groningen 0 - 1 ADO Den Haag
+FC Groningen 0 - 0 RKC Waalwijk
+Heerenveen 1 - 1 Ajax
+Heerenveen 0 - 3 AZ
+Heerenveen 0 - 3 Feyenoord
+Heerenveen 1 - 0 PSV Eindhoven
+Heerenveen 2 - 0 Willem II
+Heerenveen 1 - 1 FC Utrecht
+Heerenveen 2 - 2 Vitesse
+Heerenveen 1 - 1 Heracles Almelo
+Heerenveen 2 - 1 FC Groningen
+Heerenveen 3 - 1 Sparta Rotterdam
+Heerenveen 2 - 0 FC Emmen
+Heerenveen 2 - 2 VVV-Venlo
+Heerenveen 2 - 0 FC Twente
+Heerenveen 0 - 2 PEC Zwolle
+Heerenveen 2 - 1 Fortuna Sittard
+Heerenveen 2 - 0 ADO Den Haag
+Heerenveen 0 - 1 RKC Waalwijk
+Sparta Rotterdam 1 - 1 Ajax
+Sparta Rotterdam 0 - 3 AZ
+Sparta Rotterdam 1 - 3 Feyenoord
+Sparta Rotterdam 2 - 1 PSV Eindhoven
+Sparta Rotterdam 2 - 0 Willem II
+Sparta Rotterdam 0 - 0 FC Utrecht
+Sparta Rotterdam 1 - 0 Vitesse
+Sparta Rotterdam 0 - 0 Heracles Almelo
+Sparta Rotterdam 1 - 1 FC Groningen
+Sparta Rotterdam 2 - 2 Heerenveen
+Sparta Rotterdam 2 - 1 FC Emmen
+Sparta Rotterdam 1 - 1 VVV-Venlo
+Sparta Rotterdam 0 - 0 FC Twente
+Sparta Rotterdam 3 - 1 PEC Zwolle
+Sparta Rotterdam 0 - 0 Fortuna Sittard
+Sparta Rotterdam 1 - 0 ADO Den Haag
+Sparta Rotterdam 1 - 0 RKC Waalwijk
+FC Emmen 0 - 0 Ajax
+FC Emmen 0 - 0 AZ
+FC Emmen 0 - 0 Feyenoord
+FC Emmen 1 - 0 PSV Eindhoven
+FC Emmen 0 - 2 Willem II
+FC Emmen 1 - 1 FC Utrecht
+FC Emmen 1 - 3 Vitesse
+FC Emmen 1 - 2 Heracles Almelo
+FC Emmen 1 - 0 FC Groningen
+FC Emmen 1 - 1 Heerenveen
+FC Emmen 2 - 0 Sparta Rotterdam
+FC Emmen 2 - 2 VVV-Venlo
+FC Emmen 2 - 0 FC Twente
+FC Emmen 3 - 0 PEC Zwolle
+FC Emmen 0 - 2 Fortuna Sittard
+FC Emmen 2 - 2 ADO Den Haag
+FC Emmen 2 - 0 RKC Waalwijk
+VVV-Venlo 1 - 0 Ajax
+VVV-Venlo 1 - 2 AZ
+VVV-Venlo 0 - 2 Feyenoord
+VVV-Venlo 0 - 2 PSV Eindhoven
+VVV-Venlo 0 - 2 Willem II
+VVV-Venlo 1 - 2 FC Utrecht
+VVV-Venlo 1 - 3 Vitesse
+VVV-Venlo 1 - 1 Heracles Almelo
+VVV-Venlo 0 - 0 FC Groningen
+VVV-Venlo 2 - 3 Heerenveen
+VVV-Venlo 1 - 0 Sparta Rotterdam
+VVV-Venlo 0 - 0 FC Emmen
+VVV-Venlo 0 - 3 FC Twente
+VVV-Venlo 0 - 1 PEC Zwolle
+VVV-Venlo 0 - 1 Fortuna Sittard
+VVV-Venlo 2 - 2 ADO Den Haag
+VVV-Venlo 2 - 0 RKC Waalwijk
+FC Twente 0 - 2 Ajax
+FC Twente 1 - 0 AZ
+FC Twente 0 - 2 Feyenoord
+FC Twente 1 - 1 PSV Eindhoven
+FC Twente 2 - 0 Willem II
+FC Twente 0 - 0 FC Utrecht
+FC Twente 1 - 0 Vitesse
+FC Twente 0 - 2 Heracles Almelo
+FC Twente 1 - 1 FC Groningen
+FC Twente 0 - 2 Heerenveen
+FC Twente 2 - 1 Sparta Rotterdam
+FC Twente 2 - 1 FC Emmen
+FC Twente 0 - 0 VVV-Venlo
+FC Twente 1 - 2 PEC Zwolle
+FC Twente 1 - 2 Fortuna Sittard
+FC Twente 2 - 2 ADO Den Haag
+FC Twente 3 - 1 RKC Waalwijk
+PEC Zwolle 2 - 1 Ajax
+PEC Zwolle 1 - 0 AZ
+PEC Zwolle 0 - 0 Feyenoord
+PEC Zwolle 1 - 0 PSV Eindhoven
+PEC Zwolle 1 - 0 Willem II
+PEC Zwolle 0 - 0 FC Utrecht
+PEC Zwolle 1 - 0 Vitesse
+PEC Zwolle 2 - 1 Heracles Almelo
+PEC Zwolle 2 - 0 FC Groningen
+PEC Zwolle 2 - 3 Heerenveen
+PEC Zwolle 0 - 1 Sparta Rotterdam
+PEC Zwolle 1 - 0 FC Emmen
+PEC Zwolle 3 - 2 VVV-Venlo
+PEC Zwolle 0 - 2 FC Twente
+PEC Zwolle 2 - 3 Fortuna Sittard
+PEC Zwolle 1 - 0 ADO Den Haag
+PEC Zwolle 0 - 2 RKC Waalwijk
+Fortuna Sittard 0 - 0 Ajax
+Fortuna Sittard 0 - 1 AZ
+Fortuna Sittard 1 - 3 Feyenoord
+Fortuna Sittard 0 - 2 PSV Eindhoven
+Fortuna Sittard 0 - 2 Willem II
+Fortuna Sittard 1 - 0 FC Utrecht
+Fortuna Sittard 1 - 1 Vitesse
+Fortuna Sittard 1 - 0 Heracles Almelo
+Fortuna Sittard 2 - 1 FC Groningen
+Fortuna Sittard 0 - 0 Heerenveen
+Fortuna Sittard 1 - 1 Sparta Rotterdam
+Fortuna Sittard 2 - 1 FC Emmen
+Fortuna Sittard 0 - 0 VVV-Venlo
+Fortuna Sittard 2 - 2 FC Twente
+Fortuna Sittard 1 - 1 PEC Zwolle
+Fortuna Sittard 2 - 2 ADO Den Haag
+Fortuna Sittard 0 - 2 RKC Waalwijk
+ADO Den Haag 0 - 4 Ajax
+ADO Den Haag 0 - 2 AZ
+ADO Den Haag 1 - 3 Feyenoord
+ADO Den Haag 0 - 2 PSV Eindhoven
+ADO Den Haag 0 - 2 Willem II
+ADO Den Haag 1 - 3 FC Utrecht
+ADO Den Haag 2 - 2 Vitesse
+ADO Den Haag 0 - 2 Heracles Almelo
+ADO Den Haag 0 - 2 FC Groningen
+ADO Den Haag 0 - 0 Heerenveen
+ADO Den Haag 0 - 2 Sparta Rotterdam
+ADO Den Haag 0 - 1 FC Emmen
+ADO Den Haag 0 - 1 VVV-Venlo
+ADO Den Haag 2 - 2 FC Twente
+ADO Den Haag 0 - 2 PEC Zwolle
+ADO Den Haag 2 - 2 Fortuna Sittard
+ADO Den Haag 0 - 0 RKC Waalwijk
+RKC Waalwijk 0 - 3 Ajax
+RKC Waalwijk 1 - 1 AZ
+RKC Waalwijk 2 - 0 Feyenoord
+RKC Waalwijk 1 - 3 PSV Eindhoven
+RKC Waalwijk 0 - 0 Willem II
+RKC Waalwijk 1 - 0 FC Utrecht
+RKC Waalwijk 0 - 0 Vitesse
+RKC Waalwijk 1 - 2 Heracles Almelo
+RKC Waalwijk 0 - 0 FC Groningen
+RKC Waalwijk 1 - 3 Heerenveen
+RKC Waalwijk 0 - 1 Sparta Rotterdam
+RKC Waalwijk 2 - 2 FC Emmen
+RKC Waalwijk 0 - 0 VVV-Venlo
+RKC Waalwijk 0 - 3 FC Twente
+RKC Waalwijk 0 - 2 PEC Zwolle
+RKC Waalwijk 2 - 2 Fortuna Sittard
+RKC Waalwijk 2 - 2 ADO Den Haag
+
+#---------------------------------
+#	 Season 115342
+#---------------------------------
+Ajax 3 - 1 AZ
+Ajax 1 - 1 Feyenoord
+Ajax 2 - 0 PSV Eindhoven
+Ajax 2 - 2 Willem II
+Ajax 0 - 1 FC Utrecht
+Ajax 1 - 1 Vitesse
+Ajax 0 - 2 Heracles Almelo
+Ajax 3 - 0 FC Groningen
+Ajax 3 - 2 Heerenveen
+Ajax 2 - 0 Sparta Rotterdam
+Ajax 2 - 1 FC Emmen
+Ajax 1 - 1 VVV-Venlo
+Ajax 1 - 1 FC Twente
+Ajax 3 - 1 PEC Zwolle
+Ajax 0 - 1 Fortuna Sittard
+Ajax 0 - 1 ADO Den Haag
+Ajax 4 - 1 RKC Waalwijk
+AZ 1 - 0 Ajax
+AZ 0 - 0 Feyenoord
+AZ 0 - 2 PSV Eindhoven
+AZ 2 - 1 Willem II
+AZ 3 - 0 FC Utrecht
+AZ 0 - 2 Vitesse
+AZ 0 - 0 Heracles Almelo
+AZ 1 - 1 FC Groningen
+AZ 0 - 1 Heerenveen
+AZ 3 - 0 Sparta Rotterdam
+AZ 3 - 0 FC Emmen
+AZ 1 - 0 VVV-Venlo
+AZ 3 - 0 FC Twente
+AZ 2 - 0 PEC Zwolle
+AZ 3 - 0 Fortuna Sittard
+AZ 1 - 0 ADO Den Haag
+AZ 3 - 0 RKC Waalwijk
+Feyenoord 1 - 3 Ajax
+Feyenoord 0 - 2 AZ
+Feyenoord 2 - 2 PSV Eindhoven
+Feyenoord 1 - 2 Willem II
+Feyenoord 2 - 0 FC Utrecht
+Feyenoord 2 - 1 Vitesse
+Feyenoord 0 - 1 Heracles Almelo
+Feyenoord 2 - 0 FC Groningen
+Feyenoord 2 - 1 Heerenveen
+Feyenoord 3 - 1 Sparta Rotterdam
+Feyenoord 2 - 0 FC Emmen
+Feyenoord 2 - 1 VVV-Venlo
+Feyenoord 0 - 0 FC Twente
+Feyenoord 1 - 2 PEC Zwolle
+Feyenoord 2 - 1 Fortuna Sittard
+Feyenoord 2 - 1 ADO Den Haag
+Feyenoord 0 - 2 RKC Waalwijk
+PSV Eindhoven 2 - 2 Ajax
+PSV Eindhoven 1 - 1 AZ
+PSV Eindhoven 2 - 1 Feyenoord
+PSV Eindhoven 2 - 0 Willem II
+PSV Eindhoven 2 - 0 FC Utrecht
+PSV Eindhoven 3 - 1 Vitesse
+PSV Eindhoven 2 - 0 Heracles Almelo
+PSV Eindhoven 0 - 1 FC Groningen
+PSV Eindhoven 1 - 2 Heerenveen
+PSV Eindhoven 2 - 0 Sparta Rotterdam
+PSV Eindhoven 2 - 0 FC Emmen
+PSV Eindhoven 0 - 1 VVV-Venlo
+PSV Eindhoven 2 - 1 FC Twente
+PSV Eindhoven 1 - 2 PEC Zwolle
+PSV Eindhoven 0 - 2 Fortuna Sittard
+PSV Eindhoven 2 - 0 ADO Den Haag
+PSV Eindhoven 1 - 0 RKC Waalwijk
+Willem II 1 - 1 Ajax
+Willem II 1 - 1 AZ
+Willem II 2 - 1 Feyenoord
+Willem II 2 - 2 PSV Eindhoven
+Willem II 0 - 2 FC Utrecht
+Willem II 1 - 1 Vitesse
+Willem II 0 - 0 Heracles Almelo
+Willem II 1 - 0 FC Groningen
+Willem II 0 - 2 Heerenveen
+Willem II 3 - 2 Sparta Rotterdam
+Willem II 0 - 1 FC Emmen
+Willem II 1 - 1 VVV-Venlo
+Willem II 2 - 2 FC Twente
+Willem II 0 - 2 PEC Zwolle
+Willem II 3 - 2 Fortuna Sittard
+Willem II 1 - 1 ADO Den Haag
+Willem II 0 - 1 RKC Waalwijk
+FC Utrecht 1 - 3 Ajax
+FC Utrecht 2 - 0 AZ
+FC Utrecht 3 - 0 Feyenoord
+FC Utrecht 0 - 0 PSV Eindhoven
+FC Utrecht 0 - 0 Willem II
+FC Utrecht 3 - 3 Vitesse
+FC Utrecht 1 - 0 Heracles Almelo
+FC Utrecht 0 - 0 FC Groningen
+FC Utrecht 3 - 2 Heerenveen
+FC Utrecht 0 - 1 Sparta Rotterdam
+FC Utrecht 1 - 0 FC Emmen
+FC Utrecht 2 - 2 VVV-Venlo
+FC Utrecht 1 - 2 FC Twente
+FC Utrecht 1 - 0 PEC Zwolle
+FC Utrecht 2 - 0 Fortuna Sittard
+FC Utrecht 1 - 2 ADO Den Haag
+FC Utrecht 1 - 1 RKC Waalwijk
+Vitesse 1 - 3 Ajax
+Vitesse 0 - 3 AZ
+Vitesse 2 - 2 Feyenoord
+Vitesse 1 - 0 PSV Eindhoven
+Vitesse 0 - 0 Willem II
+Vitesse 2 - 2 FC Utrecht
+Vitesse 1 - 2 Heracles Almelo
+Vitesse 1 - 2 FC Groningen
+Vitesse 0 - 1 Heerenveen
+Vitesse 1 - 1 Sparta Rotterdam
+Vitesse 0 - 0 FC Emmen
+Vitesse 0 - 2 VVV-Venlo
+Vitesse 2 - 0 FC Twente
+Vitesse 3 - 0 PEC Zwolle
+Vitesse 1 - 1 Fortuna Sittard
+Vitesse 3 - 2 ADO Den Haag
+Vitesse 2 - 2 RKC Waalwijk
+Heracles Almelo 1 - 1 Ajax
+Heracles Almelo 1 - 3 AZ
+Heracles Almelo 0 - 1 Feyenoord
+Heracles Almelo 2 - 0 PSV Eindhoven
+Heracles Almelo 2 - 1 Willem II
+Heracles Almelo 2 - 1 FC Utrecht
+Heracles Almelo 1 - 1 Vitesse
+Heracles Almelo 0 - 1 FC Groningen
+Heracles Almelo 1 - 0 Heerenveen
+Heracles Almelo 1 - 2 Sparta Rotterdam
+Heracles Almelo 1 - 1 FC Emmen
+Heracles Almelo 2 - 0 VVV-Venlo
+Heracles Almelo 0 - 2 FC Twente
+Heracles Almelo 3 - 0 PEC Zwolle
+Heracles Almelo 1 - 1 Fortuna Sittard
+Heracles Almelo 1 - 2 ADO Den Haag
+Heracles Almelo 1 - 1 RKC Waalwijk
+FC Groningen 0 - 0 Ajax
+FC Groningen 0 - 0 AZ
+FC Groningen 0 - 0 Feyenoord
+FC Groningen 1 - 2 PSV Eindhoven
+FC Groningen 0 - 1 Willem II
+FC Groningen 0 - 0 FC Utrecht
+FC Groningen 1 - 0 Vitesse
+FC Groningen 2 - 1 Heracles Almelo
+FC Groningen 1 - 2 Heerenveen
+FC Groningen 1 - 1 Sparta Rotterdam
+FC Groningen 0 - 0 FC Emmen
+FC Groningen 2 - 1 VVV-Venlo
+FC Groningen 1 - 0 FC Twente
+FC Groningen 1 - 1 PEC Zwolle
+FC Groningen 2 - 0 Fortuna Sittard
+FC Groningen 0 - 1 ADO Den Haag
+FC Groningen 0 - 2 RKC Waalwijk
+Heerenveen 0 - 0 Ajax
+Heerenveen 1 - 0 AZ
+Heerenveen 1 - 1 Feyenoord
+Heerenveen 0 - 2 PSV Eindhoven
+Heerenveen 0 - 2 Willem II
+Heerenveen 0 - 0 FC Utrecht
+Heerenveen 0 - 2 Vitesse
+Heerenveen 0 - 2 Heracles Almelo
+Heerenveen 0 - 0 FC Groningen
+Heerenveen 1 - 1 Sparta Rotterdam
+Heerenveen 0 - 0 FC Emmen
+Heerenveen 1 - 1 VVV-Venlo
+Heerenveen 1 - 0 FC Twente
+Heerenveen 2 - 2 PEC Zwolle
+Heerenveen 0 - 1 Fortuna Sittard
+Heerenveen 1 - 0 ADO Den Haag
+Heerenveen 3 - 1 RKC Waalwijk
+Sparta Rotterdam 0 - 3 Ajax
+Sparta Rotterdam 0 - 0 AZ
+Sparta Rotterdam 0 - 0 Feyenoord
+Sparta Rotterdam 1 - 2 PSV Eindhoven
+Sparta Rotterdam 2 - 2 Willem II
+Sparta Rotterdam 0 - 2 FC Utrecht
+Sparta Rotterdam 2 - 3 Vitesse
+Sparta Rotterdam 1 - 3 Heracles Almelo
+Sparta Rotterdam 0 - 2 FC Groningen
+Sparta Rotterdam 1 - 2 Heerenveen
+Sparta Rotterdam 2 - 0 FC Emmen
+Sparta Rotterdam 3 - 0 VVV-Venlo
+Sparta Rotterdam 2 - 1 FC Twente
+Sparta Rotterdam 2 - 0 PEC Zwolle
+Sparta Rotterdam 2 - 1 Fortuna Sittard
+Sparta Rotterdam 1 - 0 ADO Den Haag
+Sparta Rotterdam 0 - 2 RKC Waalwijk
+FC Emmen 1 - 2 Ajax
+FC Emmen 1 - 3 AZ
+FC Emmen 0 - 1 Feyenoord
+FC Emmen 2 - 2 PSV Eindhoven
+FC Emmen 1 - 1 Willem II
+FC Emmen 0 - 2 FC Utrecht
+FC Emmen 0 - 2 Vitesse
+FC Emmen 1 - 0 Heracles Almelo
+FC Emmen 0 - 1 FC Groningen
+FC Emmen 1 - 0 Heerenveen
+FC Emmen 2 - 0 Sparta Rotterdam
+FC Emmen 2 - 2 VVV-Venlo
+FC Emmen 0 - 2 FC Twente
+FC Emmen 1 - 1 PEC Zwolle
+FC Emmen 3 - 0 Fortuna Sittard
+FC Emmen 1 - 0 ADO Den Haag
+FC Emmen 1 - 0 RKC Waalwijk
+VVV-Venlo 0 - 4 Ajax
+VVV-Venlo 0 - 1 AZ
+VVV-Venlo 1 - 0 Feyenoord
+VVV-Venlo 1 - 0 PSV Eindhoven
+VVV-Venlo 1 - 1 Willem II
+VVV-Venlo 1 - 0 FC Utrecht
+VVV-Venlo 0 - 0 Vitesse
+VVV-Venlo 1 - 1 Heracles Almelo
+VVV-Venlo 0 - 2 FC Groningen
+VVV-Venlo 1 - 0 Heerenveen
+VVV-Venlo 0 - 1 Sparta Rotterdam
+VVV-Venlo 1 - 2 FC Emmen
+VVV-Venlo 1 - 1 FC Twente
+VVV-Venlo 2 - 1 PEC Zwolle
+VVV-Venlo 2 - 0 Fortuna Sittard
+VVV-Venlo 0 - 0 ADO Den Haag
+VVV-Venlo 1 - 0 RKC Waalwijk
+FC Twente 0 - 2 Ajax
+FC Twente 1 - 0 AZ
+FC Twente 2 - 1 Feyenoord
+FC Twente 0 - 2 PSV Eindhoven
+FC Twente 1 - 1 Willem II
+FC Twente 0 - 0 FC Utrecht
+FC Twente 1 - 1 Vitesse
+FC Twente 1 - 1 Heracles Almelo
+FC Twente 0 - 1 FC Groningen
+FC Twente 1 - 0 Heerenveen
+FC Twente 0 - 2 Sparta Rotterdam
+FC Twente 1 - 1 FC Emmen
+FC Twente 2 - 1 VVV-Venlo
+FC Twente 0 - 0 PEC Zwolle
+FC Twente 1 - 1 Fortuna Sittard
+FC Twente 0 - 1 ADO Den Haag
+FC Twente 2 - 0 RKC Waalwijk
+PEC Zwolle 1 - 0 Ajax
+PEC Zwolle 0 - 0 AZ
+PEC Zwolle 0 - 0 Feyenoord
+PEC Zwolle 2 - 1 PSV Eindhoven
+PEC Zwolle 0 - 0 Willem II
+PEC Zwolle 1 - 2 FC Utrecht
+PEC Zwolle 2 - 2 Vitesse
+PEC Zwolle 2 - 0 Heracles Almelo
+PEC Zwolle 0 - 2 FC Groningen
+PEC Zwolle 2 - 0 Heerenveen
+PEC Zwolle 2 - 1 Sparta Rotterdam
+PEC Zwolle 0 - 2 FC Emmen
+PEC Zwolle 1 - 1 VVV-Venlo
+PEC Zwolle 0 - 0 FC Twente
+PEC Zwolle 1 - 0 Fortuna Sittard
+PEC Zwolle 0 - 1 ADO Den Haag
+PEC Zwolle 1 - 0 RKC Waalwijk
+Fortuna Sittard 1 - 2 Ajax
+Fortuna Sittard 0 - 4 AZ
+Fortuna Sittard 1 - 0 Feyenoord
+Fortuna Sittard 0 - 3 PSV Eindhoven
+Fortuna Sittard 1 - 0 Willem II
+Fortuna Sittard 1 - 0 FC Utrecht
+Fortuna Sittard 1 - 2 Vitesse
+Fortuna Sittard 1 - 0 Heracles Almelo
+Fortuna Sittard 0 - 1 FC Groningen
+Fortuna Sittard 2 - 1 Heerenveen
+Fortuna Sittard 1 - 0 Sparta Rotterdam
+Fortuna Sittard 2 - 2 FC Emmen
+Fortuna Sittard 1 - 1 VVV-Venlo
+Fortuna Sittard 0 - 2 FC Twente
+Fortuna Sittard 3 - 0 PEC Zwolle
+Fortuna Sittard 2 - 0 ADO Den Haag
+Fortuna Sittard 0 - 2 RKC Waalwijk
+ADO Den Haag 1 - 1 Ajax
+ADO Den Haag 0 - 0 AZ
+ADO Den Haag 0 - 2 Feyenoord
+ADO Den Haag 1 - 0 PSV Eindhoven
+ADO Den Haag 1 - 3 Willem II
+ADO Den Haag 2 - 1 FC Utrecht
+ADO Den Haag 0 - 1 Vitesse
+ADO Den Haag 1 - 0 Heracles Almelo
+ADO Den Haag 1 - 1 FC Groningen
+ADO Den Haag 1 - 3 Heerenveen
+ADO Den Haag 1 - 1 Sparta Rotterdam
+ADO Den Haag 1 - 0 FC Emmen
+ADO Den Haag 1 - 2 VVV-Venlo
+ADO Den Haag 0 - 2 FC Twente
+ADO Den Haag 2 - 2 PEC Zwolle
+ADO Den Haag 1 - 1 Fortuna Sittard
+ADO Den Haag 0 - 2 RKC Waalwijk
+RKC Waalwijk 1 - 0 Ajax
+RKC Waalwijk 0 - 4 AZ
+RKC Waalwijk 0 - 0 Feyenoord
+RKC Waalwijk 1 - 1 PSV Eindhoven
+RKC Waalwijk 1 - 0 Willem II
+RKC Waalwijk 1 - 0 FC Utrecht
+RKC Waalwijk 1 - 2 Vitesse
+RKC Waalwijk 0 - 2 Heracles Almelo
+RKC Waalwijk 0 - 0 FC Groningen
+RKC Waalwijk 1 - 0 Heerenveen
+RKC Waalwijk 0 - 2 Sparta Rotterdam
+RKC Waalwijk 2 - 3 FC Emmen
+RKC Waalwijk 2 - 1 VVV-Venlo
+RKC Waalwijk 1 - 0 FC Twente
+RKC Waalwijk 0 - 3 PEC Zwolle
+RKC Waalwijk 1 - 1 Fortuna Sittard
+RKC Waalwijk 0 - 0 ADO Den Haag
+
+#---------------------------------
+#	 Season 166894
+#---------------------------------
+Ajax 0 - 2 AZ
+Ajax 2 - 0 Feyenoord
+Ajax 0 - 2 PSV Eindhoven
+Ajax 1 - 0 Willem II
+Ajax 1 - 0 FC Utrecht
+Ajax 1 - 2 Vitesse
+Ajax 3 - 2 Heracles Almelo
+Ajax 1 - 0 FC Groningen
+Ajax 0 - 2 Heerenveen
+Ajax 1 - 0 Sparta Rotterdam
+Ajax 4 - 1 FC Emmen
+Ajax 1 - 1 VVV-Venlo
+Ajax 4 - 0 FC Twente
+Ajax 2 - 1 PEC Zwolle
+Ajax 0 - 1 Fortuna Sittard
+Ajax 3 - 0 ADO Den Haag
+Ajax 4 - 0 RKC Waalwijk
+AZ 2 - 2 Ajax
+AZ 1 - 0 Feyenoord
+AZ 0 - 2 PSV Eindhoven
+AZ 2 - 0 Willem II
+AZ 0 - 1 FC Utrecht
+AZ 0 - 2 Vitesse
+AZ 0 - 1 Heracles Almelo
+AZ 0 - 0 FC Groningen
+AZ 0 - 1 Heerenveen
+AZ 2 - 0 Sparta Rotterdam
+AZ 0 - 1 FC Emmen
+AZ 1 - 1 VVV-Venlo
+AZ 0 - 1 FC Twente
+AZ 0 - 2 PEC Zwolle
+AZ 0 - 0 Fortuna Sittard
+AZ 2 - 0 ADO Den Haag
+AZ 4 - 0 RKC Waalwijk
+Feyenoord 0 - 2 Ajax
+Feyenoord 1 - 3 AZ
+Feyenoord 1 - 1 PSV Eindhoven
+Feyenoord 1 - 1 Willem II
+Feyenoord 1 - 2 FC Utrecht
+Feyenoord 1 - 0 Vitesse
+Feyenoord 0 - 0 Heracles Almelo
+Feyenoord 0 - 1 FC Groningen
+Feyenoord 2 - 2 Heerenveen
+Feyenoord 2 - 2 Sparta Rotterdam
+Feyenoord 0 - 0 FC Emmen
+Feyenoord 1 - 1 VVV-Venlo
+Feyenoord 3 - 0 FC Twente
+Feyenoord 2 - 2 PEC Zwolle
+Feyenoord 1 - 1 Fortuna Sittard
+Feyenoord 3 - 0 ADO Den Haag
+Feyenoord 4 - 1 RKC Waalwijk
+PSV Eindhoven 1 - 1 Ajax
+PSV Eindhoven 1 - 0 AZ
+PSV Eindhoven 0 - 0 Feyenoord
+PSV Eindhoven 2 - 1 Willem II
+PSV Eindhoven 0 - 2 FC Utrecht
+PSV Eindhoven 0 - 0 Vitesse
+PSV Eindhoven 2 - 0 Heracles Almelo
+PSV Eindhoven 2 - 0 FC Groningen
+PSV Eindhoven 2 - 2 Heerenveen
+PSV Eindhoven 1 - 0 Sparta Rotterdam
+PSV Eindhoven 0 - 0 FC Emmen
+PSV Eindhoven 1 - 0 VVV-Venlo
+PSV Eindhoven 3 - 0 FC Twente
+PSV Eindhoven 3 - 1 PEC Zwolle
+PSV Eindhoven 0 - 1 Fortuna Sittard
+PSV Eindhoven 3 - 0 ADO Den Haag
+PSV Eindhoven 0 - 1 RKC Waalwijk
+Willem II 1 - 2 Ajax
+Willem II 0 - 1 AZ
+Willem II 2 - 1 Feyenoord
+Willem II 0 - 1 PSV Eindhoven
+Willem II 2 - 1 FC Utrecht
+Willem II 0 - 2 Vitesse
+Willem II 1 - 1 Heracles Almelo
+Willem II 0 - 2 FC Groningen
+Willem II 0 - 0 Heerenveen
+Willem II 2 - 2 Sparta Rotterdam
+Willem II 1 - 0 FC Emmen
+Willem II 0 - 1 VVV-Venlo
+Willem II 0 - 2 FC Twente
+Willem II 1 - 0 PEC Zwolle
+Willem II 2 - 1 Fortuna Sittard
+Willem II 2 - 1 ADO Den Haag
+Willem II 0 - 0 RKC Waalwijk
+FC Utrecht 1 - 4 Ajax
+FC Utrecht 0 - 0 AZ
+FC Utrecht 0 - 2 Feyenoord
+FC Utrecht 0 - 2 PSV Eindhoven
+FC Utrecht 0 - 2 Willem II
+FC Utrecht 3 - 0 Vitesse
+FC Utrecht 2 - 0 Heracles Almelo
+FC Utrecht 1 - 0 FC Groningen
+FC Utrecht 2 - 2 Heerenveen
+FC Utrecht 2 - 1 Sparta Rotterdam
+FC Utrecht 1 - 1 FC Emmen
+FC Utrecht 2 - 1 VVV-Venlo
+FC Utrecht 0 - 2 FC Twente
+FC Utrecht 0 - 2 PEC Zwolle
+FC Utrecht 3 - 0 Fortuna Sittard
+FC Utrecht 3 - 0 ADO Den Haag
+FC Utrecht 3 - 1 RKC Waalwijk
+Vitesse 0 - 0 Ajax
+Vitesse 1 - 2 AZ
+Vitesse 0 - 0 Feyenoord
+Vitesse 1 - 1 PSV Eindhoven
+Vitesse 0 - 0 Willem II
+Vitesse 1 - 0 FC Utrecht
+Vitesse 0 - 0 Heracles Almelo
+Vitesse 1 - 1 FC Groningen
+Vitesse 0 - 2 Heerenveen
+Vitesse 1 - 1 Sparta Rotterdam
+Vitesse 2 - 2 FC Emmen
+Vitesse 1 - 1 VVV-Venlo
+Vitesse 0 - 0 FC Twente
+Vitesse 2 - 0 PEC Zwolle
+Vitesse 3 - 0 Fortuna Sittard
+Vitesse 0 - 1 ADO Den Haag
+Vitesse 1 - 0 RKC Waalwijk
+Heracles Almelo 0 - 1 Ajax
+Heracles Almelo 0 - 2 AZ
+Heracles Almelo 2 - 1 Feyenoord
+Heracles Almelo 2 - 2 PSV Eindhoven
+Heracles Almelo 1 - 0 Willem II
+Heracles Almelo 0 - 0 FC Utrecht
+Heracles Almelo 2 - 0 Vitesse
+Heracles Almelo 0 - 0 FC Groningen
+Heracles Almelo 0 - 2 Heerenveen
+Heracles Almelo 0 - 0 Sparta Rotterdam
+Heracles Almelo 2 - 0 FC Emmen
+Heracles Almelo 2 - 0 VVV-Venlo
+Heracles Almelo 2 - 2 FC Twente
+Heracles Almelo 1 - 0 PEC Zwolle
+Heracles Almelo 2 - 2 Fortuna Sittard
+Heracles Almelo 1 - 2 ADO Den Haag
+Heracles Almelo 2 - 2 RKC Waalwijk
+FC Groningen 1 - 0 Ajax
+FC Groningen 0 - 0 AZ
+FC Groningen 2 - 2 Feyenoord
+FC Groningen 1 - 2 PSV Eindhoven
+FC Groningen 1 - 0 Willem II
+FC Groningen 1 - 2 FC Utrecht
+FC Groningen 0 - 1 Vitesse
+FC Groningen 0 - 1 Heracles Almelo
+FC Groningen 0 - 0 Heerenveen
+FC Groningen 1 - 0 Sparta Rotterdam
+FC Groningen 0 - 0 FC Emmen
+FC Groningen 1 - 0 VVV-Venlo
+FC Groningen 2 - 2 FC Twente
+FC Groningen 0 - 1 PEC Zwolle
+FC Groningen 0 - 1 Fortuna Sittard
+FC Groningen 3 - 0 ADO Den Haag
+FC Groningen 1 - 0 RKC Waalwijk
+Heerenveen 0 - 0 Ajax
+Heerenveen 0 - 2 AZ
+Heerenveen 0 - 0 Feyenoord
+Heerenveen 1 - 0 PSV Eindhoven
+Heerenveen 1 - 2 Willem II
+Heerenveen 1 - 3 FC Utrecht
+Heerenveen 2 - 3 Vitesse
+Heerenveen 0 - 2 Heracles Almelo
+Heerenveen 2 - 0 FC Groningen
+Heerenveen 1 - 1 Sparta Rotterdam
+Heerenveen 2 - 2 FC Emmen
+Heerenveen 2 - 2 VVV-Venlo
+Heerenveen 1 - 0 FC Twente
+Heerenveen 2 - 2 PEC Zwolle
+Heerenveen 2 - 2 Fortuna Sittard
+Heerenveen 0 - 0 ADO Den Haag
+Heerenveen 1 - 0 RKC Waalwijk
+Sparta Rotterdam 0 - 3 Ajax
+Sparta Rotterdam 1 - 1 AZ
+Sparta Rotterdam 0 - 0 Feyenoord
+Sparta Rotterdam 2 - 0 PSV Eindhoven
+Sparta Rotterdam 1 - 3 Willem II
+Sparta Rotterdam 1 - 0 FC Utrecht
+Sparta Rotterdam 2 - 0 Vitesse
+Sparta Rotterdam 2 - 0 Heracles Almelo
+Sparta Rotterdam 2 - 1 FC Groningen
+Sparta Rotterdam 1 - 3 Heerenveen
+Sparta Rotterdam 1 - 1 FC Emmen
+Sparta Rotterdam 1 - 0 VVV-Venlo
+Sparta Rotterdam 1 - 2 FC Twente
+Sparta Rotterdam 2 - 1 PEC Zwolle
+Sparta Rotterdam 0 - 1 Fortuna Sittard
+Sparta Rotterdam 2 - 0 ADO Den Haag
+Sparta Rotterdam 1 - 2 RKC Waalwijk
+FC Emmen 1 - 0 Ajax
+FC Emmen 0 - 1 AZ
+FC Emmen 0 - 0 Feyenoord
+FC Emmen 1 - 1 PSV Eindhoven
+FC Emmen 1 - 1 Willem II
+FC Emmen 0 - 1 FC Utrecht
+FC Emmen 0 - 1 Vitesse
+FC Emmen 0 - 1 Heracles Almelo
+FC Emmen 0 - 1 FC Groningen
+FC Emmen 2 - 1 Heerenveen
+FC Emmen 2 - 2 Sparta Rotterdam
+FC Emmen 1 - 0 VVV-Venlo
+FC Emmen 2 - 0 FC Twente
+FC Emmen 2 - 0 PEC Zwolle
+FC Emmen 3 - 2 Fortuna Sittard
+FC Emmen 1 - 0 ADO Den Haag
+FC Emmen 1 - 0 RKC Waalwijk
+VVV-Venlo 0 - 2 Ajax
+VVV-Venlo 1 - 1 AZ
+VVV-Venlo 1 - 1 Feyenoord
+VVV-Venlo 0 - 3 PSV Eindhoven
+VVV-Venlo 2 - 3 Willem II
+VVV-Venlo 2 - 0 FC Utrecht
+VVV-Venlo 1 - 3 Vitesse
+VVV-Venlo 0 - 2 Heracles Almelo
+VVV-Venlo 0 - 0 FC Groningen
+VVV-Venlo 1 - 0 Heerenveen
+VVV-Venlo 0 - 0 Sparta Rotterdam
+VVV-Venlo 2 - 0 FC Emmen
+VVV-Venlo 1 - 0 FC Twente
+VVV-Venlo 1 - 1 PEC Zwolle
+VVV-Venlo 1 - 1 Fortuna Sittard
+VVV-Venlo 0 - 0 ADO Den Haag
+VVV-Venlo 2 - 2 RKC Waalwijk
+FC Twente 0 - 3 Ajax
+FC Twente 1 - 3 AZ
+FC Twente 2 - 1 Feyenoord
+FC Twente 0 - 2 PSV Eindhoven
+FC Twente 2 - 1 Willem II
+FC Twente 0 - 2 FC Utrecht
+FC Twente 0 - 2 Vitesse
+FC Twente 2 - 0 Heracles Almelo
+FC Twente 1 - 0 FC Groningen
+FC Twente 1 - 1 Heerenveen
+FC Twente 0 - 0 Sparta Rotterdam
+FC Twente 2 - 1 FC Emmen
+FC Twente 2 - 0 VVV-Venlo
+FC Twente 3 - 2 PEC Zwolle
+FC Twente 1 - 0 Fortuna Sittard
+FC Twente 2 - 2 ADO Den Haag
+FC Twente 1 - 2 RKC Waalwijk
+PEC Zwolle 1 - 3 Ajax
+PEC Zwolle 0 - 1 AZ
+PEC Zwolle 0 - 0 Feyenoord
+PEC Zwolle 2 - 1 PSV Eindhoven
+PEC Zwolle 0 - 1 Willem II
+PEC Zwolle 2 - 3 FC Utrecht
+PEC Zwolle 2 - 3 Vitesse
+PEC Zwolle 1 - 0 Heracles Almelo
+PEC Zwolle 0 - 3 FC Groningen
+PEC Zwolle 1 - 0 Heerenveen
+PEC Zwolle 2 - 0 Sparta Rotterdam
+PEC Zwolle 0 - 0 FC Emmen
+PEC Zwolle 0 - 1 VVV-Venlo
+PEC Zwolle 1 - 1 FC Twente
+PEC Zwolle 0 - 2 Fortuna Sittard
+PEC Zwolle 2 - 1 ADO Den Haag
+PEC Zwolle 1 - 0 RKC Waalwijk
+Fortuna Sittard 2 - 1 Ajax
+Fortuna Sittard 0 - 0 AZ
+Fortuna Sittard 2 - 1 Feyenoord
+Fortuna Sittard 1 - 2 PSV Eindhoven
+Fortuna Sittard 0 - 0 Willem II
+Fortuna Sittard 1 - 3 FC Utrecht
+Fortuna Sittard 0 - 0 Vitesse
+Fortuna Sittard 0 - 0 Heracles Almelo
+Fortuna Sittard 0 - 2 FC Groningen
+Fortuna Sittard 1 - 0 Heerenveen
+Fortuna Sittard 0 - 2 Sparta Rotterdam
+Fortuna Sittard 1 - 3 FC Emmen
+Fortuna Sittard 0 - 1 VVV-Venlo
+Fortuna Sittard 2 - 1 FC Twente
+Fortuna Sittard 0 - 1 PEC Zwolle
+Fortuna Sittard 2 - 1 ADO Den Haag
+Fortuna Sittard 1 - 2 RKC Waalwijk
+ADO Den Haag 1 - 1 Ajax
+ADO Den Haag 0 - 0 AZ
+ADO Den Haag 0 - 3 Feyenoord
+ADO Den Haag 1 - 0 PSV Eindhoven
+ADO Den Haag 2 - 2 Willem II
+ADO Den Haag 1 - 0 FC Utrecht
+ADO Den Haag 0 - 1 Vitesse
+ADO Den Haag 2 - 0 Heracles Almelo
+ADO Den Haag 0 - 0 FC Groningen
+ADO Den Haag 0 - 0 Heerenveen
+ADO Den Haag 0 - 1 Sparta Rotterdam
+ADO Den Haag 1 - 0 FC Emmen
+ADO Den Haag 2 - 1 VVV-Venlo
+ADO Den Haag 1 - 0 FC Twente
+ADO Den Haag 1 - 2 PEC Zwolle
+ADO Den Haag 1 - 0 Fortuna Sittard
+ADO Den Haag 1 - 1 RKC Waalwijk
+RKC Waalwijk 0 - 0 Ajax
+RKC Waalwijk 0 - 0 AZ
+RKC Waalwijk 1 - 1 Feyenoord
+RKC Waalwijk 1 - 0 PSV Eindhoven
+RKC Waalwijk 1 - 3 Willem II
+RKC Waalwijk 1 - 0 FC Utrecht
+RKC Waalwijk 0 - 1 Vitesse
+RKC Waalwijk 1 - 0 Heracles Almelo
+RKC Waalwijk 0 - 2 FC Groningen
+RKC Waalwijk 1 - 1 Heerenveen
+RKC Waalwijk 1 - 1 Sparta Rotterdam
+RKC Waalwijk 1 - 0 FC Emmen
+RKC Waalwijk 1 - 2 VVV-Venlo
+RKC Waalwijk 0 - 1 FC Twente
+RKC Waalwijk 1 - 0 PEC Zwolle
+RKC Waalwijk 0 - 1 Fortuna Sittard
+RKC Waalwijk 2 - 2 ADO Den Haag
+
+#---------------------------------
+#	 Season 192446
+#---------------------------------
+Ajax 2 - 0 AZ
+Ajax 2 - 1 Feyenoord
+Ajax 3 - 0 PSV Eindhoven
+Ajax 3 - 2 Willem II
+Ajax 3 - 2 FC Utrecht
+Ajax 3 - 1 Vitesse
+Ajax 3 - 0 Heracles Almelo
+Ajax 3 - 0 FC Groningen
+Ajax 3 - 0 Heerenveen
+Ajax 1 - 0 Sparta Rotterdam
+Ajax 2 - 0 FC Emmen
+Ajax 1 - 0 VVV-Venlo
+Ajax 3 - 1 FC Twente
+Ajax 2 - 0 PEC Zwolle
+Ajax 0 - 1 Fortuna Sittard
+Ajax 2 - 0 ADO Den Haag
+Ajax 2 - 0 RKC Waalwijk
+AZ 0 - 1 Ajax
+AZ 0 - 1 Feyenoord
+AZ 1 - 1 PSV Eindhoven
+AZ 2 - 1 Willem II
+AZ 2 - 1 FC Utrecht
+AZ 1 - 0 Vitesse
+AZ 3 - 0 Heracles Almelo
+AZ 1 - 1 FC Groningen
+AZ 2 - 1 Heerenveen
+AZ 0 - 0 Sparta Rotterdam
+AZ 3 - 0 FC Emmen
+AZ 3 - 0 VVV-Venlo
+AZ 2 - 0 FC Twente
+AZ 3 - 1 PEC Zwolle
+AZ 3 - 0 Fortuna Sittard
+AZ 2 - 0 ADO Den Haag
+AZ 3 - 1 RKC Waalwijk
+Feyenoord 0 - 2 Ajax
+Feyenoord 0 - 0 AZ
+Feyenoord 1 - 2 PSV Eindhoven
+Feyenoord 1 - 2 Willem II
+Feyenoord 2 - 2 FC Utrecht
+Feyenoord 3 - 1 Vitesse
+Feyenoord 2 - 0 Heracles Almelo
+Feyenoord 1 - 1 FC Groningen
+Feyenoord 0 - 2 Heerenveen
+Feyenoord 1 - 0 Sparta Rotterdam
+Feyenoord 0 - 2 FC Emmen
+Feyenoord 2 - 2 VVV-Venlo
+Feyenoord 3 - 1 FC Twente
+Feyenoord 3 - 2 PEC Zwolle
+Feyenoord 3 - 1 Fortuna Sittard
+Feyenoord 0 - 0 ADO Den Haag
+Feyenoord 1 - 2 RKC Waalwijk
+PSV Eindhoven 0 - 3 Ajax
+PSV Eindhoven 1 - 1 AZ
+PSV Eindhoven 3 - 1 Feyenoord
+PSV Eindhoven 2 - 0 Willem II
+PSV Eindhoven 2 - 0 FC Utrecht
+PSV Eindhoven 0 - 0 Vitesse
+PSV Eindhoven 0 - 1 Heracles Almelo
+PSV Eindhoven 0 - 0 FC Groningen
+PSV Eindhoven 3 - 1 Heerenveen
+PSV Eindhoven 3 - 1 Sparta Rotterdam
+PSV Eindhoven 3 - 0 FC Emmen
+PSV Eindhoven 0 - 0 VVV-Venlo
+PSV Eindhoven 1 - 0 FC Twente
+PSV Eindhoven 3 - 1 PEC Zwolle
+PSV Eindhoven 3 - 0 Fortuna Sittard
+PSV Eindhoven 2 - 1 ADO Den Haag
+PSV Eindhoven 0 - 1 RKC Waalwijk
+Willem II 0 - 2 Ajax
+Willem II 1 - 2 AZ
+Willem II 2 - 2 Feyenoord
+Willem II 0 - 0 PSV Eindhoven
+Willem II 0 - 1 FC Utrecht
+Willem II 2 - 2 Vitesse
+Willem II 0 - 1 Heracles Almelo
+Willem II 1 - 1 FC Groningen
+Willem II 1 - 1 Heerenveen
+Willem II 0 - 1 Sparta Rotterdam
+Willem II 0 - 2 FC Emmen
+Willem II 3 - 1 VVV-Venlo
+Willem II 0 - 2 FC Twente
+Willem II 2 - 0 PEC Zwolle
+Willem II 0 - 1 Fortuna Sittard
+Willem II 1 - 0 ADO Den Haag
+Willem II 3 - 0 RKC Waalwijk
+FC Utrecht 1 - 2 Ajax
+FC Utrecht 1 - 0 AZ
+FC Utrecht 2 - 0 Feyenoord
+FC Utrecht 1 - 2 PSV Eindhoven
+FC Utrecht 2 - 1 Willem II
+FC Utrecht 1 - 1 Vitesse
+FC Utrecht 3 - 1 Heracles Almelo
+FC Utrecht 0 - 0 FC Groningen
+FC Utrecht 1 - 0 Heerenveen
+FC Utrecht 1 - 1 Sparta Rotterdam
+FC Utrecht 2 - 0 FC Emmen
+FC Utrecht 2 - 0 VVV-Venlo
+FC Utrecht 2 - 0 FC Twente
+FC Utrecht 0 - 0 PEC Zwolle
+FC Utrecht 3 - 2 Fortuna Sittard
+FC Utrecht 0 - 0 ADO Den Haag
+FC Utrecht 4 - 2 RKC Waalwijk
+Vitesse 2 - 3 Ajax
+Vitesse 0 - 1 AZ
+Vitesse 2 - 0 Feyenoord
+Vitesse 0 - 1 PSV Eindhoven
+Vitesse 2 - 1 Willem II
+Vitesse 0 - 1 FC Utrecht
+Vitesse 2 - 0 Heracles Almelo
+Vitesse 2 - 2 FC Groningen
+Vitesse 3 - 0 Heerenveen
+Vitesse 2 - 0 Sparta Rotterdam
+Vitesse 2 - 0 FC Emmen
+Vitesse 0 - 0 VVV-Venlo
+Vitesse 2 - 1 FC Twente
+Vitesse 3 - 0 PEC Zwolle
+Vitesse 3 - 0 Fortuna Sittard
+Vitesse 1 - 0 ADO Den Haag
+Vitesse 2 - 0 RKC Waalwijk
+Heracles Almelo 1 - 1 Ajax
+Heracles Almelo 0 - 0 AZ
+Heracles Almelo 1 - 1 Feyenoord
+Heracles Almelo 0 - 1 PSV Eindhoven
+Heracles Almelo 0 - 0 Willem II
+Heracles Almelo 1 - 3 FC Utrecht
+Heracles Almelo 0 - 0 Vitesse
+Heracles Almelo 0 - 2 FC Groningen
+Heracles Almelo 2 - 2 Heerenveen
+Heracles Almelo 1 - 1 Sparta Rotterdam
+Heracles Almelo 0 - 2 FC Emmen
+Heracles Almelo 2 - 0 VVV-Venlo
+Heracles Almelo 2 - 0 FC Twente
+Heracles Almelo 1 - 0 PEC Zwolle
+Heracles Almelo 1 - 2 Fortuna Sittard
+Heracles Almelo 3 - 2 ADO Den Haag
+Heracles Almelo 0 - 1 RKC Waalwijk
+FC Groningen 1 - 2 Ajax
+FC Groningen 1 - 2 AZ
+FC Groningen 1 - 1 Feyenoord
+FC Groningen 2 - 0 PSV Eindhoven
+FC Groningen 1 - 1 Willem II
+FC Groningen 1 - 1 FC Utrecht
+FC Groningen 0 - 2 Vitesse
+FC Groningen 2 - 0 Heracles Almelo
+FC Groningen 0 - 2 Heerenveen
+FC Groningen 1 - 2 Sparta Rotterdam
+FC Groningen 2 - 1 FC Emmen
+FC Groningen 1 - 1 VVV-Venlo
+FC Groningen 0 - 1 FC Twente
+FC Groningen 0 - 0 PEC Zwolle
+FC Groningen 2 - 0 Fortuna Sittard
+FC Groningen 1 - 0 ADO Den Haag
+FC Groningen 3 - 1 RKC Waalwijk
+Heerenveen 1 - 2 Ajax
+Heerenveen 0 - 0 AZ
+Heerenveen 2 - 0 Feyenoord
+Heerenveen 1 - 3 PSV Eindhoven
+Heerenveen 0 - 2 Willem II
+Heerenveen 1 - 0 FC Utrecht
+Heerenveen 1 - 1 Vitesse
+Heerenveen 0 - 1 Heracles Almelo
+Heerenveen 2 - 0 FC Groningen
+Heerenveen 1 - 0 Sparta Rotterdam
+Heerenveen 2 - 0 FC Emmen
+Heerenveen 0 - 2 VVV-Venlo
+Heerenveen 2 - 0 FC Twente
+Heerenveen 1 - 1 PEC Zwolle
+Heerenveen 1 - 1 Fortuna Sittard
+Heerenveen 1 - 0 ADO Den Haag
+Heerenveen 2 - 2 RKC Waalwijk
+Sparta Rotterdam 1 - 2 Ajax
+Sparta Rotterdam 0 - 0 AZ
+Sparta Rotterdam 2 - 1 Feyenoord
+Sparta Rotterdam 0 - 3 PSV Eindhoven
+Sparta Rotterdam 1 - 1 Willem II
+Sparta Rotterdam 1 - 0 FC Utrecht
+Sparta Rotterdam 2 - 1 Vitesse
+Sparta Rotterdam 0 - 1 Heracles Almelo
+Sparta Rotterdam 1 - 1 FC Groningen
+Sparta Rotterdam 3 - 2 Heerenveen
+Sparta Rotterdam 2 - 1 FC Emmen
+Sparta Rotterdam 0 - 0 VVV-Venlo
+Sparta Rotterdam 1 - 2 FC Twente
+Sparta Rotterdam 2 - 0 PEC Zwolle
+Sparta Rotterdam 2 - 2 Fortuna Sittard
+Sparta Rotterdam 2 - 0 ADO Den Haag
+Sparta Rotterdam 1 - 2 RKC Waalwijk
+FC Emmen 0 - 2 Ajax
+FC Emmen 0 - 2 AZ
+FC Emmen 0 - 3 Feyenoord
+FC Emmen 2 - 3 PSV Eindhoven
+FC Emmen 1 - 2 Willem II
+FC Emmen 1 - 1 FC Utrecht
+FC Emmen 1 - 3 Vitesse
+FC Emmen 1 - 2 Heracles Almelo
+FC Emmen 1 - 2 FC Groningen
+FC Emmen 0 - 2 Heerenveen
+FC Emmen 0 - 0 Sparta Rotterdam
+FC Emmen 0 - 2 VVV-Venlo
+FC Emmen 2 - 0 FC Twente
+FC Emmen 3 - 0 PEC Zwolle
+FC Emmen 1 - 2 Fortuna Sittard
+FC Emmen 2 - 0 ADO Den Haag
+FC Emmen 2 - 0 RKC Waalwijk
+VVV-Venlo 0 - 3 Ajax
+VVV-Venlo 0 - 3 AZ
+VVV-Venlo 0 - 0 Feyenoord
+VVV-Venlo 1 - 3 PSV Eindhoven
+VVV-Venlo 1 - 1 Willem II
+VVV-Venlo 1 - 3 FC Utrecht
+VVV-Venlo 0 - 2 Vitesse
+VVV-Venlo 1 - 2 Heracles Almelo
+VVV-Venlo 1 - 1 FC Groningen
+VVV-Venlo 2 - 2 Heerenveen
+VVV-Venlo 1 - 3 Sparta Rotterdam
+VVV-Venlo 0 - 1 FC Emmen
+VVV-Venlo 2 - 0 FC Twente
+VVV-Venlo 2 - 2 PEC Zwolle
+VVV-Venlo 1 - 2 Fortuna Sittard
+VVV-Venlo 2 - 1 ADO Den Haag
+VVV-Venlo 2 - 0 RKC Waalwijk
+FC Twente 0 - 3 Ajax
+FC Twente 1 - 0 AZ
+FC Twente 2 - 0 Feyenoord
+FC Twente 2 - 0 PSV Eindhoven
+FC Twente 0 - 2 Willem II
+FC Twente 1 - 2 FC Utrecht
+FC Twente 2 - 1 Vitesse
+FC Twente 1 - 2 Heracles Almelo
+FC Twente 2 - 0 FC Groningen
+FC Twente 0 - 0 Heerenveen
+FC Twente 1 - 1 Sparta Rotterdam
+FC Twente 0 - 1 FC Emmen
+FC Twente 3 - 0 VVV-Venlo
+FC Twente 0 - 0 PEC Zwolle
+FC Twente 1 - 2 Fortuna Sittard
+FC Twente 1 - 0 ADO Den Haag
+FC Twente 1 - 2 RKC Waalwijk
+PEC Zwolle 0 - 4 Ajax
+PEC Zwolle 1 - 3 AZ
+PEC Zwolle 2 - 3 Feyenoord
+PEC Zwolle 1 - 2 PSV Eindhoven
+PEC Zwolle 1 - 1 Willem II
+PEC Zwolle 0 - 0 FC Utrecht
+PEC Zwolle 0 - 2 Vitesse
+PEC Zwolle 1 - 2 Heracles Almelo
+PEC Zwolle 2 - 1 FC Groningen
+PEC Zwolle 1 - 1 Heerenveen
+PEC Zwolle 2 - 3 Sparta Rotterdam
+PEC Zwolle 1 - 0 FC Emmen
+PEC Zwolle 0 - 2 VVV-Venlo
+PEC Zwolle 0 - 3 FC Twente
+PEC Zwolle 1 - 1 Fortuna Sittard
+PEC Zwolle 0 - 1 ADO Den Haag
+PEC Zwolle 1 - 3 RKC Waalwijk
+Fortuna Sittard 0 - 2 Ajax
+Fortuna Sittard 1 - 0 AZ
+Fortuna Sittard 1 - 1 Feyenoord
+Fortuna Sittard 1 - 3 PSV Eindhoven
+Fortuna Sittard 2 - 2 Willem II
+Fortuna Sittard 1 - 3 FC Utrecht
+Fortuna Sittard 2 - 2 Vitesse
+Fortuna Sittard 1 - 2 Heracles Almelo
+Fortuna Sittard 1 - 2 FC Groningen
+Fortuna Sittard 1 - 2 Heerenveen
+Fortuna Sittard 2 - 0 Sparta Rotterdam
+Fortuna Sittard 1 - 2 FC Emmen
+Fortuna Sittard 2 - 0 VVV-Venlo
+Fortuna Sittard 2 - 2 FC Twente
+Fortuna Sittard 0 - 0 PEC Zwolle
+Fortuna Sittard 0 - 1 ADO Den Haag
+Fortuna Sittard 2 - 0 RKC Waalwijk
+ADO Den Haag 0 - 4 Ajax
+ADO Den Haag 1 - 3 AZ
+ADO Den Haag 0 - 0 Feyenoord
+ADO Den Haag 1 - 0 PSV Eindhoven
+ADO Den Haag 0 - 2 Willem II
+ADO Den Haag 1 - 1 FC Utrecht
+ADO Den Haag 1 - 1 Vitesse
+ADO Den Haag 0 - 2 Heracles Almelo
+ADO Den Haag 1 - 0 FC Groningen
+ADO Den Haag 2 - 2 Heerenveen
+ADO Den Haag 2 - 3 Sparta Rotterdam
+ADO Den Haag 0 - 3 FC Emmen
+ADO Den Haag 1 - 1 VVV-Venlo
+ADO Den Haag 1 - 3 FC Twente
+ADO Den Haag 2 - 2 PEC Zwolle
+ADO Den Haag 1 - 3 Fortuna Sittard
+ADO Den Haag 0 - 2 RKC Waalwijk
+RKC Waalwijk 0 - 3 Ajax
+RKC Waalwijk 1 - 0 AZ
+RKC Waalwijk 2 - 2 Feyenoord
+RKC Waalwijk 1 - 3 PSV Eindhoven
+RKC Waalwijk 0 - 2 Willem II
+RKC Waalwijk 0 - 1 FC Utrecht
+RKC Waalwijk 0 - 1 Vitesse
+RKC Waalwijk 0 - 1 Heracles Almelo
+RKC Waalwijk 1 - 0 FC Groningen
+RKC Waalwijk 2 - 0 Heerenveen
+RKC Waalwijk 0 - 2 Sparta Rotterdam
+RKC Waalwijk 1 - 3 FC Emmen
+RKC Waalwijk 1 - 2 VVV-Venlo
+RKC Waalwijk 1 - 0 FC Twente
+RKC Waalwijk 1 - 1 PEC Zwolle
+RKC Waalwijk 0 - 1 Fortuna Sittard
+RKC Waalwijk 0 - 2 ADO Den Haag
+
+#---------------------------------
+#	 Season 198722
+#---------------------------------
+Ajax 2 - 0 AZ
+Ajax 1 - 2 Feyenoord
+Ajax 1 - 2 PSV Eindhoven
+Ajax 1 - 0 Willem II
+Ajax 2 - 1 FC Utrecht
+Ajax 1 - 1 Vitesse
+Ajax 3 - 0 Heracles Almelo
+Ajax 0 - 1 FC Groningen
+Ajax 3 - 0 Heerenveen
+Ajax 3 - 0 Sparta Rotterdam
+Ajax 2 - 1 FC Emmen
+Ajax 0 - 1 VVV-Venlo
+Ajax 1 - 1 FC Twente
+Ajax 3 - 1 PEC Zwolle
+Ajax 2 - 1 Fortuna Sittard
+Ajax 2 - 1 ADO Den Haag
+Ajax 3 - 1 RKC Waalwijk
+AZ 2 - 1 Ajax
+AZ 1 - 2 Feyenoord
+AZ 1 - 1 PSV Eindhoven
+AZ 2 - 1 Willem II
+AZ 0 - 1 FC Utrecht
+AZ 1 - 1 Vitesse
+AZ 0 - 0 Heracles Almelo
+AZ 0 - 1 FC Groningen
+AZ 0 - 0 Heerenveen
+AZ 2 - 1 Sparta Rotterdam
+AZ 3 - 0 FC Emmen
+AZ 0 - 1 VVV-Venlo
+AZ 1 - 0 FC Twente
+AZ 0 - 1 PEC Zwolle
+AZ 2 - 0 Fortuna Sittard
+AZ 4 - 1 ADO Den Haag
+AZ 4 - 0 RKC Waalwijk
+Feyenoord 0 - 2 Ajax
+Feyenoord 0 - 0 AZ
+Feyenoord 1 - 1 PSV Eindhoven
+Feyenoord 0 - 0 Willem II
+Feyenoord 1 - 2 FC Utrecht
+Feyenoord 0 - 2 Vitesse
+Feyenoord 2 - 2 Heracles Almelo
+Feyenoord 1 - 1 FC Groningen
+Feyenoord 3 - 0 Heerenveen
+Feyenoord 3 - 0 Sparta Rotterdam
+Feyenoord 0 - 1 FC Emmen
+Feyenoord 1 - 1 VVV-Venlo
+Feyenoord 1 - 0 FC Twente
+Feyenoord 1 - 0 PEC Zwolle
+Feyenoord 3 - 1 Fortuna Sittard
+Feyenoord 2 - 1 ADO Den Haag
+Feyenoord 3 - 0 RKC Waalwijk
+PSV Eindhoven 2 - 1 Ajax
+PSV Eindhoven 1 - 2 AZ
+PSV Eindhoven 2 - 1 Feyenoord
+PSV Eindhoven 0 - 1 Willem II
+PSV Eindhoven 3 - 1 FC Utrecht
+PSV Eindhoven 2 - 1 Vitesse
+PSV Eindhoven 2 - 1 Heracles Almelo
+PSV Eindhoven 0 - 1 FC Groningen
+PSV Eindhoven 2 - 2 Heerenveen
+PSV Eindhoven 2 - 2 Sparta Rotterdam
+PSV Eindhoven 3 - 1 FC Emmen
+PSV Eindhoven 1 - 0 VVV-Venlo
+PSV Eindhoven 2 - 0 FC Twente
+PSV Eindhoven 4 - 0 PEC Zwolle
+PSV Eindhoven 0 - 1 Fortuna Sittard
+PSV Eindhoven 0 - 0 ADO Den Haag
+PSV Eindhoven 4 - 1 RKC Waalwijk
+Willem II 2 - 0 Ajax
+Willem II 0 - 0 AZ
+Willem II 1 - 1 Feyenoord
+Willem II 0 - 1 PSV Eindhoven
+Willem II 1 - 2 FC Utrecht
+Willem II 2 - 2 Vitesse
+Willem II 1 - 2 Heracles Almelo
+Willem II 0 - 0 FC Groningen
+Willem II 2 - 2 Heerenveen
+Willem II 0 - 2 Sparta Rotterdam
+Willem II 0 - 0 FC Emmen
+Willem II 3 - 0 VVV-Venlo
+Willem II 0 - 1 FC Twente
+Willem II 1 - 0 PEC Zwolle
+Willem II 1 - 0 Fortuna Sittard
+Willem II 1 - 0 ADO Den Haag
+Willem II 2 - 2 RKC Waalwijk
+FC Utrecht 1 - 3 Ajax
+FC Utrecht 2 - 2 AZ
+FC Utrecht 1 - 0 Feyenoord
+FC Utrecht 2 - 1 PSV Eindhoven
+FC Utrecht 3 - 2 Willem II
+FC Utrecht 1 - 0 Vitesse
+FC Utrecht 2 - 0 Heracles Almelo
+FC Utrecht 0 - 0 FC Groningen
+FC Utrecht 2 - 1 Heerenveen
+FC Utrecht 0 - 0 Sparta Rotterdam
+FC Utrecht 2 - 1 FC Emmen
+FC Utrecht 0 - 2 VVV-Venlo
+FC Utrecht 3 - 2 FC Twente
+FC Utrecht 0 - 2 PEC Zwolle
+FC Utrecht 3 - 0 Fortuna Sittard
+FC Utrecht 0 - 1 ADO Den Haag
+FC Utrecht 0 - 1 RKC Waalwijk
+Vitesse 1 - 0 Ajax
+Vitesse 0 - 1 AZ
+Vitesse 1 - 0 Feyenoord
+Vitesse 0 - 1 PSV Eindhoven
+Vitesse 0 - 0 Willem II
+Vitesse 2 - 0 FC Utrecht
+Vitesse 1 - 0 Heracles Almelo
+Vitesse 0 - 1 FC Groningen
+Vitesse 2 - 0 Heerenveen
+Vitesse 0 - 2 Sparta Rotterdam
+Vitesse 1 - 1 FC Emmen
+Vitesse 2 - 1 VVV-Venlo
+Vitesse 2 - 1 FC Twente
+Vitesse 0 - 2 PEC Zwolle
+Vitesse 2 - 1 Fortuna Sittard
+Vitesse 2 - 1 ADO Den Haag
+Vitesse 0 - 0 RKC Waalwijk
+Heracles Almelo 1 - 4 Ajax
+Heracles Almelo 1 - 1 AZ
+Heracles Almelo 0 - 0 Feyenoord
+Heracles Almelo 2 - 0 PSV Eindhoven
+Heracles Almelo 1 - 2 Willem II
+Heracles Almelo 0 - 2 FC Utrecht
+Heracles Almelo 0 - 2 Vitesse
+Heracles Almelo 2 - 0 FC Groningen
+Heracles Almelo 2 - 0 Heerenveen
+Heracles Almelo 1 - 0 Sparta Rotterdam
+Heracles Almelo 0 - 2 FC Emmen
+Heracles Almelo 1 - 0 VVV-Venlo
+Heracles Almelo 1 - 2 FC Twente
+Heracles Almelo 3 - 0 PEC Zwolle
+Heracles Almelo 3 - 1 Fortuna Sittard
+Heracles Almelo 2 - 2 ADO Den Haag
+Heracles Almelo 0 - 0 RKC Waalwijk
+FC Groningen 1 - 0 Ajax
+FC Groningen 1 - 0 AZ
+FC Groningen 0 - 0 Feyenoord
+FC Groningen 1 - 0 PSV Eindhoven
+FC Groningen 0 - 1 Willem II
+FC Groningen 1 - 0 FC Utrecht
+FC Groningen 0 - 0 Vitesse
+FC Groningen 0 - 0 Heracles Almelo
+FC Groningen 2 - 1 Heerenveen
+FC Groningen 1 - 1 Sparta Rotterdam
+FC Groningen 2 - 1 FC Emmen
+FC Groningen 1 - 0 VVV-Venlo
+FC Groningen 2 - 0 FC Twente
+FC Groningen 0 - 1 PEC Zwolle
+FC Groningen 0 - 1 Fortuna Sittard
+FC Groningen 0 - 0 ADO Den Haag
+FC Groningen 2 - 1 RKC Waalwijk
+Heerenveen 0 - 3 Ajax
+Heerenveen 1 - 1 AZ
+Heerenveen 2 - 1 Feyenoord
+Heerenveen 1 - 0 PSV Eindhoven
+Heerenveen 1 - 2 Willem II
+Heerenveen 2 - 1 FC Utrecht
+Heerenveen 2 - 2 Vitesse
+Heerenveen 0 - 1 Heracles Almelo
+Heerenveen 2 - 0 FC Groningen
+Heerenveen 1 - 1 Sparta Rotterdam
+Heerenveen 1 - 2 FC Emmen
+Heerenveen 1 - 0 VVV-Venlo
+Heerenveen 1 - 2 FC Twente
+Heerenveen 3 - 1 PEC Zwolle
+Heerenveen 0 - 1 Fortuna Sittard
+Heerenveen 1 - 1 ADO Den Haag
+Heerenveen 1 - 0 RKC Waalwijk
+Sparta Rotterdam 0 - 0 Ajax
+Sparta Rotterdam 1 - 1 AZ
+Sparta Rotterdam 1 - 0 Feyenoord
+Sparta Rotterdam 0 - 3 PSV Eindhoven
+Sparta Rotterdam 0 - 2 Willem II
+Sparta Rotterdam 1 - 0 FC Utrecht
+Sparta Rotterdam 1 - 1 Vitesse
+Sparta Rotterdam 0 - 2 Heracles Almelo
+Sparta Rotterdam 1 - 0 FC Groningen
+Sparta Rotterdam 2 - 0 Heerenveen
+Sparta Rotterdam 1 - 0 FC Emmen
+Sparta Rotterdam 1 - 1 VVV-Venlo
+Sparta Rotterdam 3 - 3 FC Twente
+Sparta Rotterdam 1 - 0 PEC Zwolle
+Sparta Rotterdam 0 - 2 Fortuna Sittard
+Sparta Rotterdam 1 - 0 ADO Den Haag
+Sparta Rotterdam 0 - 1 RKC Waalwijk
+FC Emmen 1 - 0 Ajax
+FC Emmen 0 - 2 AZ
+FC Emmen 1 - 0 Feyenoord
+FC Emmen 0 - 2 PSV Eindhoven
+FC Emmen 1 - 1 Willem II
+FC Emmen 1 - 1 FC Utrecht
+FC Emmen 1 - 2 Vitesse
+FC Emmen 0 - 1 Heracles Almelo
+FC Emmen 1 - 0 FC Groningen
+FC Emmen 1 - 0 Heerenveen
+FC Emmen 1 - 0 Sparta Rotterdam
+FC Emmen 2 - 2 VVV-Venlo
+FC Emmen 1 - 1 FC Twente
+FC Emmen 2 - 0 PEC Zwolle
+FC Emmen 2 - 0 Fortuna Sittard
+FC Emmen 1 - 0 ADO Den Haag
+FC Emmen 0 - 2 RKC Waalwijk
+VVV-Venlo 1 - 0 Ajax
+VVV-Venlo 0 - 0 AZ
+VVV-Venlo 1 - 2 Feyenoord
+VVV-Venlo 1 - 0 PSV Eindhoven
+VVV-Venlo 0 - 2 Willem II
+VVV-Venlo 0 - 2 FC Utrecht
+VVV-Venlo 1 - 2 Vitesse
+VVV-Venlo 1 - 2 Heracles Almelo
+VVV-Venlo 0 - 0 FC Groningen
+VVV-Venlo 1 - 3 Heerenveen
+VVV-Venlo 0 - 1 Sparta Rotterdam
+VVV-Venlo 0 - 0 FC Emmen
+VVV-Venlo 0 - 0 FC Twente
+VVV-Venlo 1 - 3 PEC Zwolle
+VVV-Venlo 1 - 1 Fortuna Sittard
+VVV-Venlo 0 - 0 ADO Den Haag
+VVV-Venlo 0 - 2 RKC Waalwijk
+FC Twente 1 - 0 Ajax
+FC Twente 1 - 2 AZ
+FC Twente 2 - 0 Feyenoord
+FC Twente 0 - 2 PSV Eindhoven
+FC Twente 1 - 0 Willem II
+FC Twente 2 - 3 FC Utrecht
+FC Twente 0 - 0 Vitesse
+FC Twente 1 - 0 Heracles Almelo
+FC Twente 0 - 1 FC Groningen
+FC Twente 1 - 0 Heerenveen
+FC Twente 2 - 0 Sparta Rotterdam
+FC Twente 2 - 1 FC Emmen
+FC Twente 0 - 1 VVV-Venlo
+FC Twente 0 - 0 PEC Zwolle
+FC Twente 1 - 2 Fortuna Sittard
+FC Twente 2 - 2 ADO Den Haag
+FC Twente 1 - 2 RKC Waalwijk
+PEC Zwolle 2 - 2 Ajax
+PEC Zwolle 1 - 1 AZ
+PEC Zwolle 0 - 2 Feyenoord
+PEC Zwolle 1 - 1 PSV Eindhoven
+PEC Zwolle 2 - 0 Willem II
+PEC Zwolle 1 - 1 FC Utrecht
+PEC Zwolle 2 - 1 Vitesse
+PEC Zwolle 1 - 1 Heracles Almelo
+PEC Zwolle 0 - 2 FC Groningen
+PEC Zwolle 1 - 0 Heerenveen
+PEC Zwolle 2 - 2 Sparta Rotterdam
+PEC Zwolle 1 - 1 FC Emmen
+PEC Zwolle 1 - 1 VVV-Venlo
+PEC Zwolle 2 - 0 FC Twente
+PEC Zwolle 0 - 2 Fortuna Sittard
+PEC Zwolle 1 - 2 ADO Den Haag
+PEC Zwolle 1 - 0 RKC Waalwijk
+Fortuna Sittard 0 - 4 Ajax
+Fortuna Sittard 0 - 3 AZ
+Fortuna Sittard 0 - 3 Feyenoord
+Fortuna Sittard 1 - 1 PSV Eindhoven
+Fortuna Sittard 0 - 1 Willem II
+Fortuna Sittard 2 - 3 FC Utrecht
+Fortuna Sittard 0 - 3 Vitesse
+Fortuna Sittard 1 - 3 Heracles Almelo
+Fortuna Sittard 1 - 3 FC Groningen
+Fortuna Sittard 0 - 1 Heerenveen
+Fortuna Sittard 2 - 0 Sparta Rotterdam
+Fortuna Sittard 0 - 1 FC Emmen
+Fortuna Sittard 2 - 2 VVV-Venlo
+Fortuna Sittard 2 - 1 FC Twente
+Fortuna Sittard 0 - 0 PEC Zwolle
+Fortuna Sittard 2 - 1 ADO Den Haag
+Fortuna Sittard 2 - 2 RKC Waalwijk
+ADO Den Haag 0 - 2 Ajax
+ADO Den Haag 0 - 1 AZ
+ADO Den Haag 1 - 2 Feyenoord
+ADO Den Haag 0 - 1 PSV Eindhoven
+ADO Den Haag 0 - 3 Willem II
+ADO Den Haag 1 - 2 FC Utrecht
+ADO Den Haag 0 - 3 Vitesse
+ADO Den Haag 1 - 1 Heracles Almelo
+ADO Den Haag 0 - 1 FC Groningen
+ADO Den Haag 1 - 0 Heerenveen
+ADO Den Haag 0 - 0 Sparta Rotterdam
+ADO Den Haag 2 - 3 FC Emmen
+ADO Den Haag 2 - 1 VVV-Venlo
+ADO Den Haag 2 - 0 FC Twente
+ADO Den Haag 0 - 1 PEC Zwolle
+ADO Den Haag 2 - 1 Fortuna Sittard
+ADO Den Haag 0 - 2 RKC Waalwijk
+RKC Waalwijk 1 - 4 Ajax
+RKC Waalwijk 1 - 1 AZ
+RKC Waalwijk 1 - 2 Feyenoord
+RKC Waalwijk 1 - 2 PSV Eindhoven
+RKC Waalwijk 2 - 0 Willem II
+RKC Waalwijk 2 - 0 FC Utrecht
+RKC Waalwijk 1 - 3 Vitesse
+RKC Waalwijk 1 - 3 Heracles Almelo
+RKC Waalwijk 0 - 1 FC Groningen
+RKC Waalwijk 0 - 2 Heerenveen
+RKC Waalwijk 1 - 3 Sparta Rotterdam
+RKC Waalwijk 2 - 0 FC Emmen
+RKC Waalwijk 0 - 0 VVV-Venlo
+RKC Waalwijk 2 - 1 FC Twente
+RKC Waalwijk 1 - 3 PEC Zwolle
+RKC Waalwijk 0 - 0 Fortuna Sittard
+RKC Waalwijk 1 - 1 ADO Den Haag
+
+#---------------------------------
+#	 Season 213675
+#---------------------------------
+Ajax 3 - 2 AZ
+Ajax 1 - 2 Feyenoord
+Ajax 1 - 2 PSV Eindhoven
+Ajax 0 - 1 Willem II
+Ajax 1 - 2 FC Utrecht
+Ajax 3 - 1 Vitesse
+Ajax 0 - 1 Heracles Almelo
+Ajax 0 - 0 FC Groningen
+Ajax 4 - 1 Heerenveen
+Ajax 2 - 0 Sparta Rotterdam
+Ajax 1 - 0 FC Emmen
+Ajax 0 - 0 VVV-Venlo
+Ajax 0 - 0 FC Twente
+Ajax 3 - 1 PEC Zwolle
+Ajax 1 - 1 Fortuna Sittard
+Ajax 3 - 0 ADO Den Haag
+Ajax 4 - 0 RKC Waalwijk
+AZ 2 - 3 Ajax
+AZ 2 - 1 Feyenoord
+AZ 2 - 2 PSV Eindhoven
+AZ 0 - 0 Willem II
+AZ 1 - 2 FC Utrecht
+AZ 2 - 0 Vitesse
+AZ 1 - 1 Heracles Almelo
+AZ 2 - 0 FC Groningen
+AZ 0 - 0 Heerenveen
+AZ 3 - 0 Sparta Rotterdam
+AZ 1 - 1 FC Emmen
+AZ 2 - 0 VVV-Venlo
+AZ 2 - 0 FC Twente
+AZ 1 - 1 PEC Zwolle
+AZ 1 - 1 Fortuna Sittard
+AZ 0 - 0 ADO Den Haag
+AZ 2 - 0 RKC Waalwijk
+Feyenoord 2 - 0 Ajax
+Feyenoord 1 - 0 AZ
+Feyenoord 1 - 2 PSV Eindhoven
+Feyenoord 2 - 0 Willem II
+Feyenoord 1 - 1 FC Utrecht
+Feyenoord 1 - 1 Vitesse
+Feyenoord 2 - 0 Heracles Almelo
+Feyenoord 2 - 0 FC Groningen
+Feyenoord 1 - 1 Heerenveen
+Feyenoord 2 - 2 Sparta Rotterdam
+Feyenoord 2 - 1 FC Emmen
+Feyenoord 1 - 0 VVV-Venlo
+Feyenoord 3 - 1 FC Twente
+Feyenoord 2 - 1 PEC Zwolle
+Feyenoord 2 - 2 Fortuna Sittard
+Feyenoord 2 - 0 ADO Den Haag
+Feyenoord 3 - 0 RKC Waalwijk
+PSV Eindhoven 2 - 1 Ajax
+PSV Eindhoven 1 - 0 AZ
+PSV Eindhoven 2 - 0 Feyenoord
+PSV Eindhoven 0 - 0 Willem II
+PSV Eindhoven 1 - 1 FC Utrecht
+PSV Eindhoven 0 - 0 Vitesse
+PSV Eindhoven 2 - 0 Heracles Almelo
+PSV Eindhoven 0 - 0 FC Groningen
+PSV Eindhoven 0 - 1 Heerenveen
+PSV Eindhoven 3 - 2 Sparta Rotterdam
+PSV Eindhoven 1 - 0 FC Emmen
+PSV Eindhoven 3 - 0 VVV-Venlo
+PSV Eindhoven 1 - 2 FC Twente
+PSV Eindhoven 0 - 0 PEC Zwolle
+PSV Eindhoven 2 - 1 Fortuna Sittard
+PSV Eindhoven 2 - 0 ADO Den Haag
+PSV Eindhoven 3 - 0 RKC Waalwijk
+Willem II 1 - 0 Ajax
+Willem II 1 - 1 AZ
+Willem II 1 - 0 Feyenoord
+Willem II 1 - 1 PSV Eindhoven
+Willem II 0 - 2 FC Utrecht
+Willem II 1 - 2 Vitesse
+Willem II 0 - 1 Heracles Almelo
+Willem II 1 - 1 FC Groningen
+Willem II 2 - 2 Heerenveen
+Willem II 1 - 0 Sparta Rotterdam
+Willem II 2 - 1 FC Emmen
+Willem II 2 - 0 VVV-Venlo
+Willem II 2 - 2 FC Twente
+Willem II 0 - 2 PEC Zwolle
+Willem II 1 - 2 Fortuna Sittard
+Willem II 2 - 2 ADO Den Haag
+Willem II 1 - 0 RKC Waalwijk
+FC Utrecht 1 - 3 Ajax
+FC Utrecht 1 - 2 AZ
+FC Utrecht 0 - 2 Feyenoord
+FC Utrecht 1 - 3 PSV Eindhoven
+FC Utrecht 2 - 0 Willem II
+FC Utrecht 2 - 1 Vitesse
+FC Utrecht 3 - 1 Heracles Almelo
+FC Utrecht 2 - 0 FC Groningen
+FC Utrecht 2 - 1 Heerenveen
+FC Utrecht 2 - 2 Sparta Rotterdam
+FC Utrecht 2 - 1 FC Emmen
+FC Utrecht 2 - 0 VVV-Venlo
+FC Utrecht 2 - 1 FC Twente
+FC Utrecht 0 - 1 PEC Zwolle
+FC Utrecht 0 - 0 Fortuna Sittard
+FC Utrecht 0 - 0 ADO Den Haag
+FC Utrecht 2 - 2 RKC Waalwijk
+Vitesse 2 - 2 Ajax
+Vitesse 2 - 0 AZ
+Vitesse 2 - 2 Feyenoord
+Vitesse 1 - 2 PSV Eindhoven
+Vitesse 2 - 1 Willem II
+Vitesse 1 - 1 FC Utrecht
+Vitesse 0 - 1 Heracles Almelo
+Vitesse 0 - 0 FC Groningen
+Vitesse 0 - 0 Heerenveen
+Vitesse 1 - 1 Sparta Rotterdam
+Vitesse 1 - 2 FC Emmen
+Vitesse 0 - 0 VVV-Venlo
+Vitesse 0 - 1 FC Twente
+Vitesse 2 - 2 PEC Zwolle
+Vitesse 3 - 1 Fortuna Sittard
+Vitesse 0 - 0 ADO Den Haag
+Vitesse 3 - 0 RKC Waalwijk
+Heracles Almelo 1 - 1 Ajax
+Heracles Almelo 0 - 2 AZ
+Heracles Almelo 2 - 2 Feyenoord
+Heracles Almelo 0 - 2 PSV Eindhoven
+Heracles Almelo 2 - 0 Willem II
+Heracles Almelo 2 - 1 FC Utrecht
+Heracles Almelo 1 - 1 Vitesse
+Heracles Almelo 1 - 1 FC Groningen
+Heracles Almelo 0 - 2 Heerenveen
+Heracles Almelo 0 - 0 Sparta Rotterdam
+Heracles Almelo 1 - 2 FC Emmen
+Heracles Almelo 1 - 1 VVV-Venlo
+Heracles Almelo 0 - 0 FC Twente
+Heracles Almelo 1 - 2 PEC Zwolle
+Heracles Almelo 3 - 0 Fortuna Sittard
+Heracles Almelo 1 - 0 ADO Den Haag
+Heracles Almelo 2 - 2 RKC Waalwijk
+FC Groningen 0 - 2 Ajax
+FC Groningen 0 - 1 AZ
+FC Groningen 0 - 2 Feyenoord
+FC Groningen 0 - 2 PSV Eindhoven
+FC Groningen 0 - 0 Willem II
+FC Groningen 0 - 1 FC Utrecht
+FC Groningen 2 - 0 Vitesse
+FC Groningen 0 - 0 Heracles Almelo
+FC Groningen 1 - 0 Heerenveen
+FC Groningen 0 - 1 Sparta Rotterdam
+FC Groningen 1 - 1 FC Emmen
+FC Groningen 0 - 0 VVV-Venlo
+FC Groningen 2 - 1 FC Twente
+FC Groningen 1 - 0 PEC Zwolle
+FC Groningen 2 - 1 Fortuna Sittard
+FC Groningen 1 - 1 ADO Den Haag
+FC Groningen 2 - 1 RKC Waalwijk
+Heerenveen 0 - 3 Ajax
+Heerenveen 1 - 2 AZ
+Heerenveen 1 - 1 Feyenoord
+Heerenveen 1 - 2 PSV Eindhoven
+Heerenveen 2 - 0 Willem II
+Heerenveen 1 - 1 FC Utrecht
+Heerenveen 0 - 0 Vitesse
+Heerenveen 1 - 2 Heracles Almelo
+Heerenveen 1 - 0 FC Groningen
+Heerenveen 2 - 3 Sparta Rotterdam
+Heerenveen 0 - 0 FC Emmen
+Heerenveen 2 - 1 VVV-Venlo
+Heerenveen 2 - 1 FC Twente
+Heerenveen 0 - 0 PEC Zwolle
+Heerenveen 2 - 1 Fortuna Sittard
+Heerenveen 2 - 1 ADO Den Haag
+Heerenveen 3 - 0 RKC Waalwijk
+Sparta Rotterdam 1 - 1 Ajax
+Sparta Rotterdam 1 - 3 AZ
+Sparta Rotterdam 1 - 0 Feyenoord
+Sparta Rotterdam 2 - 0 PSV Eindhoven
+Sparta Rotterdam 2 - 2 Willem II
+Sparta Rotterdam 0 - 1 FC Utrecht
+Sparta Rotterdam 0 - 1 Vitesse
+Sparta Rotterdam 1 - 0 Heracles Almelo
+Sparta Rotterdam 2 - 0 FC Groningen
+Sparta Rotterdam 2 - 2 Heerenveen
+Sparta Rotterdam 1 - 0 FC Emmen
+Sparta Rotterdam 0 - 2 VVV-Venlo
+Sparta Rotterdam 3 - 2 FC Twente
+Sparta Rotterdam 0 - 1 PEC Zwolle
+Sparta Rotterdam 3 - 1 Fortuna Sittard
+Sparta Rotterdam 1 - 1 ADO Den Haag
+Sparta Rotterdam 2 - 0 RKC Waalwijk
+FC Emmen 0 - 1 Ajax
+FC Emmen 0 - 2 AZ
+FC Emmen 2 - 3 Feyenoord
+FC Emmen 0 - 0 PSV Eindhoven
+FC Emmen 1 - 2 Willem II
+FC Emmen 1 - 1 FC Utrecht
+FC Emmen 0 - 3 Vitesse
+FC Emmen 1 - 1 Heracles Almelo
+FC Emmen 1 - 1 FC Groningen
+FC Emmen 0 - 0 Heerenveen
+FC Emmen 2 - 2 Sparta Rotterdam
+FC Emmen 0 - 1 VVV-Venlo
+FC Emmen 0 - 2 FC Twente
+FC Emmen 3 - 0 PEC Zwolle
+FC Emmen 0 - 0 Fortuna Sittard
+FC Emmen 1 - 1 ADO Den Haag
+FC Emmen 2 - 0 RKC Waalwijk
+VVV-Venlo 1 - 0 Ajax
+VVV-Venlo 0 - 0 AZ
+VVV-Venlo 1 - 3 Feyenoord
+VVV-Venlo 1 - 0 PSV Eindhoven
+VVV-Venlo 0 - 1 Willem II
+VVV-Venlo 0 - 2 FC Utrecht
+VVV-Venlo 1 - 0 Vitesse
+VVV-Venlo 2 - 1 Heracles Almelo
+VVV-Venlo 1 - 0 FC Groningen
+VVV-Venlo 1 - 1 Heerenveen
+VVV-Venlo 0 - 2 Sparta Rotterdam
+VVV-Venlo 0 - 1 FC Emmen
+VVV-Venlo 1 - 0 FC Twente
+VVV-Venlo 2 - 2 PEC Zwolle
+VVV-Venlo 0 - 1 Fortuna Sittard
+VVV-Venlo 1 - 0 ADO Den Haag
+VVV-Venlo 1 - 0 RKC Waalwijk
+FC Twente 2 - 1 Ajax
+FC Twente 0 - 1 AZ
+FC Twente 2 - 0 Feyenoord
+FC Twente 0 - 2 PSV Eindhoven
+FC Twente 1 - 2 Willem II
+FC Twente 0 - 1 FC Utrecht
+FC Twente 0 - 2 Vitesse
+FC Twente 0 - 2 Heracles Almelo
+FC Twente 0 - 0 FC Groningen
+FC Twente 2 - 0 Heerenveen
+FC Twente 2 - 1 Sparta Rotterdam
+FC Twente 2 - 2 FC Emmen
+FC Twente 1 - 0 VVV-Venlo
+FC Twente 3 - 0 PEC Zwolle
+FC Twente 3 - 2 Fortuna Sittard
+FC Twente 3 - 1 ADO Den Haag
+FC Twente 3 - 0 RKC Waalwijk
+PEC Zwolle 0 - 2 Ajax
+PEC Zwolle 0 - 1 AZ
+PEC Zwolle 0 - 1 Feyenoord
+PEC Zwolle 0 - 2 PSV Eindhoven
+PEC Zwolle 0 - 2 Willem II
+PEC Zwolle 0 - 0 FC Utrecht
+PEC Zwolle 2 - 0 Vitesse
+PEC Zwolle 1 - 1 Heracles Almelo
+PEC Zwolle 0 - 0 FC Groningen
+PEC Zwolle 0 - 1 Heerenveen
+PEC Zwolle 0 - 2 Sparta Rotterdam
+PEC Zwolle 1 - 2 FC Emmen
+PEC Zwolle 0 - 1 VVV-Venlo
+PEC Zwolle 0 - 0 FC Twente
+PEC Zwolle 2 - 1 Fortuna Sittard
+PEC Zwolle 2 - 2 ADO Den Haag
+PEC Zwolle 2 - 2 RKC Waalwijk
+Fortuna Sittard 1 - 3 Ajax
+Fortuna Sittard 1 - 4 AZ
+Fortuna Sittard 0 - 2 Feyenoord
+Fortuna Sittard 2 - 1 PSV Eindhoven
+Fortuna Sittard 0 - 1 Willem II
+Fortuna Sittard 1 - 1 FC Utrecht
+Fortuna Sittard 1 - 3 Vitesse
+Fortuna Sittard 1 - 1 Heracles Almelo
+Fortuna Sittard 1 - 1 FC Groningen
+Fortuna Sittard 0 - 2 Heerenveen
+Fortuna Sittard 0 - 2 Sparta Rotterdam
+Fortuna Sittard 0 - 1 FC Emmen
+Fortuna Sittard 0 - 1 VVV-Venlo
+Fortuna Sittard 0 - 0 FC Twente
+Fortuna Sittard 2 - 2 PEC Zwolle
+Fortuna Sittard 2 - 0 ADO Den Haag
+Fortuna Sittard 2 - 0 RKC Waalwijk
+ADO Den Haag 1 - 3 Ajax
+ADO Den Haag 1 - 0 AZ
+ADO Den Haag 0 - 2 Feyenoord
+ADO Den Haag 0 - 3 PSV Eindhoven
+ADO Den Haag 0 - 0 Willem II
+ADO Den Haag 0 - 3 FC Utrecht
+ADO Den Haag 0 - 1 Vitesse
+ADO Den Haag 1 - 0 Heracles Almelo
+ADO Den Haag 1 - 0 FC Groningen
+ADO Den Haag 1 - 3 Heerenveen
+ADO Den Haag 1 - 0 Sparta Rotterdam
+ADO Den Haag 1 - 0 FC Emmen
+ADO Den Haag 2 - 1 VVV-Venlo
+ADO Den Haag 0 - 3 FC Twente
+ADO Den Haag 1 - 1 PEC Zwolle
+ADO Den Haag 1 - 1 Fortuna Sittard
+ADO Den Haag 2 - 0 RKC Waalwijk
+RKC Waalwijk 0 - 4 Ajax
+RKC Waalwijk 0 - 3 AZ
+RKC Waalwijk 0 - 3 Feyenoord
+RKC Waalwijk 0 - 1 PSV Eindhoven
+RKC Waalwijk 0 - 3 Willem II
+RKC Waalwijk 1 - 2 FC Utrecht
+RKC Waalwijk 0 - 3 Vitesse
+RKC Waalwijk 0 - 2 Heracles Almelo
+RKC Waalwijk 0 - 2 FC Groningen
+RKC Waalwijk 1 - 2 Heerenveen
+RKC Waalwijk 1 - 2 Sparta Rotterdam
+RKC Waalwijk 0 - 2 FC Emmen
+RKC Waalwijk 1 - 2 VVV-Venlo
+RKC Waalwijk 0 - 1 FC Twente
+RKC Waalwijk 1 - 3 PEC Zwolle
+RKC Waalwijk 2 - 2 Fortuna Sittard
+RKC Waalwijk 0 - 2 ADO Den Haag
+
+#---------------------------------
+#	 Season 256227
+#---------------------------------
+Ajax 1 - 1 AZ
+Ajax 0 - 2 Feyenoord
+Ajax 0 - 2 PSV Eindhoven
+Ajax 1 - 1 Willem II
+Ajax 2 - 2 FC Utrecht
+Ajax 0 - 2 Vitesse
+Ajax 0 - 1 Heracles Almelo
+Ajax 1 - 0 FC Groningen
+Ajax 0 - 1 Heerenveen
+Ajax 3 - 0 Sparta Rotterdam
+Ajax 3 - 1 FC Emmen
+Ajax 1 - 1 VVV-Venlo
+Ajax 2 - 1 FC Twente
+Ajax 4 - 0 PEC Zwolle
+Ajax 2 - 1 Fortuna Sittard
+Ajax 3 - 1 ADO Den Haag
+Ajax 3 - 1 RKC Waalwijk
+AZ 1 - 0 Ajax
+AZ 0 - 2 Feyenoord
+AZ 1 - 0 PSV Eindhoven
+AZ 0 - 0 Willem II
+AZ 2 - 1 FC Utrecht
+AZ 1 - 1 Vitesse
+AZ 3 - 0 Heracles Almelo
+AZ 1 - 0 FC Groningen
+AZ 1 - 1 Heerenveen
+AZ 3 - 0 Sparta Rotterdam
+AZ 0 - 0 FC Emmen
+AZ 0 - 0 VVV-Venlo
+AZ 0 - 0 FC Twente
+AZ 3 - 0 PEC Zwolle
+AZ 0 - 0 Fortuna Sittard
+AZ 0 - 0 ADO Den Haag
+AZ 4 - 0 RKC Waalwijk
+Feyenoord 2 - 0 Ajax
+Feyenoord 0 - 0 AZ
+Feyenoord 2 - 2 PSV Eindhoven
+Feyenoord 0 - 0 Willem II
+Feyenoord 0 - 2 FC Utrecht
+Feyenoord 0 - 0 Vitesse
+Feyenoord 2 - 2 Heracles Almelo
+Feyenoord 2 - 0 FC Groningen
+Feyenoord 0 - 0 Heerenveen
+Feyenoord 0 - 1 Sparta Rotterdam
+Feyenoord 1 - 0 FC Emmen
+Feyenoord 0 - 1 VVV-Venlo
+Feyenoord 3 - 0 FC Twente
+Feyenoord 0 - 2 PEC Zwolle
+Feyenoord 1 - 1 Fortuna Sittard
+Feyenoord 2 - 0 ADO Den Haag
+Feyenoord 2 - 1 RKC Waalwijk
+PSV Eindhoven 0 - 0 Ajax
+PSV Eindhoven 0 - 0 AZ
+PSV Eindhoven 2 - 0 Feyenoord
+PSV Eindhoven 0 - 2 Willem II
+PSV Eindhoven 0 - 1 FC Utrecht
+PSV Eindhoven 0 - 0 Vitesse
+PSV Eindhoven 2 - 2 Heracles Almelo
+PSV Eindhoven 1 - 2 FC Groningen
+PSV Eindhoven 3 - 2 Heerenveen
+PSV Eindhoven 0 - 1 Sparta Rotterdam
+PSV Eindhoven 0 - 1 FC Emmen
+PSV Eindhoven 0 - 0 VVV-Venlo
+PSV Eindhoven 0 - 1 FC Twente
+PSV Eindhoven 1 - 1 PEC Zwolle
+PSV Eindhoven 3 - 1 Fortuna Sittard
+PSV Eindhoven 0 - 1 ADO Den Haag
+PSV Eindhoven 2 - 0 RKC Waalwijk
+Willem II 1 - 1 Ajax
+Willem II 0 - 0 AZ
+Willem II 1 - 2 Feyenoord
+Willem II 1 - 1 PSV Eindhoven
+Willem II 2 - 2 FC Utrecht
+Willem II 1 - 2 Vitesse
+Willem II 1 - 0 Heracles Almelo
+Willem II 0 - 0 FC Groningen
+Willem II 1 - 1 Heerenveen
+Willem II 0 - 0 Sparta Rotterdam
+Willem II 0 - 0 FC Emmen
+Willem II 0 - 1 VVV-Venlo
+Willem II 3 - 2 FC Twente
+Willem II 2 - 1 PEC Zwolle
+Willem II 3 - 1 Fortuna Sittard
+Willem II 1 - 0 ADO Den Haag
+Willem II 2 - 0 RKC Waalwijk
+FC Utrecht 1 - 0 Ajax
+FC Utrecht 2 - 3 AZ
+FC Utrecht 1 - 0 Feyenoord
+FC Utrecht 0 - 2 PSV Eindhoven
+FC Utrecht 0 - 1 Willem II
+FC Utrecht 0 - 1 Vitesse
+FC Utrecht 0 - 0 Heracles Almelo
+FC Utrecht 0 - 1 FC Groningen
+FC Utrecht 0 - 1 Heerenveen
+FC Utrecht 2 - 1 Sparta Rotterdam
+FC Utrecht 0 - 0 FC Emmen
+FC Utrecht 1 - 0 VVV-Venlo
+FC Utrecht 0 - 1 FC Twente
+FC Utrecht 0 - 2 PEC Zwolle
+FC Utrecht 1 - 0 Fortuna Sittard
+FC Utrecht 1 - 2 ADO Den Haag
+FC Utrecht 0 - 0 RKC Waalwijk
+Vitesse 2 - 4 Ajax
+Vitesse 1 - 2 AZ
+Vitesse 0 - 0 Feyenoord
+Vitesse 0 - 1 PSV Eindhoven
+Vitesse 1 - 1 Willem II
+Vitesse 2 - 1 FC Utrecht
+Vitesse 2 - 1 Heracles Almelo
+Vitesse 1 - 0 FC Groningen
+Vitesse 0 - 2 Heerenveen
+Vitesse 2 - 0 Sparta Rotterdam
+Vitesse 0 - 0 FC Emmen
+Vitesse 2 - 1 VVV-Venlo
+Vitesse 2 - 0 FC Twente
+Vitesse 3 - 0 PEC Zwolle
+Vitesse 0 - 1 Fortuna Sittard
+Vitesse 0 - 0 ADO Den Haag
+Vitesse 0 - 2 RKC Waalwijk
+Heracles Almelo 1 - 1 Ajax
+Heracles Almelo 0 - 1 AZ
+Heracles Almelo 1 - 1 Feyenoord
+Heracles Almelo 0 - 1 PSV Eindhoven
+Heracles Almelo 2 - 1 Willem II
+Heracles Almelo 1 - 1 FC Utrecht
+Heracles Almelo 2 - 2 Vitesse
+Heracles Almelo 0 - 0 FC Groningen
+Heracles Almelo 0 - 1 Heerenveen
+Heracles Almelo 0 - 0 Sparta Rotterdam
+Heracles Almelo 0 - 1 FC Emmen
+Heracles Almelo 0 - 2 VVV-Venlo
+Heracles Almelo 3 - 2 FC Twente
+Heracles Almelo 0 - 2 PEC Zwolle
+Heracles Almelo 1 - 1 Fortuna Sittard
+Heracles Almelo 2 - 1 ADO Den Haag
+Heracles Almelo 1 - 2 RKC Waalwijk
+FC Groningen 0 - 0 Ajax
+FC Groningen 0 - 2 AZ
+FC Groningen 0 - 1 Feyenoord
+FC Groningen 1 - 2 PSV Eindhoven
+FC Groningen 0 - 0 Willem II
+FC Groningen 2 - 0 FC Utrecht
+FC Groningen 0 - 0 Vitesse
+FC Groningen 2 - 0 Heracles Almelo
+FC Groningen 1 - 1 Heerenveen
+FC Groningen 2 - 0 Sparta Rotterdam
+FC Groningen 2 - 1 FC Emmen
+FC Groningen 0 - 0 VVV-Venlo
+FC Groningen 1 - 1 FC Twente
+FC Groningen 0 - 1 PEC Zwolle
+FC Groningen 0 - 0 Fortuna Sittard
+FC Groningen 0 - 1 ADO Den Haag
+FC Groningen 0 - 1 RKC Waalwijk
+Heerenveen 1 - 1 Ajax
+Heerenveen 2 - 0 AZ
+Heerenveen 1 - 2 Feyenoord
+Heerenveen 0 - 0 PSV Eindhoven
+Heerenveen 0 - 0 Willem II
+Heerenveen 0 - 2 FC Utrecht
+Heerenveen 1 - 3 Vitesse
+Heerenveen 2 - 0 Heracles Almelo
+Heerenveen 0 - 0 FC Groningen
+Heerenveen 2 - 0 Sparta Rotterdam
+Heerenveen 0 - 0 FC Emmen
+Heerenveen 3 - 2 VVV-Venlo
+Heerenveen 0 - 1 FC Twente
+Heerenveen 0 - 1 PEC Zwolle
+Heerenveen 2 - 0 Fortuna Sittard
+Heerenveen 0 - 2 ADO Den Haag
+Heerenveen 0 - 1 RKC Waalwijk
+Sparta Rotterdam 1 - 3 Ajax
+Sparta Rotterdam 0 - 1 AZ
+Sparta Rotterdam 0 - 0 Feyenoord
+Sparta Rotterdam 0 - 2 PSV Eindhoven
+Sparta Rotterdam 1 - 0 Willem II
+Sparta Rotterdam 0 - 3 FC Utrecht
+Sparta Rotterdam 2 - 0 Vitesse
+Sparta Rotterdam 2 - 2 Heracles Almelo
+Sparta Rotterdam 0 - 0 FC Groningen
+Sparta Rotterdam 0 - 3 Heerenveen
+Sparta Rotterdam 2 - 1 FC Emmen
+Sparta Rotterdam 1 - 2 VVV-Venlo
+Sparta Rotterdam 0 - 0 FC Twente
+Sparta Rotterdam 2 - 2 PEC Zwolle
+Sparta Rotterdam 1 - 2 Fortuna Sittard
+Sparta Rotterdam 3 - 0 ADO Den Haag
+Sparta Rotterdam 1 - 0 RKC Waalwijk
+FC Emmen 0 - 0 Ajax
+FC Emmen 0 - 2 AZ
+FC Emmen 2 - 2 Feyenoord
+FC Emmen 0 - 1 PSV Eindhoven
+FC Emmen 1 - 2 Willem II
+FC Emmen 2 - 1 FC Utrecht
+FC Emmen 1 - 2 Vitesse
+FC Emmen 1 - 3 Heracles Almelo
+FC Emmen 0 - 0 FC Groningen
+FC Emmen 1 - 0 Heerenveen
+FC Emmen 2 - 0 Sparta Rotterdam
+FC Emmen 1 - 0 VVV-Venlo
+FC Emmen 1 - 2 FC Twente
+FC Emmen 1 - 1 PEC Zwolle
+FC Emmen 0 - 1 Fortuna Sittard
+FC Emmen 0 - 2 ADO Den Haag
+FC Emmen 1 - 2 RKC Waalwijk
+VVV-Venlo 1 - 2 Ajax
+VVV-Venlo 0 - 1 AZ
+VVV-Venlo 0 - 2 Feyenoord
+VVV-Venlo 1 - 1 PSV Eindhoven
+VVV-Venlo 1 - 1 Willem II
+VVV-Venlo 0 - 2 FC Utrecht
+VVV-Venlo 1 - 2 Vitesse
+VVV-Venlo 2 - 2 Heracles Almelo
+VVV-Venlo 1 - 2 FC Groningen
+VVV-Venlo 1 - 0 Heerenveen
+VVV-Venlo 1 - 0 Sparta Rotterdam
+VVV-Venlo 1 - 3 FC Emmen
+VVV-Venlo 0 - 0 FC Twente
+VVV-Venlo 0 - 2 PEC Zwolle
+VVV-Venlo 1 - 0 Fortuna Sittard
+VVV-Venlo 2 - 2 ADO Den Haag
+VVV-Venlo 2 - 2 RKC Waalwijk
+FC Twente 2 - 0 Ajax
+FC Twente 0 - 2 AZ
+FC Twente 2 - 0 Feyenoord
+FC Twente 1 - 1 PSV Eindhoven
+FC Twente 1 - 0 Willem II
+FC Twente 0 - 2 FC Utrecht
+FC Twente 1 - 2 Vitesse
+FC Twente 1 - 1 Heracles Almelo
+FC Twente 1 - 0 FC Groningen
+FC Twente 1 - 0 Heerenveen
+FC Twente 0 - 2 Sparta Rotterdam
+FC Twente 2 - 1 FC Emmen
+FC Twente 0 - 0 VVV-Venlo
+FC Twente 1 - 0 PEC Zwolle
+FC Twente 3 - 2 Fortuna Sittard
+FC Twente 2 - 0 ADO Den Haag
+FC Twente 3 - 2 RKC Waalwijk
+PEC Zwolle 1 - 4 Ajax
+PEC Zwolle 0 - 0 AZ
+PEC Zwolle 2 - 1 Feyenoord
+PEC Zwolle 1 - 0 PSV Eindhoven
+PEC Zwolle 1 - 2 Willem II
+PEC Zwolle 2 - 2 FC Utrecht
+PEC Zwolle 1 - 0 Vitesse
+PEC Zwolle 0 - 3 Heracles Almelo
+PEC Zwolle 0 - 1 FC Groningen
+PEC Zwolle 1 - 2 Heerenveen
+PEC Zwolle 1 - 1 Sparta Rotterdam
+PEC Zwolle 0 - 2 FC Emmen
+PEC Zwolle 2 - 2 VVV-Venlo
+PEC Zwolle 1 - 0 FC Twente
+PEC Zwolle 1 - 2 Fortuna Sittard
+PEC Zwolle 1 - 2 ADO Den Haag
+PEC Zwolle 3 - 1 RKC Waalwijk
+Fortuna Sittard 0 - 3 Ajax
+Fortuna Sittard 0 - 3 AZ
+Fortuna Sittard 0 - 0 Feyenoord
+Fortuna Sittard 1 - 0 PSV Eindhoven
+Fortuna Sittard 2 - 0 Willem II
+Fortuna Sittard 1 - 2 FC Utrecht
+Fortuna Sittard 1 - 1 Vitesse
+Fortuna Sittard 0 - 3 Heracles Almelo
+Fortuna Sittard 1 - 0 FC Groningen
+Fortuna Sittard 2 - 1 Heerenveen
+Fortuna Sittard 0 - 1 Sparta Rotterdam
+Fortuna Sittard 1 - 2 FC Emmen
+Fortuna Sittard 1 - 2 VVV-Venlo
+Fortuna Sittard 2 - 1 FC Twente
+Fortuna Sittard 1 - 3 PEC Zwolle
+Fortuna Sittard 0 - 0 ADO Den Haag
+Fortuna Sittard 2 - 0 RKC Waalwijk
+ADO Den Haag 0 - 2 Ajax
+ADO Den Haag 1 - 1 AZ
+ADO Den Haag 0 - 0 Feyenoord
+ADO Den Haag 0 - 0 PSV Eindhoven
+ADO Den Haag 0 - 0 Willem II
+ADO Den Haag 2 - 0 FC Utrecht
+ADO Den Haag 1 - 0 Vitesse
+ADO Den Haag 0 - 2 Heracles Almelo
+ADO Den Haag 0 - 0 FC Groningen
+ADO Den Haag 0 - 1 Heerenveen
+ADO Den Haag 0 - 2 Sparta Rotterdam
+ADO Den Haag 0 - 1 FC Emmen
+ADO Den Haag 1 - 1 VVV-Venlo
+ADO Den Haag 1 - 3 FC Twente
+ADO Den Haag 1 - 3 PEC Zwolle
+ADO Den Haag 2 - 2 Fortuna Sittard
+ADO Den Haag 2 - 1 RKC Waalwijk
+RKC Waalwijk 0 - 2 Ajax
+RKC Waalwijk 1 - 0 AZ
+RKC Waalwijk 2 - 2 Feyenoord
+RKC Waalwijk 0 - 0 PSV Eindhoven
+RKC Waalwijk 0 - 1 Willem II
+RKC Waalwijk 1 - 1 FC Utrecht
+RKC Waalwijk 1 - 1 Vitesse
+RKC Waalwijk 0 - 3 Heracles Almelo
+RKC Waalwijk 1 - 0 FC Groningen
+RKC Waalwijk 0 - 1 Heerenveen
+RKC Waalwijk 2 - 1 Sparta Rotterdam
+RKC Waalwijk 1 - 1 FC Emmen
+RKC Waalwijk 0 - 2 VVV-Venlo
+RKC Waalwijk 2 - 0 FC Twente
+RKC Waalwijk 1 - 1 PEC Zwolle
+RKC Waalwijk 0 - 0 Fortuna Sittard
+RKC Waalwijk 1 - 0 ADO Den Haag
+
+#---------------------------------
+#	 Season 390671
+#---------------------------------
+Ajax 0 - 1 AZ
+Ajax 3 - 2 Feyenoord
+Ajax 1 - 0 PSV Eindhoven
+Ajax 0 - 1 Willem II
+Ajax 3 - 2 FC Utrecht
+Ajax 0 - 1 Vitesse
+Ajax 3 - 1 Heracles Almelo
+Ajax 0 - 1 FC Groningen
+Ajax 3 - 1 Heerenveen
+Ajax 2 - 1 Sparta Rotterdam
+Ajax 0 - 1 FC Emmen
+Ajax 3 - 0 VVV-Venlo
+Ajax 2 - 1 FC Twente
+Ajax 2 - 1 PEC Zwolle
+Ajax 3 - 0 Fortuna Sittard
+Ajax 1 - 0 ADO Den Haag
+Ajax 4 - 0 RKC Waalwijk
+AZ 2 - 1 Ajax
+AZ 0 - 2 Feyenoord
+AZ 2 - 0 PSV Eindhoven
+AZ 0 - 0 Willem II
+AZ 1 - 2 FC Utrecht
+AZ 0 - 1 Vitesse
+AZ 0 - 1 Heracles Almelo
+AZ 0 - 1 FC Groningen
+AZ 2 - 1 Heerenveen
+AZ 1 - 2 Sparta Rotterdam
+AZ 2 - 0 FC Emmen
+AZ 2 - 0 VVV-Venlo
+AZ 0 - 1 FC Twente
+AZ 3 - 0 PEC Zwolle
+AZ 3 - 0 Fortuna Sittard
+AZ 1 - 1 ADO Den Haag
+AZ 3 - 1 RKC Waalwijk
+Feyenoord 2 - 2 Ajax
+Feyenoord 2 - 3 AZ
+Feyenoord 1 - 0 PSV Eindhoven
+Feyenoord 1 - 2 Willem II
+Feyenoord 1 - 3 FC Utrecht
+Feyenoord 0 - 2 Vitesse
+Feyenoord 2 - 1 Heracles Almelo
+Feyenoord 1 - 0 FC Groningen
+Feyenoord 2 - 2 Heerenveen
+Feyenoord 0 - 0 Sparta Rotterdam
+Feyenoord 2 - 1 FC Emmen
+Feyenoord 3 - 0 VVV-Venlo
+Feyenoord 2 - 0 FC Twente
+Feyenoord 1 - 1 PEC Zwolle
+Feyenoord 1 - 1 Fortuna Sittard
+Feyenoord 2 - 0 ADO Den Haag
+Feyenoord 3 - 1 RKC Waalwijk
+PSV Eindhoven 0 - 1 Ajax
+PSV Eindhoven 2 - 2 AZ
+PSV Eindhoven 0 - 0 Feyenoord
+PSV Eindhoven 1 - 1 Willem II
+PSV Eindhoven 0 - 2 FC Utrecht
+PSV Eindhoven 1 - 0 Vitesse
+PSV Eindhoven 3 - 0 Heracles Almelo
+PSV Eindhoven 2 - 1 FC Groningen
+PSV Eindhoven 3 - 1 Heerenveen
+PSV Eindhoven 2 - 1 Sparta Rotterdam
+PSV Eindhoven 3 - 0 FC Emmen
+PSV Eindhoven 2 - 1 VVV-Venlo
+PSV Eindhoven 0 - 0 FC Twente
+PSV Eindhoven 3 - 2 PEC Zwolle
+PSV Eindhoven 2 - 1 Fortuna Sittard
+PSV Eindhoven 1 - 1 ADO Den Haag
+PSV Eindhoven 0 - 0 RKC Waalwijk
+Willem II 1 - 0 Ajax
+Willem II 0 - 3 AZ
+Willem II 1 - 2 Feyenoord
+Willem II 1 - 0 PSV Eindhoven
+Willem II 0 - 0 FC Utrecht
+Willem II 2 - 1 Vitesse
+Willem II 0 - 0 Heracles Almelo
+Willem II 2 - 1 FC Groningen
+Willem II 2 - 2 Heerenveen
+Willem II 2 - 0 Sparta Rotterdam
+Willem II 1 - 1 FC Emmen
+Willem II 2 - 0 VVV-Venlo
+Willem II 1 - 1 FC Twente
+Willem II 1 - 1 PEC Zwolle
+Willem II 0 - 1 Fortuna Sittard
+Willem II 1 - 1 ADO Den Haag
+Willem II 0 - 1 RKC Waalwijk
+FC Utrecht 1 - 2 Ajax
+FC Utrecht 1 - 3 AZ
+FC Utrecht 3 - 2 Feyenoord
+FC Utrecht 0 - 3 PSV Eindhoven
+FC Utrecht 0 - 1 Willem II
+FC Utrecht 2 - 2 Vitesse
+FC Utrecht 3 - 1 Heracles Almelo
+FC Utrecht 2 - 2 FC Groningen
+FC Utrecht 2 - 1 Heerenveen
+FC Utrecht 3 - 2 Sparta Rotterdam
+FC Utrecht 2 - 1 FC Emmen
+FC Utrecht 1 - 0 VVV-Venlo
+FC Utrecht 1 - 2 FC Twente
+FC Utrecht 2 - 2 PEC Zwolle
+FC Utrecht 3 - 2 Fortuna Sittard
+FC Utrecht 3 - 2 ADO Den Haag
+FC Utrecht 1 - 1 RKC Waalwijk
+Vitesse 1 - 0 Ajax
+Vitesse 2 - 3 AZ
+Vitesse 2 - 3 Feyenoord
+Vitesse 2 - 2 PSV Eindhoven
+Vitesse 2 - 0 Willem II
+Vitesse 1 - 2 FC Utrecht
+Vitesse 2 - 2 Heracles Almelo
+Vitesse 2 - 0 FC Groningen
+Vitesse 2 - 2 Heerenveen
+Vitesse 3 - 0 Sparta Rotterdam
+Vitesse 3 - 2 FC Emmen
+Vitesse 1 - 1 VVV-Venlo
+Vitesse 1 - 0 FC Twente
+Vitesse 0 - 0 PEC Zwolle
+Vitesse 0 - 0 Fortuna Sittard
+Vitesse 2 - 1 ADO Den Haag
+Vitesse 1 - 0 RKC Waalwijk
+Heracles Almelo 2 - 2 Ajax
+Heracles Almelo 0 - 2 AZ
+Heracles Almelo 1 - 3 Feyenoord
+Heracles Almelo 2 - 0 PSV Eindhoven
+Heracles Almelo 2 - 0 Willem II
+Heracles Almelo 1 - 2 FC Utrecht
+Heracles Almelo 0 - 2 Vitesse
+Heracles Almelo 0 - 1 FC Groningen
+Heracles Almelo 0 - 0 Heerenveen
+Heracles Almelo 0 - 0 Sparta Rotterdam
+Heracles Almelo 2 - 1 FC Emmen
+Heracles Almelo 3 - 0 VVV-Venlo
+Heracles Almelo 1 - 2 FC Twente
+Heracles Almelo 2 - 1 PEC Zwolle
+Heracles Almelo 1 - 1 Fortuna Sittard
+Heracles Almelo 2 - 2 ADO Den Haag
+Heracles Almelo 2 - 0 RKC Waalwijk
+FC Groningen 0 - 0 Ajax
+FC Groningen 0 - 2 AZ
+FC Groningen 0 - 2 Feyenoord
+FC Groningen 0 - 2 PSV Eindhoven
+FC Groningen 2 - 0 Willem II
+FC Groningen 0 - 2 FC Utrecht
+FC Groningen 1 - 1 Vitesse
+FC Groningen 0 - 1 Heracles Almelo
+FC Groningen 0 - 1 Heerenveen
+FC Groningen 1 - 0 Sparta Rotterdam
+FC Groningen 1 - 0 FC Emmen
+FC Groningen 2 - 1 VVV-Venlo
+FC Groningen 0 - 1 FC Twente
+FC Groningen 0 - 0 PEC Zwolle
+FC Groningen 1 - 0 Fortuna Sittard
+FC Groningen 1 - 1 ADO Den Haag
+FC Groningen 0 - 1 RKC Waalwijk
+Heerenveen 1 - 0 Ajax
+Heerenveen 0 - 0 AZ
+Heerenveen 1 - 0 Feyenoord
+Heerenveen 0 - 3 PSV Eindhoven
+Heerenveen 2 - 2 Willem II
+Heerenveen 0 - 2 FC Utrecht
+Heerenveen 0 - 0 Vitesse
+Heerenveen 1 - 3 Heracles Almelo
+Heerenveen 1 - 2 FC Groningen
+Heerenveen 0 - 1 Sparta Rotterdam
+Heerenveen 2 - 2 FC Emmen
+Heerenveen 0 - 0 VVV-Venlo
+Heerenveen 2 - 2 FC Twente
+Heerenveen 2 - 2 PEC Zwolle
+Heerenveen 1 - 1 Fortuna Sittard
+Heerenveen 2 - 1 ADO Den Haag
+Heerenveen 2 - 0 RKC Waalwijk
+Sparta Rotterdam 1 - 0 Ajax
+Sparta Rotterdam 0 - 3 AZ
+Sparta Rotterdam 0 - 1 Feyenoord
+Sparta Rotterdam 2 - 2 PSV Eindhoven
+Sparta Rotterdam 1 - 0 Willem II
+Sparta Rotterdam 2 - 2 FC Utrecht
+Sparta Rotterdam 1 - 3 Vitesse
+Sparta Rotterdam 2 - 1 Heracles Almelo
+Sparta Rotterdam 2 - 1 FC Groningen
+Sparta Rotterdam 0 - 1 Heerenveen
+Sparta Rotterdam 3 - 2 FC Emmen
+Sparta Rotterdam 2 - 0 VVV-Venlo
+Sparta Rotterdam 1 - 2 FC Twente
+Sparta Rotterdam 1 - 0 PEC Zwolle
+Sparta Rotterdam 1 - 0 Fortuna Sittard
+Sparta Rotterdam 0 - 1 ADO Den Haag
+Sparta Rotterdam 0 - 0 RKC Waalwijk
+FC Emmen 1 - 2 Ajax
+FC Emmen 1 - 1 AZ
+FC Emmen 2 - 2 Feyenoord
+FC Emmen 1 - 0 PSV Eindhoven
+FC Emmen 1 - 0 Willem II
+FC Emmen 1 - 0 FC Utrecht
+FC Emmen 0 - 3 Vitesse
+FC Emmen 0 - 2 Heracles Almelo
+FC Emmen 1 - 0 FC Groningen
+FC Emmen 1 - 0 Heerenveen
+FC Emmen 0 - 3 Sparta Rotterdam
+FC Emmen 0 - 0 VVV-Venlo
+FC Emmen 1 - 0 FC Twente
+FC Emmen 0 - 2 PEC Zwolle
+FC Emmen 0 - 0 Fortuna Sittard
+FC Emmen 0 - 0 ADO Den Haag
+FC Emmen 1 - 1 RKC Waalwijk
+VVV-Venlo 0 - 1 Ajax
+VVV-Venlo 1 - 1 AZ
+VVV-Venlo 1 - 1 Feyenoord
+VVV-Venlo 1 - 3 PSV Eindhoven
+VVV-Venlo 0 - 2 Willem II
+VVV-Venlo 0 - 1 FC Utrecht
+VVV-Venlo 1 - 1 Vitesse
+VVV-Venlo 0 - 2 Heracles Almelo
+VVV-Venlo 1 - 2 FC Groningen
+VVV-Venlo 0 - 3 Heerenveen
+VVV-Venlo 0 - 1 Sparta Rotterdam
+VVV-Venlo 0 - 2 FC Emmen
+VVV-Venlo 2 - 2 FC Twente
+VVV-Venlo 1 - 3 PEC Zwolle
+VVV-Venlo 2 - 0 Fortuna Sittard
+VVV-Venlo 0 - 1 ADO Den Haag
+VVV-Venlo 1 - 2 RKC Waalwijk
+FC Twente 1 - 3 Ajax
+FC Twente 0 - 0 AZ
+FC Twente 1 - 3 Feyenoord
+FC Twente 0 - 0 PSV Eindhoven
+FC Twente 1 - 2 Willem II
+FC Twente 2 - 0 FC Utrecht
+FC Twente 1 - 2 Vitesse
+FC Twente 1 - 1 Heracles Almelo
+FC Twente 1 - 0 FC Groningen
+FC Twente 0 - 2 Heerenveen
+FC Twente 0 - 2 Sparta Rotterdam
+FC Twente 0 - 0 FC Emmen
+FC Twente 1 - 2 VVV-Venlo
+FC Twente 3 - 0 PEC Zwolle
+FC Twente 0 - 0 Fortuna Sittard
+FC Twente 1 - 2 ADO Den Haag
+FC Twente 2 - 1 RKC Waalwijk
+PEC Zwolle 2 - 1 Ajax
+PEC Zwolle 1 - 1 AZ
+PEC Zwolle 1 - 0 Feyenoord
+PEC Zwolle 1 - 3 PSV Eindhoven
+PEC Zwolle 2 - 1 Willem II
+PEC Zwolle 2 - 3 FC Utrecht
+PEC Zwolle 0 - 3 Vitesse
+PEC Zwolle 0 - 1 Heracles Almelo
+PEC Zwolle 1 - 0 FC Groningen
+PEC Zwolle 0 - 3 Heerenveen
+PEC Zwolle 2 - 2 Sparta Rotterdam
+PEC Zwolle 2 - 0 FC Emmen
+PEC Zwolle 2 - 1 VVV-Venlo
+PEC Zwolle 0 - 0 FC Twente
+PEC Zwolle 0 - 1 Fortuna Sittard
+PEC Zwolle 0 - 2 ADO Den Haag
+PEC Zwolle 1 - 0 RKC Waalwijk
+Fortuna Sittard 1 - 1 Ajax
+Fortuna Sittard 1 - 1 AZ
+Fortuna Sittard 1 - 0 Feyenoord
+Fortuna Sittard 0 - 1 PSV Eindhoven
+Fortuna Sittard 0 - 2 Willem II
+Fortuna Sittard 0 - 2 FC Utrecht
+Fortuna Sittard 1 - 0 Vitesse
+Fortuna Sittard 1 - 2 Heracles Almelo
+Fortuna Sittard 0 - 1 FC Groningen
+Fortuna Sittard 2 - 3 Heerenveen
+Fortuna Sittard 2 - 1 Sparta Rotterdam
+Fortuna Sittard 1 - 1 FC Emmen
+Fortuna Sittard 2 - 2 VVV-Venlo
+Fortuna Sittard 0 - 1 FC Twente
+Fortuna Sittard 2 - 0 PEC Zwolle
+Fortuna Sittard 0 - 2 ADO Den Haag
+Fortuna Sittard 1 - 2 RKC Waalwijk
+ADO Den Haag 0 - 4 Ajax
+ADO Den Haag 0 - 1 AZ
+ADO Den Haag 0 - 3 Feyenoord
+ADO Den Haag 1 - 1 PSV Eindhoven
+ADO Den Haag 1 - 0 Willem II
+ADO Den Haag 1 - 0 FC Utrecht
+ADO Den Haag 1 - 3 Vitesse
+ADO Den Haag 0 - 1 Heracles Almelo
+ADO Den Haag 0 - 2 FC Groningen
+ADO Den Haag 2 - 1 Heerenveen
+ADO Den Haag 0 - 1 Sparta Rotterdam
+ADO Den Haag 2 - 1 FC Emmen
+ADO Den Haag 1 - 2 VVV-Venlo
+ADO Den Haag 0 - 1 FC Twente
+ADO Den Haag 1 - 2 PEC Zwolle
+ADO Den Haag 1 - 0 Fortuna Sittard
+ADO Den Haag 0 - 2 RKC Waalwijk
+RKC Waalwijk 0 - 3 Ajax
+RKC Waalwijk 0 - 0 AZ
+RKC Waalwijk 0 - 4 Feyenoord
+RKC Waalwijk 2 - 2 PSV Eindhoven
+RKC Waalwijk 1 - 1 Willem II
+RKC Waalwijk 2 - 3 FC Utrecht
+RKC Waalwijk 2 - 0 Vitesse
+RKC Waalwijk 0 - 2 Heracles Almelo
+RKC Waalwijk 0 - 1 FC Groningen
+RKC Waalwijk 0 - 3 Heerenveen
+RKC Waalwijk 1 - 2 Sparta Rotterdam
+RKC Waalwijk 0 - 3 FC Emmen
+RKC Waalwijk 2 - 0 VVV-Venlo
+RKC Waalwijk 2 - 1 FC Twente
+RKC Waalwijk 2 - 3 PEC Zwolle
+RKC Waalwijk 1 - 1 Fortuna Sittard
+RKC Waalwijk 2 - 3 ADO Den Haag
+
+#---------------------------------
+#	 Season 397435
+#---------------------------------
+Ajax 1 - 1 AZ
+Ajax 1 - 1 Feyenoord
+Ajax 1 - 1 PSV Eindhoven
+Ajax 3 - 1 Willem II
+Ajax 1 - 1 FC Utrecht
+Ajax 1 - 1 Vitesse
+Ajax 0 - 1 Heracles Almelo
+Ajax 0 - 1 FC Groningen
+Ajax 2 - 0 Heerenveen
+Ajax 3 - 2 Sparta Rotterdam
+Ajax 0 - 1 FC Emmen
+Ajax 3 - 1 VVV-Venlo
+Ajax 1 - 1 FC Twente
+Ajax 2 - 0 PEC Zwolle
+Ajax 0 - 1 Fortuna Sittard
+Ajax 0 - 0 ADO Den Haag
+Ajax 0 - 1 RKC Waalwijk
+AZ 2 - 2 Ajax
+AZ 0 - 1 Feyenoord
+AZ 0 - 0 PSV Eindhoven
+AZ 0 - 1 Willem II
+AZ 0 - 1 FC Utrecht
+AZ 2 - 2 Vitesse
+AZ 0 - 1 Heracles Almelo
+AZ 0 - 0 FC Groningen
+AZ 3 - 0 Heerenveen
+AZ 2 - 2 Sparta Rotterdam
+AZ 1 - 1 FC Emmen
+AZ 3 - 1 VVV-Venlo
+AZ 1 - 1 FC Twente
+AZ 0 - 1 PEC Zwolle
+AZ 3 - 1 Fortuna Sittard
+AZ 1 - 1 ADO Den Haag
+AZ 2 - 0 RKC Waalwijk
+Feyenoord 2 - 1 Ajax
+Feyenoord 0 - 0 AZ
+Feyenoord 0 - 2 PSV Eindhoven
+Feyenoord 2 - 0 Willem II
+Feyenoord 1 - 0 FC Utrecht
+Feyenoord 3 - 1 Vitesse
+Feyenoord 1 - 2 Heracles Almelo
+Feyenoord 2 - 1 FC Groningen
+Feyenoord 2 - 2 Heerenveen
+Feyenoord 3 - 0 Sparta Rotterdam
+Feyenoord 0 - 0 FC Emmen
+Feyenoord 3 - 1 VVV-Venlo
+Feyenoord 0 - 1 FC Twente
+Feyenoord 0 - 1 PEC Zwolle
+Feyenoord 0 - 1 Fortuna Sittard
+Feyenoord 0 - 1 ADO Den Haag
+Feyenoord 1 - 1 RKC Waalwijk
+PSV Eindhoven 2 - 3 Ajax
+PSV Eindhoven 0 - 2 AZ
+PSV Eindhoven 0 - 0 Feyenoord
+PSV Eindhoven 1 - 0 Willem II
+PSV Eindhoven 1 - 1 FC Utrecht
+PSV Eindhoven 2 - 2 Vitesse
+PSV Eindhoven 0 - 1 Heracles Almelo
+PSV Eindhoven 2 - 0 FC Groningen
+PSV Eindhoven 0 - 1 Heerenveen
+PSV Eindhoven 0 - 1 Sparta Rotterdam
+PSV Eindhoven 1 - 1 FC Emmen
+PSV Eindhoven 1 - 1 VVV-Venlo
+PSV Eindhoven 3 - 1 FC Twente
+PSV Eindhoven 2 - 0 PEC Zwolle
+PSV Eindhoven 0 - 2 Fortuna Sittard
+PSV Eindhoven 0 - 0 ADO Den Haag
+PSV Eindhoven 4 - 1 RKC Waalwijk
+Willem II 1 - 3 Ajax
+Willem II 0 - 3 AZ
+Willem II 1 - 2 Feyenoord
+Willem II 2 - 3 PSV Eindhoven
+Willem II 2 - 1 FC Utrecht
+Willem II 1 - 0 Vitesse
+Willem II 0 - 1 Heracles Almelo
+Willem II 1 - 2 FC Groningen
+Willem II 0 - 1 Heerenveen
+Willem II 2 - 2 Sparta Rotterdam
+Willem II 1 - 0 FC Emmen
+Willem II 1 - 1 VVV-Venlo
+Willem II 2 - 0 FC Twente
+Willem II 1 - 0 PEC Zwolle
+Willem II 0 - 0 Fortuna Sittard
+Willem II 1 - 1 ADO Den Haag
+Willem II 0 - 0 RKC Waalwijk
+FC Utrecht 1 - 3 Ajax
+FC Utrecht 0 - 0 AZ
+FC Utrecht 3 - 1 Feyenoord
+FC Utrecht 1 - 1 PSV Eindhoven
+FC Utrecht 2 - 0 Willem II
+FC Utrecht 0 - 2 Vitesse
+FC Utrecht 1 - 2 Heracles Almelo
+FC Utrecht 1 - 0 FC Groningen
+FC Utrecht 2 - 1 Heerenveen
+FC Utrecht 1 - 0 Sparta Rotterdam
+FC Utrecht 0 - 1 FC Emmen
+FC Utrecht 2 - 1 VVV-Venlo
+FC Utrecht 0 - 0 FC Twente
+FC Utrecht 0 - 1 PEC Zwolle
+FC Utrecht 2 - 1 Fortuna Sittard
+FC Utrecht 3 - 2 ADO Den Haag
+FC Utrecht 0 - 2 RKC Waalwijk
+Vitesse 0 - 2 Ajax
+Vitesse 1 - 0 AZ
+Vitesse 1 - 1 Feyenoord
+Vitesse 0 - 0 PSV Eindhoven
+Vitesse 2 - 0 Willem II
+Vitesse 1 - 0 FC Utrecht
+Vitesse 2 - 1 Heracles Almelo
+Vitesse 1 - 0 FC Groningen
+Vitesse 2 - 2 Heerenveen
+Vitesse 1 - 2 Sparta Rotterdam
+Vitesse 0 - 0 FC Emmen
+Vitesse 1 - 1 VVV-Venlo
+Vitesse 0 - 1 FC Twente
+Vitesse 0 - 2 PEC Zwolle
+Vitesse 2 - 0 Fortuna Sittard
+Vitesse 0 - 0 ADO Den Haag
+Vitesse 1 - 1 RKC Waalwijk
+Heracles Almelo 2 - 3 Ajax
+Heracles Almelo 0 - 2 AZ
+Heracles Almelo 0 - 2 Feyenoord
+Heracles Almelo 1 - 0 PSV Eindhoven
+Heracles Almelo 2 - 1 Willem II
+Heracles Almelo 0 - 3 FC Utrecht
+Heracles Almelo 1 - 1 Vitesse
+Heracles Almelo 0 - 1 FC Groningen
+Heracles Almelo 2 - 0 Heerenveen
+Heracles Almelo 2 - 0 Sparta Rotterdam
+Heracles Almelo 2 - 2 FC Emmen
+Heracles Almelo 1 - 0 VVV-Venlo
+Heracles Almelo 2 - 2 FC Twente
+Heracles Almelo 1 - 1 PEC Zwolle
+Heracles Almelo 1 - 1 Fortuna Sittard
+Heracles Almelo 0 - 0 ADO Den Haag
+Heracles Almelo 2 - 0 RKC Waalwijk
+FC Groningen 1 - 2 Ajax
+FC Groningen 1 - 3 AZ
+FC Groningen 2 - 1 Feyenoord
+FC Groningen 0 - 0 PSV Eindhoven
+FC Groningen 0 - 2 Willem II
+FC Groningen 0 - 0 FC Utrecht
+FC Groningen 0 - 1 Vitesse
+FC Groningen 1 - 0 Heracles Almelo
+FC Groningen 0 - 0 Heerenveen
+FC Groningen 1 - 0 Sparta Rotterdam
+FC Groningen 2 - 2 FC Emmen
+FC Groningen 1 - 0 VVV-Venlo
+FC Groningen 2 - 0 FC Twente
+FC Groningen 1 - 0 PEC Zwolle
+FC Groningen 2 - 0 Fortuna Sittard
+FC Groningen 0 - 1 ADO Den Haag
+FC Groningen 1 - 0 RKC Waalwijk
+Heerenveen 2 - 1 Ajax
+Heerenveen 1 - 3 AZ
+Heerenveen 0 - 0 Feyenoord
+Heerenveen 0 - 2 PSV Eindhoven
+Heerenveen 1 - 1 Willem II
+Heerenveen 2 - 2 FC Utrecht
+Heerenveen 1 - 3 Vitesse
+Heerenveen 2 - 0 Heracles Almelo
+Heerenveen 0 - 2 FC Groningen
+Heerenveen 2 - 1 Sparta Rotterdam
+Heerenveen 1 - 2 FC Emmen
+Heerenveen 0 - 1 VVV-Venlo
+Heerenveen 0 - 1 FC Twente
+Heerenveen 0 - 2 PEC Zwolle
+Heerenveen 1 - 2 Fortuna Sittard
+Heerenveen 2 - 0 ADO Den Haag
+Heerenveen 3 - 0 RKC Waalwijk
+Sparta Rotterdam 1 - 1 Ajax
+Sparta Rotterdam 1 - 1 AZ
+Sparta Rotterdam 2 - 1 Feyenoord
+Sparta Rotterdam 0 - 0 PSV Eindhoven
+Sparta Rotterdam 0 - 0 Willem II
+Sparta Rotterdam 0 - 0 FC Utrecht
+Sparta Rotterdam 2 - 1 Vitesse
+Sparta Rotterdam 1 - 1 Heracles Almelo
+Sparta Rotterdam 0 - 0 FC Groningen
+Sparta Rotterdam 0 - 2 Heerenveen
+Sparta Rotterdam 2 - 0 FC Emmen
+Sparta Rotterdam 0 - 0 VVV-Venlo
+Sparta Rotterdam 2 - 1 FC Twente
+Sparta Rotterdam 0 - 0 PEC Zwolle
+Sparta Rotterdam 0 - 2 Fortuna Sittard
+Sparta Rotterdam 2 - 1 ADO Den Haag
+Sparta Rotterdam 3 - 1 RKC Waalwijk
+FC Emmen 1 - 1 Ajax
+FC Emmen 1 - 3 AZ
+FC Emmen 0 - 1 Feyenoord
+FC Emmen 0 - 0 PSV Eindhoven
+FC Emmen 1 - 3 Willem II
+FC Emmen 0 - 0 FC Utrecht
+FC Emmen 2 - 2 Vitesse
+FC Emmen 1 - 3 Heracles Almelo
+FC Emmen 1 - 0 FC Groningen
+FC Emmen 0 - 2 Heerenveen
+FC Emmen 1 - 1 Sparta Rotterdam
+FC Emmen 0 - 0 VVV-Venlo
+FC Emmen 2 - 1 FC Twente
+FC Emmen 1 - 0 PEC Zwolle
+FC Emmen 0 - 1 Fortuna Sittard
+FC Emmen 1 - 1 ADO Den Haag
+FC Emmen 0 - 0 RKC Waalwijk
+VVV-Venlo 0 - 1 Ajax
+VVV-Venlo 1 - 1 AZ
+VVV-Venlo 0 - 3 Feyenoord
+VVV-Venlo 1 - 2 PSV Eindhoven
+VVV-Venlo 1 - 0 Willem II
+VVV-Venlo 2 - 2 FC Utrecht
+VVV-Venlo 1 - 1 Vitesse
+VVV-Venlo 1 - 0 Heracles Almelo
+VVV-Venlo 1 - 1 FC Groningen
+VVV-Venlo 1 - 0 Heerenveen
+VVV-Venlo 2 - 0 Sparta Rotterdam
+VVV-Venlo 0 - 1 FC Emmen
+VVV-Venlo 0 - 2 FC Twente
+VVV-Venlo 0 - 0 PEC Zwolle
+VVV-Venlo 0 - 0 Fortuna Sittard
+VVV-Venlo 1 - 2 ADO Den Haag
+VVV-Venlo 0 - 1 RKC Waalwijk
+FC Twente 1 - 0 Ajax
+FC Twente 0 - 2 AZ
+FC Twente 2 - 1 Feyenoord
+FC Twente 0 - 3 PSV Eindhoven
+FC Twente 1 - 3 Willem II
+FC Twente 0 - 0 FC Utrecht
+FC Twente 1 - 3 Vitesse
+FC Twente 1 - 2 Heracles Almelo
+FC Twente 1 - 2 FC Groningen
+FC Twente 0 - 3 Heerenveen
+FC Twente 0 - 2 Sparta Rotterdam
+FC Twente 0 - 0 FC Emmen
+FC Twente 0 - 1 VVV-Venlo
+FC Twente 2 - 1 PEC Zwolle
+FC Twente 1 - 1 Fortuna Sittard
+FC Twente 2 - 0 ADO Den Haag
+FC Twente 1 - 0 RKC Waalwijk
+PEC Zwolle 1 - 1 Ajax
+PEC Zwolle 0 - 1 AZ
+PEC Zwolle 1 - 0 Feyenoord
+PEC Zwolle 2 - 0 PSV Eindhoven
+PEC Zwolle 1 - 0 Willem II
+PEC Zwolle 0 - 0 FC Utrecht
+PEC Zwolle 2 - 0 Vitesse
+PEC Zwolle 1 - 1 Heracles Almelo
+PEC Zwolle 0 - 2 FC Groningen
+PEC Zwolle 2 - 0 Heerenveen
+PEC Zwolle 0 - 2 Sparta Rotterdam
+PEC Zwolle 0 - 0 FC Emmen
+PEC Zwolle 1 - 1 VVV-Venlo
+PEC Zwolle 1 - 2 FC Twente
+PEC Zwolle 1 - 0 Fortuna Sittard
+PEC Zwolle 1 - 0 ADO Den Haag
+PEC Zwolle 2 - 2 RKC Waalwijk
+Fortuna Sittard 0 - 0 Ajax
+Fortuna Sittard 1 - 1 AZ
+Fortuna Sittard 0 - 3 Feyenoord
+Fortuna Sittard 0 - 0 PSV Eindhoven
+Fortuna Sittard 0 - 0 Willem II
+Fortuna Sittard 0 - 0 FC Utrecht
+Fortuna Sittard 1 - 2 Vitesse
+Fortuna Sittard 0 - 0 Heracles Almelo
+Fortuna Sittard 0 - 2 FC Groningen
+Fortuna Sittard 1 - 1 Heerenveen
+Fortuna Sittard 2 - 0 Sparta Rotterdam
+Fortuna Sittard 1 - 3 FC Emmen
+Fortuna Sittard 3 - 0 VVV-Venlo
+Fortuna Sittard 1 - 0 FC Twente
+Fortuna Sittard 2 - 1 PEC Zwolle
+Fortuna Sittard 2 - 2 ADO Den Haag
+Fortuna Sittard 1 - 0 RKC Waalwijk
+ADO Den Haag 0 - 1 Ajax
+ADO Den Haag 0 - 0 AZ
+ADO Den Haag 0 - 3 Feyenoord
+ADO Den Haag 1 - 0 PSV Eindhoven
+ADO Den Haag 0 - 3 Willem II
+ADO Den Haag 2 - 0 FC Utrecht
+ADO Den Haag 1 - 3 Vitesse
+ADO Den Haag 1 - 0 Heracles Almelo
+ADO Den Haag 1 - 1 FC Groningen
+ADO Den Haag 1 - 0 Heerenveen
+ADO Den Haag 2 - 3 Sparta Rotterdam
+ADO Den Haag 2 - 2 FC Emmen
+ADO Den Haag 0 - 0 VVV-Venlo
+ADO Den Haag 0 - 0 FC Twente
+ADO Den Haag 0 - 3 PEC Zwolle
+ADO Den Haag 0 - 0 Fortuna Sittard
+ADO Den Haag 2 - 1 RKC Waalwijk
+RKC Waalwijk 1 - 3 Ajax
+RKC Waalwijk 1 - 0 AZ
+RKC Waalwijk 1 - 2 Feyenoord
+RKC Waalwijk 0 - 2 PSV Eindhoven
+RKC Waalwijk 1 - 1 Willem II
+RKC Waalwijk 0 - 3 FC Utrecht
+RKC Waalwijk 1 - 3 Vitesse
+RKC Waalwijk 0 - 3 Heracles Almelo
+RKC Waalwijk 1 - 1 FC Groningen
+RKC Waalwijk 0 - 1 Heerenveen
+RKC Waalwijk 1 - 0 Sparta Rotterdam
+RKC Waalwijk 1 - 2 FC Emmen
+RKC Waalwijk 2 - 0 VVV-Venlo
+RKC Waalwijk 1 - 3 FC Twente
+RKC Waalwijk 2 - 1 PEC Zwolle
+RKC Waalwijk 2 - 2 Fortuna Sittard
+RKC Waalwijk 1 - 1 ADO Den Haag
+
+#---------------------------------
+#	 Season 412036
+#---------------------------------
+Ajax 3 - 2 AZ
+Ajax 1 - 0 Feyenoord
+Ajax 1 - 1 PSV Eindhoven
+Ajax 1 - 0 Willem II
+Ajax 1 - 1 FC Utrecht
+Ajax 3 - 0 Vitesse
+Ajax 1 - 2 Heracles Almelo
+Ajax 0 - 1 FC Groningen
+Ajax 0 - 0 Heerenveen
+Ajax 2 - 0 Sparta Rotterdam
+Ajax 2 - 0 FC Emmen
+Ajax 0 - 1 VVV-Venlo
+Ajax 0 - 0 FC Twente
+Ajax 2 - 1 PEC Zwolle
+Ajax 3 - 0 Fortuna Sittard
+Ajax 4 - 1 ADO Den Haag
+Ajax 2 - 0 RKC Waalwijk
+AZ 2 - 1 Ajax
+AZ 3 - 1 Feyenoord
+AZ 1 - 1 PSV Eindhoven
+AZ 3 - 0 Willem II
+AZ 1 - 1 FC Utrecht
+AZ 1 - 1 Vitesse
+AZ 0 - 0 Heracles Almelo
+AZ 1 - 0 FC Groningen
+AZ 0 - 1 Heerenveen
+AZ 1 - 0 Sparta Rotterdam
+AZ 0 - 1 FC Emmen
+AZ 2 - 1 VVV-Venlo
+AZ 3 - 0 FC Twente
+AZ 0 - 1 PEC Zwolle
+AZ 1 - 0 Fortuna Sittard
+AZ 2 - 0 ADO Den Haag
+AZ 3 - 0 RKC Waalwijk
+Feyenoord 0 - 3 Ajax
+Feyenoord 0 - 2 AZ
+Feyenoord 2 - 0 PSV Eindhoven
+Feyenoord 0 - 0 Willem II
+Feyenoord 2 - 2 FC Utrecht
+Feyenoord 0 - 1 Vitesse
+Feyenoord 0 - 0 Heracles Almelo
+Feyenoord 0 - 0 FC Groningen
+Feyenoord 0 - 0 Heerenveen
+Feyenoord 1 - 0 Sparta Rotterdam
+Feyenoord 0 - 0 FC Emmen
+Feyenoord 2 - 0 VVV-Venlo
+Feyenoord 1 - 0 FC Twente
+Feyenoord 1 - 0 PEC Zwolle
+Feyenoord 3 - 0 Fortuna Sittard
+Feyenoord 3 - 0 ADO Den Haag
+Feyenoord 3 - 2 RKC Waalwijk
+PSV Eindhoven 0 - 2 Ajax
+PSV Eindhoven 1 - 0 AZ
+PSV Eindhoven 0 - 0 Feyenoord
+PSV Eindhoven 1 - 1 Willem II
+PSV Eindhoven 0 - 2 FC Utrecht
+PSV Eindhoven 1 - 1 Vitesse
+PSV Eindhoven 3 - 2 Heracles Almelo
+PSV Eindhoven 1 - 0 FC Groningen
+PSV Eindhoven 0 - 1 Heerenveen
+PSV Eindhoven 3 - 1 Sparta Rotterdam
+PSV Eindhoven 3 - 2 FC Emmen
+PSV Eindhoven 0 - 1 VVV-Venlo
+PSV Eindhoven 1 - 1 FC Twente
+PSV Eindhoven 3 - 2 PEC Zwolle
+PSV Eindhoven 1 - 1 Fortuna Sittard
+PSV Eindhoven 4 - 0 ADO Den Haag
+PSV Eindhoven 3 - 0 RKC Waalwijk
+Willem II 2 - 2 Ajax
+Willem II 1 - 2 AZ
+Willem II 2 - 0 Feyenoord
+Willem II 1 - 1 PSV Eindhoven
+Willem II 2 - 2 FC Utrecht
+Willem II 1 - 0 Vitesse
+Willem II 0 - 1 Heracles Almelo
+Willem II 1 - 1 FC Groningen
+Willem II 2 - 0 Heerenveen
+Willem II 0 - 0 Sparta Rotterdam
+Willem II 0 - 0 FC Emmen
+Willem II 1 - 1 VVV-Venlo
+Willem II 3 - 1 FC Twente
+Willem II 1 - 0 PEC Zwolle
+Willem II 1 - 0 Fortuna Sittard
+Willem II 3 - 0 ADO Den Haag
+Willem II 2 - 1 RKC Waalwijk
+FC Utrecht 2 - 3 Ajax
+FC Utrecht 1 - 1 AZ
+FC Utrecht 2 - 2 Feyenoord
+FC Utrecht 2 - 1 PSV Eindhoven
+FC Utrecht 3 - 1 Willem II
+FC Utrecht 1 - 0 Vitesse
+FC Utrecht 0 - 0 Heracles Almelo
+FC Utrecht 0 - 1 FC Groningen
+FC Utrecht 3 - 2 Heerenveen
+FC Utrecht 3 - 1 Sparta Rotterdam
+FC Utrecht 0 - 1 FC Emmen
+FC Utrecht 1 - 0 VVV-Venlo
+FC Utrecht 2 - 0 FC Twente
+FC Utrecht 2 - 1 PEC Zwolle
+FC Utrecht 0 - 1 Fortuna Sittard
+FC Utrecht 3 - 0 ADO Den Haag
+FC Utrecht 1 - 1 RKC Waalwijk
+Vitesse 1 - 3 Ajax
+Vitesse 0 - 0 AZ
+Vitesse 1 - 0 Feyenoord
+Vitesse 0 - 1 PSV Eindhoven
+Vitesse 1 - 2 Willem II
+Vitesse 0 - 2 FC Utrecht
+Vitesse 1 - 0 Heracles Almelo
+Vitesse 0 - 2 FC Groningen
+Vitesse 1 - 0 Heerenveen
+Vitesse 1 - 0 Sparta Rotterdam
+Vitesse 1 - 1 FC Emmen
+Vitesse 1 - 0 VVV-Venlo
+Vitesse 2 - 1 FC Twente
+Vitesse 1 - 1 PEC Zwolle
+Vitesse 1 - 0 Fortuna Sittard
+Vitesse 1 - 0 ADO Den Haag
+Vitesse 3 - 0 RKC Waalwijk
+Heracles Almelo 1 - 1 Ajax
+Heracles Almelo 0 - 2 AZ
+Heracles Almelo 0 - 2 Feyenoord
+Heracles Almelo 0 - 2 PSV Eindhoven
+Heracles Almelo 0 - 0 Willem II
+Heracles Almelo 2 - 0 FC Utrecht
+Heracles Almelo 1 - 0 Vitesse
+Heracles Almelo 0 - 0 FC Groningen
+Heracles Almelo 0 - 2 Heerenveen
+Heracles Almelo 2 - 0 Sparta Rotterdam
+Heracles Almelo 0 - 0 FC Emmen
+Heracles Almelo 1 - 0 VVV-Venlo
+Heracles Almelo 1 - 2 FC Twente
+Heracles Almelo 3 - 1 PEC Zwolle
+Heracles Almelo 0 - 0 Fortuna Sittard
+Heracles Almelo 1 - 0 ADO Den Haag
+Heracles Almelo 2 - 0 RKC Waalwijk
+FC Groningen 1 - 2 Ajax
+FC Groningen 1 - 2 AZ
+FC Groningen 1 - 1 Feyenoord
+FC Groningen 2 - 2 PSV Eindhoven
+FC Groningen 0 - 0 Willem II
+FC Groningen 1 - 1 FC Utrecht
+FC Groningen 0 - 0 Vitesse
+FC Groningen 0 - 0 Heracles Almelo
+FC Groningen 0 - 2 Heerenveen
+FC Groningen 0 - 2 Sparta Rotterdam
+FC Groningen 0 - 1 FC Emmen
+FC Groningen 0 - 0 VVV-Venlo
+FC Groningen 0 - 1 FC Twente
+FC Groningen 2 - 1 PEC Zwolle
+FC Groningen 1 - 0 Fortuna Sittard
+FC Groningen 2 - 1 ADO Den Haag
+FC Groningen 1 - 0 RKC Waalwijk
+Heerenveen 1 - 2 Ajax
+Heerenveen 1 - 1 AZ
+Heerenveen 2 - 0 Feyenoord
+Heerenveen 0 - 1 PSV Eindhoven
+Heerenveen 2 - 0 Willem II
+Heerenveen 1 - 3 FC Utrecht
+Heerenveen 2 - 2 Vitesse
+Heerenveen 1 - 3 Heracles Almelo
+Heerenveen 2 - 1 FC Groningen
+Heerenveen 2 - 2 Sparta Rotterdam
+Heerenveen 0 - 0 FC Emmen
+Heerenveen 2 - 1 VVV-Venlo
+Heerenveen 2 - 1 FC Twente
+Heerenveen 3 - 1 PEC Zwolle
+Heerenveen 1 - 0 Fortuna Sittard
+Heerenveen 0 - 1 ADO Den Haag
+Heerenveen 0 - 2 RKC Waalwijk
+Sparta Rotterdam 1 - 2 Ajax
+Sparta Rotterdam 1 - 3 AZ
+Sparta Rotterdam 2 - 0 Feyenoord
+Sparta Rotterdam 1 - 3 PSV Eindhoven
+Sparta Rotterdam 1 - 2 Willem II
+Sparta Rotterdam 1 - 0 FC Utrecht
+Sparta Rotterdam 1 - 0 Vitesse
+Sparta Rotterdam 0 - 1 Heracles Almelo
+Sparta Rotterdam 0 - 0 FC Groningen
+Sparta Rotterdam 3 - 1 Heerenveen
+Sparta Rotterdam 0 - 1 FC Emmen
+Sparta Rotterdam 3 - 2 VVV-Venlo
+Sparta Rotterdam 2 - 1 FC Twente
+Sparta Rotterdam 1 - 2 PEC Zwolle
+Sparta Rotterdam 0 - 1 Fortuna Sittard
+Sparta Rotterdam 3 - 2 ADO Den Haag
+Sparta Rotterdam 2 - 2 RKC Waalwijk
+FC Emmen 0 - 4 Ajax
+FC Emmen 0 - 0 AZ
+FC Emmen 2 - 2 Feyenoord
+FC Emmen 0 - 0 PSV Eindhoven
+FC Emmen 1 - 2 Willem II
+FC Emmen 2 - 1 FC Utrecht
+FC Emmen 1 - 2 Vitesse
+FC Emmen 1 - 2 Heracles Almelo
+FC Emmen 0 - 0 FC Groningen
+FC Emmen 1 - 2 Heerenveen
+FC Emmen 1 - 3 Sparta Rotterdam
+FC Emmen 1 - 1 VVV-Venlo
+FC Emmen 2 - 1 FC Twente
+FC Emmen 2 - 2 PEC Zwolle
+FC Emmen 2 - 0 Fortuna Sittard
+FC Emmen 2 - 1 ADO Den Haag
+FC Emmen 1 - 1 RKC Waalwijk
+VVV-Venlo 1 - 0 Ajax
+VVV-Venlo 0 - 0 AZ
+VVV-Venlo 1 - 1 Feyenoord
+VVV-Venlo 0 - 0 PSV Eindhoven
+VVV-Venlo 0 - 0 Willem II
+VVV-Venlo 0 - 1 FC Utrecht
+VVV-Venlo 1 - 2 Vitesse
+VVV-Venlo 0 - 0 Heracles Almelo
+VVV-Venlo 1 - 2 FC Groningen
+VVV-Venlo 0 - 0 Heerenveen
+VVV-Venlo 0 - 1 Sparta Rotterdam
+VVV-Venlo 0 - 1 FC Emmen
+VVV-Venlo 0 - 1 FC Twente
+VVV-Venlo 2 - 1 PEC Zwolle
+VVV-Venlo 1 - 1 Fortuna Sittard
+VVV-Venlo 0 - 0 ADO Den Haag
+VVV-Venlo 3 - 0 RKC Waalwijk
+FC Twente 0 - 1 Ajax
+FC Twente 1 - 3 AZ
+FC Twente 1 - 1 Feyenoord
+FC Twente 0 - 2 PSV Eindhoven
+FC Twente 2 - 1 Willem II
+FC Twente 1 - 2 FC Utrecht
+FC Twente 1 - 0 Vitesse
+FC Twente 1 - 1 Heracles Almelo
+FC Twente 0 - 2 FC Groningen
+FC Twente 1 - 1 Heerenveen
+FC Twente 1 - 1 Sparta Rotterdam
+FC Twente 2 - 1 FC Emmen
+FC Twente 3 - 0 VVV-Venlo
+FC Twente 1 - 3 PEC Zwolle
+FC Twente 2 - 2 Fortuna Sittard
+FC Twente 0 - 2 ADO Den Haag
+FC Twente 1 - 2 RKC Waalwijk
+PEC Zwolle 1 - 3 Ajax
+PEC Zwolle 1 - 3 AZ
+PEC Zwolle 1 - 3 Feyenoord
+PEC Zwolle 1 - 3 PSV Eindhoven
+PEC Zwolle 1 - 3 Willem II
+PEC Zwolle 2 - 2 FC Utrecht
+PEC Zwolle 2 - 2 Vitesse
+PEC Zwolle 1 - 3 Heracles Almelo
+PEC Zwolle 2 - 0 FC Groningen
+PEC Zwolle 2 - 2 Heerenveen
+PEC Zwolle 1 - 2 Sparta Rotterdam
+PEC Zwolle 1 - 3 FC Emmen
+PEC Zwolle 3 - 1 VVV-Venlo
+PEC Zwolle 3 - 1 FC Twente
+PEC Zwolle 3 - 3 Fortuna Sittard
+PEC Zwolle 1 - 2 ADO Den Haag
+PEC Zwolle 0 - 2 RKC Waalwijk
+Fortuna Sittard 1 - 4 Ajax
+Fortuna Sittard 1 - 3 AZ
+Fortuna Sittard 1 - 1 Feyenoord
+Fortuna Sittard 1 - 2 PSV Eindhoven
+Fortuna Sittard 1 - 3 Willem II
+Fortuna Sittard 1 - 1 FC Utrecht
+Fortuna Sittard 0 - 2 Vitesse
+Fortuna Sittard 0 - 2 Heracles Almelo
+Fortuna Sittard 1 - 0 FC Groningen
+Fortuna Sittard 2 - 2 Heerenveen
+Fortuna Sittard 0 - 3 Sparta Rotterdam
+Fortuna Sittard 0 - 2 FC Emmen
+Fortuna Sittard 2 - 2 VVV-Venlo
+Fortuna Sittard 2 - 1 FC Twente
+Fortuna Sittard 2 - 2 PEC Zwolle
+Fortuna Sittard 1 - 2 ADO Den Haag
+Fortuna Sittard 1 - 0 RKC Waalwijk
+ADO Den Haag 0 - 3 Ajax
+ADO Den Haag 1 - 0 AZ
+ADO Den Haag 1 - 1 Feyenoord
+ADO Den Haag 0 - 3 PSV Eindhoven
+ADO Den Haag 2 - 2 Willem II
+ADO Den Haag 0 - 2 FC Utrecht
+ADO Den Haag 0 - 1 Vitesse
+ADO Den Haag 0 - 0 Heracles Almelo
+ADO Den Haag 0 - 0 FC Groningen
+ADO Den Haag 0 - 1 Heerenveen
+ADO Den Haag 1 - 2 Sparta Rotterdam
+ADO Den Haag 2 - 0 FC Emmen
+ADO Den Haag 2 - 1 VVV-Venlo
+ADO Den Haag 1 - 0 FC Twente
+ADO Den Haag 2 - 0 PEC Zwolle
+ADO Den Haag 1 - 2 Fortuna Sittard
+ADO Den Haag 3 - 0 RKC Waalwijk
+RKC Waalwijk 1 - 3 Ajax
+RKC Waalwijk 1 - 2 AZ
+RKC Waalwijk 0 - 1 Feyenoord
+RKC Waalwijk 1 - 1 PSV Eindhoven
+RKC Waalwijk 2 - 1 Willem II
+RKC Waalwijk 1 - 1 FC Utrecht
+RKC Waalwijk 1 - 2 Vitesse
+RKC Waalwijk 0 - 2 Heracles Almelo
+RKC Waalwijk 0 - 0 FC Groningen
+RKC Waalwijk 2 - 0 Heerenveen
+RKC Waalwijk 1 - 1 Sparta Rotterdam
+RKC Waalwijk 2 - 2 FC Emmen
+RKC Waalwijk 0 - 0 VVV-Venlo
+RKC Waalwijk 0 - 2 FC Twente
+RKC Waalwijk 3 - 2 PEC Zwolle
+RKC Waalwijk 0 - 0 Fortuna Sittard
+RKC Waalwijk 1 - 0 ADO Den Haag
+
+#---------------------------------
+#	 Season 542043
+#---------------------------------
+Ajax 0 - 0 AZ
+Ajax 2 - 1 Feyenoord
+Ajax 1 - 0 PSV Eindhoven
+Ajax 3 - 0 Willem II
+Ajax 3 - 0 FC Utrecht
+Ajax 0 - 0 Vitesse
+Ajax 3 - 0 Heracles Almelo
+Ajax 1 - 0 FC Groningen
+Ajax 3 - 0 Heerenveen
+Ajax 3 - 0 Sparta Rotterdam
+Ajax 1 - 0 FC Emmen
+Ajax 3 - 0 VVV-Venlo
+Ajax 1 - 0 FC Twente
+Ajax 1 - 0 PEC Zwolle
+Ajax 1 - 0 Fortuna Sittard
+Ajax 1 - 0 ADO Den Haag
+Ajax 1 - 0 RKC Waalwijk
+AZ 0 - 1 Ajax
+AZ 2 - 1 Feyenoord
+AZ 3 - 1 PSV Eindhoven
+AZ 1 - 0 Willem II
+AZ 0 - 0 FC Utrecht
+AZ 0 - 0 Vitesse
+AZ 1 - 0 Heracles Almelo
+AZ 1 - 0 FC Groningen
+AZ 1 - 2 Heerenveen
+AZ 3 - 0 Sparta Rotterdam
+AZ 1 - 1 FC Emmen
+AZ 2 - 0 VVV-Venlo
+AZ 0 - 0 FC Twente
+AZ 2 - 1 PEC Zwolle
+AZ 3 - 0 Fortuna Sittard
+AZ 3 - 1 ADO Den Haag
+AZ 4 - 1 RKC Waalwijk
+Feyenoord 0 - 0 Ajax
+Feyenoord 1 - 1 AZ
+Feyenoord 1 - 1 PSV Eindhoven
+Feyenoord 2 - 0 Willem II
+Feyenoord 0 - 1 FC Utrecht
+Feyenoord 0 - 0 Vitesse
+Feyenoord 3 - 0 Heracles Almelo
+Feyenoord 2 - 0 FC Groningen
+Feyenoord 2 - 0 Heerenveen
+Feyenoord 2 - 0 Sparta Rotterdam
+Feyenoord 3 - 1 FC Emmen
+Feyenoord 3 - 1 VVV-Venlo
+Feyenoord 1 - 2 FC Twente
+Feyenoord 3 - 2 PEC Zwolle
+Feyenoord 0 - 1 Fortuna Sittard
+Feyenoord 1 - 1 ADO Den Haag
+Feyenoord 0 - 1 RKC Waalwijk
+PSV Eindhoven 0 - 1 Ajax
+PSV Eindhoven 1 - 0 AZ
+PSV Eindhoven 2 - 1 Feyenoord
+PSV Eindhoven 1 - 0 Willem II
+PSV Eindhoven 1 - 0 FC Utrecht
+PSV Eindhoven 2 - 2 Vitesse
+PSV Eindhoven 0 - 1 Heracles Almelo
+PSV Eindhoven 2 - 1 FC Groningen
+PSV Eindhoven 2 - 1 Heerenveen
+PSV Eindhoven 3 - 2 Sparta Rotterdam
+PSV Eindhoven 2 - 1 FC Emmen
+PSV Eindhoven 1 - 0 VVV-Venlo
+PSV Eindhoven 0 - 1 FC Twente
+PSV Eindhoven 2 - 2 PEC Zwolle
+PSV Eindhoven 0 - 1 Fortuna Sittard
+PSV Eindhoven 0 - 1 ADO Den Haag
+PSV Eindhoven 3 - 0 RKC Waalwijk
+Willem II 0 - 1 Ajax
+Willem II 1 - 2 AZ
+Willem II 2 - 0 Feyenoord
+Willem II 1 - 2 PSV Eindhoven
+Willem II 2 - 2 FC Utrecht
+Willem II 2 - 1 Vitesse
+Willem II 2 - 1 Heracles Almelo
+Willem II 2 - 0 FC Groningen
+Willem II 2 - 2 Heerenveen
+Willem II 1 - 0 Sparta Rotterdam
+Willem II 3 - 1 FC Emmen
+Willem II 0 - 0 VVV-Venlo
+Willem II 0 - 0 FC Twente
+Willem II 2 - 1 PEC Zwolle
+Willem II 2 - 0 Fortuna Sittard
+Willem II 3 - 0 ADO Den Haag
+Willem II 0 - 2 RKC Waalwijk
+FC Utrecht 0 - 2 Ajax
+FC Utrecht 0 - 0 AZ
+FC Utrecht 3 - 2 Feyenoord
+FC Utrecht 1 - 3 PSV Eindhoven
+FC Utrecht 2 - 1 Willem II
+FC Utrecht 1 - 2 Vitesse
+FC Utrecht 1 - 0 Heracles Almelo
+FC Utrecht 0 - 2 FC Groningen
+FC Utrecht 2 - 1 Heerenveen
+FC Utrecht 0 - 1 Sparta Rotterdam
+FC Utrecht 0 - 1 FC Emmen
+FC Utrecht 0 - 0 VVV-Venlo
+FC Utrecht 2 - 1 FC Twente
+FC Utrecht 1 - 0 PEC Zwolle
+FC Utrecht 0 - 2 Fortuna Sittard
+FC Utrecht 3 - 1 ADO Den Haag
+FC Utrecht 1 - 2 RKC Waalwijk
+Vitesse 0 - 0 Ajax
+Vitesse 0 - 2 AZ
+Vitesse 2 - 2 Feyenoord
+Vitesse 2 - 0 PSV Eindhoven
+Vitesse 1 - 2 Willem II
+Vitesse 0 - 1 FC Utrecht
+Vitesse 1 - 1 Heracles Almelo
+Vitesse 1 - 2 FC Groningen
+Vitesse 0 - 1 Heerenveen
+Vitesse 3 - 1 Sparta Rotterdam
+Vitesse 2 - 1 FC Emmen
+Vitesse 2 - 1 VVV-Venlo
+Vitesse 2 - 0 FC Twente
+Vitesse 1 - 0 PEC Zwolle
+Vitesse 3 - 2 Fortuna Sittard
+Vitesse 2 - 1 ADO Den Haag
+Vitesse 1 - 1 RKC Waalwijk
+Heracles Almelo 0 - 3 Ajax
+Heracles Almelo 1 - 0 AZ
+Heracles Almelo 1 - 0 Feyenoord
+Heracles Almelo 1 - 0 PSV Eindhoven
+Heracles Almelo 0 - 0 Willem II
+Heracles Almelo 0 - 0 FC Utrecht
+Heracles Almelo 0 - 2 Vitesse
+Heracles Almelo 1 - 0 FC Groningen
+Heracles Almelo 1 - 0 Heerenveen
+Heracles Almelo 2 - 2 Sparta Rotterdam
+Heracles Almelo 0 - 1 FC Emmen
+Heracles Almelo 2 - 0 VVV-Venlo
+Heracles Almelo 0 - 1 FC Twente
+Heracles Almelo 2 - 1 PEC Zwolle
+Heracles Almelo 0 - 1 Fortuna Sittard
+Heracles Almelo 0 - 0 ADO Den Haag
+Heracles Almelo 3 - 2 RKC Waalwijk
+FC Groningen 0 - 2 Ajax
+FC Groningen 0 - 0 AZ
+FC Groningen 0 - 2 Feyenoord
+FC Groningen 1 - 1 PSV Eindhoven
+FC Groningen 1 - 0 Willem II
+FC Groningen 1 - 1 FC Utrecht
+FC Groningen 0 - 1 Vitesse
+FC Groningen 1 - 1 Heracles Almelo
+FC Groningen 1 - 0 Heerenveen
+FC Groningen 2 - 1 Sparta Rotterdam
+FC Groningen 0 - 1 FC Emmen
+FC Groningen 0 - 0 VVV-Venlo
+FC Groningen 2 - 2 FC Twente
+FC Groningen 1 - 0 PEC Zwolle
+FC Groningen 0 - 0 Fortuna Sittard
+FC Groningen 0 - 1 ADO Den Haag
+FC Groningen 0 - 0 RKC Waalwijk
+Heerenveen 0 - 3 Ajax
+Heerenveen 1 - 1 AZ
+Heerenveen 0 - 3 Feyenoord
+Heerenveen 0 - 2 PSV Eindhoven
+Heerenveen 0 - 0 Willem II
+Heerenveen 2 - 2 FC Utrecht
+Heerenveen 0 - 0 Vitesse
+Heerenveen 1 - 1 Heracles Almelo
+Heerenveen 0 - 2 FC Groningen
+Heerenveen 1 - 1 Sparta Rotterdam
+Heerenveen 2 - 2 FC Emmen
+Heerenveen 1 - 0 VVV-Venlo
+Heerenveen 1 - 0 FC Twente
+Heerenveen 0 - 1 PEC Zwolle
+Heerenveen 1 - 0 Fortuna Sittard
+Heerenveen 0 - 1 ADO Den Haag
+Heerenveen 0 - 0 RKC Waalwijk
+Sparta Rotterdam 0 - 0 Ajax
+Sparta Rotterdam 2 - 0 AZ
+Sparta Rotterdam 2 - 3 Feyenoord
+Sparta Rotterdam 0 - 2 PSV Eindhoven
+Sparta Rotterdam 1 - 2 Willem II
+Sparta Rotterdam 1 - 0 FC Utrecht
+Sparta Rotterdam 2 - 1 Vitesse
+Sparta Rotterdam 1 - 2 Heracles Almelo
+Sparta Rotterdam 0 - 0 FC Groningen
+Sparta Rotterdam 1 - 2 Heerenveen
+Sparta Rotterdam 1 - 1 FC Emmen
+Sparta Rotterdam 0 - 2 VVV-Venlo
+Sparta Rotterdam 3 - 0 FC Twente
+Sparta Rotterdam 2 - 2 PEC Zwolle
+Sparta Rotterdam 1 - 2 Fortuna Sittard
+Sparta Rotterdam 0 - 0 ADO Den Haag
+Sparta Rotterdam 2 - 2 RKC Waalwijk
+FC Emmen 0 - 2 Ajax
+FC Emmen 0 - 0 AZ
+FC Emmen 0 - 1 Feyenoord
+FC Emmen 0 - 0 PSV Eindhoven
+FC Emmen 1 - 2 Willem II
+FC Emmen 1 - 0 FC Utrecht
+FC Emmen 0 - 2 Vitesse
+FC Emmen 2 - 2 Heracles Almelo
+FC Emmen 2 - 2 FC Groningen
+FC Emmen 1 - 1 Heerenveen
+FC Emmen 2 - 2 Sparta Rotterdam
+FC Emmen 2 - 0 VVV-Venlo
+FC Emmen 0 - 2 FC Twente
+FC Emmen 0 - 1 PEC Zwolle
+FC Emmen 0 - 1 Fortuna Sittard
+FC Emmen 2 - 0 ADO Den Haag
+FC Emmen 2 - 2 RKC Waalwijk
+VVV-Venlo 0 - 4 Ajax
+VVV-Venlo 0 - 3 AZ
+VVV-Venlo 0 - 3 Feyenoord
+VVV-Venlo 1 - 1 PSV Eindhoven
+VVV-Venlo 2 - 2 Willem II
+VVV-Venlo 0 - 3 FC Utrecht
+VVV-Venlo 1 - 0 Vitesse
+VVV-Venlo 2 - 1 Heracles Almelo
+VVV-Venlo 0 - 0 FC Groningen
+VVV-Venlo 1 - 0 Heerenveen
+VVV-Venlo 0 - 1 Sparta Rotterdam
+VVV-Venlo 2 - 1 FC Emmen
+VVV-Venlo 0 - 0 FC Twente
+VVV-Venlo 0 - 1 PEC Zwolle
+VVV-Venlo 2 - 0 Fortuna Sittard
+VVV-Venlo 2 - 1 ADO Den Haag
+VVV-Venlo 1 - 1 RKC Waalwijk
+FC Twente 0 - 4 Ajax
+FC Twente 1 - 3 AZ
+FC Twente 1 - 2 Feyenoord
+FC Twente 1 - 2 PSV Eindhoven
+FC Twente 2 - 0 Willem II
+FC Twente 2 - 1 FC Utrecht
+FC Twente 2 - 0 Vitesse
+FC Twente 1 - 2 Heracles Almelo
+FC Twente 0 - 1 FC Groningen
+FC Twente 1 - 1 Heerenveen
+FC Twente 2 - 0 Sparta Rotterdam
+FC Twente 0 - 2 FC Emmen
+FC Twente 2 - 2 VVV-Venlo
+FC Twente 1 - 0 PEC Zwolle
+FC Twente 1 - 2 Fortuna Sittard
+FC Twente 2 - 1 ADO Den Haag
+FC Twente 1 - 0 RKC Waalwijk
+PEC Zwolle 1 - 4 Ajax
+PEC Zwolle 1 - 0 AZ
+PEC Zwolle 1 - 0 Feyenoord
+PEC Zwolle 1 - 1 PSV Eindhoven
+PEC Zwolle 1 - 2 Willem II
+PEC Zwolle 1 - 3 FC Utrecht
+PEC Zwolle 1 - 0 Vitesse
+PEC Zwolle 2 - 0 Heracles Almelo
+PEC Zwolle 1 - 1 FC Groningen
+PEC Zwolle 0 - 0 Heerenveen
+PEC Zwolle 2 - 0 Sparta Rotterdam
+PEC Zwolle 2 - 2 FC Emmen
+PEC Zwolle 0 - 2 VVV-Venlo
+PEC Zwolle 0 - 1 FC Twente
+PEC Zwolle 0 - 2 Fortuna Sittard
+PEC Zwolle 1 - 0 ADO Den Haag
+PEC Zwolle 3 - 2 RKC Waalwijk
+Fortuna Sittard 0 - 3 Ajax
+Fortuna Sittard 1 - 1 AZ
+Fortuna Sittard 2 - 1 Feyenoord
+Fortuna Sittard 2 - 0 PSV Eindhoven
+Fortuna Sittard 1 - 1 Willem II
+Fortuna Sittard 1 - 0 FC Utrecht
+Fortuna Sittard 1 - 1 Vitesse
+Fortuna Sittard 0 - 0 Heracles Almelo
+Fortuna Sittard 0 - 0 FC Groningen
+Fortuna Sittard 1 - 0 Heerenveen
+Fortuna Sittard 0 - 2 Sparta Rotterdam
+Fortuna Sittard 0 - 1 FC Emmen
+Fortuna Sittard 2 - 2 VVV-Venlo
+Fortuna Sittard 0 - 0 FC Twente
+Fortuna Sittard 0 - 2 PEC Zwolle
+Fortuna Sittard 0 - 0 ADO Den Haag
+Fortuna Sittard 2 - 2 RKC Waalwijk
+ADO Den Haag 1 - 0 Ajax
+ADO Den Haag 0 - 1 AZ
+ADO Den Haag 1 - 2 Feyenoord
+ADO Den Haag 0 - 3 PSV Eindhoven
+ADO Den Haag 0 - 0 Willem II
+ADO Den Haag 0 - 0 FC Utrecht
+ADO Den Haag 0 - 2 Vitesse
+ADO Den Haag 2 - 3 Heracles Almelo
+ADO Den Haag 1 - 1 FC Groningen
+ADO Den Haag 1 - 2 Heerenveen
+ADO Den Haag 1 - 1 Sparta Rotterdam
+ADO Den Haag 1 - 1 FC Emmen
+ADO Den Haag 1 - 0 VVV-Venlo
+ADO Den Haag 0 - 2 FC Twente
+ADO Den Haag 2 - 3 PEC Zwolle
+ADO Den Haag 1 - 1 Fortuna Sittard
+ADO Den Haag 0 - 2 RKC Waalwijk
+RKC Waalwijk 1 - 1 Ajax
+RKC Waalwijk 1 - 0 AZ
+RKC Waalwijk 1 - 4 Feyenoord
+RKC Waalwijk 0 - 2 PSV Eindhoven
+RKC Waalwijk 0 - 3 Willem II
+RKC Waalwijk 0 - 3 FC Utrecht
+RKC Waalwijk 1 - 2 Vitesse
+RKC Waalwijk 0 - 0 Heracles Almelo
+RKC Waalwijk 0 - 2 FC Groningen
+RKC Waalwijk 1 - 0 Heerenveen
+RKC Waalwijk 1 - 1 Sparta Rotterdam
+RKC Waalwijk 1 - 3 FC Emmen
+RKC Waalwijk 2 - 1 VVV-Venlo
+RKC Waalwijk 1 - 1 FC Twente
+RKC Waalwijk 2 - 1 PEC Zwolle
+RKC Waalwijk 2 - 2 Fortuna Sittard
+RKC Waalwijk 2 - 1 ADO Den Haag
+
+#---------------------------------
+#	 Season 556705
+#---------------------------------
+Ajax 2 - 1 AZ
+Ajax 2 - 2 Feyenoord
+Ajax 2 - 2 PSV Eindhoven
+Ajax 3 - 0 Willem II
+Ajax 2 - 1 FC Utrecht
+Ajax 3 - 0 Vitesse
+Ajax 2 - 1 Heracles Almelo
+Ajax 3 - 1 FC Groningen
+Ajax 2 - 0 Heerenveen
+Ajax 0 - 0 Sparta Rotterdam
+Ajax 1 - 0 FC Emmen
+Ajax 3 - 1 VVV-Venlo
+Ajax 3 - 0 FC Twente
+Ajax 4 - 2 PEC Zwolle
+Ajax 4 - 1 Fortuna Sittard
+Ajax 2 - 1 ADO Den Haag
+Ajax 1 - 1 RKC Waalwijk
+AZ 1 - 0 Ajax
+AZ 2 - 0 Feyenoord
+AZ 2 - 1 PSV Eindhoven
+AZ 0 - 1 Willem II
+AZ 3 - 0 FC Utrecht
+AZ 1 - 0 Vitesse
+AZ 3 - 1 Heracles Almelo
+AZ 1 - 0 FC Groningen
+AZ 3 - 0 Heerenveen
+AZ 2 - 0 Sparta Rotterdam
+AZ 2 - 0 FC Emmen
+AZ 3 - 1 VVV-Venlo
+AZ 3 - 0 FC Twente
+AZ 4 - 0 PEC Zwolle
+AZ 1 - 1 Fortuna Sittard
+AZ 4 - 0 ADO Den Haag
+AZ 4 - 1 RKC Waalwijk
+Feyenoord 0 - 2 Ajax
+Feyenoord 2 - 1 AZ
+Feyenoord 1 - 2 PSV Eindhoven
+Feyenoord 0 - 2 Willem II
+Feyenoord 1 - 1 FC Utrecht
+Feyenoord 1 - 2 Vitesse
+Feyenoord 1 - 0 Heracles Almelo
+Feyenoord 0 - 1 FC Groningen
+Feyenoord 2 - 0 Heerenveen
+Feyenoord 3 - 2 Sparta Rotterdam
+Feyenoord 1 - 0 FC Emmen
+Feyenoord 1 - 2 VVV-Venlo
+Feyenoord 0 - 1 FC Twente
+Feyenoord 1 - 0 PEC Zwolle
+Feyenoord 0 - 0 Fortuna Sittard
+Feyenoord 1 - 2 ADO Den Haag
+Feyenoord 0 - 0 RKC Waalwijk
+PSV Eindhoven 1 - 3 Ajax
+PSV Eindhoven 0 - 1 AZ
+PSV Eindhoven 2 - 0 Feyenoord
+PSV Eindhoven 0 - 1 Willem II
+PSV Eindhoven 0 - 1 FC Utrecht
+PSV Eindhoven 1 - 0 Vitesse
+PSV Eindhoven 2 - 2 Heracles Almelo
+PSV Eindhoven 2 - 1 FC Groningen
+PSV Eindhoven 0 - 1 Heerenveen
+PSV Eindhoven 1 - 2 Sparta Rotterdam
+PSV Eindhoven 1 - 0 FC Emmen
+PSV Eindhoven 0 - 1 VVV-Venlo
+PSV Eindhoven 1 - 0 FC Twente
+PSV Eindhoven 1 - 0 PEC Zwolle
+PSV Eindhoven 3 - 0 Fortuna Sittard
+PSV Eindhoven 0 - 0 ADO Den Haag
+PSV Eindhoven 2 - 0 RKC Waalwijk
+Willem II 1 - 1 Ajax
+Willem II 1 - 1 AZ
+Willem II 1 - 2 Feyenoord
+Willem II 1 - 1 PSV Eindhoven
+Willem II 2 - 0 FC Utrecht
+Willem II 1 - 0 Vitesse
+Willem II 1 - 1 Heracles Almelo
+Willem II 0 - 1 FC Groningen
+Willem II 0 - 1 Heerenveen
+Willem II 1 - 0 Sparta Rotterdam
+Willem II 2 - 0 FC Emmen
+Willem II 2 - 0 VVV-Venlo
+Willem II 0 - 1 FC Twente
+Willem II 2 - 0 PEC Zwolle
+Willem II 0 - 1 Fortuna Sittard
+Willem II 0 - 0 ADO Den Haag
+Willem II 1 - 1 RKC Waalwijk
+FC Utrecht 0 - 1 Ajax
+FC Utrecht 0 - 2 AZ
+FC Utrecht 0 - 2 Feyenoord
+FC Utrecht 0 - 2 PSV Eindhoven
+FC Utrecht 0 - 0 Willem II
+FC Utrecht 1 - 0 Vitesse
+FC Utrecht 1 - 2 Heracles Almelo
+FC Utrecht 2 - 0 FC Groningen
+FC Utrecht 0 - 1 Heerenveen
+FC Utrecht 3 - 1 Sparta Rotterdam
+FC Utrecht 1 - 0 FC Emmen
+FC Utrecht 2 - 0 VVV-Venlo
+FC Utrecht 0 - 2 FC Twente
+FC Utrecht 0 - 1 PEC Zwolle
+FC Utrecht 2 - 0 Fortuna Sittard
+FC Utrecht 3 - 1 ADO Den Haag
+FC Utrecht 2 - 2 RKC Waalwijk
+Vitesse 0 - 3 Ajax
+Vitesse 0 - 1 AZ
+Vitesse 1 - 2 Feyenoord
+Vitesse 0 - 0 PSV Eindhoven
+Vitesse 0 - 1 Willem II
+Vitesse 2 - 2 FC Utrecht
+Vitesse 0 - 2 Heracles Almelo
+Vitesse 1 - 1 FC Groningen
+Vitesse 2 - 1 Heerenveen
+Vitesse 0 - 2 Sparta Rotterdam
+Vitesse 1 - 0 FC Emmen
+Vitesse 3 - 2 VVV-Venlo
+Vitesse 1 - 0 FC Twente
+Vitesse 1 - 1 PEC Zwolle
+Vitesse 1 - 0 Fortuna Sittard
+Vitesse 0 - 2 ADO Den Haag
+Vitesse 2 - 1 RKC Waalwijk
+Heracles Almelo 1 - 3 Ajax
+Heracles Almelo 2 - 2 AZ
+Heracles Almelo 0 - 0 Feyenoord
+Heracles Almelo 1 - 0 PSV Eindhoven
+Heracles Almelo 0 - 2 Willem II
+Heracles Almelo 1 - 1 FC Utrecht
+Heracles Almelo 2 - 0 Vitesse
+Heracles Almelo 0 - 1 FC Groningen
+Heracles Almelo 1 - 1 Heerenveen
+Heracles Almelo 1 - 1 Sparta Rotterdam
+Heracles Almelo 2 - 0 FC Emmen
+Heracles Almelo 0 - 1 VVV-Venlo
+Heracles Almelo 2 - 0 FC Twente
+Heracles Almelo 1 - 1 PEC Zwolle
+Heracles Almelo 2 - 0 Fortuna Sittard
+Heracles Almelo 2 - 1 ADO Den Haag
+Heracles Almelo 0 - 1 RKC Waalwijk
+FC Groningen 0 - 2 Ajax
+FC Groningen 1 - 2 AZ
+FC Groningen 0 - 0 Feyenoord
+FC Groningen 1 - 0 PSV Eindhoven
+FC Groningen 2 - 0 Willem II
+FC Groningen 1 - 0 FC Utrecht
+FC Groningen 0 - 0 Vitesse
+FC Groningen 0 - 1 Heracles Almelo
+FC Groningen 1 - 1 Heerenveen
+FC Groningen 1 - 2 Sparta Rotterdam
+FC Groningen 2 - 1 FC Emmen
+FC Groningen 2 - 0 VVV-Venlo
+FC Groningen 0 - 0 FC Twente
+FC Groningen 2 - 2 PEC Zwolle
+FC Groningen 1 - 0 Fortuna Sittard
+FC Groningen 0 - 1 ADO Den Haag
+FC Groningen 0 - 0 RKC Waalwijk
+Heerenveen 2 - 3 Ajax
+Heerenveen 0 - 2 AZ
+Heerenveen 0 - 1 Feyenoord
+Heerenveen 0 - 2 PSV Eindhoven
+Heerenveen 0 - 0 Willem II
+Heerenveen 2 - 2 FC Utrecht
+Heerenveen 2 - 0 Vitesse
+Heerenveen 1 - 0 Heracles Almelo
+Heerenveen 1 - 2 FC Groningen
+Heerenveen 0 - 1 Sparta Rotterdam
+Heerenveen 2 - 2 FC Emmen
+Heerenveen 2 - 0 VVV-Venlo
+Heerenveen 2 - 0 FC Twente
+Heerenveen 0 - 2 PEC Zwolle
+Heerenveen 2 - 2 Fortuna Sittard
+Heerenveen 2 - 2 ADO Den Haag
+Heerenveen 3 - 0 RKC Waalwijk
+Sparta Rotterdam 1 - 2 Ajax
+Sparta Rotterdam 0 - 2 AZ
+Sparta Rotterdam 1 - 1 Feyenoord
+Sparta Rotterdam 2 - 1 PSV Eindhoven
+Sparta Rotterdam 1 - 2 Willem II
+Sparta Rotterdam 1 - 1 FC Utrecht
+Sparta Rotterdam 1 - 2 Vitesse
+Sparta Rotterdam 1 - 0 Heracles Almelo
+Sparta Rotterdam 1 - 0 FC Groningen
+Sparta Rotterdam 1 - 3 Heerenveen
+Sparta Rotterdam 1 - 0 FC Emmen
+Sparta Rotterdam 3 - 2 VVV-Venlo
+Sparta Rotterdam 0 - 0 FC Twente
+Sparta Rotterdam 0 - 1 PEC Zwolle
+Sparta Rotterdam 3 - 0 Fortuna Sittard
+Sparta Rotterdam 1 - 0 ADO Den Haag
+Sparta Rotterdam 3 - 1 RKC Waalwijk
+FC Emmen 1 - 3 Ajax
+FC Emmen 1 - 3 AZ
+FC Emmen 1 - 3 Feyenoord
+FC Emmen 1 - 1 PSV Eindhoven
+FC Emmen 0 - 0 Willem II
+FC Emmen 1 - 1 FC Utrecht
+FC Emmen 1 - 1 Vitesse
+FC Emmen 0 - 2 Heracles Almelo
+FC Emmen 1 - 0 FC Groningen
+FC Emmen 1 - 2 Heerenveen
+FC Emmen 1 - 0 Sparta Rotterdam
+FC Emmen 1 - 1 VVV-Venlo
+FC Emmen 1 - 0 FC Twente
+FC Emmen 1 - 1 PEC Zwolle
+FC Emmen 1 - 0 Fortuna Sittard
+FC Emmen 1 - 1 ADO Den Haag
+FC Emmen 1 - 2 RKC Waalwijk
+VVV-Venlo 0 - 2 Ajax
+VVV-Venlo 0 - 2 AZ
+VVV-Venlo 1 - 2 Feyenoord
+VVV-Venlo 0 - 0 PSV Eindhoven
+VVV-Venlo 1 - 2 Willem II
+VVV-Venlo 0 - 2 FC Utrecht
+VVV-Venlo 1 - 2 Vitesse
+VVV-Venlo 0 - 0 Heracles Almelo
+VVV-Venlo 1 - 2 FC Groningen
+VVV-Venlo 1 - 3 Heerenveen
+VVV-Venlo 2 - 1 Sparta Rotterdam
+VVV-Venlo 0 - 0 FC Emmen
+VVV-Venlo 0 - 0 FC Twente
+VVV-Venlo 1 - 0 PEC Zwolle
+VVV-Venlo 2 - 0 Fortuna Sittard
+VVV-Venlo 1 - 0 ADO Den Haag
+VVV-Venlo 2 - 2 RKC Waalwijk
+FC Twente 0 - 2 Ajax
+FC Twente 0 - 3 AZ
+FC Twente 1 - 3 Feyenoord
+FC Twente 1 - 1 PSV Eindhoven
+FC Twente 1 - 2 Willem II
+FC Twente 1 - 3 FC Utrecht
+FC Twente 1 - 2 Vitesse
+FC Twente 0 - 0 Heracles Almelo
+FC Twente 1 - 1 FC Groningen
+FC Twente 2 - 1 Heerenveen
+FC Twente 2 - 3 Sparta Rotterdam
+FC Twente 1 - 2 FC Emmen
+FC Twente 0 - 1 VVV-Venlo
+FC Twente 0 - 0 PEC Zwolle
+FC Twente 0 - 2 Fortuna Sittard
+FC Twente 0 - 2 ADO Den Haag
+FC Twente 3 - 2 RKC Waalwijk
+PEC Zwolle 0 - 2 Ajax
+PEC Zwolle 1 - 3 AZ
+PEC Zwolle 1 - 2 Feyenoord
+PEC Zwolle 1 - 2 PSV Eindhoven
+PEC Zwolle 2 - 1 Willem II
+PEC Zwolle 1 - 1 FC Utrecht
+PEC Zwolle 1 - 2 Vitesse
+PEC Zwolle 2 - 2 Heracles Almelo
+PEC Zwolle 0 - 0 FC Groningen
+PEC Zwolle 1 - 1 Heerenveen
+PEC Zwolle 2 - 1 Sparta Rotterdam
+PEC Zwolle 0 - 1 FC Emmen
+PEC Zwolle 2 - 2 VVV-Venlo
+PEC Zwolle 2 - 1 FC Twente
+PEC Zwolle 0 - 2 Fortuna Sittard
+PEC Zwolle 1 - 2 ADO Den Haag
+PEC Zwolle 0 - 2 RKC Waalwijk
+Fortuna Sittard 0 - 3 Ajax
+Fortuna Sittard 0 - 3 AZ
+Fortuna Sittard 0 - 1 Feyenoord
+Fortuna Sittard 0 - 1 PSV Eindhoven
+Fortuna Sittard 0 - 2 Willem II
+Fortuna Sittard 0 - 3 FC Utrecht
+Fortuna Sittard 0 - 1 Vitesse
+Fortuna Sittard 0 - 2 Heracles Almelo
+Fortuna Sittard 0 - 0 FC Groningen
+Fortuna Sittard 1 - 1 Heerenveen
+Fortuna Sittard 0 - 3 Sparta Rotterdam
+Fortuna Sittard 0 - 1 FC Emmen
+Fortuna Sittard 0 - 1 VVV-Venlo
+Fortuna Sittard 1 - 0 FC Twente
+Fortuna Sittard 1 - 0 PEC Zwolle
+Fortuna Sittard 0 - 2 ADO Den Haag
+Fortuna Sittard 0 - 2 RKC Waalwijk
+ADO Den Haag 0 - 1 Ajax
+ADO Den Haag 0 - 2 AZ
+ADO Den Haag 0 - 0 Feyenoord
+ADO Den Haag 0 - 1 PSV Eindhoven
+ADO Den Haag 0 - 1 Willem II
+ADO Den Haag 0 - 2 FC Utrecht
+ADO Den Haag 2 - 2 Vitesse
+ADO Den Haag 0 - 2 Heracles Almelo
+ADO Den Haag 0 - 1 FC Groningen
+ADO Den Haag 0 - 2 Heerenveen
+ADO Den Haag 2 - 1 Sparta Rotterdam
+ADO Den Haag 0 - 0 FC Emmen
+ADO Den Haag 2 - 1 VVV-Venlo
+ADO Den Haag 1 - 3 FC Twente
+ADO Den Haag 2 - 3 PEC Zwolle
+ADO Den Haag 2 - 0 Fortuna Sittard
+ADO Den Haag 2 - 1 RKC Waalwijk
+RKC Waalwijk 1 - 4 Ajax
+RKC Waalwijk 0 - 4 AZ
+RKC Waalwijk 2 - 1 Feyenoord
+RKC Waalwijk 0 - 2 PSV Eindhoven
+RKC Waalwijk 1 - 2 Willem II
+RKC Waalwijk 0 - 2 FC Utrecht
+RKC Waalwijk 1 - 0 Vitesse
+RKC Waalwijk 2 - 3 Heracles Almelo
+RKC Waalwijk 1 - 2 FC Groningen
+RKC Waalwijk 1 - 2 Heerenveen
+RKC Waalwijk 2 - 3 Sparta Rotterdam
+RKC Waalwijk 2 - 0 FC Emmen
+RKC Waalwijk 2 - 2 VVV-Venlo
+RKC Waalwijk 1 - 1 FC Twente
+RKC Waalwijk 2 - 1 PEC Zwolle
+RKC Waalwijk 2 - 3 Fortuna Sittard
+RKC Waalwijk 2 - 1 ADO Den Haag
+
+#---------------------------------
+#	 Season 605206
+#---------------------------------
+Ajax 0 - 0 AZ
+Ajax 0 - 2 Feyenoord
+Ajax 1 - 1 PSV Eindhoven
+Ajax 0 - 1 Willem II
+Ajax 3 - 1 FC Utrecht
+Ajax 0 - 1 Vitesse
+Ajax 0 - 2 Heracles Almelo
+Ajax 3 - 0 FC Groningen
+Ajax 1 - 1 Heerenveen
+Ajax 1 - 2 Sparta Rotterdam
+Ajax 2 - 1 FC Emmen
+Ajax 4 - 1 VVV-Venlo
+Ajax 1 - 1 FC Twente
+Ajax 3 - 1 PEC Zwolle
+Ajax 2 - 0 Fortuna Sittard
+Ajax 1 - 0 ADO Den Haag
+Ajax 4 - 0 RKC Waalwijk
+AZ 0 - 0 Ajax
+AZ 1 - 2 Feyenoord
+AZ 2 - 2 PSV Eindhoven
+AZ 0 - 1 Willem II
+AZ 0 - 1 FC Utrecht
+AZ 1 - 1 Vitesse
+AZ 1 - 0 Heracles Almelo
+AZ 1 - 0 FC Groningen
+AZ 0 - 1 Heerenveen
+AZ 3 - 1 Sparta Rotterdam
+AZ 0 - 0 FC Emmen
+AZ 0 - 0 VVV-Venlo
+AZ 1 - 1 FC Twente
+AZ 3 - 1 PEC Zwolle
+AZ 0 - 1 Fortuna Sittard
+AZ 1 - 1 ADO Den Haag
+AZ 3 - 1 RKC Waalwijk
+Feyenoord 2 - 2 Ajax
+Feyenoord 2 - 1 AZ
+Feyenoord 2 - 1 PSV Eindhoven
+Feyenoord 2 - 0 Willem II
+Feyenoord 2 - 1 FC Utrecht
+Feyenoord 1 - 2 Vitesse
+Feyenoord 1 - 1 Heracles Almelo
+Feyenoord 0 - 0 FC Groningen
+Feyenoord 2 - 1 Heerenveen
+Feyenoord 1 - 2 Sparta Rotterdam
+Feyenoord 1 - 2 FC Emmen
+Feyenoord 0 - 2 VVV-Venlo
+Feyenoord 2 - 0 FC Twente
+Feyenoord 0 - 1 PEC Zwolle
+Feyenoord 1 - 0 Fortuna Sittard
+Feyenoord 0 - 1 ADO Den Haag
+Feyenoord 3 - 1 RKC Waalwijk
+PSV Eindhoven 1 - 3 Ajax
+PSV Eindhoven 1 - 2 AZ
+PSV Eindhoven 2 - 1 Feyenoord
+PSV Eindhoven 0 - 2 Willem II
+PSV Eindhoven 1 - 2 FC Utrecht
+PSV Eindhoven 0 - 1 Vitesse
+PSV Eindhoven 0 - 0 Heracles Almelo
+PSV Eindhoven 1 - 1 FC Groningen
+PSV Eindhoven 3 - 1 Heerenveen
+PSV Eindhoven 1 - 2 Sparta Rotterdam
+PSV Eindhoven 0 - 1 FC Emmen
+PSV Eindhoven 2 - 1 VVV-Venlo
+PSV Eindhoven 3 - 1 FC Twente
+PSV Eindhoven 1 - 1 PEC Zwolle
+PSV Eindhoven 2 - 1 Fortuna Sittard
+PSV Eindhoven 1 - 1 ADO Den Haag
+PSV Eindhoven 3 - 1 RKC Waalwijk
+Willem II 0 - 0 Ajax
+Willem II 1 - 0 AZ
+Willem II 2 - 2 Feyenoord
+Willem II 2 - 1 PSV Eindhoven
+Willem II 1 - 0 FC Utrecht
+Willem II 2 - 2 Vitesse
+Willem II 0 - 2 Heracles Almelo
+Willem II 2 - 1 FC Groningen
+Willem II 0 - 1 Heerenveen
+Willem II 0 - 0 Sparta Rotterdam
+Willem II 1 - 1 FC Emmen
+Willem II 1 - 1 VVV-Venlo
+Willem II 2 - 2 FC Twente
+Willem II 1 - 1 PEC Zwolle
+Willem II 1 - 0 Fortuna Sittard
+Willem II 1 - 0 ADO Den Haag
+Willem II 2 - 0 RKC Waalwijk
+FC Utrecht 0 - 1 Ajax
+FC Utrecht 0 - 3 AZ
+FC Utrecht 2 - 2 Feyenoord
+FC Utrecht 2 - 2 PSV Eindhoven
+FC Utrecht 1 - 0 Willem II
+FC Utrecht 0 - 2 Vitesse
+FC Utrecht 2 - 1 Heracles Almelo
+FC Utrecht 1 - 2 FC Groningen
+FC Utrecht 0 - 2 Heerenveen
+FC Utrecht 2 - 2 Sparta Rotterdam
+FC Utrecht 1 - 0 FC Emmen
+FC Utrecht 3 - 0 VVV-Venlo
+FC Utrecht 0 - 0 FC Twente
+FC Utrecht 1 - 0 PEC Zwolle
+FC Utrecht 0 - 0 Fortuna Sittard
+FC Utrecht 3 - 1 ADO Den Haag
+FC Utrecht 1 - 2 RKC Waalwijk
+Vitesse 1 - 2 Ajax
+Vitesse 1 - 1 AZ
+Vitesse 1 - 1 Feyenoord
+Vitesse 0 - 2 PSV Eindhoven
+Vitesse 1 - 0 Willem II
+Vitesse 1 - 3 FC Utrecht
+Vitesse 0 - 2 Heracles Almelo
+Vitesse 0 - 1 FC Groningen
+Vitesse 2 - 1 Heerenveen
+Vitesse 2 - 2 Sparta Rotterdam
+Vitesse 2 - 0 FC Emmen
+Vitesse 1 - 1 VVV-Venlo
+Vitesse 2 - 2 FC Twente
+Vitesse 1 - 1 PEC Zwolle
+Vitesse 2 - 2 Fortuna Sittard
+Vitesse 1 - 1 ADO Den Haag
+Vitesse 2 - 2 RKC Waalwijk
+Heracles Almelo 1 - 3 Ajax
+Heracles Almelo 0 - 2 AZ
+Heracles Almelo 0 - 0 Feyenoord
+Heracles Almelo 1 - 2 PSV Eindhoven
+Heracles Almelo 2 - 2 Willem II
+Heracles Almelo 2 - 0 FC Utrecht
+Heracles Almelo 2 - 1 Vitesse
+Heracles Almelo 0 - 1 FC Groningen
+Heracles Almelo 1 - 0 Heerenveen
+Heracles Almelo 2 - 1 Sparta Rotterdam
+Heracles Almelo 0 - 1 FC Emmen
+Heracles Almelo 0 - 2 VVV-Venlo
+Heracles Almelo 1 - 2 FC Twente
+Heracles Almelo 0 - 2 PEC Zwolle
+Heracles Almelo 3 - 1 Fortuna Sittard
+Heracles Almelo 2 - 1 ADO Den Haag
+Heracles Almelo 1 - 0 RKC Waalwijk
+FC Groningen 0 - 0 Ajax
+FC Groningen 0 - 3 AZ
+FC Groningen 0 - 1 Feyenoord
+FC Groningen 0 - 0 PSV Eindhoven
+FC Groningen 0 - 1 Willem II
+FC Groningen 1 - 2 FC Utrecht
+FC Groningen 2 - 2 Vitesse
+FC Groningen 0 - 0 Heracles Almelo
+FC Groningen 0 - 0 Heerenveen
+FC Groningen 2 - 0 Sparta Rotterdam
+FC Groningen 2 - 0 FC Emmen
+FC Groningen 2 - 0 VVV-Venlo
+FC Groningen 1 - 0 FC Twente
+FC Groningen 0 - 2 PEC Zwolle
+FC Groningen 2 - 0 Fortuna Sittard
+FC Groningen 0 - 0 ADO Den Haag
+FC Groningen 2 - 1 RKC Waalwijk
+Heerenveen 1 - 0 Ajax
+Heerenveen 0 - 2 AZ
+Heerenveen 2 - 1 Feyenoord
+Heerenveen 0 - 3 PSV Eindhoven
+Heerenveen 1 - 1 Willem II
+Heerenveen 0 - 2 FC Utrecht
+Heerenveen 2 - 0 Vitesse
+Heerenveen 1 - 2 Heracles Almelo
+Heerenveen 0 - 0 FC Groningen
+Heerenveen 2 - 0 Sparta Rotterdam
+Heerenveen 1 - 2 FC Emmen
+Heerenveen 0 - 1 VVV-Venlo
+Heerenveen 2 - 2 FC Twente
+Heerenveen 0 - 1 PEC Zwolle
+Heerenveen 0 - 2 Fortuna Sittard
+Heerenveen 1 - 1 ADO Den Haag
+Heerenveen 3 - 1 RKC Waalwijk
+Sparta Rotterdam 1 - 0 Ajax
+Sparta Rotterdam 1 - 3 AZ
+Sparta Rotterdam 1 - 2 Feyenoord
+Sparta Rotterdam 0 - 3 PSV Eindhoven
+Sparta Rotterdam 2 - 1 Willem II
+Sparta Rotterdam 0 - 1 FC Utrecht
+Sparta Rotterdam 1 - 0 Vitesse
+Sparta Rotterdam 0 - 3 Heracles Almelo
+Sparta Rotterdam 0 - 2 FC Groningen
+Sparta Rotterdam 1 - 2 Heerenveen
+Sparta Rotterdam 0 - 1 FC Emmen
+Sparta Rotterdam 3 - 1 VVV-Venlo
+Sparta Rotterdam 3 - 2 FC Twente
+Sparta Rotterdam 0 - 2 PEC Zwolle
+Sparta Rotterdam 2 - 1 Fortuna Sittard
+Sparta Rotterdam 0 - 1 ADO Den Haag
+Sparta Rotterdam 3 - 1 RKC Waalwijk
+FC Emmen 1 - 2 Ajax
+FC Emmen 0 - 1 AZ
+FC Emmen 2 - 1 Feyenoord
+FC Emmen 1 - 2 PSV Eindhoven
+FC Emmen 0 - 2 Willem II
+FC Emmen 1 - 0 FC Utrecht
+FC Emmen 1 - 0 Vitesse
+FC Emmen 0 - 0 Heracles Almelo
+FC Emmen 1 - 1 FC Groningen
+FC Emmen 0 - 0 Heerenveen
+FC Emmen 0 - 2 Sparta Rotterdam
+FC Emmen 0 - 2 VVV-Venlo
+FC Emmen 2 - 1 FC Twente
+FC Emmen 1 - 1 PEC Zwolle
+FC Emmen 0 - 0 Fortuna Sittard
+FC Emmen 0 - 1 ADO Den Haag
+FC Emmen 1 - 0 RKC Waalwijk
+VVV-Venlo 0 - 3 Ajax
+VVV-Venlo 1 - 3 AZ
+VVV-Venlo 0 - 0 Feyenoord
+VVV-Venlo 1 - 2 PSV Eindhoven
+VVV-Venlo 1 - 0 Willem II
+VVV-Venlo 0 - 3 FC Utrecht
+VVV-Venlo 1 - 3 Vitesse
+VVV-Venlo 1 - 1 Heracles Almelo
+VVV-Venlo 0 - 2 FC Groningen
+VVV-Venlo 1 - 3 Heerenveen
+VVV-Venlo 0 - 3 Sparta Rotterdam
+VVV-Venlo 1 - 0 FC Emmen
+VVV-Venlo 1 - 1 FC Twente
+VVV-Venlo 2 - 0 PEC Zwolle
+VVV-Venlo 1 - 2 Fortuna Sittard
+VVV-Venlo 2 - 2 ADO Den Haag
+VVV-Venlo 1 - 1 RKC Waalwijk
+FC Twente 2 - 1 Ajax
+FC Twente 0 - 2 AZ
+FC Twente 0 - 0 Feyenoord
+FC Twente 0 - 2 PSV Eindhoven
+FC Twente 0 - 2 Willem II
+FC Twente 2 - 3 FC Utrecht
+FC Twente 0 - 2 Vitesse
+FC Twente 2 - 2 Heracles Almelo
+FC Twente 0 - 1 FC Groningen
+FC Twente 0 - 2 Heerenveen
+FC Twente 2 - 0 Sparta Rotterdam
+FC Twente 0 - 1 FC Emmen
+FC Twente 1 - 1 VVV-Venlo
+FC Twente 0 - 2 PEC Zwolle
+FC Twente 0 - 1 Fortuna Sittard
+FC Twente 1 - 0 ADO Den Haag
+FC Twente 1 - 0 RKC Waalwijk
+PEC Zwolle 2 - 1 Ajax
+PEC Zwolle 0 - 1 AZ
+PEC Zwolle 1 - 1 Feyenoord
+PEC Zwolle 1 - 1 PSV Eindhoven
+PEC Zwolle 1 - 2 Willem II
+PEC Zwolle 0 - 2 FC Utrecht
+PEC Zwolle 0 - 0 Vitesse
+PEC Zwolle 0 - 2 Heracles Almelo
+PEC Zwolle 1 - 0 FC Groningen
+PEC Zwolle 2 - 3 Heerenveen
+PEC Zwolle 1 - 2 Sparta Rotterdam
+PEC Zwolle 0 - 2 FC Emmen
+PEC Zwolle 0 - 1 VVV-Venlo
+PEC Zwolle 2 - 1 FC Twente
+PEC Zwolle 1 - 2 Fortuna Sittard
+PEC Zwolle 1 - 1 ADO Den Haag
+PEC Zwolle 2 - 3 RKC Waalwijk
+Fortuna Sittard 1 - 3 Ajax
+Fortuna Sittard 0 - 3 AZ
+Fortuna Sittard 0 - 3 Feyenoord
+Fortuna Sittard 1 - 2 PSV Eindhoven
+Fortuna Sittard 1 - 2 Willem II
+Fortuna Sittard 0 - 3 FC Utrecht
+Fortuna Sittard 1 - 0 Vitesse
+Fortuna Sittard 0 - 1 Heracles Almelo
+Fortuna Sittard 1 - 0 FC Groningen
+Fortuna Sittard 1 - 1 Heerenveen
+Fortuna Sittard 2 - 0 Sparta Rotterdam
+Fortuna Sittard 0 - 1 FC Emmen
+Fortuna Sittard 0 - 2 VVV-Venlo
+Fortuna Sittard 1 - 1 FC Twente
+Fortuna Sittard 3 - 3 PEC Zwolle
+Fortuna Sittard 0 - 2 ADO Den Haag
+Fortuna Sittard 3 - 0 RKC Waalwijk
+ADO Den Haag 1 - 2 Ajax
+ADO Den Haag 0 - 3 AZ
+ADO Den Haag 0 - 3 Feyenoord
+ADO Den Haag 0 - 3 PSV Eindhoven
+ADO Den Haag 0 - 1 Willem II
+ADO Den Haag 1 - 1 FC Utrecht
+ADO Den Haag 0 - 3 Vitesse
+ADO Den Haag 0 - 3 Heracles Almelo
+ADO Den Haag 1 - 0 FC Groningen
+ADO Den Haag 0 - 0 Heerenveen
+ADO Den Haag 0 - 1 Sparta Rotterdam
+ADO Den Haag 1 - 0 FC Emmen
+ADO Den Haag 1 - 0 VVV-Venlo
+ADO Den Haag 1 - 1 FC Twente
+ADO Den Haag 1 - 2 PEC Zwolle
+ADO Den Haag 1 - 1 Fortuna Sittard
+ADO Den Haag 3 - 0 RKC Waalwijk
+RKC Waalwijk 0 - 4 Ajax
+RKC Waalwijk 0 - 4 AZ
+RKC Waalwijk 2 - 3 Feyenoord
+RKC Waalwijk 0 - 3 PSV Eindhoven
+RKC Waalwijk 0 - 3 Willem II
+RKC Waalwijk 2 - 3 FC Utrecht
+RKC Waalwijk 1 - 2 Vitesse
+RKC Waalwijk 0 - 3 Heracles Almelo
+RKC Waalwijk 0 - 2 FC Groningen
+RKC Waalwijk 1 - 2 Heerenveen
+RKC Waalwijk 0 - 0 Sparta Rotterdam
+RKC Waalwijk 0 - 3 FC Emmen
+RKC Waalwijk 0 - 2 VVV-Venlo
+RKC Waalwijk 1 - 2 FC Twente
+RKC Waalwijk 0 - 1 PEC Zwolle
+RKC Waalwijk 2 - 3 Fortuna Sittard
+RKC Waalwijk 1 - 3 ADO Den Haag
+
+#---------------------------------
+#	 Season 689405
+#---------------------------------
+Ajax 1 - 3 AZ
+Ajax 1 - 0 Feyenoord
+Ajax 1 - 1 PSV Eindhoven
+Ajax 1 - 2 Willem II
+Ajax 2 - 2 FC Utrecht
+Ajax 3 - 0 Vitesse
+Ajax 0 - 0 Heracles Almelo
+Ajax 3 - 0 FC Groningen
+Ajax 3 - 0 Heerenveen
+Ajax 3 - 1 Sparta Rotterdam
+Ajax 3 - 1 FC Emmen
+Ajax 4 - 0 VVV-Venlo
+Ajax 0 - 1 FC Twente
+Ajax 1 - 1 PEC Zwolle
+Ajax 1 - 1 Fortuna Sittard
+Ajax 2 - 0 ADO Den Haag
+Ajax 0 - 0 RKC Waalwijk
+AZ 0 - 1 Ajax
+AZ 3 - 1 Feyenoord
+AZ 0 - 0 PSV Eindhoven
+AZ 2 - 1 Willem II
+AZ 1 - 1 FC Utrecht
+AZ 2 - 0 Vitesse
+AZ 1 - 1 Heracles Almelo
+AZ 0 - 1 FC Groningen
+AZ 1 - 0 Heerenveen
+AZ 1 - 1 Sparta Rotterdam
+AZ 2 - 1 FC Emmen
+AZ 0 - 1 VVV-Venlo
+AZ 0 - 1 FC Twente
+AZ 1 - 1 PEC Zwolle
+AZ 2 - 0 Fortuna Sittard
+AZ 1 - 1 ADO Den Haag
+AZ 0 - 1 RKC Waalwijk
+Feyenoord 0 - 1 Ajax
+Feyenoord 0 - 1 AZ
+Feyenoord 2 - 2 PSV Eindhoven
+Feyenoord 2 - 0 Willem II
+Feyenoord 0 - 1 FC Utrecht
+Feyenoord 1 - 2 Vitesse
+Feyenoord 0 - 1 Heracles Almelo
+Feyenoord 1 - 1 FC Groningen
+Feyenoord 0 - 0 Heerenveen
+Feyenoord 2 - 1 Sparta Rotterdam
+Feyenoord 3 - 0 FC Emmen
+Feyenoord 1 - 2 VVV-Venlo
+Feyenoord 0 - 0 FC Twente
+Feyenoord 2 - 2 PEC Zwolle
+Feyenoord 0 - 0 Fortuna Sittard
+Feyenoord 0 - 2 ADO Den Haag
+Feyenoord 0 - 1 RKC Waalwijk
+PSV Eindhoven 1 - 3 Ajax
+PSV Eindhoven 1 - 0 AZ
+PSV Eindhoven 0 - 1 Feyenoord
+PSV Eindhoven 2 - 1 Willem II
+PSV Eindhoven 2 - 2 FC Utrecht
+PSV Eindhoven 1 - 1 Vitesse
+PSV Eindhoven 2 - 2 Heracles Almelo
+PSV Eindhoven 1 - 0 FC Groningen
+PSV Eindhoven 0 - 0 Heerenveen
+PSV Eindhoven 0 - 1 Sparta Rotterdam
+PSV Eindhoven 2 - 2 FC Emmen
+PSV Eindhoven 3 - 0 VVV-Venlo
+PSV Eindhoven 0 - 1 FC Twente
+PSV Eindhoven 0 - 2 PEC Zwolle
+PSV Eindhoven 3 - 1 Fortuna Sittard
+PSV Eindhoven 0 - 1 ADO Den Haag
+PSV Eindhoven 2 - 0 RKC Waalwijk
+Willem II 1 - 1 Ajax
+Willem II 1 - 3 AZ
+Willem II 0 - 0 Feyenoord
+Willem II 1 - 1 PSV Eindhoven
+Willem II 1 - 2 FC Utrecht
+Willem II 1 - 2 Vitesse
+Willem II 1 - 2 Heracles Almelo
+Willem II 1 - 0 FC Groningen
+Willem II 0 - 0 Heerenveen
+Willem II 2 - 1 Sparta Rotterdam
+Willem II 0 - 1 FC Emmen
+Willem II 0 - 0 VVV-Venlo
+Willem II 2 - 1 FC Twente
+Willem II 1 - 2 PEC Zwolle
+Willem II 1 - 2 Fortuna Sittard
+Willem II 2 - 1 ADO Den Haag
+Willem II 2 - 1 RKC Waalwijk
+FC Utrecht 0 - 3 Ajax
+FC Utrecht 0 - 0 AZ
+FC Utrecht 3 - 0 Feyenoord
+FC Utrecht 0 - 0 PSV Eindhoven
+FC Utrecht 0 - 0 Willem II
+FC Utrecht 2 - 1 Vitesse
+FC Utrecht 0 - 1 Heracles Almelo
+FC Utrecht 1 - 2 FC Groningen
+FC Utrecht 1 - 0 Heerenveen
+FC Utrecht 3 - 0 Sparta Rotterdam
+FC Utrecht 0 - 0 FC Emmen
+FC Utrecht 1 - 1 VVV-Venlo
+FC Utrecht 0 - 1 FC Twente
+FC Utrecht 2 - 1 PEC Zwolle
+FC Utrecht 0 - 1 Fortuna Sittard
+FC Utrecht 0 - 1 ADO Den Haag
+FC Utrecht 0 - 2 RKC Waalwijk
+Vitesse 1 - 2 Ajax
+Vitesse 2 - 0 AZ
+Vitesse 0 - 2 Feyenoord
+Vitesse 0 - 0 PSV Eindhoven
+Vitesse 1 - 2 Willem II
+Vitesse 1 - 1 FC Utrecht
+Vitesse 1 - 0 Heracles Almelo
+Vitesse 1 - 1 FC Groningen
+Vitesse 1 - 1 Heerenveen
+Vitesse 2 - 1 Sparta Rotterdam
+Vitesse 1 - 0 FC Emmen
+Vitesse 1 - 1 VVV-Venlo
+Vitesse 3 - 1 FC Twente
+Vitesse 1 - 1 PEC Zwolle
+Vitesse 3 - 1 Fortuna Sittard
+Vitesse 0 - 2 ADO Den Haag
+Vitesse 1 - 0 RKC Waalwijk
+Heracles Almelo 2 - 3 Ajax
+Heracles Almelo 0 - 0 AZ
+Heracles Almelo 2 - 0 Feyenoord
+Heracles Almelo 2 - 0 PSV Eindhoven
+Heracles Almelo 1 - 1 Willem II
+Heracles Almelo 0 - 2 FC Utrecht
+Heracles Almelo 2 - 1 Vitesse
+Heracles Almelo 0 - 1 FC Groningen
+Heracles Almelo 1 - 1 Heerenveen
+Heracles Almelo 3 - 1 Sparta Rotterdam
+Heracles Almelo 1 - 1 FC Emmen
+Heracles Almelo 0 - 0 VVV-Venlo
+Heracles Almelo 0 - 1 FC Twente
+Heracles Almelo 0 - 1 PEC Zwolle
+Heracles Almelo 0 - 2 Fortuna Sittard
+Heracles Almelo 2 - 1 ADO Den Haag
+Heracles Almelo 0 - 1 RKC Waalwijk
+FC Groningen 0 - 2 Ajax
+FC Groningen 0 - 0 AZ
+FC Groningen 1 - 2 Feyenoord
+FC Groningen 1 - 1 PSV Eindhoven
+FC Groningen 1 - 2 Willem II
+FC Groningen 1 - 1 FC Utrecht
+FC Groningen 1 - 2 Vitesse
+FC Groningen 1 - 0 Heracles Almelo
+FC Groningen 0 - 1 Heerenveen
+FC Groningen 0 - 2 Sparta Rotterdam
+FC Groningen 1 - 0 FC Emmen
+FC Groningen 2 - 1 VVV-Venlo
+FC Groningen 0 - 0 FC Twente
+FC Groningen 2 - 0 PEC Zwolle
+FC Groningen 2 - 1 Fortuna Sittard
+FC Groningen 2 - 1 ADO Den Haag
+FC Groningen 1 - 0 RKC Waalwijk
+Heerenveen 0 - 2 Ajax
+Heerenveen 0 - 0 AZ
+Heerenveen 2 - 0 Feyenoord
+Heerenveen 1 - 0 PSV Eindhoven
+Heerenveen 2 - 0 Willem II
+Heerenveen 2 - 3 FC Utrecht
+Heerenveen 0 - 1 Vitesse
+Heerenveen 2 - 2 Heracles Almelo
+Heerenveen 2 - 0 FC Groningen
+Heerenveen 1 - 0 Sparta Rotterdam
+Heerenveen 3 - 2 FC Emmen
+Heerenveen 2 - 1 VVV-Venlo
+Heerenveen 0 - 1 FC Twente
+Heerenveen 2 - 1 PEC Zwolle
+Heerenveen 1 - 2 Fortuna Sittard
+Heerenveen 3 - 2 ADO Den Haag
+Heerenveen 3 - 0 RKC Waalwijk
+Sparta Rotterdam 1 - 0 Ajax
+Sparta Rotterdam 0 - 3 AZ
+Sparta Rotterdam 1 - 2 Feyenoord
+Sparta Rotterdam 0 - 1 PSV Eindhoven
+Sparta Rotterdam 1 - 1 Willem II
+Sparta Rotterdam 0 - 0 FC Utrecht
+Sparta Rotterdam 2 - 1 Vitesse
+Sparta Rotterdam 0 - 0 Heracles Almelo
+Sparta Rotterdam 2 - 2 FC Groningen
+Sparta Rotterdam 0 - 0 Heerenveen
+Sparta Rotterdam 1 - 1 FC Emmen
+Sparta Rotterdam 2 - 1 VVV-Venlo
+Sparta Rotterdam 0 - 0 FC Twente
+Sparta Rotterdam 1 - 0 PEC Zwolle
+Sparta Rotterdam 2 - 0 Fortuna Sittard
+Sparta Rotterdam 1 - 1 ADO Den Haag
+Sparta Rotterdam 3 - 0 RKC Waalwijk
+FC Emmen 1 - 4 Ajax
+FC Emmen 0 - 3 AZ
+FC Emmen 1 - 2 Feyenoord
+FC Emmen 2 - 2 PSV Eindhoven
+FC Emmen 0 - 0 Willem II
+FC Emmen 1 - 3 FC Utrecht
+FC Emmen 1 - 0 Vitesse
+FC Emmen 0 - 1 Heracles Almelo
+FC Emmen 0 - 0 FC Groningen
+FC Emmen 2 - 2 Heerenveen
+FC Emmen 1 - 0 Sparta Rotterdam
+FC Emmen 1 - 2 VVV-Venlo
+FC Emmen 2 - 1 FC Twente
+FC Emmen 1 - 0 PEC Zwolle
+FC Emmen 2 - 1 Fortuna Sittard
+FC Emmen 0 - 1 ADO Den Haag
+FC Emmen 1 - 1 RKC Waalwijk
+VVV-Venlo 1 - 1 Ajax
+VVV-Venlo 1 - 0 AZ
+VVV-Venlo 0 - 1 Feyenoord
+VVV-Venlo 0 - 3 PSV Eindhoven
+VVV-Venlo 0 - 1 Willem II
+VVV-Venlo 2 - 0 FC Utrecht
+VVV-Venlo 1 - 0 Vitesse
+VVV-Venlo 0 - 1 Heracles Almelo
+VVV-Venlo 0 - 0 FC Groningen
+VVV-Venlo 1 - 0 Heerenveen
+VVV-Venlo 1 - 1 Sparta Rotterdam
+VVV-Venlo 1 - 2 FC Emmen
+VVV-Venlo 2 - 0 FC Twente
+VVV-Venlo 1 - 2 PEC Zwolle
+VVV-Venlo 0 - 2 Fortuna Sittard
+VVV-Venlo 0 - 0 ADO Den Haag
+VVV-Venlo 1 - 0 RKC Waalwijk
+FC Twente 0 - 2 Ajax
+FC Twente 1 - 3 AZ
+FC Twente 2 - 2 Feyenoord
+FC Twente 1 - 3 PSV Eindhoven
+FC Twente 2 - 3 Willem II
+FC Twente 2 - 2 FC Utrecht
+FC Twente 1 - 0 Vitesse
+FC Twente 0 - 1 Heracles Almelo
+FC Twente 0 - 2 FC Groningen
+FC Twente 1 - 0 Heerenveen
+FC Twente 0 - 1 Sparta Rotterdam
+FC Twente 2 - 2 FC Emmen
+FC Twente 0 - 0 VVV-Venlo
+FC Twente 3 - 1 PEC Zwolle
+FC Twente 2 - 0 Fortuna Sittard
+FC Twente 1 - 2 ADO Den Haag
+FC Twente 2 - 1 RKC Waalwijk
+PEC Zwolle 1 - 2 Ajax
+PEC Zwolle 1 - 0 AZ
+PEC Zwolle 1 - 0 Feyenoord
+PEC Zwolle 1 - 2 PSV Eindhoven
+PEC Zwolle 1 - 1 Willem II
+PEC Zwolle 2 - 1 FC Utrecht
+PEC Zwolle 1 - 1 Vitesse
+PEC Zwolle 1 - 2 Heracles Almelo
+PEC Zwolle 1 - 0 FC Groningen
+PEC Zwolle 1 - 1 Heerenveen
+PEC Zwolle 2 - 0 Sparta Rotterdam
+PEC Zwolle 2 - 2 FC Emmen
+PEC Zwolle 2 - 2 VVV-Venlo
+PEC Zwolle 2 - 2 FC Twente
+PEC Zwolle 0 - 2 Fortuna Sittard
+PEC Zwolle 2 - 0 ADO Den Haag
+PEC Zwolle 3 - 0 RKC Waalwijk
+Fortuna Sittard 0 - 2 Ajax
+Fortuna Sittard 1 - 1 AZ
+Fortuna Sittard 1 - 1 Feyenoord
+Fortuna Sittard 0 - 1 PSV Eindhoven
+Fortuna Sittard 1 - 1 Willem II
+Fortuna Sittard 0 - 3 FC Utrecht
+Fortuna Sittard 1 - 2 Vitesse
+Fortuna Sittard 2 - 0 Heracles Almelo
+Fortuna Sittard 1 - 0 FC Groningen
+Fortuna Sittard 0 - 1 Heerenveen
+Fortuna Sittard 1 - 2 Sparta Rotterdam
+Fortuna Sittard 1 - 2 FC Emmen
+Fortuna Sittard 0 - 2 VVV-Venlo
+Fortuna Sittard 1 - 2 FC Twente
+Fortuna Sittard 1 - 2 PEC Zwolle
+Fortuna Sittard 2 - 2 ADO Den Haag
+Fortuna Sittard 1 - 0 RKC Waalwijk
+ADO Den Haag 1 - 0 Ajax
+ADO Den Haag 1 - 0 AZ
+ADO Den Haag 1 - 0 Feyenoord
+ADO Den Haag 1 - 1 PSV Eindhoven
+ADO Den Haag 0 - 1 Willem II
+ADO Den Haag 1 - 0 FC Utrecht
+ADO Den Haag 0 - 0 Vitesse
+ADO Den Haag 2 - 0 Heracles Almelo
+ADO Den Haag 1 - 1 FC Groningen
+ADO Den Haag 1 - 1 Heerenveen
+ADO Den Haag 1 - 1 Sparta Rotterdam
+ADO Den Haag 2 - 3 FC Emmen
+ADO Den Haag 0 - 1 VVV-Venlo
+ADO Den Haag 0 - 1 FC Twente
+ADO Den Haag 2 - 3 PEC Zwolle
+ADO Den Haag 1 - 1 Fortuna Sittard
+ADO Den Haag 1 - 1 RKC Waalwijk
+RKC Waalwijk 1 - 4 Ajax
+RKC Waalwijk 0 - 3 AZ
+RKC Waalwijk 0 - 0 Feyenoord
+RKC Waalwijk 0 - 1 PSV Eindhoven
+RKC Waalwijk 1 - 0 Willem II
+RKC Waalwijk 0 - 0 FC Utrecht
+RKC Waalwijk 1 - 1 Vitesse
+RKC Waalwijk 2 - 2 Heracles Almelo
+RKC Waalwijk 2 - 0 FC Groningen
+RKC Waalwijk 0 - 3 Heerenveen
+RKC Waalwijk 2 - 1 Sparta Rotterdam
+RKC Waalwijk 0 - 3 FC Emmen
+RKC Waalwijk 2 - 0 VVV-Venlo
+RKC Waalwijk 2 - 1 FC Twente
+RKC Waalwijk 1 - 1 PEC Zwolle
+RKC Waalwijk 0 - 0 Fortuna Sittard
+RKC Waalwijk 2 - 1 ADO Den Haag
+
+#---------------------------------
+#	 Season 801617
+#---------------------------------
+Ajax 3 - 2 AZ
+Ajax 3 - 2 Feyenoord
+Ajax 2 - 2 PSV Eindhoven
+Ajax 3 - 0 Willem II
+Ajax 3 - 0 FC Utrecht
+Ajax 2 - 0 Vitesse
+Ajax 3 - 0 Heracles Almelo
+Ajax 3 - 1 FC Groningen
+Ajax 2 - 1 Heerenveen
+Ajax 3 - 0 Sparta Rotterdam
+Ajax 0 - 1 FC Emmen
+Ajax 4 - 0 VVV-Venlo
+Ajax 3 - 0 FC Twente
+Ajax 3 - 0 PEC Zwolle
+Ajax 4 - 1 Fortuna Sittard
+Ajax 4 - 1 ADO Den Haag
+Ajax 4 - 0 RKC Waalwijk
+AZ 0 - 3 Ajax
+AZ 3 - 1 Feyenoord
+AZ 1 - 2 PSV Eindhoven
+AZ 1 - 0 Willem II
+AZ 2 - 2 FC Utrecht
+AZ 2 - 1 Vitesse
+AZ 1 - 0 Heracles Almelo
+AZ 1 - 0 FC Groningen
+AZ 3 - 1 Heerenveen
+AZ 3 - 0 Sparta Rotterdam
+AZ 2 - 0 FC Emmen
+AZ 2 - 1 VVV-Venlo
+AZ 1 - 0 FC Twente
+AZ 4 - 0 PEC Zwolle
+AZ 1 - 0 Fortuna Sittard
+AZ 0 - 1 ADO Den Haag
+AZ 2 - 1 RKC Waalwijk
+Feyenoord 2 - 0 Ajax
+Feyenoord 0 - 0 AZ
+Feyenoord 0 - 3 PSV Eindhoven
+Feyenoord 2 - 0 Willem II
+Feyenoord 0 - 0 FC Utrecht
+Feyenoord 1 - 0 Vitesse
+Feyenoord 3 - 2 Heracles Almelo
+Feyenoord 0 - 1 FC Groningen
+Feyenoord 3 - 0 Heerenveen
+Feyenoord 2 - 1 Sparta Rotterdam
+Feyenoord 1 - 0 FC Emmen
+Feyenoord 0 - 0 VVV-Venlo
+Feyenoord 0 - 0 FC Twente
+Feyenoord 3 - 2 PEC Zwolle
+Feyenoord 2 - 1 Fortuna Sittard
+Feyenoord 2 - 1 ADO Den Haag
+Feyenoord 0 - 1 RKC Waalwijk
+PSV Eindhoven 0 - 1 Ajax
+PSV Eindhoven 0 - 2 AZ
+PSV Eindhoven 1 - 3 Feyenoord
+PSV Eindhoven 1 - 1 Willem II
+PSV Eindhoven 3 - 1 FC Utrecht
+PSV Eindhoven 0 - 0 Vitesse
+PSV Eindhoven 1 - 0 Heracles Almelo
+PSV Eindhoven 1 - 1 FC Groningen
+PSV Eindhoven 0 - 2 Heerenveen
+PSV Eindhoven 0 - 2 Sparta Rotterdam
+PSV Eindhoven 0 - 1 FC Emmen
+PSV Eindhoven 3 - 1 VVV-Venlo
+PSV Eindhoven 3 - 0 FC Twente
+PSV Eindhoven 0 - 2 PEC Zwolle
+PSV Eindhoven 1 - 0 Fortuna Sittard
+PSV Eindhoven 1 - 1 ADO Den Haag
+PSV Eindhoven 4 - 0 RKC Waalwijk
+Willem II 1 - 2 Ajax
+Willem II 0 - 0 AZ
+Willem II 2 - 2 Feyenoord
+Willem II 0 - 3 PSV Eindhoven
+Willem II 0 - 2 FC Utrecht
+Willem II 2 - 2 Vitesse
+Willem II 2 - 1 Heracles Almelo
+Willem II 1 - 2 FC Groningen
+Willem II 1 - 2 Heerenveen
+Willem II 1 - 0 Sparta Rotterdam
+Willem II 1 - 0 FC Emmen
+Willem II 1 - 1 VVV-Venlo
+Willem II 3 - 0 FC Twente
+Willem II 3 - 1 PEC Zwolle
+Willem II 0 - 1 Fortuna Sittard
+Willem II 0 - 0 ADO Den Haag
+Willem II 1 - 0 RKC Waalwijk
+FC Utrecht 2 - 3 Ajax
+FC Utrecht 1 - 0 AZ
+FC Utrecht 3 - 1 Feyenoord
+FC Utrecht 2 - 1 PSV Eindhoven
+FC Utrecht 1 - 0 Willem II
+FC Utrecht 3 - 2 Vitesse
+FC Utrecht 0 - 1 Heracles Almelo
+FC Utrecht 1 - 1 FC Groningen
+FC Utrecht 2 - 1 Heerenveen
+FC Utrecht 0 - 2 Sparta Rotterdam
+FC Utrecht 2 - 0 FC Emmen
+FC Utrecht 0 - 1 VVV-Venlo
+FC Utrecht 0 - 1 FC Twente
+FC Utrecht 3 - 2 PEC Zwolle
+FC Utrecht 2 - 1 Fortuna Sittard
+FC Utrecht 2 - 1 ADO Den Haag
+FC Utrecht 2 - 1 RKC Waalwijk
+Vitesse 2 - 2 Ajax
+Vitesse 1 - 1 AZ
+Vitesse 0 - 0 Feyenoord
+Vitesse 0 - 0 PSV Eindhoven
+Vitesse 2 - 0 Willem II
+Vitesse 1 - 0 FC Utrecht
+Vitesse 2 - 1 Heracles Almelo
+Vitesse 2 - 1 FC Groningen
+Vitesse 3 - 1 Heerenveen
+Vitesse 0 - 1 Sparta Rotterdam
+Vitesse 1 - 1 FC Emmen
+Vitesse 2 - 1 VVV-Venlo
+Vitesse 0 - 0 FC Twente
+Vitesse 1 - 0 PEC Zwolle
+Vitesse 2 - 2 Fortuna Sittard
+Vitesse 2 - 0 ADO Den Haag
+Vitesse 0 - 1 RKC Waalwijk
+Heracles Almelo 1 - 3 Ajax
+Heracles Almelo 2 - 0 AZ
+Heracles Almelo 1 - 0 Feyenoord
+Heracles Almelo 1 - 1 PSV Eindhoven
+Heracles Almelo 1 - 2 Willem II
+Heracles Almelo 0 - 0 FC Utrecht
+Heracles Almelo 2 - 1 Vitesse
+Heracles Almelo 2 - 2 FC Groningen
+Heracles Almelo 1 - 2 Heerenveen
+Heracles Almelo 1 - 0 Sparta Rotterdam
+Heracles Almelo 1 - 1 FC Emmen
+Heracles Almelo 3 - 1 VVV-Venlo
+Heracles Almelo 1 - 2 FC Twente
+Heracles Almelo 2 - 0 PEC Zwolle
+Heracles Almelo 2 - 2 Fortuna Sittard
+Heracles Almelo 2 - 0 ADO Den Haag
+Heracles Almelo 3 - 0 RKC Waalwijk
+FC Groningen 1 - 3 Ajax
+FC Groningen 1 - 2 AZ
+FC Groningen 0 - 0 Feyenoord
+FC Groningen 0 - 2 PSV Eindhoven
+FC Groningen 0 - 2 Willem II
+FC Groningen 0 - 0 FC Utrecht
+FC Groningen 1 - 0 Vitesse
+FC Groningen 0 - 1 Heracles Almelo
+FC Groningen 0 - 1 Heerenveen
+FC Groningen 2 - 0 Sparta Rotterdam
+FC Groningen 0 - 0 FC Emmen
+FC Groningen 0 - 0 VVV-Venlo
+FC Groningen 2 - 1 FC Twente
+FC Groningen 1 - 0 PEC Zwolle
+FC Groningen 2 - 1 Fortuna Sittard
+FC Groningen 0 - 0 ADO Den Haag
+FC Groningen 0 - 0 RKC Waalwijk
+Heerenveen 0 - 4 Ajax
+Heerenveen 0 - 3 AZ
+Heerenveen 2 - 0 Feyenoord
+Heerenveen 2 - 2 PSV Eindhoven
+Heerenveen 1 - 0 Willem II
+Heerenveen 1 - 1 FC Utrecht
+Heerenveen 1 - 1 Vitesse
+Heerenveen 2 - 0 Heracles Almelo
+Heerenveen 1 - 2 FC Groningen
+Heerenveen 0 - 2 Sparta Rotterdam
+Heerenveen 1 - 2 FC Emmen
+Heerenveen 3 - 1 VVV-Venlo
+Heerenveen 3 - 1 FC Twente
+Heerenveen 2 - 2 PEC Zwolle
+Heerenveen 0 - 1 Fortuna Sittard
+Heerenveen 2 - 0 ADO Den Haag
+Heerenveen 3 - 0 RKC Waalwijk
+Sparta Rotterdam 1 - 1 Ajax
+Sparta Rotterdam 1 - 1 AZ
+Sparta Rotterdam 2 - 2 Feyenoord
+Sparta Rotterdam 0 - 1 PSV Eindhoven
+Sparta Rotterdam 2 - 0 Willem II
+Sparta Rotterdam 2 - 1 FC Utrecht
+Sparta Rotterdam 0 - 2 Vitesse
+Sparta Rotterdam 0 - 2 Heracles Almelo
+Sparta Rotterdam 0 - 1 FC Groningen
+Sparta Rotterdam 2 - 1 Heerenveen
+Sparta Rotterdam 3 - 1 FC Emmen
+Sparta Rotterdam 0 - 1 VVV-Venlo
+Sparta Rotterdam 3 - 1 FC Twente
+Sparta Rotterdam 1 - 0 PEC Zwolle
+Sparta Rotterdam 1 - 2 Fortuna Sittard
+Sparta Rotterdam 1 - 0 ADO Den Haag
+Sparta Rotterdam 2 - 0 RKC Waalwijk
+FC Emmen 1 - 2 Ajax
+FC Emmen 0 - 0 AZ
+FC Emmen 0 - 1 Feyenoord
+FC Emmen 1 - 3 PSV Eindhoven
+FC Emmen 0 - 2 Willem II
+FC Emmen 2 - 2 FC Utrecht
+FC Emmen 0 - 0 Vitesse
+FC Emmen 1 - 0 Heracles Almelo
+FC Emmen 1 - 0 FC Groningen
+FC Emmen 1 - 0 Heerenveen
+FC Emmen 0 - 0 Sparta Rotterdam
+FC Emmen 0 - 0 VVV-Venlo
+FC Emmen 1 - 0 FC Twente
+FC Emmen 0 - 0 PEC Zwolle
+FC Emmen 3 - 2 Fortuna Sittard
+FC Emmen 2 - 1 ADO Den Haag
+FC Emmen 2 - 0 RKC Waalwijk
+VVV-Venlo 1 - 3 Ajax
+VVV-Venlo 0 - 0 AZ
+VVV-Venlo 0 - 1 Feyenoord
+VVV-Venlo 0 - 0 PSV Eindhoven
+VVV-Venlo 0 - 0 Willem II
+VVV-Venlo 1 - 1 FC Utrecht
+VVV-Venlo 1 - 1 Vitesse
+VVV-Venlo 1 - 1 Heracles Almelo
+VVV-Venlo 0 - 0 FC Groningen
+VVV-Venlo 1 - 1 Heerenveen
+VVV-Venlo 0 - 1 Sparta Rotterdam
+VVV-Venlo 0 - 1 FC Emmen
+VVV-Venlo 1 - 2 FC Twente
+VVV-Venlo 0 - 1 PEC Zwolle
+VVV-Venlo 2 - 0 Fortuna Sittard
+VVV-Venlo 0 - 0 ADO Den Haag
+VVV-Venlo 2 - 0 RKC Waalwijk
+FC Twente 0 - 4 Ajax
+FC Twente 1 - 2 AZ
+FC Twente 2 - 0 Feyenoord
+FC Twente 0 - 3 PSV Eindhoven
+FC Twente 2 - 0 Willem II
+FC Twente 1 - 0 FC Utrecht
+FC Twente 1 - 2 Vitesse
+FC Twente 1 - 2 Heracles Almelo
+FC Twente 1 - 1 FC Groningen
+FC Twente 0 - 0 Heerenveen
+FC Twente 2 - 1 Sparta Rotterdam
+FC Twente 1 - 2 FC Emmen
+FC Twente 1 - 1 VVV-Venlo
+FC Twente 0 - 2 PEC Zwolle
+FC Twente 0 - 0 Fortuna Sittard
+FC Twente 3 - 0 ADO Den Haag
+FC Twente 1 - 1 RKC Waalwijk
+PEC Zwolle 1 - 2 Ajax
+PEC Zwolle 0 - 3 AZ
+PEC Zwolle 0 - 2 Feyenoord
+PEC Zwolle 0 - 0 PSV Eindhoven
+PEC Zwolle 1 - 0 Willem II
+PEC Zwolle 2 - 1 FC Utrecht
+PEC Zwolle 0 - 2 Vitesse
+PEC Zwolle 2 - 1 Heracles Almelo
+PEC Zwolle 1 - 2 FC Groningen
+PEC Zwolle 0 - 2 Heerenveen
+PEC Zwolle 0 - 2 Sparta Rotterdam
+PEC Zwolle 1 - 0 FC Emmen
+PEC Zwolle 3 - 0 VVV-Venlo
+PEC Zwolle 0 - 1 FC Twente
+PEC Zwolle 2 - 2 Fortuna Sittard
+PEC Zwolle 0 - 1 ADO Den Haag
+PEC Zwolle 2 - 0 RKC Waalwijk
+Fortuna Sittard 0 - 4 Ajax
+Fortuna Sittard 0 - 3 AZ
+Fortuna Sittard 0 - 2 Feyenoord
+Fortuna Sittard 2 - 3 PSV Eindhoven
+Fortuna Sittard 2 - 0 Willem II
+Fortuna Sittard 0 - 1 FC Utrecht
+Fortuna Sittard 1 - 1 Vitesse
+Fortuna Sittard 2 - 3 Heracles Almelo
+Fortuna Sittard 1 - 0 FC Groningen
+Fortuna Sittard 2 - 3 Heerenveen
+Fortuna Sittard 1 - 2 Sparta Rotterdam
+Fortuna Sittard 0 - 1 FC Emmen
+Fortuna Sittard 2 - 0 VVV-Venlo
+Fortuna Sittard 1 - 2 FC Twente
+Fortuna Sittard 1 - 2 PEC Zwolle
+Fortuna Sittard 0 - 1 ADO Den Haag
+Fortuna Sittard 1 - 2 RKC Waalwijk
+ADO Den Haag 0 - 4 Ajax
+ADO Den Haag 0 - 2 AZ
+ADO Den Haag 1 - 3 Feyenoord
+ADO Den Haag 1 - 1 PSV Eindhoven
+ADO Den Haag 1 - 1 Willem II
+ADO Den Haag 2 - 2 FC Utrecht
+ADO Den Haag 1 - 2 Vitesse
+ADO Den Haag 1 - 2 Heracles Almelo
+ADO Den Haag 0 - 0 FC Groningen
+ADO Den Haag 1 - 3 Heerenveen
+ADO Den Haag 2 - 1 Sparta Rotterdam
+ADO Den Haag 2 - 2 FC Emmen
+ADO Den Haag 0 - 2 VVV-Venlo
+ADO Den Haag 0 - 0 FC Twente
+ADO Den Haag 0 - 0 PEC Zwolle
+ADO Den Haag 0 - 2 Fortuna Sittard
+ADO Den Haag 2 - 2 RKC Waalwijk
+RKC Waalwijk 0 - 4 Ajax
+RKC Waalwijk 1 - 0 AZ
+RKC Waalwijk 0 - 0 Feyenoord
+RKC Waalwijk 0 - 4 PSV Eindhoven
+RKC Waalwijk 0 - 2 Willem II
+RKC Waalwijk 1 - 0 FC Utrecht
+RKC Waalwijk 1 - 3 Vitesse
+RKC Waalwijk 0 - 2 Heracles Almelo
+RKC Waalwijk 0 - 2 FC Groningen
+RKC Waalwijk 2 - 2 Heerenveen
+RKC Waalwijk 2 - 3 Sparta Rotterdam
+RKC Waalwijk 2 - 1 FC Emmen
+RKC Waalwijk 1 - 2 VVV-Venlo
+RKC Waalwijk 1 - 1 FC Twente
+RKC Waalwijk 0 - 2 PEC Zwolle
+RKC Waalwijk 0 - 0 Fortuna Sittard
+RKC Waalwijk 2 - 1 ADO Den Haag
+
+#---------------------------------
+#	 Season 940276
+#---------------------------------
+Ajax 3 - 1 AZ
+Ajax 3 - 0 Feyenoord
+Ajax 0 - 0 PSV Eindhoven
+Ajax 3 - 1 Willem II
+Ajax 0 - 2 FC Utrecht
+Ajax 1 - 1 Vitesse
+Ajax 1 - 1 Heracles Almelo
+Ajax 0 - 0 FC Groningen
+Ajax 0 - 0 Heerenveen
+Ajax 2 - 0 Sparta Rotterdam
+Ajax 3 - 1 FC Emmen
+Ajax 4 - 0 VVV-Venlo
+Ajax 2 - 1 FC Twente
+Ajax 2 - 1 PEC Zwolle
+Ajax 1 - 0 Fortuna Sittard
+Ajax 0 - 0 ADO Den Haag
+Ajax 2 - 0 RKC Waalwijk
+AZ 0 - 2 Ajax
+AZ 0 - 0 Feyenoord
+AZ 0 - 1 PSV Eindhoven
+AZ 1 - 0 Willem II
+AZ 1 - 2 FC Utrecht
+AZ 0 - 0 Vitesse
+AZ 1 - 1 Heracles Almelo
+AZ 0 - 1 FC Groningen
+AZ 2 - 0 Heerenveen
+AZ 3 - 1 Sparta Rotterdam
+AZ 3 - 0 FC Emmen
+AZ 1 - 0 VVV-Venlo
+AZ 2 - 0 FC Twente
+AZ 3 - 0 PEC Zwolle
+AZ 1 - 1 Fortuna Sittard
+AZ 2 - 1 ADO Den Haag
+AZ 4 - 0 RKC Waalwijk
+Feyenoord 2 - 2 Ajax
+Feyenoord 0 - 0 AZ
+Feyenoord 0 - 2 PSV Eindhoven
+Feyenoord 2 - 1 Willem II
+Feyenoord 1 - 0 FC Utrecht
+Feyenoord 0 - 0 Vitesse
+Feyenoord 1 - 1 Heracles Almelo
+Feyenoord 1 - 1 FC Groningen
+Feyenoord 2 - 0 Heerenveen
+Feyenoord 2 - 2 Sparta Rotterdam
+Feyenoord 0 - 0 FC Emmen
+Feyenoord 0 - 1 VVV-Venlo
+Feyenoord 1 - 2 FC Twente
+Feyenoord 3 - 0 PEC Zwolle
+Feyenoord 0 - 1 Fortuna Sittard
+Feyenoord 0 - 0 ADO Den Haag
+Feyenoord 1 - 0 RKC Waalwijk
+PSV Eindhoven 0 - 2 Ajax
+PSV Eindhoven 1 - 2 AZ
+PSV Eindhoven 0 - 0 Feyenoord
+PSV Eindhoven 0 - 0 Willem II
+PSV Eindhoven 1 - 1 FC Utrecht
+PSV Eindhoven 0 - 1 Vitesse
+PSV Eindhoven 0 - 0 Heracles Almelo
+PSV Eindhoven 1 - 1 FC Groningen
+PSV Eindhoven 0 - 1 Heerenveen
+PSV Eindhoven 0 - 0 Sparta Rotterdam
+PSV Eindhoven 0 - 1 FC Emmen
+PSV Eindhoven 1 - 0 VVV-Venlo
+PSV Eindhoven 2 - 0 FC Twente
+PSV Eindhoven 4 - 1 PEC Zwolle
+PSV Eindhoven 1 - 1 Fortuna Sittard
+PSV Eindhoven 3 - 1 ADO Den Haag
+PSV Eindhoven 3 - 0 RKC Waalwijk
+Willem II 1 - 3 Ajax
+Willem II 1 - 3 AZ
+Willem II 2 - 1 Feyenoord
+Willem II 1 - 3 PSV Eindhoven
+Willem II 1 - 2 FC Utrecht
+Willem II 1 - 0 Vitesse
+Willem II 2 - 1 Heracles Almelo
+Willem II 1 - 0 FC Groningen
+Willem II 1 - 1 Heerenveen
+Willem II 0 - 0 Sparta Rotterdam
+Willem II 3 - 1 FC Emmen
+Willem II 1 - 0 VVV-Venlo
+Willem II 0 - 2 FC Twente
+Willem II 0 - 1 PEC Zwolle
+Willem II 0 - 1 Fortuna Sittard
+Willem II 1 - 1 ADO Den Haag
+Willem II 1 - 1 RKC Waalwijk
+FC Utrecht 1 - 3 Ajax
+FC Utrecht 2 - 0 AZ
+FC Utrecht 2 - 2 Feyenoord
+FC Utrecht 1 - 0 PSV Eindhoven
+FC Utrecht 3 - 1 Willem II
+FC Utrecht 2 - 1 Vitesse
+FC Utrecht 1 - 0 Heracles Almelo
+FC Utrecht 2 - 0 FC Groningen
+FC Utrecht 0 - 0 Heerenveen
+FC Utrecht 1 - 2 Sparta Rotterdam
+FC Utrecht 0 - 0 FC Emmen
+FC Utrecht 1 - 1 VVV-Venlo
+FC Utrecht 3 - 2 FC Twente
+FC Utrecht 1 - 0 PEC Zwolle
+FC Utrecht 3 - 2 Fortuna Sittard
+FC Utrecht 0 - 2 ADO Den Haag
+FC Utrecht 2 - 0 RKC Waalwijk
+Vitesse 0 - 0 Ajax
+Vitesse 1 - 1 AZ
+Vitesse 2 - 1 Feyenoord
+Vitesse 1 - 2 PSV Eindhoven
+Vitesse 1 - 2 Willem II
+Vitesse 1 - 1 FC Utrecht
+Vitesse 1 - 2 Heracles Almelo
+Vitesse 2 - 0 FC Groningen
+Vitesse 1 - 0 Heerenveen
+Vitesse 0 - 2 Sparta Rotterdam
+Vitesse 2 - 1 FC Emmen
+Vitesse 1 - 0 VVV-Venlo
+Vitesse 0 - 2 FC Twente
+Vitesse 1 - 0 PEC Zwolle
+Vitesse 1 - 0 Fortuna Sittard
+Vitesse 0 - 2 ADO Den Haag
+Vitesse 0 - 0 RKC Waalwijk
+Heracles Almelo 0 - 2 Ajax
+Heracles Almelo 1 - 2 AZ
+Heracles Almelo 1 - 0 Feyenoord
+Heracles Almelo 0 - 1 PSV Eindhoven
+Heracles Almelo 1 - 1 Willem II
+Heracles Almelo 0 - 1 FC Utrecht
+Heracles Almelo 0 - 1 Vitesse
+Heracles Almelo 1 - 1 FC Groningen
+Heracles Almelo 1 - 2 Heerenveen
+Heracles Almelo 2 - 2 Sparta Rotterdam
+Heracles Almelo 1 - 1 FC Emmen
+Heracles Almelo 2 - 0 VVV-Venlo
+Heracles Almelo 0 - 2 FC Twente
+Heracles Almelo 0 - 0 PEC Zwolle
+Heracles Almelo 1 - 1 Fortuna Sittard
+Heracles Almelo 2 - 1 ADO Den Haag
+Heracles Almelo 1 - 0 RKC Waalwijk
+FC Groningen 1 - 0 Ajax
+FC Groningen 0 - 1 AZ
+FC Groningen 1 - 0 Feyenoord
+FC Groningen 1 - 0 PSV Eindhoven
+FC Groningen 0 - 2 Willem II
+FC Groningen 0 - 2 FC Utrecht
+FC Groningen 1 - 1 Vitesse
+FC Groningen 2 - 1 Heracles Almelo
+FC Groningen 1 - 0 Heerenveen
+FC Groningen 0 - 0 Sparta Rotterdam
+FC Groningen 2 - 1 FC Emmen
+FC Groningen 0 - 0 VVV-Venlo
+FC Groningen 1 - 1 FC Twente
+FC Groningen 2 - 2 PEC Zwolle
+FC Groningen 2 - 0 Fortuna Sittard
+FC Groningen 2 - 1 ADO Den Haag
+FC Groningen 0 - 1 RKC Waalwijk
+Heerenveen 0 - 1 Ajax
+Heerenveen 0 - 3 AZ
+Heerenveen 0 - 2 Feyenoord
+Heerenveen 0 - 0 PSV Eindhoven
+Heerenveen 0 - 2 Willem II
+Heerenveen 0 - 1 FC Utrecht
+Heerenveen 0 - 1 Vitesse
+Heerenveen 1 - 2 Heracles Almelo
+Heerenveen 2 - 0 FC Groningen
+Heerenveen 1 - 0 Sparta Rotterdam
+Heerenveen 1 - 2 FC Emmen
+Heerenveen 3 - 0 VVV-Venlo
+Heerenveen 0 - 2 FC Twente
+Heerenveen 1 - 2 PEC Zwolle
+Heerenveen 0 - 0 Fortuna Sittard
+Heerenveen 0 - 1 ADO Den Haag
+Heerenveen 1 - 1 RKC Waalwijk
+Sparta Rotterdam 1 - 1 Ajax
+Sparta Rotterdam 0 - 2 AZ
+Sparta Rotterdam 2 - 1 Feyenoord
+Sparta Rotterdam 0 - 2 PSV Eindhoven
+Sparta Rotterdam 1 - 0 Willem II
+Sparta Rotterdam 0 - 0 FC Utrecht
+Sparta Rotterdam 1 - 0 Vitesse
+Sparta Rotterdam 1 - 0 Heracles Almelo
+Sparta Rotterdam 0 - 1 FC Groningen
+Sparta Rotterdam 0 - 0 Heerenveen
+Sparta Rotterdam 1 - 0 FC Emmen
+Sparta Rotterdam 1 - 0 VVV-Venlo
+Sparta Rotterdam 2 - 1 FC Twente
+Sparta Rotterdam 1 - 1 PEC Zwolle
+Sparta Rotterdam 3 - 0 Fortuna Sittard
+Sparta Rotterdam 2 - 2 ADO Den Haag
+Sparta Rotterdam 0 - 1 RKC Waalwijk
+FC Emmen 0 - 0 Ajax
+FC Emmen 1 - 0 AZ
+FC Emmen 1 - 3 Feyenoord
+FC Emmen 2 - 2 PSV Eindhoven
+FC Emmen 0 - 2 Willem II
+FC Emmen 0 - 0 FC Utrecht
+FC Emmen 0 - 0 Vitesse
+FC Emmen 0 - 0 Heracles Almelo
+FC Emmen 0 - 1 FC Groningen
+FC Emmen 1 - 0 Heerenveen
+FC Emmen 0 - 0 Sparta Rotterdam
+FC Emmen 2 - 0 VVV-Venlo
+FC Emmen 2 - 1 FC Twente
+FC Emmen 0 - 2 PEC Zwolle
+FC Emmen 2 - 0 Fortuna Sittard
+FC Emmen 1 - 0 ADO Den Haag
+FC Emmen 3 - 0 RKC Waalwijk
+VVV-Venlo 0 - 1 Ajax
+VVV-Venlo 0 - 3 AZ
+VVV-Venlo 0 - 0 Feyenoord
+VVV-Venlo 0 - 2 PSV Eindhoven
+VVV-Venlo 0 - 2 Willem II
+VVV-Venlo 1 - 3 FC Utrecht
+VVV-Venlo 0 - 0 Vitesse
+VVV-Venlo 0 - 2 Heracles Almelo
+VVV-Venlo 0 - 0 FC Groningen
+VVV-Venlo 0 - 2 Heerenveen
+VVV-Venlo 0 - 2 Sparta Rotterdam
+VVV-Venlo 0 - 2 FC Emmen
+VVV-Venlo 0 - 2 FC Twente
+VVV-Venlo 2 - 0 PEC Zwolle
+VVV-Venlo 0 - 2 Fortuna Sittard
+VVV-Venlo 0 - 2 ADO Den Haag
+VVV-Venlo 0 - 0 RKC Waalwijk
+FC Twente 1 - 4 Ajax
+FC Twente 1 - 0 AZ
+FC Twente 1 - 0 Feyenoord
+FC Twente 0 - 1 PSV Eindhoven
+FC Twente 0 - 0 Willem II
+FC Twente 0 - 0 FC Utrecht
+FC Twente 1 - 3 Vitesse
+FC Twente 1 - 2 Heracles Almelo
+FC Twente 0 - 1 FC Groningen
+FC Twente 2 - 0 Heerenveen
+FC Twente 2 - 1 Sparta Rotterdam
+FC Twente 1 - 1 FC Emmen
+FC Twente 1 - 0 VVV-Venlo
+FC Twente 1 - 3 PEC Zwolle
+FC Twente 2 - 0 Fortuna Sittard
+FC Twente 2 - 2 ADO Den Haag
+FC Twente 2 - 2 RKC Waalwijk
+PEC Zwolle 0 - 0 Ajax
+PEC Zwolle 1 - 0 AZ
+PEC Zwolle 1 - 0 Feyenoord
+PEC Zwolle 1 - 3 PSV Eindhoven
+PEC Zwolle 1 - 3 Willem II
+PEC Zwolle 1 - 1 FC Utrecht
+PEC Zwolle 0 - 3 Vitesse
+PEC Zwolle 1 - 0 Heracles Almelo
+PEC Zwolle 1 - 2 FC Groningen
+PEC Zwolle 0 - 0 Heerenveen
+PEC Zwolle 1 - 1 Sparta Rotterdam
+PEC Zwolle 1 - 1 FC Emmen
+PEC Zwolle 1 - 0 VVV-Venlo
+PEC Zwolle 2 - 0 FC Twente
+PEC Zwolle 2 - 2 Fortuna Sittard
+PEC Zwolle 1 - 1 ADO Den Haag
+PEC Zwolle 1 - 2 RKC Waalwijk
+Fortuna Sittard 1 - 2 Ajax
+Fortuna Sittard 1 - 0 AZ
+Fortuna Sittard 2 - 2 Feyenoord
+Fortuna Sittard 0 - 4 PSV Eindhoven
+Fortuna Sittard 1 - 1 Willem II
+Fortuna Sittard 0 - 1 FC Utrecht
+Fortuna Sittard 0 - 2 Vitesse
+Fortuna Sittard 0 - 1 Heracles Almelo
+Fortuna Sittard 1 - 2 FC Groningen
+Fortuna Sittard 2 - 2 Heerenveen
+Fortuna Sittard 0 - 3 Sparta Rotterdam
+Fortuna Sittard 1 - 1 FC Emmen
+Fortuna Sittard 1 - 0 VVV-Venlo
+Fortuna Sittard 1 - 2 FC Twente
+Fortuna Sittard 3 - 2 PEC Zwolle
+Fortuna Sittard 1 - 0 ADO Den Haag
+Fortuna Sittard 3 - 1 RKC Waalwijk
+ADO Den Haag 0 - 4 Ajax
+ADO Den Haag 0 - 2 AZ
+ADO Den Haag 1 - 1 Feyenoord
+ADO Den Haag 1 - 2 PSV Eindhoven
+ADO Den Haag 1 - 0 Willem II
+ADO Den Haag 0 - 0 FC Utrecht
+ADO Den Haag 0 - 0 Vitesse
+ADO Den Haag 1 - 1 Heracles Almelo
+ADO Den Haag 0 - 1 FC Groningen
+ADO Den Haag 1 - 2 Heerenveen
+ADO Den Haag 1 - 2 Sparta Rotterdam
+ADO Den Haag 0 - 1 FC Emmen
+ADO Den Haag 1 - 1 VVV-Venlo
+ADO Den Haag 0 - 2 FC Twente
+ADO Den Haag 0 - 3 PEC Zwolle
+ADO Den Haag 2 - 0 Fortuna Sittard
+ADO Den Haag 1 - 1 RKC Waalwijk
+RKC Waalwijk 0 - 1 Ajax
+RKC Waalwijk 0 - 4 AZ
+RKC Waalwijk 0 - 1 Feyenoord
+RKC Waalwijk 2 - 3 PSV Eindhoven
+RKC Waalwijk 0 - 0 Willem II
+RKC Waalwijk 1 - 1 FC Utrecht
+RKC Waalwijk 2 - 1 Vitesse
+RKC Waalwijk 2 - 1 Heracles Almelo
+RKC Waalwijk 0 - 0 FC Groningen
+RKC Waalwijk 1 - 0 Heerenveen
+RKC Waalwijk 2 - 3 Sparta Rotterdam
+RKC Waalwijk 2 - 3 FC Emmen
+RKC Waalwijk 0 - 0 VVV-Venlo
+RKC Waalwijk 0 - 0 FC Twente
+RKC Waalwijk 1 - 3 PEC Zwolle
+RKC Waalwijk 1 - 0 Fortuna Sittard
+RKC Waalwijk 2 - 2 ADO Den Haag
+

@@ -1,0 +1,450 @@
+#---------------------------------
+#	 Season 35103
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Manchester City     	38	34	2	2	91	16	75	104
+2	Liverpool           	38	20	11	7	45	24	21	71
+3	Leicester City      	38	19	12	7	45	30	15	69
+4	Manchester United   	38	20	9	9	39	26	13	69
+5	Arsenal             	38	19	11	8	42	28	14	68
+6	Sheffield United    	38	19	5	14	35	28	7	62
+7	Burnley             	38	13	17	8	41	32	9	56
+8	Wolverhampton Wanderers	38	13	14	11	36	32	4	53
+9	Southampton         	38	14	11	13	36	39	-3	53
+10	Chelsea             	38	11	14	13	40	42	-2	47
+11	Brighton & Hove Albion	38	12	11	15	29	40	-11	47
+12	West Ham United     	38	11	12	15	27	41	-14	45
+13	Tottenham Hotspur   	38	13	5	20	29	33	-4	44
+14	Bournemouth         	38	9	12	17	29	43	-14	39
+15	Newcastle United    	38	8	14	16	30	44	-14	38
+16	Crystal Palace      	38	10	7	21	17	38	-21	37
+17	Norwich City        	38	7	15	16	22	36	-14	36
+18	Aston Villa         	38	7	12	19	21	43	-22	33
+19	Everton             	38	7	11	20	22	40	-18	32
+20	Watford             	38	7	9	22	27	48	-21	30
+
+#---------------------------------
+#	 Season 125203
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Sheffield United    	38	16	18	4	28	15	13	66
+2	Liverpool           	38	19	8	11	51	30	21	65
+3	Manchester United   	38	17	14	7	39	25	14	65
+4	Chelsea             	38	19	8	11	42	33	9	65
+5	Leicester City      	38	18	9	11	46	30	16	63
+6	Manchester City     	38	17	11	10	47	24	23	62
+7	Burnley             	38	17	9	12	39	34	5	60
+8	Everton             	38	15	11	12	30	27	3	56
+9	Wolverhampton Wanderers	38	14	14	10	34	34	0	56
+10	Arsenal             	38	14	13	11	41	32	9	55
+11	Tottenham Hotspur   	38	13	11	14	32	33	-1	50
+12	Crystal Palace      	38	12	13	13	28	36	-8	49
+13	Bournemouth         	38	11	15	12	31	35	-4	48
+14	Newcastle United    	38	13	8	17	30	41	-11	47
+15	West Ham United     	38	11	11	16	34	45	-11	44
+16	Watford             	38	10	12	16	27	39	-12	42
+17	Southampton         	38	10	11	17	29	38	-9	41
+18	Brighton & Hove Albion	38	6	15	17	25	40	-15	33
+19	Aston Villa         	38	5	13	20	24	42	-18	28
+20	Norwich City        	38	5	12	21	22	46	-24	27
+
+#---------------------------------
+#	 Season 125791
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Manchester City     	38	21	8	9	54	27	27	71
+2	Chelsea             	38	20	8	10	42	28	14	68
+3	Liverpool           	38	18	12	8	47	24	23	66
+4	Leicester City      	38	16	14	8	38	22	16	62
+5	Tottenham Hotspur   	38	17	10	11	39	29	10	61
+6	Southampton         	38	15	14	9	40	28	12	59
+7	Wolverhampton Wanderers	38	17	8	13	36	33	3	59
+8	Newcastle United    	38	16	9	13	31	31	0	57
+9	Manchester United   	38	15	11	12	35	27	8	56
+10	West Ham United     	38	14	12	12	36	39	-3	54
+11	Arsenal             	38	15	8	15	34	32	2	53
+12	Sheffield United    	38	13	12	13	26	23	3	51
+13	Burnley             	38	13	10	15	29	31	-2	49
+14	Aston Villa         	38	13	9	16	30	41	-11	48
+15	Crystal Palace      	38	11	14	13	26	31	-5	47
+16	Everton             	38	12	10	16	30	38	-8	46
+17	Brighton & Hove Albion	38	10	13	15	28	35	-7	43
+18	Watford             	38	8	13	17	23	42	-19	37
+19	Bournemouth         	38	7	12	19	22	42	-20	33
+20	Norwich City        	38	0	11	27	6	49	-43	11
+
+#---------------------------------
+#	 Season 132268
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Manchester City     	38	28	5	5	66	24	42	89
+2	Liverpool           	38	24	9	5	57	24	33	81
+3	Leicester City      	38	23	9	6	53	26	27	78
+4	Tottenham Hotspur   	38	18	10	10	43	35	8	64
+5	Wolverhampton Wanderers	38	16	11	11	41	31	10	59
+6	Manchester United   	38	15	10	13	37	27	10	55
+7	Everton             	38	13	16	9	33	29	4	55
+8	Arsenal             	38	14	12	12	31	28	3	54
+9	Chelsea             	38	11	18	9	41	37	4	51
+10	Bournemouth         	38	15	6	17	31	33	-2	51
+11	Southampton         	38	11	15	12	31	31	0	48
+12	West Ham United     	38	11	14	13	41	42	-1	47
+13	Brighton & Hove Albion	38	12	11	15	27	33	-6	47
+14	Burnley             	38	11	11	16	32	36	-4	44
+15	Sheffield United    	38	9	17	12	32	36	-4	44
+16	Newcastle United    	38	10	9	19	28	45	-17	39
+17	Crystal Palace      	38	8	13	17	23	38	-15	37
+18	Aston Villa         	38	8	13	17	26	42	-16	37
+19	Watford             	38	7	10	21	26	48	-22	31
+20	Norwich City        	38	5	3	30	19	73	-54	18
+
+#---------------------------------
+#	 Season 151103
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Manchester City     	38	25	8	5	65	22	43	83
+2	Liverpool           	38	19	11	8	44	24	20	68
+3	Sheffield United    	38	19	10	9	36	21	15	67
+4	Tottenham Hotspur   	38	18	12	8	40	27	13	66
+5	Manchester United   	38	18	10	10	41	26	15	64
+6	Arsenal             	38	16	9	13	35	34	1	57
+7	Leicester City      	38	13	14	11	40	32	8	53
+8	Wolverhampton Wanderers	38	13	12	13	31	31	0	51
+9	Everton             	38	13	11	14	34	38	-4	50
+10	West Ham United     	38	12	13	13	36	40	-4	49
+11	Brighton & Hove Albion	38	11	13	14	28	31	-3	46
+12	Watford             	38	11	13	14	31	36	-5	46
+13	Southampton         	38	12	9	17	39	42	-3	45
+14	Newcastle United    	38	10	14	14	32	40	-8	44
+15	Bournemouth         	38	10	13	15	20	36	-16	43
+16	Crystal Palace      	38	10	12	16	27	37	-10	42
+17	Aston Villa         	38	9	13	16	31	43	-12	40
+18	Burnley             	38	8	15	15	26	35	-9	39
+19	Norwich City        	38	8	11	19	30	59	-29	35
+20	Chelsea             	38	6	15	17	42	54	-12	33
+
+#---------------------------------
+#	 Season 235205
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Liverpool           	38	24	5	9	51	22	29	77
+2	Manchester City     	38	20	10	8	55	25	30	70
+3	Leicester City      	38	15	15	8	39	29	10	60
+4	Tottenham Hotspur   	38	18	6	14	40	31	9	60
+5	Manchester United   	38	15	11	12	32	24	8	56
+6	Brighton & Hove Albion	38	14	13	11	33	31	2	55
+7	Wolverhampton Wanderers	38	12	17	9	32	29	3	53
+8	Watford             	38	14	10	14	34	37	-3	52
+9	Chelsea             	38	14	9	15	34	36	-2	51
+10	Burnley             	38	13	11	14	32	37	-5	50
+11	Southampton         	38	11	16	11	27	30	-3	49
+12	Arsenal             	38	12	11	15	33	35	-2	47
+13	Crystal Palace      	38	11	14	13	19	23	-4	47
+14	Newcastle United    	38	12	9	17	27	39	-12	45
+15	Norwich City        	38	12	8	18	31	38	-7	44
+16	Sheffield United    	38	9	16	13	22	28	-6	43
+17	Everton             	38	11	10	17	29	41	-12	43
+18	Aston Villa         	38	10	12	16	30	38	-8	42
+19	Bournemouth         	38	10	12	16	29	40	-11	42
+20	West Ham United     	38	11	9	18	28	44	-16	42
+
+#---------------------------------
+#	 Season 242402
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Manchester City     	38	28	9	1	64	18	46	93
+2	Liverpool           	38	13	18	7	37	23	14	57
+3	Wolverhampton Wanderers	38	16	9	13	35	29	6	57
+4	Chelsea             	38	15	10	13	39	34	5	55
+5	Manchester United   	38	14	13	11	29	24	5	55
+6	Sheffield United    	38	12	19	7	29	26	3	55
+7	Arsenal             	38	15	9	14	40	38	2	54
+8	West Ham United     	38	16	6	16	34	34	0	54
+9	Leicester City      	38	13	14	11	28	29	-1	53
+10	Burnley             	38	14	10	14	36	37	-1	52
+11	Tottenham Hotspur   	38	13	12	13	36	38	-2	51
+12	Crystal Palace      	38	9	20	9	28	30	-2	47
+13	Brighton & Hove Albion	38	11	12	15	26	31	-5	45
+14	Everton             	38	9	17	12	28	31	-3	44
+15	Watford             	38	10	14	14	29	37	-8	44
+16	Newcastle United    	38	9	16	13	25	35	-10	43
+17	Southampton         	38	11	10	17	28	43	-15	43
+18	Bournemouth         	38	9	14	15	27	34	-7	41
+19	Aston Villa         	38	9	11	18	25	34	-9	38
+20	Norwich City        	38	6	13	19	22	40	-18	31
+
+#---------------------------------
+#	 Season 242792
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Manchester City     	38	17	9	12	48	31	17	60
+2	Sheffield United    	38	15	15	8	33	22	11	60
+3	Leicester City      	38	14	16	8	35	28	7	58
+4	Brighton & Hove Albion	38	16	10	12	38	33	5	58
+5	Manchester United   	38	13	17	8	37	29	8	56
+6	Everton             	38	14	13	11	34	31	3	55
+7	Liverpool           	38	13	15	10	42	32	10	54
+8	Wolverhampton Wanderers	38	14	12	12	34	30	4	54
+9	Aston Villa         	38	15	9	14	33	35	-2	54
+10	Chelsea             	38	14	10	14	38	33	5	52
+11	Crystal Palace      	38	12	16	10	31	29	2	52
+12	Tottenham Hotspur   	38	12	15	11	36	34	2	51
+13	West Ham United     	38	13	12	13	38	39	-1	51
+14	Arsenal             	38	10	20	8	35	30	5	50
+15	Newcastle United    	38	13	8	17	26	36	-10	47
+16	Southampton         	38	12	10	16	32	41	-9	46
+17	Burnley             	38	9	18	11	35	40	-5	45
+18	Bournemouth         	38	12	9	17	28	36	-8	45
+19	Watford             	38	9	15	14	30	39	-9	42
+20	Norwich City        	38	4	9	25	15	50	-35	21
+
+#---------------------------------
+#	 Season 312613
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Liverpool           	38	23	13	2	51	16	35	82
+2	Manchester City     	38	23	9	6	62	27	35	78
+3	Arsenal             	38	22	10	6	45	24	21	76
+4	Wolverhampton Wanderers	38	20	13	5	41	23	18	73
+5	Chelsea             	38	16	13	9	44	36	8	61
+6	Leicester City      	38	16	12	10	37	26	11	60
+7	Southampton         	38	15	12	11	37	36	1	57
+8	Burnley             	38	15	9	14	26	26	0	54
+9	Manchester United   	38	13	14	11	35	29	6	53
+10	Tottenham Hotspur   	38	14	9	15	36	36	0	51
+11	Newcastle United    	38	12	14	12	29	29	0	50
+12	Crystal Palace      	38	12	14	12	22	23	-1	50
+13	Sheffield United    	38	11	15	12	28	25	3	48
+14	Everton             	38	10	11	17	32	40	-8	41
+15	West Ham United     	38	9	14	15	30	41	-11	41
+16	Bournemouth         	38	11	8	19	23	42	-19	41
+17	Aston Villa         	38	9	10	19	26	42	-16	37
+18	Watford             	38	8	12	18	27	43	-16	36
+19	Brighton & Hove Albion	38	5	16	17	26	44	-18	31
+20	Norwich City        	38	0	4	34	13	62	-49	4
+
+#---------------------------------
+#	 Season 360566
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Arsenal             	38	20	7	11	37	33	4	67
+2	Liverpool           	38	18	11	9	50	26	24	65
+3	Manchester City     	38	16	16	6	54	25	29	64
+4	Tottenham Hotspur   	38	16	15	7	49	33	16	63
+5	Wolverhampton Wanderers	38	16	13	9	30	22	8	61
+6	Leicester City      	38	15	14	9	35	23	12	59
+7	Manchester United   	38	15	13	10	37	29	8	58
+8	Burnley             	38	16	10	12	31	28	3	58
+9	Chelsea             	38	13	17	8	38	32	6	56
+10	West Ham United     	38	14	14	10	36	30	6	56
+11	Brighton & Hove Albion	38	16	8	14	29	31	-2	56
+12	Everton             	38	12	10	16	27	35	-8	46
+13	Sheffield United    	38	11	12	15	25	30	-5	45
+14	Watford             	38	7	21	10	24	32	-8	42
+15	Newcastle United    	38	9	13	16	27	38	-11	40
+16	Bournemouth         	38	10	10	18	25	42	-17	40
+17	Norwich City        	38	9	11	18	26	42	-16	38
+18	Southampton         	38	7	15	16	35	47	-12	36
+19	Crystal Palace      	38	9	8	21	21	35	-14	35
+20	Aston Villa         	38	5	14	19	24	47	-23	29
+
+#---------------------------------
+#	 Season 369964
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Manchester City     	38	32	4	2	84	23	61	100
+2	Liverpool           	38	31	5	2	72	24	48	98
+3	Wolverhampton Wanderers	38	19	11	8	39	26	13	68
+4	Manchester United   	38	17	12	9	37	25	12	63
+5	Tottenham Hotspur   	38	18	9	11	36	29	7	63
+6	Leicester City      	38	15	12	11	37	28	9	57
+7	Chelsea             	38	16	7	15	51	39	12	55
+8	Arsenal             	38	15	10	13	37	36	1	55
+9	Bournemouth         	38	14	9	15	30	37	-7	51
+10	Newcastle United    	38	12	12	14	32	39	-7	48
+11	Sheffield United    	38	11	14	13	31	37	-6	47
+12	Burnley             	38	12	9	17	30	38	-8	45
+13	Everton             	38	11	10	17	27	36	-9	43
+14	Brighton & Hove Albion	38	9	15	14	28	37	-9	42
+15	Southampton         	38	10	10	18	33	43	-10	40
+16	Watford             	38	8	16	14	23	35	-12	40
+17	West Ham United     	38	8	10	20	25	45	-20	34
+18	Aston Villa         	38	9	7	22	32	53	-21	34
+19	Crystal Palace      	38	8	9	21	19	40	-21	33
+20	Norwich City        	38	6	7	25	20	53	-33	25
+
+#---------------------------------
+#	 Season 403813
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Manchester City     	38	23	7	8	55	24	31	76
+2	Liverpool           	38	19	15	4	49	20	29	72
+3	Leicester City      	38	15	17	6	47	33	14	62
+4	Tottenham Hotspur   	38	14	13	11	34	29	5	55
+5	Manchester United   	38	13	14	11	35	31	4	53
+6	Wolverhampton Wanderers	38	13	11	14	31	31	0	50
+7	Arsenal             	38	12	14	12	27	31	-4	50
+8	Newcastle United    	38	10	18	10	28	29	-1	48
+9	Brighton & Hove Albion	38	13	9	16	27	30	-3	48
+10	Chelsea             	38	11	14	13	36	41	-5	47
+11	Norwich City        	38	11	14	13	21	30	-9	47
+12	Aston Villa         	38	10	16	12	32	36	-4	46
+13	Everton             	38	10	16	12	27	33	-6	46
+14	Watford             	38	11	12	15	28	37	-9	45
+15	Burnley             	38	9	17	12	24	30	-6	44
+16	Southampton         	38	10	14	14	32	41	-9	44
+17	Sheffield United    	38	9	16	13	21	25	-4	43
+18	Bournemouth         	38	9	15	14	30	41	-11	42
+19	Crystal Palace      	38	8	17	13	20	29	-9	41
+20	West Ham United     	38	9	13	16	38	41	-3	40
+
+#---------------------------------
+#	 Season 430651
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Manchester City     	38	35	3	0	81	19	62	108
+2	Liverpool           	38	23	11	4	52	21	31	80
+3	Leicester City      	38	22	7	9	49	21	28	73
+4	Arsenal             	38	17	11	10	41	31	10	62
+5	Wolverhampton Wanderers	38	15	16	7	36	23	13	61
+6	Tottenham Hotspur   	38	16	9	13	33	32	1	57
+7	Chelsea             	38	13	14	11	46	42	4	53
+8	Sheffield United    	38	12	16	10	22	22	0	52
+9	Aston Villa         	38	13	9	16	28	33	-5	48
+10	Manchester United   	38	11	13	14	33	33	0	46
+11	Crystal Palace      	38	11	12	15	29	32	-3	45
+12	Burnley             	38	10	15	13	31	38	-7	45
+13	Southampton         	38	9	17	12	37	41	-4	44
+14	Watford             	38	13	5	20	25	43	-18	44
+15	Brighton & Hove Albion	38	10	13	15	29	38	-9	43
+16	Bournemouth         	38	10	12	16	29	39	-10	42
+17	West Ham United     	38	11	9	18	31	42	-11	42
+18	Everton             	38	6	12	20	19	38	-19	30
+19	Newcastle United    	38	5	11	22	16	44	-28	26
+20	Norwich City        	38	5	11	22	16	51	-35	26
+
+#---------------------------------
+#	 Season 437847
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Chelsea             	38	20	7	11	58	46	12	67
+2	Manchester City     	38	17	14	7	48	24	24	65
+3	Arsenal             	38	17	12	9	37	19	18	63
+4	Leicester City      	38	16	14	8	42	24	18	62
+5	Liverpool           	38	16	13	9	45	30	15	61
+6	Wolverhampton Wanderers	38	17	9	12	33	25	8	60
+7	Everton             	38	15	14	9	34	25	9	59
+8	Brighton & Hove Albion	38	14	11	13	34	38	-4	53
+9	Bournemouth         	38	14	10	14	29	33	-4	52
+10	Manchester United   	38	13	12	13	42	38	4	51
+11	Sheffield United    	38	12	15	11	27	26	1	51
+12	Aston Villa         	38	13	12	13	29	34	-5	51
+13	Tottenham Hotspur   	38	12	14	12	33	34	-1	50
+14	Newcastle United    	38	13	8	17	28	43	-15	47
+15	Crystal Palace      	38	11	13	14	29	36	-7	46
+16	West Ham United     	38	13	7	18	34	42	-8	46
+17	Burnley             	38	8	17	13	31	37	-6	41
+18	Watford             	38	8	15	15	23	37	-14	39
+19	Southampton         	38	6	12	20	22	41	-19	30
+20	Norwich City        	38	3	15	20	18	44	-26	24
+
+#---------------------------------
+#	 Season 463695
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Manchester City     	38	25	10	3	59	19	40	85
+2	Liverpool           	38	17	13	8	41	24	17	64
+3	Wolverhampton Wanderers	38	15	13	10	36	29	7	58
+4	West Ham United     	38	14	15	9	40	31	9	57
+5	Manchester United   	38	13	13	12	34	29	5	52
+6	Chelsea             	38	14	10	14	43	40	3	52
+7	Aston Villa         	38	13	13	12	26	28	-2	52
+8	Leicester City      	38	12	15	11	34	29	5	51
+9	Brighton & Hove Albion	38	13	12	13	36	36	0	51
+10	Arsenal             	38	13	12	13	33	34	-1	51
+11	Tottenham Hotspur   	38	10	19	9	35	30	5	49
+12	Sheffield United    	38	11	15	12	26	28	-2	48
+13	Newcastle United    	38	11	14	13	37	45	-8	47
+14	Everton             	38	11	13	14	31	33	-2	46
+15	Burnley             	38	12	10	16	26	38	-12	46
+16	Southampton         	38	11	12	15	32	45	-13	45
+17	Watford             	38	9	13	16	29	37	-8	40
+18	Bournemouth         	38	9	13	16	26	36	-10	40
+19	Norwich City        	38	8	12	18	23	49	-26	36
+20	Crystal Palace      	38	4	23	11	15	22	-7	35
+
+#---------------------------------
+#	 Season 608965
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Liverpool           	38	21	14	3	50	19	31	77
+2	Leicester City      	38	22	11	5	44	16	28	77
+3	Chelsea             	38	20	10	8	41	25	16	70
+4	Manchester City     	38	18	15	5	60	25	35	69
+5	Manchester United   	38	19	8	11	41	23	18	65
+6	Newcastle United    	38	15	12	11	37	40	-3	57
+7	Tottenham Hotspur   	38	14	12	12	38	33	5	54
+8	Wolverhampton Wanderers	38	14	11	13	36	30	6	53
+9	Southampton         	38	13	13	12	41	39	2	52
+10	Arsenal             	38	14	8	16	33	39	-6	50
+11	Aston Villa         	38	12	11	15	30	34	-4	47
+12	Brighton & Hove Albion	38	13	8	17	24	36	-12	47
+13	Sheffield United    	38	10	14	14	24	26	-2	44
+14	Burnley             	38	10	14	14	25	31	-6	44
+15	Bournemouth         	38	12	8	18	30	41	-11	44
+16	Everton             	38	9	16	13	25	31	-6	43
+17	Crystal Palace      	38	10	12	16	24	33	-9	42
+18	West Ham United     	38	8	16	14	28	39	-11	40
+19	Watford             	38	7	16	15	29	42	-13	37
+20	Norwich City        	38	2	5	31	12	70	-58	11
+
+#---------------------------------
+#	 Season 658888
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Liverpool           	38	25	11	2	45	6	39	86
+2	Manchester City     	38	20	13	5	47	19	28	73
+3	Leicester City      	38	20	13	5	50	28	22	73
+4	Wolverhampton Wanderers	38	18	14	6	34	23	11	68
+5	Arsenal             	38	17	13	8	36	27	9	64
+6	Manchester United   	38	17	7	14	41	32	9	58
+7	Southampton         	38	15	12	11	40	36	4	57
+8	Chelsea             	38	14	10	14	38	33	5	52
+9	Tottenham Hotspur   	38	12	16	10	32	27	5	52
+10	Everton             	38	12	15	11	34	34	0	51
+11	Newcastle United    	38	11	14	13	30	35	-5	47
+12	Burnley             	38	11	13	14	29	38	-9	46
+13	Sheffield United    	38	10	13	15	23	27	-4	43
+14	West Ham United     	38	11	10	17	22	38	-16	43
+15	Watford             	38	7	16	15	25	37	-12	37
+16	Bournemouth         	38	9	10	19	33	48	-15	37
+17	Aston Villa         	38	8	12	18	22	35	-13	36
+18	Crystal Palace      	38	6	14	18	25	42	-17	32
+19	Brighton & Hove Albion	38	7	11	20	18	38	-20	32
+20	Norwich City        	38	5	13	20	24	45	-21	28
+
+#---------------------------------
+#	 Season 701703
+#---------------------------------
+#Placement Team gp w d l scored admitted diff points
+1	Manchester City     	38	32	4	2	92	23	69	100
+2	Liverpool           	38	22	7	9	54	25	29	73
+3	Wolverhampton Wanderers	38	20	9	9	44	28	16	69
+4	Manchester United   	38	17	16	5	42	23	19	67
+5	Leicester City      	38	15	14	9	38	30	8	59
+6	Everton             	38	15	12	11	35	29	6	57
+7	Sheffield United    	38	12	16	10	27	26	1	52
+8	Bournemouth         	38	13	13	12	30	37	-7	52
+9	Watford             	38	13	11	14	31	39	-8	50
+10	Tottenham Hotspur   	38	12	10	16	33	34	-1	46
+11	Arsenal             	38	11	12	15	35	38	-3	45
+12	Crystal Palace      	38	9	17	12	26	34	-8	44
+13	Burnley             	38	10	13	15	24	32	-8	43
+14	Southampton         	38	11	10	17	33	45	-12	43
+15	Brighton & Hove Albion	38	8	18	12	21	29	-8	42
+16	Chelsea             	38	10	10	18	35	44	-9	40
+17	West Ham United     	38	8	13	17	36	51	-15	37
+18	Aston Villa         	38	8	10	20	27	46	-19	34
+19	Newcastle United    	38	6	16	16	26	46	-20	34
+20	Norwich City        	38	6	13	19	25	55	-30	31
+

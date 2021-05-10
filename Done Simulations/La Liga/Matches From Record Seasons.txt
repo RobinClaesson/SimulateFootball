@@ -1,0 +1,6912 @@
+#---------------------------------
+#	 Season 32417
+#---------------------------------
+Real Madrid 1 - 2 Barcelona
+Real Madrid 0 - 0 Atlético Madrid
+Real Madrid 1 - 1 Sevilla
+Real Madrid 2 - 2 Villarreal
+Real Madrid 0 - 0 Real Sociedad
+Real Madrid 1 - 0 Granada
+Real Madrid 0 - 0 Getafe
+Real Madrid 1 - 1 Valencia
+Real Madrid 0 - 0 Osasuna
+Real Madrid 2 - 0 Athletic Bilbao
+Real Madrid 0 - 0 Levante
+Real Madrid 1 - 1 Valladolid
+Real Madrid 2 - 1 Eibar
+Real Madrid 1 - 0 Real Betis
+Real Madrid 3 - 0 Alavés
+Real Madrid 0 - 0 Celta Vigo
+Real Madrid 0 - 0 Leganés
+Real Madrid 1 - 1 Mallorca
+Real Madrid 0 - 0 Espanyol
+Barcelona 2 - 0 Real Madrid
+Barcelona 1 - 1 Atlético Madrid
+Barcelona 2 - 1 Sevilla
+Barcelona 0 - 0 Villarreal
+Barcelona 1 - 0 Real Sociedad
+Barcelona 1 - 0 Granada
+Barcelona 1 - 1 Getafe
+Barcelona 0 - 0 Valencia
+Barcelona 3 - 0 Osasuna
+Barcelona 0 - 0 Athletic Bilbao
+Barcelona 2 - 1 Levante
+Barcelona 0 - 0 Valladolid
+Barcelona 3 - 1 Eibar
+Barcelona 0 - 1 Real Betis
+Barcelona 3 - 1 Alavés
+Barcelona 2 - 1 Celta Vigo
+Barcelona 2 - 1 Leganés
+Barcelona 0 - 1 Mallorca
+Barcelona 0 - 0 Espanyol
+Atlético Madrid 0 - 2 Real Madrid
+Atlético Madrid 1 - 1 Barcelona
+Atlético Madrid 0 - 0 Sevilla
+Atlético Madrid 2 - 1 Villarreal
+Atlético Madrid 2 - 1 Real Sociedad
+Atlético Madrid 2 - 0 Granada
+Atlético Madrid 0 - 0 Getafe
+Atlético Madrid 1 - 1 Valencia
+Atlético Madrid 1 - 0 Osasuna
+Atlético Madrid 2 - 0 Athletic Bilbao
+Atlético Madrid 1 - 1 Levante
+Atlético Madrid 1 - 0 Valladolid
+Atlético Madrid 0 - 0 Eibar
+Atlético Madrid 1 - 1 Real Betis
+Atlético Madrid 1 - 1 Alavés
+Atlético Madrid 1 - 0 Celta Vigo
+Atlético Madrid 0 - 0 Leganés
+Atlético Madrid 0 - 0 Mallorca
+Atlético Madrid 2 - 0 Espanyol
+Sevilla 0 - 2 Real Madrid
+Sevilla 0 - 0 Barcelona
+Sevilla 0 - 1 Atlético Madrid
+Sevilla 2 - 2 Villarreal
+Sevilla 1 - 1 Real Sociedad
+Sevilla 0 - 2 Granada
+Sevilla 0 - 1 Getafe
+Sevilla 1 - 1 Valencia
+Sevilla 0 - 1 Osasuna
+Sevilla 0 - 1 Athletic Bilbao
+Sevilla 1 - 1 Levante
+Sevilla 1 - 0 Valladolid
+Sevilla 0 - 0 Eibar
+Sevilla 2 - 0 Real Betis
+Sevilla 0 - 1 Alavés
+Sevilla 0 - 0 Celta Vigo
+Sevilla 2 - 0 Leganés
+Sevilla 0 - 1 Mallorca
+Sevilla 2 - 0 Espanyol
+Villarreal 1 - 0 Real Madrid
+Villarreal 2 - 0 Barcelona
+Villarreal 0 - 2 Atlético Madrid
+Villarreal 2 - 1 Sevilla
+Villarreal 0 - 2 Real Sociedad
+Villarreal 2 - 0 Granada
+Villarreal 0 - 0 Getafe
+Villarreal 0 - 0 Valencia
+Villarreal 2 - 0 Osasuna
+Villarreal 0 - 0 Athletic Bilbao
+Villarreal 0 - 2 Levante
+Villarreal 2 - 1 Valladolid
+Villarreal 2 - 1 Eibar
+Villarreal 1 - 2 Real Betis
+Villarreal 0 - 2 Alavés
+Villarreal 1 - 1 Celta Vigo
+Villarreal 2 - 1 Leganés
+Villarreal 0 - 0 Mallorca
+Villarreal 0 - 0 Espanyol
+Real Sociedad 1 - 2 Real Madrid
+Real Sociedad 0 - 2 Barcelona
+Real Sociedad 1 - 2 Atlético Madrid
+Real Sociedad 0 - 2 Sevilla
+Real Sociedad 1 - 2 Villarreal
+Real Sociedad 2 - 1 Granada
+Real Sociedad 1 - 1 Getafe
+Real Sociedad 2 - 2 Valencia
+Real Sociedad 0 - 1 Osasuna
+Real Sociedad 0 - 0 Athletic Bilbao
+Real Sociedad 0 - 1 Levante
+Real Sociedad 1 - 2 Valladolid
+Real Sociedad 1 - 0 Eibar
+Real Sociedad 1 - 0 Real Betis
+Real Sociedad 0 - 1 Alavés
+Real Sociedad 1 - 0 Celta Vigo
+Real Sociedad 2 - 0 Leganés
+Real Sociedad 1 - 1 Mallorca
+Real Sociedad 2 - 0 Espanyol
+Granada 0 - 2 Real Madrid
+Granada 0 - 3 Barcelona
+Granada 2 - 1 Atlético Madrid
+Granada 1 - 1 Sevilla
+Granada 0 - 2 Villarreal
+Granada 2 - 0 Real Sociedad
+Granada 1 - 0 Getafe
+Granada 2 - 2 Valencia
+Granada 2 - 0 Osasuna
+Granada 0 - 0 Athletic Bilbao
+Granada 0 - 1 Levante
+Granada 1 - 0 Valladolid
+Granada 1 - 0 Eibar
+Granada 1 - 1 Real Betis
+Granada 2 - 0 Alavés
+Granada 0 - 0 Celta Vigo
+Granada 0 - 1 Leganés
+Granada 1 - 0 Mallorca
+Granada 0 - 0 Espanyol
+Getafe 0 - 2 Real Madrid
+Getafe 0 - 3 Barcelona
+Getafe 0 - 1 Atlético Madrid
+Getafe 0 - 0 Sevilla
+Getafe 1 - 2 Villarreal
+Getafe 0 - 0 Real Sociedad
+Getafe 0 - 0 Granada
+Getafe 0 - 0 Valencia
+Getafe 0 - 1 Osasuna
+Getafe 0 - 0 Athletic Bilbao
+Getafe 0 - 1 Levante
+Getafe 0 - 0 Valladolid
+Getafe 1 - 1 Eibar
+Getafe 1 - 1 Real Betis
+Getafe 0 - 0 Alavés
+Getafe 2 - 1 Celta Vigo
+Getafe 1 - 1 Leganés
+Getafe 2 - 0 Mallorca
+Getafe 0 - 0 Espanyol
+Valencia 0 - 0 Real Madrid
+Valencia 1 - 1 Barcelona
+Valencia 0 - 1 Atlético Madrid
+Valencia 1 - 2 Sevilla
+Valencia 2 - 2 Villarreal
+Valencia 2 - 1 Real Sociedad
+Valencia 0 - 2 Granada
+Valencia 1 - 2 Getafe
+Valencia 2 - 1 Osasuna
+Valencia 1 - 0 Athletic Bilbao
+Valencia 0 - 0 Levante
+Valencia 2 - 1 Valladolid
+Valencia 0 - 1 Eibar
+Valencia 0 - 1 Real Betis
+Valencia 0 - 1 Alavés
+Valencia 0 - 0 Celta Vigo
+Valencia 0 - 0 Leganés
+Valencia 0 - 0 Mallorca
+Valencia 1 - 1 Espanyol
+Osasuna 1 - 2 Real Madrid
+Osasuna 0 - 3 Barcelona
+Osasuna 0 - 1 Atlético Madrid
+Osasuna 1 - 1 Sevilla
+Osasuna 1 - 0 Villarreal
+Osasuna 1 - 2 Real Sociedad
+Osasuna 1 - 0 Granada
+Osasuna 1 - 0 Getafe
+Osasuna 2 - 0 Valencia
+Osasuna 0 - 2 Athletic Bilbao
+Osasuna 0 - 1 Levante
+Osasuna 0 - 0 Valladolid
+Osasuna 1 - 0 Eibar
+Osasuna 1 - 2 Real Betis
+Osasuna 1 - 0 Alavés
+Osasuna 1 - 1 Celta Vigo
+Osasuna 0 - 0 Leganés
+Osasuna 2 - 2 Mallorca
+Osasuna 1 - 1 Espanyol
+Athletic Bilbao 0 - 0 Real Madrid
+Athletic Bilbao 0 - 2 Barcelona
+Athletic Bilbao 0 - 0 Atlético Madrid
+Athletic Bilbao 1 - 1 Sevilla
+Athletic Bilbao 2 - 2 Villarreal
+Athletic Bilbao 1 - 0 Real Sociedad
+Athletic Bilbao 0 - 2 Granada
+Athletic Bilbao 0 - 1 Getafe
+Athletic Bilbao 1 - 0 Valencia
+Athletic Bilbao 1 - 0 Osasuna
+Athletic Bilbao 0 - 1 Levante
+Athletic Bilbao 0 - 1 Valladolid
+Athletic Bilbao 2 - 1 Eibar
+Athletic Bilbao 0 - 0 Real Betis
+Athletic Bilbao 1 - 1 Alavés
+Athletic Bilbao 1 - 1 Celta Vigo
+Athletic Bilbao 1 - 0 Leganés
+Athletic Bilbao 0 - 2 Mallorca
+Athletic Bilbao 2 - 0 Espanyol
+Levante 0 - 1 Real Madrid
+Levante 0 - 0 Barcelona
+Levante 0 - 1 Atlético Madrid
+Levante 0 - 0 Sevilla
+Levante 1 - 2 Villarreal
+Levante 1 - 1 Real Sociedad
+Levante 1 - 2 Granada
+Levante 0 - 0 Getafe
+Levante 0 - 0 Valencia
+Levante 0 - 0 Osasuna
+Levante 1 - 1 Athletic Bilbao
+Levante 1 - 1 Valladolid
+Levante 2 - 0 Eibar
+Levante 1 - 2 Real Betis
+Levante 1 - 0 Alavés
+Levante 1 - 0 Celta Vigo
+Levante 2 - 0 Leganés
+Levante 2 - 0 Mallorca
+Levante 2 - 0 Espanyol
+Valladolid 0 - 1 Real Madrid
+Valladolid 0 - 2 Barcelona
+Valladolid 1 - 0 Atlético Madrid
+Valladolid 1 - 2 Sevilla
+Valladolid 0 - 1 Villarreal
+Valladolid 0 - 0 Real Sociedad
+Valladolid 0 - 2 Granada
+Valladolid 1 - 1 Getafe
+Valladolid 1 - 1 Valencia
+Valladolid 1 - 1 Osasuna
+Valladolid 0 - 2 Athletic Bilbao
+Valladolid 0 - 1 Levante
+Valladolid 1 - 1 Eibar
+Valladolid 0 - 0 Real Betis
+Valladolid 1 - 0 Alavés
+Valladolid 1 - 0 Celta Vigo
+Valladolid 0 - 1 Leganés
+Valladolid 1 - 1 Mallorca
+Valladolid 1 - 0 Espanyol
+Eibar 1 - 1 Real Madrid
+Eibar 1 - 0 Barcelona
+Eibar 0 - 2 Atlético Madrid
+Eibar 0 - 1 Sevilla
+Eibar 1 - 3 Villarreal
+Eibar 0 - 0 Real Sociedad
+Eibar 0 - 0 Granada
+Eibar 0 - 0 Getafe
+Eibar 0 - 2 Valencia
+Eibar 0 - 2 Osasuna
+Eibar 1 - 0 Athletic Bilbao
+Eibar 0 - 1 Levante
+Eibar 0 - 2 Valladolid
+Eibar 2 - 2 Real Betis
+Eibar 1 - 0 Alavés
+Eibar 0 - 0 Celta Vigo
+Eibar 2 - 0 Leganés
+Eibar 0 - 0 Mallorca
+Eibar 0 - 0 Espanyol
+Real Betis 1 - 0 Real Madrid
+Real Betis 0 - 3 Barcelona
+Real Betis 1 - 0 Atlético Madrid
+Real Betis 0 - 1 Sevilla
+Real Betis 2 - 2 Villarreal
+Real Betis 2 - 0 Real Sociedad
+Real Betis 1 - 2 Granada
+Real Betis 0 - 2 Getafe
+Real Betis 0 - 1 Valencia
+Real Betis 0 - 0 Osasuna
+Real Betis 2 - 0 Athletic Bilbao
+Real Betis 0 - 1 Levante
+Real Betis 2 - 1 Valladolid
+Real Betis 2 - 2 Eibar
+Real Betis 1 - 0 Alavés
+Real Betis 2 - 0 Celta Vigo
+Real Betis 0 - 0 Leganés
+Real Betis 2 - 0 Mallorca
+Real Betis 2 - 0 Espanyol
+Alavés 0 - 0 Real Madrid
+Alavés 0 - 2 Barcelona
+Alavés 1 - 2 Atlético Madrid
+Alavés 0 - 1 Sevilla
+Alavés 1 - 1 Villarreal
+Alavés 0 - 0 Real Sociedad
+Alavés 0 - 1 Granada
+Alavés 0 - 2 Getafe
+Alavés 0 - 2 Valencia
+Alavés 0 - 1 Osasuna
+Alavés 1 - 1 Athletic Bilbao
+Alavés 0 - 0 Levante
+Alavés 1 - 2 Valladolid
+Alavés 2 - 1 Eibar
+Alavés 0 - 2 Real Betis
+Alavés 2 - 0 Celta Vigo
+Alavés 0 - 0 Leganés
+Alavés 1 - 2 Mallorca
+Alavés 1 - 0 Espanyol
+Celta Vigo 0 - 0 Real Madrid
+Celta Vigo 0 - 2 Barcelona
+Celta Vigo 1 - 1 Atlético Madrid
+Celta Vigo 1 - 1 Sevilla
+Celta Vigo 2 - 1 Villarreal
+Celta Vigo 0 - 0 Real Sociedad
+Celta Vigo 2 - 0 Granada
+Celta Vigo 1 - 0 Getafe
+Celta Vigo 0 - 2 Valencia
+Celta Vigo 2 - 0 Osasuna
+Celta Vigo 1 - 0 Athletic Bilbao
+Celta Vigo 2 - 1 Levante
+Celta Vigo 0 - 1 Valladolid
+Celta Vigo 0 - 2 Eibar
+Celta Vigo 2 - 2 Real Betis
+Celta Vigo 0 - 0 Alavés
+Celta Vigo 0 - 1 Leganés
+Celta Vigo 1 - 0 Mallorca
+Celta Vigo 0 - 0 Espanyol
+Leganés 0 - 2 Real Madrid
+Leganés 0 - 1 Barcelona
+Leganés 0 - 1 Atlético Madrid
+Leganés 0 - 2 Sevilla
+Leganés 1 - 2 Villarreal
+Leganés 0 - 2 Real Sociedad
+Leganés 0 - 1 Granada
+Leganés 0 - 1 Getafe
+Leganés 0 - 0 Valencia
+Leganés 0 - 0 Osasuna
+Leganés 0 - 0 Athletic Bilbao
+Leganés 0 - 2 Levante
+Leganés 0 - 0 Valladolid
+Leganés 0 - 0 Eibar
+Leganés 0 - 0 Real Betis
+Leganés 1 - 1 Alavés
+Leganés 0 - 1 Celta Vigo
+Leganés 1 - 0 Mallorca
+Leganés 2 - 0 Espanyol
+Mallorca 1 - 1 Real Madrid
+Mallorca 0 - 0 Barcelona
+Mallorca 0 - 1 Atlético Madrid
+Mallorca 1 - 0 Sevilla
+Mallorca 1 - 1 Villarreal
+Mallorca 2 - 2 Real Sociedad
+Mallorca 0 - 1 Granada
+Mallorca 0 - 0 Getafe
+Mallorca 2 - 0 Valencia
+Mallorca 1 - 1 Osasuna
+Mallorca 0 - 0 Athletic Bilbao
+Mallorca 0 - 0 Levante
+Mallorca 1 - 1 Valladolid
+Mallorca 0 - 1 Eibar
+Mallorca 1 - 1 Real Betis
+Mallorca 0 - 0 Alavés
+Mallorca 1 - 0 Celta Vigo
+Mallorca 0 - 1 Leganés
+Mallorca 2 - 0 Espanyol
+Espanyol 0 - 2 Real Madrid
+Espanyol 0 - 1 Barcelona
+Espanyol 0 - 2 Atlético Madrid
+Espanyol 0 - 1 Sevilla
+Espanyol 1 - 0 Villarreal
+Espanyol 1 - 0 Real Sociedad
+Espanyol 1 - 0 Granada
+Espanyol 0 - 0 Getafe
+Espanyol 0 - 2 Valencia
+Espanyol 0 - 2 Osasuna
+Espanyol 0 - 1 Athletic Bilbao
+Espanyol 0 - 2 Levante
+Espanyol 0 - 0 Valladolid
+Espanyol 0 - 2 Eibar
+Espanyol 0 - 0 Real Betis
+Espanyol 0 - 0 Alavés
+Espanyol 0 - 1 Celta Vigo
+Espanyol 0 - 2 Leganés
+Espanyol 0 - 1 Mallorca
+
+#---------------------------------
+#	 Season 52957
+#---------------------------------
+Real Madrid 0 - 1 Barcelona
+Real Madrid 1 - 0 Atlético Madrid
+Real Madrid 1 - 1 Sevilla
+Real Madrid 0 - 0 Villarreal
+Real Madrid 2 - 1 Real Sociedad
+Real Madrid 2 - 0 Granada
+Real Madrid 2 - 1 Getafe
+Real Madrid 3 - 1 Valencia
+Real Madrid 1 - 1 Osasuna
+Real Madrid 2 - 0 Athletic Bilbao
+Real Madrid 2 - 1 Levante
+Real Madrid 2 - 0 Valladolid
+Real Madrid 1 - 0 Eibar
+Real Madrid 3 - 1 Real Betis
+Real Madrid 2 - 1 Alavés
+Real Madrid 0 - 1 Celta Vigo
+Real Madrid 0 - 0 Leganés
+Real Madrid 0 - 0 Mallorca
+Real Madrid 1 - 0 Espanyol
+Barcelona 2 - 1 Real Madrid
+Barcelona 2 - 1 Atlético Madrid
+Barcelona 3 - 0 Sevilla
+Barcelona 3 - 1 Villarreal
+Barcelona 3 - 2 Real Sociedad
+Barcelona 1 - 0 Granada
+Barcelona 1 - 0 Getafe
+Barcelona 1 - 0 Valencia
+Barcelona 3 - 1 Osasuna
+Barcelona 1 - 0 Athletic Bilbao
+Barcelona 3 - 1 Levante
+Barcelona 3 - 1 Valladolid
+Barcelona 2 - 1 Eibar
+Barcelona 1 - 0 Real Betis
+Barcelona 1 - 1 Alavés
+Barcelona 2 - 1 Celta Vigo
+Barcelona 1 - 1 Leganés
+Barcelona 2 - 0 Mallorca
+Barcelona 1 - 0 Espanyol
+Atlético Madrid 1 - 1 Real Madrid
+Atlético Madrid 0 - 2 Barcelona
+Atlético Madrid 0 - 2 Sevilla
+Atlético Madrid 0 - 1 Villarreal
+Atlético Madrid 1 - 1 Real Sociedad
+Atlético Madrid 0 - 2 Granada
+Atlético Madrid 0 - 1 Getafe
+Atlético Madrid 2 - 1 Valencia
+Atlético Madrid 2 - 0 Osasuna
+Atlético Madrid 1 - 0 Athletic Bilbao
+Atlético Madrid 0 - 0 Levante
+Atlético Madrid 2 - 1 Valladolid
+Atlético Madrid 0 - 0 Eibar
+Atlético Madrid 1 - 1 Real Betis
+Atlético Madrid 1 - 0 Alavés
+Atlético Madrid 2 - 0 Celta Vigo
+Atlético Madrid 2 - 1 Leganés
+Atlético Madrid 2 - 1 Mallorca
+Atlético Madrid 0 - 0 Espanyol
+Sevilla 0 - 2 Real Madrid
+Sevilla 0 - 2 Barcelona
+Sevilla 0 - 1 Atlético Madrid
+Sevilla 2 - 0 Villarreal
+Sevilla 1 - 1 Real Sociedad
+Sevilla 1 - 1 Granada
+Sevilla 0 - 0 Getafe
+Sevilla 1 - 0 Valencia
+Sevilla 0 - 1 Osasuna
+Sevilla 1 - 0 Athletic Bilbao
+Sevilla 1 - 0 Levante
+Sevilla 1 - 1 Valladolid
+Sevilla 0 - 0 Eibar
+Sevilla 0 - 0 Real Betis
+Sevilla 0 - 0 Alavés
+Sevilla 0 - 0 Celta Vigo
+Sevilla 2 - 1 Leganés
+Sevilla 2 - 1 Mallorca
+Sevilla 0 - 0 Espanyol
+Villarreal 1 - 0 Real Madrid
+Villarreal 0 - 3 Barcelona
+Villarreal 0 - 1 Atlético Madrid
+Villarreal 0 - 0 Sevilla
+Villarreal 0 - 1 Real Sociedad
+Villarreal 1 - 2 Granada
+Villarreal 1 - 0 Getafe
+Villarreal 0 - 1 Valencia
+Villarreal 1 - 0 Osasuna
+Villarreal 0 - 1 Athletic Bilbao
+Villarreal 2 - 0 Levante
+Villarreal 1 - 1 Valladolid
+Villarreal 0 - 0 Eibar
+Villarreal 2 - 1 Real Betis
+Villarreal 2 - 0 Alavés
+Villarreal 1 - 2 Celta Vigo
+Villarreal 0 - 1 Leganés
+Villarreal 2 - 1 Mallorca
+Villarreal 0 - 1 Espanyol
+Real Sociedad 1 - 0 Real Madrid
+Real Sociedad 1 - 3 Barcelona
+Real Sociedad 1 - 1 Atlético Madrid
+Real Sociedad 1 - 1 Sevilla
+Real Sociedad 2 - 2 Villarreal
+Real Sociedad 2 - 0 Granada
+Real Sociedad 0 - 1 Getafe
+Real Sociedad 1 - 0 Valencia
+Real Sociedad 0 - 1 Osasuna
+Real Sociedad 1 - 1 Athletic Bilbao
+Real Sociedad 2 - 0 Levante
+Real Sociedad 2 - 1 Valladolid
+Real Sociedad 1 - 1 Eibar
+Real Sociedad 2 - 1 Real Betis
+Real Sociedad 2 - 1 Alavés
+Real Sociedad 1 - 1 Celta Vigo
+Real Sociedad 1 - 0 Leganés
+Real Sociedad 1 - 0 Mallorca
+Real Sociedad 0 - 1 Espanyol
+Granada 0 - 0 Real Madrid
+Granada 0 - 2 Barcelona
+Granada 0 - 2 Atlético Madrid
+Granada 1 - 1 Sevilla
+Granada 0 - 0 Villarreal
+Granada 1 - 1 Real Sociedad
+Granada 1 - 0 Getafe
+Granada 0 - 1 Valencia
+Granada 1 - 1 Osasuna
+Granada 0 - 0 Athletic Bilbao
+Granada 1 - 0 Levante
+Granada 1 - 1 Valladolid
+Granada 1 - 1 Eibar
+Granada 1 - 0 Real Betis
+Granada 1 - 0 Alavés
+Granada 2 - 0 Celta Vigo
+Granada 0 - 0 Leganés
+Granada 0 - 0 Mallorca
+Granada 1 - 0 Espanyol
+Getafe 1 - 2 Real Madrid
+Getafe 1 - 3 Barcelona
+Getafe 0 - 1 Atlético Madrid
+Getafe 0 - 0 Sevilla
+Getafe 0 - 0 Villarreal
+Getafe 1 - 1 Real Sociedad
+Getafe 0 - 0 Granada
+Getafe 2 - 2 Valencia
+Getafe 0 - 0 Osasuna
+Getafe 0 - 0 Athletic Bilbao
+Getafe 0 - 1 Levante
+Getafe 0 - 0 Valladolid
+Getafe 2 - 0 Eibar
+Getafe 0 - 1 Real Betis
+Getafe 0 - 0 Alavés
+Getafe 0 - 1 Celta Vigo
+Getafe 1 - 1 Leganés
+Getafe 1 - 0 Mallorca
+Getafe 0 - 0 Espanyol
+Valencia 0 - 2 Real Madrid
+Valencia 1 - 2 Barcelona
+Valencia 1 - 1 Atlético Madrid
+Valencia 1 - 0 Sevilla
+Valencia 1 - 2 Villarreal
+Valencia 0 - 1 Real Sociedad
+Valencia 0 - 1 Granada
+Valencia 0 - 0 Getafe
+Valencia 2 - 0 Osasuna
+Valencia 1 - 1 Athletic Bilbao
+Valencia 0 - 0 Levante
+Valencia 1 - 1 Valladolid
+Valencia 2 - 0 Eibar
+Valencia 2 - 2 Real Betis
+Valencia 0 - 1 Alavés
+Valencia 1 - 1 Celta Vigo
+Valencia 1 - 1 Leganés
+Valencia 2 - 1 Mallorca
+Valencia 0 - 1 Espanyol
+Osasuna 1 - 3 Real Madrid
+Osasuna 1 - 3 Barcelona
+Osasuna 1 - 0 Atlético Madrid
+Osasuna 0 - 2 Sevilla
+Osasuna 0 - 1 Villarreal
+Osasuna 1 - 0 Real Sociedad
+Osasuna 1 - 0 Granada
+Osasuna 1 - 2 Getafe
+Osasuna 1 - 0 Valencia
+Osasuna 0 - 0 Athletic Bilbao
+Osasuna 2 - 1 Levante
+Osasuna 1 - 2 Valladolid
+Osasuna 2 - 2 Eibar
+Osasuna 0 - 1 Real Betis
+Osasuna 2 - 0 Alavés
+Osasuna 2 - 1 Celta Vigo
+Osasuna 2 - 1 Leganés
+Osasuna 1 - 1 Mallorca
+Osasuna 2 - 0 Espanyol
+Athletic Bilbao 1 - 1 Real Madrid
+Athletic Bilbao 0 - 2 Barcelona
+Athletic Bilbao 0 - 0 Atlético Madrid
+Athletic Bilbao 0 - 2 Sevilla
+Athletic Bilbao 0 - 0 Villarreal
+Athletic Bilbao 2 - 2 Real Sociedad
+Athletic Bilbao 0 - 1 Granada
+Athletic Bilbao 0 - 0 Getafe
+Athletic Bilbao 1 - 1 Valencia
+Athletic Bilbao 1 - 1 Osasuna
+Athletic Bilbao 0 - 1 Levante
+Athletic Bilbao 0 - 1 Valladolid
+Athletic Bilbao 0 - 1 Eibar
+Athletic Bilbao 1 - 0 Real Betis
+Athletic Bilbao 1 - 0 Alavés
+Athletic Bilbao 2 - 0 Celta Vigo
+Athletic Bilbao 2 - 0 Leganés
+Athletic Bilbao 1 - 1 Mallorca
+Athletic Bilbao 2 - 1 Espanyol
+Levante 0 - 0 Real Madrid
+Levante 1 - 3 Barcelona
+Levante 1 - 0 Atlético Madrid
+Levante 1 - 2 Sevilla
+Levante 2 - 0 Villarreal
+Levante 0 - 2 Real Sociedad
+Levante 1 - 2 Granada
+Levante 0 - 0 Getafe
+Levante 0 - 0 Valencia
+Levante 0 - 1 Osasuna
+Levante 1 - 0 Athletic Bilbao
+Levante 1 - 0 Valladolid
+Levante 1 - 2 Eibar
+Levante 1 - 1 Real Betis
+Levante 2 - 0 Alavés
+Levante 2 - 1 Celta Vigo
+Levante 0 - 1 Leganés
+Levante 0 - 0 Mallorca
+Levante 2 - 0 Espanyol
+Valladolid 1 - 0 Real Madrid
+Valladolid 0 - 0 Barcelona
+Valladolid 1 - 1 Atlético Madrid
+Valladolid 1 - 1 Sevilla
+Valladolid 0 - 2 Villarreal
+Valladolid 0 - 1 Real Sociedad
+Valladolid 1 - 1 Granada
+Valladolid 0 - 1 Getafe
+Valladolid 0 - 2 Valencia
+Valladolid 0 - 1 Osasuna
+Valladolid 0 - 2 Athletic Bilbao
+Valladolid 1 - 2 Levante
+Valladolid 2 - 1 Eibar
+Valladolid 0 - 1 Real Betis
+Valladolid 1 - 1 Alavés
+Valladolid 1 - 1 Celta Vigo
+Valladolid 0 - 0 Leganés
+Valladolid 0 - 0 Mallorca
+Valladolid 0 - 0 Espanyol
+Eibar 0 - 0 Real Madrid
+Eibar 0 - 3 Barcelona
+Eibar 0 - 1 Atlético Madrid
+Eibar 1 - 0 Sevilla
+Eibar 1 - 1 Villarreal
+Eibar 0 - 1 Real Sociedad
+Eibar 1 - 0 Granada
+Eibar 1 - 0 Getafe
+Eibar 1 - 2 Valencia
+Eibar 1 - 1 Osasuna
+Eibar 0 - 1 Athletic Bilbao
+Eibar 0 - 0 Levante
+Eibar 2 - 1 Valladolid
+Eibar 0 - 0 Real Betis
+Eibar 1 - 1 Alavés
+Eibar 0 - 2 Celta Vigo
+Eibar 0 - 1 Leganés
+Eibar 1 - 0 Mallorca
+Eibar 1 - 0 Espanyol
+Real Betis 0 - 0 Real Madrid
+Real Betis 0 - 2 Barcelona
+Real Betis 0 - 2 Atlético Madrid
+Real Betis 0 - 0 Sevilla
+Real Betis 0 - 1 Villarreal
+Real Betis 2 - 0 Real Sociedad
+Real Betis 0 - 1 Granada
+Real Betis 1 - 2 Getafe
+Real Betis 0 - 2 Valencia
+Real Betis 0 - 0 Osasuna
+Real Betis 2 - 2 Athletic Bilbao
+Real Betis 1 - 1 Levante
+Real Betis 1 - 1 Valladolid
+Real Betis 0 - 0 Eibar
+Real Betis 0 - 0 Alavés
+Real Betis 1 - 2 Celta Vigo
+Real Betis 2 - 0 Leganés
+Real Betis 0 - 0 Mallorca
+Real Betis 0 - 1 Espanyol
+Alavés 0 - 0 Real Madrid
+Alavés 0 - 3 Barcelona
+Alavés 0 - 1 Atlético Madrid
+Alavés 0 - 0 Sevilla
+Alavés 0 - 2 Villarreal
+Alavés 0 - 1 Real Sociedad
+Alavés 1 - 1 Granada
+Alavés 0 - 1 Getafe
+Alavés 1 - 1 Valencia
+Alavés 1 - 2 Osasuna
+Alavés 1 - 0 Athletic Bilbao
+Alavés 1 - 2 Levante
+Alavés 1 - 0 Valladolid
+Alavés 2 - 0 Eibar
+Alavés 0 - 2 Real Betis
+Alavés 0 - 1 Celta Vigo
+Alavés 1 - 1 Leganés
+Alavés 1 - 2 Mallorca
+Alavés 2 - 0 Espanyol
+Celta Vigo 0 - 3 Real Madrid
+Celta Vigo 0 - 1 Barcelona
+Celta Vigo 0 - 0 Atlético Madrid
+Celta Vigo 0 - 2 Sevilla
+Celta Vigo 1 - 0 Villarreal
+Celta Vigo 1 - 1 Real Sociedad
+Celta Vigo 2 - 1 Granada
+Celta Vigo 1 - 0 Getafe
+Celta Vigo 1 - 0 Valencia
+Celta Vigo 1 - 0 Osasuna
+Celta Vigo 0 - 0 Athletic Bilbao
+Celta Vigo 1 - 0 Levante
+Celta Vigo 0 - 1 Valladolid
+Celta Vigo 1 - 1 Eibar
+Celta Vigo 2 - 0 Real Betis
+Celta Vigo 0 - 0 Alavés
+Celta Vigo 0 - 0 Leganés
+Celta Vigo 0 - 1 Mallorca
+Celta Vigo 2 - 0 Espanyol
+Leganés 1 - 1 Real Madrid
+Leganés 1 - 3 Barcelona
+Leganés 0 - 2 Atlético Madrid
+Leganés 0 - 2 Sevilla
+Leganés 1 - 1 Villarreal
+Leganés 1 - 0 Real Sociedad
+Leganés 1 - 0 Granada
+Leganés 0 - 1 Getafe
+Leganés 1 - 0 Valencia
+Leganés 0 - 1 Osasuna
+Leganés 0 - 1 Athletic Bilbao
+Leganés 1 - 1 Levante
+Leganés 0 - 0 Valladolid
+Leganés 2 - 1 Eibar
+Leganés 2 - 1 Real Betis
+Leganés 0 - 0 Alavés
+Leganés 1 - 0 Celta Vigo
+Leganés 0 - 2 Mallorca
+Leganés 1 - 0 Espanyol
+Mallorca 1 - 2 Real Madrid
+Mallorca 0 - 0 Barcelona
+Mallorca 1 - 2 Atlético Madrid
+Mallorca 1 - 1 Sevilla
+Mallorca 1 - 3 Villarreal
+Mallorca 1 - 2 Real Sociedad
+Mallorca 1 - 0 Granada
+Mallorca 0 - 0 Getafe
+Mallorca 2 - 0 Valencia
+Mallorca 1 - 2 Osasuna
+Mallorca 1 - 0 Athletic Bilbao
+Mallorca 2 - 1 Levante
+Mallorca 2 - 1 Valladolid
+Mallorca 0 - 2 Eibar
+Mallorca 2 - 0 Real Betis
+Mallorca 2 - 1 Alavés
+Mallorca 0 - 1 Celta Vigo
+Mallorca 0 - 1 Leganés
+Mallorca 1 - 0 Espanyol
+Espanyol 0 - 3 Real Madrid
+Espanyol 1 - 2 Barcelona
+Espanyol 1 - 2 Atlético Madrid
+Espanyol 1 - 0 Sevilla
+Espanyol 0 - 1 Villarreal
+Espanyol 1 - 1 Real Sociedad
+Espanyol 1 - 0 Granada
+Espanyol 0 - 1 Getafe
+Espanyol 0 - 1 Valencia
+Espanyol 1 - 1 Osasuna
+Espanyol 0 - 0 Athletic Bilbao
+Espanyol 1 - 2 Levante
+Espanyol 1 - 0 Valladolid
+Espanyol 2 - 0 Eibar
+Espanyol 1 - 2 Real Betis
+Espanyol 1 - 1 Alavés
+Espanyol 1 - 1 Celta Vigo
+Espanyol 1 - 1 Leganés
+Espanyol 2 - 0 Mallorca
+
+#---------------------------------
+#	 Season 82660
+#---------------------------------
+Real Madrid 2 - 1 Barcelona
+Real Madrid 1 - 1 Atlético Madrid
+Real Madrid 0 - 1 Sevilla
+Real Madrid 2 - 0 Villarreal
+Real Madrid 3 - 1 Real Sociedad
+Real Madrid 0 - 0 Granada
+Real Madrid 1 - 1 Getafe
+Real Madrid 0 - 0 Valencia
+Real Madrid 0 - 0 Osasuna
+Real Madrid 1 - 1 Athletic Bilbao
+Real Madrid 3 - 0 Levante
+Real Madrid 1 - 1 Valladolid
+Real Madrid 1 - 0 Eibar
+Real Madrid 1 - 0 Real Betis
+Real Madrid 1 - 0 Alavés
+Real Madrid 0 - 1 Celta Vigo
+Real Madrid 2 - 1 Leganés
+Real Madrid 3 - 0 Mallorca
+Real Madrid 0 - 0 Espanyol
+Barcelona 2 - 2 Real Madrid
+Barcelona 2 - 2 Atlético Madrid
+Barcelona 1 - 0 Sevilla
+Barcelona 2 - 0 Villarreal
+Barcelona 1 - 0 Real Sociedad
+Barcelona 1 - 2 Granada
+Barcelona 0 - 0 Getafe
+Barcelona 1 - 2 Valencia
+Barcelona 0 - 1 Osasuna
+Barcelona 3 - 0 Athletic Bilbao
+Barcelona 1 - 2 Levante
+Barcelona 0 - 1 Valladolid
+Barcelona 3 - 0 Eibar
+Barcelona 0 - 0 Real Betis
+Barcelona 1 - 1 Alavés
+Barcelona 3 - 0 Celta Vigo
+Barcelona 1 - 1 Leganés
+Barcelona 1 - 1 Mallorca
+Barcelona 0 - 0 Espanyol
+Atlético Madrid 1 - 0 Real Madrid
+Atlético Madrid 0 - 0 Barcelona
+Atlético Madrid 1 - 0 Sevilla
+Atlético Madrid 1 - 1 Villarreal
+Atlético Madrid 0 - 0 Real Sociedad
+Atlético Madrid 1 - 1 Granada
+Atlético Madrid 1 - 0 Getafe
+Atlético Madrid 0 - 1 Valencia
+Atlético Madrid 2 - 1 Osasuna
+Atlético Madrid 1 - 0 Athletic Bilbao
+Atlético Madrid 2 - 0 Levante
+Atlético Madrid 0 - 0 Valladolid
+Atlético Madrid 2 - 0 Eibar
+Atlético Madrid 0 - 0 Real Betis
+Atlético Madrid 1 - 0 Alavés
+Atlético Madrid 2 - 1 Celta Vigo
+Atlético Madrid 2 - 1 Leganés
+Atlético Madrid 2 - 1 Mallorca
+Atlético Madrid 0 - 0 Espanyol
+Sevilla 0 - 2 Real Madrid
+Sevilla 2 - 0 Barcelona
+Sevilla 0 - 0 Atlético Madrid
+Sevilla 1 - 1 Villarreal
+Sevilla 0 - 1 Real Sociedad
+Sevilla 2 - 1 Granada
+Sevilla 0 - 0 Getafe
+Sevilla 2 - 1 Valencia
+Sevilla 0 - 1 Osasuna
+Sevilla 0 - 1 Athletic Bilbao
+Sevilla 0 - 0 Levante
+Sevilla 2 - 0 Valladolid
+Sevilla 0 - 1 Eibar
+Sevilla 0 - 1 Real Betis
+Sevilla 2 - 1 Alavés
+Sevilla 0 - 0 Celta Vigo
+Sevilla 1 - 1 Leganés
+Sevilla 2 - 1 Mallorca
+Sevilla 0 - 1 Espanyol
+Villarreal 1 - 2 Real Madrid
+Villarreal 2 - 0 Barcelona
+Villarreal 0 - 1 Atlético Madrid
+Villarreal 0 - 2 Sevilla
+Villarreal 0 - 1 Real Sociedad
+Villarreal 2 - 0 Granada
+Villarreal 2 - 0 Getafe
+Villarreal 2 - 0 Valencia
+Villarreal 2 - 1 Osasuna
+Villarreal 2 - 0 Athletic Bilbao
+Villarreal 0 - 0 Levante
+Villarreal 2 - 1 Valladolid
+Villarreal 2 - 1 Eibar
+Villarreal 0 - 1 Real Betis
+Villarreal 0 - 0 Alavés
+Villarreal 2 - 2 Celta Vigo
+Villarreal 1 - 0 Leganés
+Villarreal 2 - 0 Mallorca
+Villarreal 3 - 0 Espanyol
+Real Sociedad 0 - 0 Real Madrid
+Real Sociedad 0 - 1 Barcelona
+Real Sociedad 1 - 1 Atlético Madrid
+Real Sociedad 2 - 2 Sevilla
+Real Sociedad 2 - 0 Villarreal
+Real Sociedad 1 - 0 Granada
+Real Sociedad 0 - 0 Getafe
+Real Sociedad 2 - 2 Valencia
+Real Sociedad 2 - 1 Osasuna
+Real Sociedad 2 - 0 Athletic Bilbao
+Real Sociedad 1 - 1 Levante
+Real Sociedad 1 - 1 Valladolid
+Real Sociedad 1 - 1 Eibar
+Real Sociedad 2 - 0 Real Betis
+Real Sociedad 1 - 1 Alavés
+Real Sociedad 1 - 1 Celta Vigo
+Real Sociedad 1 - 1 Leganés
+Real Sociedad 1 - 1 Mallorca
+Real Sociedad 0 - 1 Espanyol
+Granada 1 - 0 Real Madrid
+Granada 2 - 3 Barcelona
+Granada 1 - 0 Atlético Madrid
+Granada 0 - 0 Sevilla
+Granada 0 - 1 Villarreal
+Granada 0 - 1 Real Sociedad
+Granada 1 - 0 Getafe
+Granada 0 - 2 Valencia
+Granada 1 - 1 Osasuna
+Granada 2 - 1 Athletic Bilbao
+Granada 1 - 2 Levante
+Granada 2 - 1 Valladolid
+Granada 1 - 0 Eibar
+Granada 1 - 1 Real Betis
+Granada 2 - 0 Alavés
+Granada 1 - 0 Celta Vigo
+Granada 1 - 1 Leganés
+Granada 2 - 1 Mallorca
+Granada 0 - 1 Espanyol
+Getafe 1 - 0 Real Madrid
+Getafe 1 - 1 Barcelona
+Getafe 1 - 0 Atlético Madrid
+Getafe 1 - 1 Sevilla
+Getafe 2 - 0 Villarreal
+Getafe 1 - 1 Real Sociedad
+Getafe 0 - 1 Granada
+Getafe 2 - 1 Valencia
+Getafe 0 - 1 Osasuna
+Getafe 0 - 0 Athletic Bilbao
+Getafe 1 - 1 Levante
+Getafe 1 - 1 Valladolid
+Getafe 0 - 1 Eibar
+Getafe 0 - 2 Real Betis
+Getafe 0 - 1 Alavés
+Getafe 1 - 1 Celta Vigo
+Getafe 1 - 1 Leganés
+Getafe 0 - 1 Mallorca
+Getafe 2 - 0 Espanyol
+Valencia 0 - 2 Real Madrid
+Valencia 1 - 2 Barcelona
+Valencia 0 - 0 Atlético Madrid
+Valencia 2 - 0 Sevilla
+Valencia 0 - 2 Villarreal
+Valencia 0 - 2 Real Sociedad
+Valencia 2 - 2 Granada
+Valencia 0 - 0 Getafe
+Valencia 0 - 0 Osasuna
+Valencia 0 - 2 Athletic Bilbao
+Valencia 0 - 1 Levante
+Valencia 0 - 0 Valladolid
+Valencia 1 - 0 Eibar
+Valencia 2 - 0 Real Betis
+Valencia 2 - 0 Alavés
+Valencia 1 - 0 Celta Vigo
+Valencia 1 - 2 Leganés
+Valencia 1 - 1 Mallorca
+Valencia 0 - 1 Espanyol
+Osasuna 0 - 2 Real Madrid
+Osasuna 1 - 0 Barcelona
+Osasuna 1 - 0 Atlético Madrid
+Osasuna 1 - 0 Sevilla
+Osasuna 1 - 1 Villarreal
+Osasuna 0 - 1 Real Sociedad
+Osasuna 1 - 0 Granada
+Osasuna 0 - 0 Getafe
+Osasuna 2 - 1 Valencia
+Osasuna 1 - 2 Athletic Bilbao
+Osasuna 2 - 2 Levante
+Osasuna 0 - 1 Valladolid
+Osasuna 1 - 0 Eibar
+Osasuna 0 - 0 Real Betis
+Osasuna 0 - 2 Alavés
+Osasuna 1 - 1 Celta Vigo
+Osasuna 2 - 0 Leganés
+Osasuna 2 - 1 Mallorca
+Osasuna 0 - 0 Espanyol
+Athletic Bilbao 0 - 2 Real Madrid
+Athletic Bilbao 0 - 2 Barcelona
+Athletic Bilbao 1 - 0 Atlético Madrid
+Athletic Bilbao 1 - 0 Sevilla
+Athletic Bilbao 1 - 1 Villarreal
+Athletic Bilbao 1 - 1 Real Sociedad
+Athletic Bilbao 0 - 2 Granada
+Athletic Bilbao 1 - 0 Getafe
+Athletic Bilbao 1 - 0 Valencia
+Athletic Bilbao 0 - 1 Osasuna
+Athletic Bilbao 1 - 1 Levante
+Athletic Bilbao 1 - 0 Valladolid
+Athletic Bilbao 2 - 1 Eibar
+Athletic Bilbao 0 - 0 Real Betis
+Athletic Bilbao 1 - 0 Alavés
+Athletic Bilbao 0 - 1 Celta Vigo
+Athletic Bilbao 2 - 1 Leganés
+Athletic Bilbao 1 - 0 Mallorca
+Athletic Bilbao 1 - 0 Espanyol
+Levante 0 - 0 Real Madrid
+Levante 2 - 0 Barcelona
+Levante 1 - 1 Atlético Madrid
+Levante 1 - 1 Sevilla
+Levante 2 - 1 Villarreal
+Levante 0 - 1 Real Sociedad
+Levante 1 - 0 Granada
+Levante 0 - 1 Getafe
+Levante 1 - 1 Valencia
+Levante 0 - 0 Osasuna
+Levante 1 - 2 Athletic Bilbao
+Levante 2 - 1 Valladolid
+Levante 1 - 0 Eibar
+Levante 0 - 2 Real Betis
+Levante 2 - 1 Alavés
+Levante 0 - 1 Celta Vigo
+Levante 2 - 0 Leganés
+Levante 2 - 0 Mallorca
+Levante 2 - 0 Espanyol
+Valladolid 1 - 0 Real Madrid
+Valladolid 0 - 1 Barcelona
+Valladolid 1 - 1 Atlético Madrid
+Valladolid 0 - 2 Sevilla
+Valladolid 1 - 2 Villarreal
+Valladolid 1 - 0 Real Sociedad
+Valladolid 1 - 0 Granada
+Valladolid 1 - 0 Getafe
+Valladolid 1 - 1 Valencia
+Valladolid 0 - 1 Osasuna
+Valladolid 1 - 1 Athletic Bilbao
+Valladolid 0 - 2 Levante
+Valladolid 1 - 0 Eibar
+Valladolid 0 - 1 Real Betis
+Valladolid 1 - 0 Alavés
+Valladolid 0 - 0 Celta Vigo
+Valladolid 1 - 0 Leganés
+Valladolid 1 - 1 Mallorca
+Valladolid 1 - 0 Espanyol
+Eibar 1 - 0 Real Madrid
+Eibar 0 - 2 Barcelona
+Eibar 1 - 0 Atlético Madrid
+Eibar 0 - 1 Sevilla
+Eibar 1 - 0 Villarreal
+Eibar 1 - 2 Real Sociedad
+Eibar 1 - 1 Granada
+Eibar 1 - 0 Getafe
+Eibar 1 - 0 Valencia
+Eibar 1 - 1 Osasuna
+Eibar 1 - 1 Athletic Bilbao
+Eibar 0 - 1 Levante
+Eibar 0 - 0 Valladolid
+Eibar 1 - 0 Real Betis
+Eibar 1 - 1 Alavés
+Eibar 0 - 0 Celta Vigo
+Eibar 1 - 0 Leganés
+Eibar 1 - 0 Mallorca
+Eibar 0 - 0 Espanyol
+Real Betis 1 - 0 Real Madrid
+Real Betis 1 - 0 Barcelona
+Real Betis 1 - 2 Atlético Madrid
+Real Betis 0 - 0 Sevilla
+Real Betis 1 - 3 Villarreal
+Real Betis 1 - 0 Real Sociedad
+Real Betis 1 - 1 Granada
+Real Betis 0 - 0 Getafe
+Real Betis 1 - 0 Valencia
+Real Betis 2 - 2 Osasuna
+Real Betis 1 - 0 Athletic Bilbao
+Real Betis 2 - 2 Levante
+Real Betis 1 - 2 Valladolid
+Real Betis 0 - 1 Eibar
+Real Betis 0 - 0 Alavés
+Real Betis 1 - 1 Celta Vigo
+Real Betis 0 - 1 Leganés
+Real Betis 0 - 1 Mallorca
+Real Betis 2 - 1 Espanyol
+Alavés 0 - 1 Real Madrid
+Alavés 0 - 0 Barcelona
+Alavés 1 - 1 Atlético Madrid
+Alavés 1 - 1 Sevilla
+Alavés 0 - 2 Villarreal
+Alavés 1 - 1 Real Sociedad
+Alavés 1 - 1 Granada
+Alavés 0 - 0 Getafe
+Alavés 1 - 1 Valencia
+Alavés 0 - 2 Osasuna
+Alavés 0 - 2 Athletic Bilbao
+Alavés 2 - 1 Levante
+Alavés 1 - 0 Valladolid
+Alavés 0 - 0 Eibar
+Alavés 0 - 0 Real Betis
+Alavés 0 - 1 Celta Vigo
+Alavés 0 - 0 Leganés
+Alavés 0 - 1 Mallorca
+Alavés 1 - 0 Espanyol
+Celta Vigo 1 - 0 Real Madrid
+Celta Vigo 0 - 1 Barcelona
+Celta Vigo 1 - 0 Atlético Madrid
+Celta Vigo 1 - 1 Sevilla
+Celta Vigo 1 - 0 Villarreal
+Celta Vigo 0 - 2 Real Sociedad
+Celta Vigo 0 - 1 Granada
+Celta Vigo 0 - 2 Getafe
+Celta Vigo 0 - 0 Valencia
+Celta Vigo 1 - 2 Osasuna
+Celta Vigo 0 - 1 Athletic Bilbao
+Celta Vigo 0 - 1 Levante
+Celta Vigo 0 - 0 Valladolid
+Celta Vigo 1 - 1 Eibar
+Celta Vigo 0 - 1 Real Betis
+Celta Vigo 1 - 1 Alavés
+Celta Vigo 1 - 0 Leganés
+Celta Vigo 2 - 0 Mallorca
+Celta Vigo 2 - 0 Espanyol
+Leganés 0 - 2 Real Madrid
+Leganés 1 - 0 Barcelona
+Leganés 0 - 0 Atlético Madrid
+Leganés 1 - 0 Sevilla
+Leganés 2 - 1 Villarreal
+Leganés 1 - 0 Real Sociedad
+Leganés 0 - 2 Granada
+Leganés 1 - 1 Getafe
+Leganés 0 - 0 Valencia
+Leganés 1 - 0 Osasuna
+Leganés 0 - 1 Athletic Bilbao
+Leganés 1 - 0 Levante
+Leganés 1 - 0 Valladolid
+Leganés 1 - 1 Eibar
+Leganés 0 - 1 Real Betis
+Leganés 1 - 0 Alavés
+Leganés 0 - 0 Celta Vigo
+Leganés 0 - 2 Mallorca
+Leganés 2 - 2 Espanyol
+Mallorca 1 - 0 Real Madrid
+Mallorca 0 - 0 Barcelona
+Mallorca 0 - 0 Atlético Madrid
+Mallorca 1 - 2 Sevilla
+Mallorca 1 - 1 Villarreal
+Mallorca 2 - 0 Real Sociedad
+Mallorca 0 - 1 Granada
+Mallorca 0 - 1 Getafe
+Mallorca 1 - 0 Valencia
+Mallorca 2 - 2 Osasuna
+Mallorca 1 - 1 Athletic Bilbao
+Mallorca 1 - 0 Levante
+Mallorca 0 - 0 Valladolid
+Mallorca 1 - 1 Eibar
+Mallorca 0 - 0 Real Betis
+Mallorca 2 - 0 Alavés
+Mallorca 1 - 0 Celta Vigo
+Mallorca 0 - 1 Leganés
+Mallorca 0 - 0 Espanyol
+Espanyol 0 - 2 Real Madrid
+Espanyol 0 - 2 Barcelona
+Espanyol 0 - 0 Atlético Madrid
+Espanyol 0 - 0 Sevilla
+Espanyol 1 - 0 Villarreal
+Espanyol 0 - 1 Real Sociedad
+Espanyol 0 - 2 Granada
+Espanyol 1 - 0 Getafe
+Espanyol 0 - 1 Valencia
+Espanyol 1 - 2 Osasuna
+Espanyol 0 - 2 Athletic Bilbao
+Espanyol 0 - 0 Levante
+Espanyol 1 - 0 Valladolid
+Espanyol 1 - 2 Eibar
+Espanyol 0 - 2 Real Betis
+Espanyol 0 - 1 Alavés
+Espanyol 0 - 1 Celta Vigo
+Espanyol 1 - 0 Leganés
+Espanyol 0 - 0 Mallorca
+
+#---------------------------------
+#	 Season 123933
+#---------------------------------
+Real Madrid 2 - 1 Barcelona
+Real Madrid 0 - 0 Atlético Madrid
+Real Madrid 1 - 1 Sevilla
+Real Madrid 3 - 1 Villarreal
+Real Madrid 0 - 0 Real Sociedad
+Real Madrid 1 - 1 Granada
+Real Madrid 0 - 0 Getafe
+Real Madrid 0 - 0 Valencia
+Real Madrid 2 - 1 Osasuna
+Real Madrid 2 - 1 Athletic Bilbao
+Real Madrid 1 - 1 Levante
+Real Madrid 1 - 0 Valladolid
+Real Madrid 2 - 1 Eibar
+Real Madrid 2 - 1 Real Betis
+Real Madrid 1 - 0 Alavés
+Real Madrid 0 - 1 Celta Vigo
+Real Madrid 1 - 0 Leganés
+Real Madrid 0 - 1 Mallorca
+Real Madrid 0 - 0 Espanyol
+Barcelona 1 - 2 Real Madrid
+Barcelona 1 - 0 Atlético Madrid
+Barcelona 1 - 1 Sevilla
+Barcelona 2 - 1 Villarreal
+Barcelona 2 - 2 Real Sociedad
+Barcelona 0 - 0 Granada
+Barcelona 0 - 0 Getafe
+Barcelona 0 - 1 Valencia
+Barcelona 3 - 1 Osasuna
+Barcelona 2 - 1 Athletic Bilbao
+Barcelona 1 - 1 Levante
+Barcelona 3 - 0 Valladolid
+Barcelona 0 - 1 Eibar
+Barcelona 3 - 1 Real Betis
+Barcelona 0 - 1 Alavés
+Barcelona 0 - 1 Celta Vigo
+Barcelona 0 - 1 Leganés
+Barcelona 0 - 1 Mallorca
+Barcelona 1 - 0 Espanyol
+Atlético Madrid 0 - 2 Real Madrid
+Atlético Madrid 1 - 0 Barcelona
+Atlético Madrid 0 - 0 Sevilla
+Atlético Madrid 0 - 0 Villarreal
+Atlético Madrid 1 - 1 Real Sociedad
+Atlético Madrid 1 - 1 Granada
+Atlético Madrid 1 - 0 Getafe
+Atlético Madrid 2 - 0 Valencia
+Atlético Madrid 0 - 0 Osasuna
+Atlético Madrid 0 - 0 Athletic Bilbao
+Atlético Madrid 0 - 1 Levante
+Atlético Madrid 1 - 1 Valladolid
+Atlético Madrid 0 - 1 Eibar
+Atlético Madrid 1 - 1 Real Betis
+Atlético Madrid 0 - 0 Alavés
+Atlético Madrid 2 - 0 Celta Vigo
+Atlético Madrid 1 - 1 Leganés
+Atlético Madrid 1 - 1 Mallorca
+Atlético Madrid 0 - 0 Espanyol
+Sevilla 0 - 2 Real Madrid
+Sevilla 0 - 3 Barcelona
+Sevilla 0 - 0 Atlético Madrid
+Sevilla 0 - 1 Villarreal
+Sevilla 1 - 0 Real Sociedad
+Sevilla 1 - 1 Granada
+Sevilla 1 - 0 Getafe
+Sevilla 2 - 0 Valencia
+Sevilla 0 - 1 Osasuna
+Sevilla 0 - 1 Athletic Bilbao
+Sevilla 0 - 0 Levante
+Sevilla 1 - 0 Valladolid
+Sevilla 2 - 0 Eibar
+Sevilla 2 - 0 Real Betis
+Sevilla 0 - 1 Alavés
+Sevilla 2 - 1 Celta Vigo
+Sevilla 2 - 0 Leganés
+Sevilla 2 - 0 Mallorca
+Sevilla 2 - 0 Espanyol
+Villarreal 1 - 2 Real Madrid
+Villarreal 2 - 2 Barcelona
+Villarreal 0 - 1 Atlético Madrid
+Villarreal 0 - 1 Sevilla
+Villarreal 1 - 2 Real Sociedad
+Villarreal 1 - 0 Granada
+Villarreal 1 - 1 Getafe
+Villarreal 2 - 1 Valencia
+Villarreal 0 - 0 Osasuna
+Villarreal 1 - 1 Athletic Bilbao
+Villarreal 0 - 2 Levante
+Villarreal 0 - 1 Valladolid
+Villarreal 0 - 1 Eibar
+Villarreal 0 - 1 Real Betis
+Villarreal 2 - 1 Alavés
+Villarreal 1 - 1 Celta Vigo
+Villarreal 0 - 0 Leganés
+Villarreal 0 - 1 Mallorca
+Villarreal 2 - 0 Espanyol
+Real Sociedad 2 - 0 Real Madrid
+Real Sociedad 1 - 1 Barcelona
+Real Sociedad 1 - 0 Atlético Madrid
+Real Sociedad 1 - 2 Sevilla
+Real Sociedad 0 - 0 Villarreal
+Real Sociedad 0 - 0 Granada
+Real Sociedad 2 - 1 Getafe
+Real Sociedad 2 - 1 Valencia
+Real Sociedad 2 - 1 Osasuna
+Real Sociedad 1 - 2 Athletic Bilbao
+Real Sociedad 1 - 1 Levante
+Real Sociedad 0 - 0 Valladolid
+Real Sociedad 1 - 2 Eibar
+Real Sociedad 0 - 2 Real Betis
+Real Sociedad 0 - 1 Alavés
+Real Sociedad 1 - 0 Celta Vigo
+Real Sociedad 2 - 1 Leganés
+Real Sociedad 0 - 0 Mallorca
+Real Sociedad 0 - 1 Espanyol
+Granada 0 - 3 Real Madrid
+Granada 2 - 0 Barcelona
+Granada 0 - 0 Atlético Madrid
+Granada 1 - 1 Sevilla
+Granada 1 - 2 Villarreal
+Granada 2 - 2 Real Sociedad
+Granada 0 - 1 Getafe
+Granada 2 - 1 Valencia
+Granada 2 - 0 Osasuna
+Granada 1 - 0 Athletic Bilbao
+Granada 1 - 1 Levante
+Granada 2 - 0 Valladolid
+Granada 2 - 1 Eibar
+Granada 1 - 1 Real Betis
+Granada 0 - 0 Alavés
+Granada 1 - 0 Celta Vigo
+Granada 1 - 0 Leganés
+Granada 1 - 1 Mallorca
+Granada 2 - 0 Espanyol
+Getafe 0 - 0 Real Madrid
+Getafe 1 - 3 Barcelona
+Getafe 0 - 0 Atlético Madrid
+Getafe 1 - 0 Sevilla
+Getafe 1 - 0 Villarreal
+Getafe 0 - 0 Real Sociedad
+Getafe 0 - 1 Granada
+Getafe 1 - 1 Valencia
+Getafe 0 - 0 Osasuna
+Getafe 0 - 1 Athletic Bilbao
+Getafe 0 - 1 Levante
+Getafe 1 - 1 Valladolid
+Getafe 0 - 1 Eibar
+Getafe 0 - 1 Real Betis
+Getafe 1 - 1 Alavés
+Getafe 2 - 0 Celta Vigo
+Getafe 2 - 0 Leganés
+Getafe 2 - 1 Mallorca
+Getafe 1 - 1 Espanyol
+Valencia 0 - 1 Real Madrid
+Valencia 0 - 2 Barcelona
+Valencia 0 - 1 Atlético Madrid
+Valencia 0 - 0 Sevilla
+Valencia 2 - 2 Villarreal
+Valencia 1 - 1 Real Sociedad
+Valencia 2 - 0 Granada
+Valencia 0 - 0 Getafe
+Valencia 2 - 1 Osasuna
+Valencia 1 - 1 Athletic Bilbao
+Valencia 1 - 2 Levante
+Valencia 0 - 0 Valladolid
+Valencia 2 - 1 Eibar
+Valencia 0 - 2 Real Betis
+Valencia 0 - 1 Alavés
+Valencia 2 - 0 Celta Vigo
+Valencia 0 - 0 Leganés
+Valencia 2 - 1 Mallorca
+Valencia 2 - 1 Espanyol
+Osasuna 0 - 0 Real Madrid
+Osasuna 0 - 0 Barcelona
+Osasuna 1 - 1 Atlético Madrid
+Osasuna 1 - 2 Sevilla
+Osasuna 0 - 2 Villarreal
+Osasuna 0 - 2 Real Sociedad
+Osasuna 1 - 0 Granada
+Osasuna 2 - 2 Getafe
+Osasuna 0 - 1 Valencia
+Osasuna 1 - 2 Athletic Bilbao
+Osasuna 1 - 1 Levante
+Osasuna 0 - 1 Valladolid
+Osasuna 2 - 1 Eibar
+Osasuna 2 - 2 Real Betis
+Osasuna 1 - 1 Alavés
+Osasuna 0 - 2 Celta Vigo
+Osasuna 0 - 0 Leganés
+Osasuna 1 - 1 Mallorca
+Osasuna 0 - 0 Espanyol
+Athletic Bilbao 0 - 1 Real Madrid
+Athletic Bilbao 1 - 0 Barcelona
+Athletic Bilbao 0 - 0 Atlético Madrid
+Athletic Bilbao 1 - 0 Sevilla
+Athletic Bilbao 2 - 1 Villarreal
+Athletic Bilbao 0 - 0 Real Sociedad
+Athletic Bilbao 0 - 0 Granada
+Athletic Bilbao 0 - 1 Getafe
+Athletic Bilbao 0 - 1 Valencia
+Athletic Bilbao 2 - 1 Osasuna
+Athletic Bilbao 0 - 0 Levante
+Athletic Bilbao 1 - 0 Valladolid
+Athletic Bilbao 0 - 1 Eibar
+Athletic Bilbao 1 - 0 Real Betis
+Athletic Bilbao 1 - 1 Alavés
+Athletic Bilbao 1 - 1 Celta Vigo
+Athletic Bilbao 1 - 1 Leganés
+Athletic Bilbao 0 - 1 Mallorca
+Athletic Bilbao 1 - 0 Espanyol
+Levante 0 - 2 Real Madrid
+Levante 1 - 2 Barcelona
+Levante 1 - 0 Atlético Madrid
+Levante 1 - 1 Sevilla
+Levante 0 - 2 Villarreal
+Levante 2 - 1 Real Sociedad
+Levante 2 - 2 Granada
+Levante 1 - 1 Getafe
+Levante 0 - 0 Valencia
+Levante 0 - 1 Osasuna
+Levante 2 - 2 Athletic Bilbao
+Levante 2 - 1 Valladolid
+Levante 2 - 0 Eibar
+Levante 2 - 1 Real Betis
+Levante 1 - 1 Alavés
+Levante 0 - 0 Celta Vigo
+Levante 1 - 1 Leganés
+Levante 1 - 0 Mallorca
+Levante 0 - 1 Espanyol
+Valladolid 0 - 0 Real Madrid
+Valladolid 0 - 2 Barcelona
+Valladolid 0 - 1 Atlético Madrid
+Valladolid 0 - 0 Sevilla
+Valladolid 1 - 2 Villarreal
+Valladolid 0 - 0 Real Sociedad
+Valladolid 1 - 0 Granada
+Valladolid 1 - 2 Getafe
+Valladolid 1 - 0 Valencia
+Valladolid 2 - 2 Osasuna
+Valladolid 1 - 0 Athletic Bilbao
+Valladolid 0 - 0 Levante
+Valladolid 0 - 1 Eibar
+Valladolid 2 - 1 Real Betis
+Valladolid 2 - 0 Alavés
+Valladolid 1 - 0 Celta Vigo
+Valladolid 0 - 1 Leganés
+Valladolid 1 - 2 Mallorca
+Valladolid 0 - 0 Espanyol
+Eibar 1 - 1 Real Madrid
+Eibar 1 - 1 Barcelona
+Eibar 1 - 0 Atlético Madrid
+Eibar 1 - 0 Sevilla
+Eibar 0 - 0 Villarreal
+Eibar 1 - 1 Real Sociedad
+Eibar 2 - 0 Granada
+Eibar 0 - 0 Getafe
+Eibar 1 - 0 Valencia
+Eibar 2 - 0 Osasuna
+Eibar 0 - 1 Athletic Bilbao
+Eibar 1 - 1 Levante
+Eibar 0 - 0 Valladolid
+Eibar 0 - 1 Real Betis
+Eibar 2 - 2 Alavés
+Eibar 0 - 1 Celta Vigo
+Eibar 1 - 0 Leganés
+Eibar 1 - 1 Mallorca
+Eibar 0 - 0 Espanyol
+Real Betis 0 - 0 Real Madrid
+Real Betis 1 - 0 Barcelona
+Real Betis 1 - 2 Atlético Madrid
+Real Betis 1 - 0 Sevilla
+Real Betis 1 - 1 Villarreal
+Real Betis 0 - 2 Real Sociedad
+Real Betis 1 - 0 Granada
+Real Betis 0 - 2 Getafe
+Real Betis 2 - 2 Valencia
+Real Betis 2 - 2 Osasuna
+Real Betis 0 - 1 Athletic Bilbao
+Real Betis 2 - 2 Levante
+Real Betis 0 - 0 Valladolid
+Real Betis 1 - 0 Eibar
+Real Betis 2 - 2 Alavés
+Real Betis 1 - 1 Celta Vigo
+Real Betis 2 - 1 Leganés
+Real Betis 2 - 2 Mallorca
+Real Betis 1 - 0 Espanyol
+Alavés 0 - 2 Real Madrid
+Alavés 1 - 0 Barcelona
+Alavés 1 - 2 Atlético Madrid
+Alavés 0 - 0 Sevilla
+Alavés 0 - 0 Villarreal
+Alavés 1 - 2 Real Sociedad
+Alavés 0 - 2 Granada
+Alavés 1 - 1 Getafe
+Alavés 0 - 2 Valencia
+Alavés 0 - 1 Osasuna
+Alavés 1 - 1 Athletic Bilbao
+Alavés 0 - 2 Levante
+Alavés 0 - 1 Valladolid
+Alavés 2 - 1 Eibar
+Alavés 2 - 0 Real Betis
+Alavés 0 - 0 Celta Vigo
+Alavés 0 - 1 Leganés
+Alavés 1 - 2 Mallorca
+Alavés 0 - 0 Espanyol
+Celta Vigo 1 - 2 Real Madrid
+Celta Vigo 1 - 0 Barcelona
+Celta Vigo 0 - 1 Atlético Madrid
+Celta Vigo 1 - 0 Sevilla
+Celta Vigo 1 - 2 Villarreal
+Celta Vigo 2 - 1 Real Sociedad
+Celta Vigo 0 - 2 Granada
+Celta Vigo 0 - 0 Getafe
+Celta Vigo 1 - 2 Valencia
+Celta Vigo 2 - 0 Osasuna
+Celta Vigo 1 - 0 Athletic Bilbao
+Celta Vigo 2 - 1 Levante
+Celta Vigo 0 - 1 Valladolid
+Celta Vigo 1 - 0 Eibar
+Celta Vigo 1 - 1 Real Betis
+Celta Vigo 0 - 1 Alavés
+Celta Vigo 0 - 0 Leganés
+Celta Vigo 2 - 1 Mallorca
+Celta Vigo 2 - 1 Espanyol
+Leganés 0 - 1 Real Madrid
+Leganés 0 - 1 Barcelona
+Leganés 0 - 0 Atlético Madrid
+Leganés 1 - 1 Sevilla
+Leganés 1 - 1 Villarreal
+Leganés 1 - 0 Real Sociedad
+Leganés 0 - 2 Granada
+Leganés 0 - 0 Getafe
+Leganés 0 - 2 Valencia
+Leganés 2 - 0 Osasuna
+Leganés 0 - 0 Athletic Bilbao
+Leganés 1 - 0 Levante
+Leganés 1 - 2 Valladolid
+Leganés 1 - 0 Eibar
+Leganés 0 - 1 Real Betis
+Leganés 2 - 0 Alavés
+Leganés 0 - 1 Celta Vigo
+Leganés 1 - 0 Mallorca
+Leganés 1 - 0 Espanyol
+Mallorca 0 - 2 Real Madrid
+Mallorca 1 - 2 Barcelona
+Mallorca 0 - 0 Atlético Madrid
+Mallorca 1 - 0 Sevilla
+Mallorca 1 - 1 Villarreal
+Mallorca 1 - 0 Real Sociedad
+Mallorca 1 - 0 Granada
+Mallorca 1 - 2 Getafe
+Mallorca 1 - 0 Valencia
+Mallorca 1 - 2 Osasuna
+Mallorca 1 - 0 Athletic Bilbao
+Mallorca 1 - 1 Levante
+Mallorca 0 - 0 Valladolid
+Mallorca 1 - 2 Eibar
+Mallorca 0 - 0 Real Betis
+Mallorca 0 - 1 Alavés
+Mallorca 0 - 0 Celta Vigo
+Mallorca 2 - 0 Leganés
+Mallorca 0 - 0 Espanyol
+Espanyol 1 - 2 Real Madrid
+Espanyol 1 - 1 Barcelona
+Espanyol 0 - 0 Atlético Madrid
+Espanyol 0 - 2 Sevilla
+Espanyol 1 - 2 Villarreal
+Espanyol 1 - 0 Real Sociedad
+Espanyol 0 - 0 Granada
+Espanyol 1 - 2 Getafe
+Espanyol 1 - 2 Valencia
+Espanyol 2 - 0 Osasuna
+Espanyol 0 - 2 Athletic Bilbao
+Espanyol 1 - 2 Levante
+Espanyol 0 - 1 Valladolid
+Espanyol 0 - 2 Eibar
+Espanyol 0 - 1 Real Betis
+Espanyol 0 - 0 Alavés
+Espanyol 1 - 0 Celta Vigo
+Espanyol 0 - 1 Leganés
+Espanyol 0 - 0 Mallorca
+
+#---------------------------------
+#	 Season 145115
+#---------------------------------
+Real Madrid 1 - 0 Barcelona
+Real Madrid 2 - 0 Atlético Madrid
+Real Madrid 2 - 1 Sevilla
+Real Madrid 1 - 0 Villarreal
+Real Madrid 1 - 1 Real Sociedad
+Real Madrid 2 - 0 Granada
+Real Madrid 1 - 0 Getafe
+Real Madrid 2 - 0 Valencia
+Real Madrid 2 - 1 Osasuna
+Real Madrid 1 - 0 Athletic Bilbao
+Real Madrid 2 - 1 Levante
+Real Madrid 0 - 1 Valladolid
+Real Madrid 1 - 0 Eibar
+Real Madrid 2 - 0 Real Betis
+Real Madrid 2 - 0 Alavés
+Real Madrid 2 - 0 Celta Vigo
+Real Madrid 1 - 1 Leganés
+Real Madrid 3 - 0 Mallorca
+Real Madrid 1 - 0 Espanyol
+Barcelona 1 - 0 Real Madrid
+Barcelona 2 - 0 Atlético Madrid
+Barcelona 2 - 1 Sevilla
+Barcelona 3 - 2 Villarreal
+Barcelona 3 - 1 Real Sociedad
+Barcelona 2 - 1 Granada
+Barcelona 1 - 1 Getafe
+Barcelona 1 - 0 Valencia
+Barcelona 1 - 0 Osasuna
+Barcelona 0 - 0 Athletic Bilbao
+Barcelona 1 - 0 Levante
+Barcelona 3 - 0 Valladolid
+Barcelona 2 - 0 Eibar
+Barcelona 0 - 0 Real Betis
+Barcelona 2 - 1 Alavés
+Barcelona 1 - 0 Celta Vigo
+Barcelona 3 - 0 Leganés
+Barcelona 1 - 0 Mallorca
+Barcelona 2 - 1 Espanyol
+Atlético Madrid 1 - 1 Real Madrid
+Atlético Madrid 1 - 2 Barcelona
+Atlético Madrid 1 - 2 Sevilla
+Atlético Madrid 1 - 0 Villarreal
+Atlético Madrid 2 - 2 Real Sociedad
+Atlético Madrid 0 - 0 Granada
+Atlético Madrid 1 - 1 Getafe
+Atlético Madrid 0 - 0 Valencia
+Atlético Madrid 0 - 0 Osasuna
+Atlético Madrid 0 - 1 Athletic Bilbao
+Atlético Madrid 1 - 0 Levante
+Atlético Madrid 1 - 0 Valladolid
+Atlético Madrid 0 - 0 Eibar
+Atlético Madrid 1 - 0 Real Betis
+Atlético Madrid 2 - 0 Alavés
+Atlético Madrid 0 - 0 Celta Vigo
+Atlético Madrid 2 - 1 Leganés
+Atlético Madrid 0 - 1 Mallorca
+Atlético Madrid 1 - 0 Espanyol
+Sevilla 1 - 2 Real Madrid
+Sevilla 1 - 1 Barcelona
+Sevilla 1 - 0 Atlético Madrid
+Sevilla 0 - 1 Villarreal
+Sevilla 0 - 1 Real Sociedad
+Sevilla 0 - 1 Granada
+Sevilla 1 - 0 Getafe
+Sevilla 2 - 1 Valencia
+Sevilla 0 - 0 Osasuna
+Sevilla 2 - 0 Athletic Bilbao
+Sevilla 1 - 1 Levante
+Sevilla 1 - 0 Valladolid
+Sevilla 1 - 0 Eibar
+Sevilla 2 - 0 Real Betis
+Sevilla 1 - 1 Alavés
+Sevilla 1 - 1 Celta Vigo
+Sevilla 2 - 0 Leganés
+Sevilla 1 - 0 Mallorca
+Sevilla 0 - 0 Espanyol
+Villarreal 2 - 1 Real Madrid
+Villarreal 1 - 2 Barcelona
+Villarreal 2 - 2 Atlético Madrid
+Villarreal 0 - 0 Sevilla
+Villarreal 1 - 2 Real Sociedad
+Villarreal 0 - 2 Granada
+Villarreal 1 - 2 Getafe
+Villarreal 1 - 1 Valencia
+Villarreal 0 - 0 Osasuna
+Villarreal 0 - 0 Athletic Bilbao
+Villarreal 2 - 0 Levante
+Villarreal 0 - 0 Valladolid
+Villarreal 0 - 0 Eibar
+Villarreal 2 - 0 Real Betis
+Villarreal 2 - 0 Alavés
+Villarreal 2 - 1 Celta Vigo
+Villarreal 1 - 1 Leganés
+Villarreal 1 - 1 Mallorca
+Villarreal 2 - 1 Espanyol
+Real Sociedad 1 - 2 Real Madrid
+Real Sociedad 0 - 1 Barcelona
+Real Sociedad 1 - 2 Atlético Madrid
+Real Sociedad 2 - 0 Sevilla
+Real Sociedad 0 - 1 Villarreal
+Real Sociedad 0 - 0 Granada
+Real Sociedad 1 - 0 Getafe
+Real Sociedad 2 - 0 Valencia
+Real Sociedad 1 - 1 Osasuna
+Real Sociedad 0 - 0 Athletic Bilbao
+Real Sociedad 2 - 1 Levante
+Real Sociedad 0 - 1 Valladolid
+Real Sociedad 0 - 1 Eibar
+Real Sociedad 2 - 1 Real Betis
+Real Sociedad 1 - 1 Alavés
+Real Sociedad 1 - 0 Celta Vigo
+Real Sociedad 2 - 0 Leganés
+Real Sociedad 2 - 1 Mallorca
+Real Sociedad 2 - 0 Espanyol
+Granada 0 - 1 Real Madrid
+Granada 0 - 2 Barcelona
+Granada 0 - 0 Atlético Madrid
+Granada 0 - 1 Sevilla
+Granada 1 - 2 Villarreal
+Granada 1 - 0 Real Sociedad
+Granada 1 - 1 Getafe
+Granada 1 - 0 Valencia
+Granada 0 - 2 Osasuna
+Granada 1 - 0 Athletic Bilbao
+Granada 0 - 0 Levante
+Granada 2 - 0 Valladolid
+Granada 2 - 1 Eibar
+Granada 0 - 2 Real Betis
+Granada 1 - 0 Alavés
+Granada 1 - 0 Celta Vigo
+Granada 1 - 1 Leganés
+Granada 1 - 1 Mallorca
+Granada 2 - 1 Espanyol
+Getafe 0 - 2 Real Madrid
+Getafe 1 - 2 Barcelona
+Getafe 1 - 0 Atlético Madrid
+Getafe 1 - 0 Sevilla
+Getafe 0 - 2 Villarreal
+Getafe 1 - 1 Real Sociedad
+Getafe 0 - 1 Granada
+Getafe 0 - 1 Valencia
+Getafe 0 - 0 Osasuna
+Getafe 1 - 1 Athletic Bilbao
+Getafe 2 - 1 Levante
+Getafe 0 - 0 Valladolid
+Getafe 2 - 1 Eibar
+Getafe 0 - 0 Real Betis
+Getafe 2 - 1 Alavés
+Getafe 0 - 1 Celta Vigo
+Getafe 0 - 0 Leganés
+Getafe 1 - 1 Mallorca
+Getafe 1 - 0 Espanyol
+Valencia 1 - 2 Real Madrid
+Valencia 1 - 2 Barcelona
+Valencia 0 - 0 Atlético Madrid
+Valencia 0 - 0 Sevilla
+Valencia 2 - 2 Villarreal
+Valencia 0 - 2 Real Sociedad
+Valencia 1 - 0 Granada
+Valencia 0 - 0 Getafe
+Valencia 0 - 1 Osasuna
+Valencia 1 - 1 Athletic Bilbao
+Valencia 0 - 0 Levante
+Valencia 2 - 0 Valladolid
+Valencia 1 - 1 Eibar
+Valencia 2 - 0 Real Betis
+Valencia 0 - 0 Alavés
+Valencia 0 - 0 Celta Vigo
+Valencia 2 - 0 Leganés
+Valencia 1 - 1 Mallorca
+Valencia 0 - 0 Espanyol
+Osasuna 0 - 0 Real Madrid
+Osasuna 0 - 2 Barcelona
+Osasuna 1 - 0 Atlético Madrid
+Osasuna 2 - 2 Sevilla
+Osasuna 0 - 2 Villarreal
+Osasuna 1 - 0 Real Sociedad
+Osasuna 2 - 2 Granada
+Osasuna 0 - 0 Getafe
+Osasuna 0 - 1 Valencia
+Osasuna 2 - 1 Athletic Bilbao
+Osasuna 0 - 1 Levante
+Osasuna 0 - 0 Valladolid
+Osasuna 0 - 1 Eibar
+Osasuna 2 - 0 Real Betis
+Osasuna 2 - 1 Alavés
+Osasuna 1 - 1 Celta Vigo
+Osasuna 0 - 2 Leganés
+Osasuna 0 - 0 Mallorca
+Osasuna 0 - 0 Espanyol
+Athletic Bilbao 0 - 1 Real Madrid
+Athletic Bilbao 0 - 1 Barcelona
+Athletic Bilbao 1 - 1 Atlético Madrid
+Athletic Bilbao 0 - 2 Sevilla
+Athletic Bilbao 0 - 0 Villarreal
+Athletic Bilbao 1 - 1 Real Sociedad
+Athletic Bilbao 1 - 0 Granada
+Athletic Bilbao 1 - 1 Getafe
+Athletic Bilbao 2 - 1 Valencia
+Athletic Bilbao 2 - 2 Osasuna
+Athletic Bilbao 1 - 0 Levante
+Athletic Bilbao 1 - 1 Valladolid
+Athletic Bilbao 0 - 1 Eibar
+Athletic Bilbao 0 - 0 Real Betis
+Athletic Bilbao 0 - 1 Alavés
+Athletic Bilbao 2 - 0 Celta Vigo
+Athletic Bilbao 1 - 1 Leganés
+Athletic Bilbao 2 - 0 Mallorca
+Athletic Bilbao 0 - 1 Espanyol
+Levante 0 - 1 Real Madrid
+Levante 1 - 0 Barcelona
+Levante 0 - 1 Atlético Madrid
+Levante 0 - 0 Sevilla
+Levante 1 - 1 Villarreal
+Levante 1 - 1 Real Sociedad
+Levante 0 - 0 Granada
+Levante 0 - 0 Getafe
+Levante 1 - 0 Valencia
+Levante 0 - 1 Osasuna
+Levante 0 - 0 Athletic Bilbao
+Levante 1 - 0 Valladolid
+Levante 2 - 0 Eibar
+Levante 0 - 1 Real Betis
+Levante 2 - 2 Alavés
+Levante 0 - 0 Celta Vigo
+Levante 1 - 0 Leganés
+Levante 2 - 1 Mallorca
+Levante 0 - 0 Espanyol
+Valladolid 1 - 2 Real Madrid
+Valladolid 0 - 2 Barcelona
+Valladolid 1 - 1 Atlético Madrid
+Valladolid 0 - 1 Sevilla
+Valladolid 2 - 1 Villarreal
+Valladolid 1 - 1 Real Sociedad
+Valladolid 0 - 1 Granada
+Valladolid 0 - 0 Getafe
+Valladolid 1 - 0 Valencia
+Valladolid 2 - 1 Osasuna
+Valladolid 0 - 0 Athletic Bilbao
+Valladolid 0 - 1 Levante
+Valladolid 0 - 1 Eibar
+Valladolid 0 - 0 Real Betis
+Valladolid 0 - 1 Alavés
+Valladolid 0 - 1 Celta Vigo
+Valladolid 0 - 0 Leganés
+Valladolid 1 - 0 Mallorca
+Valladolid 0 - 0 Espanyol
+Eibar 0 - 2 Real Madrid
+Eibar 1 - 1 Barcelona
+Eibar 0 - 1 Atlético Madrid
+Eibar 1 - 1 Sevilla
+Eibar 1 - 1 Villarreal
+Eibar 0 - 0 Real Sociedad
+Eibar 1 - 2 Granada
+Eibar 1 - 1 Getafe
+Eibar 2 - 1 Valencia
+Eibar 1 - 2 Osasuna
+Eibar 1 - 0 Athletic Bilbao
+Eibar 0 - 0 Levante
+Eibar 0 - 0 Valladolid
+Eibar 0 - 0 Real Betis
+Eibar 0 - 2 Alavés
+Eibar 2 - 1 Celta Vigo
+Eibar 0 - 2 Leganés
+Eibar 2 - 0 Mallorca
+Eibar 2 - 0 Espanyol
+Real Betis 1 - 2 Real Madrid
+Real Betis 1 - 2 Barcelona
+Real Betis 0 - 2 Atlético Madrid
+Real Betis 0 - 2 Sevilla
+Real Betis 0 - 1 Villarreal
+Real Betis 0 - 1 Real Sociedad
+Real Betis 0 - 0 Granada
+Real Betis 2 - 1 Getafe
+Real Betis 2 - 0 Valencia
+Real Betis 1 - 1 Osasuna
+Real Betis 2 - 0 Athletic Bilbao
+Real Betis 0 - 2 Levante
+Real Betis 0 - 1 Valladolid
+Real Betis 1 - 1 Eibar
+Real Betis 2 - 1 Alavés
+Real Betis 2 - 1 Celta Vigo
+Real Betis 2 - 1 Leganés
+Real Betis 2 - 1 Mallorca
+Real Betis 0 - 1 Espanyol
+Alavés 0 - 1 Real Madrid
+Alavés 0 - 2 Barcelona
+Alavés 1 - 2 Atlético Madrid
+Alavés 0 - 2 Sevilla
+Alavés 1 - 3 Villarreal
+Alavés 1 - 2 Real Sociedad
+Alavés 0 - 2 Granada
+Alavés 1 - 0 Getafe
+Alavés 0 - 1 Valencia
+Alavés 1 - 0 Osasuna
+Alavés 1 - 1 Athletic Bilbao
+Alavés 0 - 0 Levante
+Alavés 1 - 1 Valladolid
+Alavés 1 - 1 Eibar
+Alavés 1 - 1 Real Betis
+Alavés 0 - 0 Celta Vigo
+Alavés 0 - 0 Leganés
+Alavés 2 - 2 Mallorca
+Alavés 1 - 0 Espanyol
+Celta Vigo 0 - 1 Real Madrid
+Celta Vigo 1 - 0 Barcelona
+Celta Vigo 0 - 1 Atlético Madrid
+Celta Vigo 1 - 0 Sevilla
+Celta Vigo 1 - 0 Villarreal
+Celta Vigo 0 - 1 Real Sociedad
+Celta Vigo 1 - 0 Granada
+Celta Vigo 0 - 0 Getafe
+Celta Vigo 0 - 1 Valencia
+Celta Vigo 0 - 1 Osasuna
+Celta Vigo 1 - 2 Athletic Bilbao
+Celta Vigo 0 - 1 Levante
+Celta Vigo 0 - 0 Valladolid
+Celta Vigo 1 - 1 Eibar
+Celta Vigo 0 - 0 Real Betis
+Celta Vigo 2 - 1 Alavés
+Celta Vigo 1 - 1 Leganés
+Celta Vigo 2 - 0 Mallorca
+Celta Vigo 1 - 1 Espanyol
+Leganés 0 - 2 Real Madrid
+Leganés 0 - 2 Barcelona
+Leganés 0 - 1 Atlético Madrid
+Leganés 0 - 2 Sevilla
+Leganés 1 - 2 Villarreal
+Leganés 0 - 0 Real Sociedad
+Leganés 1 - 1 Granada
+Leganés 1 - 1 Getafe
+Leganés 1 - 1 Valencia
+Leganés 0 - 2 Osasuna
+Leganés 1 - 0 Athletic Bilbao
+Leganés 1 - 1 Levante
+Leganés 1 - 1 Valladolid
+Leganés 0 - 1 Eibar
+Leganés 2 - 2 Real Betis
+Leganés 1 - 2 Alavés
+Leganés 1 - 1 Celta Vigo
+Leganés 0 - 1 Mallorca
+Leganés 0 - 0 Espanyol
+Mallorca 1 - 2 Real Madrid
+Mallorca 0 - 1 Barcelona
+Mallorca 0 - 2 Atlético Madrid
+Mallorca 0 - 3 Sevilla
+Mallorca 0 - 1 Villarreal
+Mallorca 1 - 2 Real Sociedad
+Mallorca 0 - 0 Granada
+Mallorca 1 - 1 Getafe
+Mallorca 1 - 0 Valencia
+Mallorca 2 - 0 Osasuna
+Mallorca 1 - 2 Athletic Bilbao
+Mallorca 0 - 2 Levante
+Mallorca 0 - 2 Valladolid
+Mallorca 0 - 0 Eibar
+Mallorca 1 - 0 Real Betis
+Mallorca 0 - 0 Alavés
+Mallorca 1 - 1 Celta Vigo
+Mallorca 2 - 0 Leganés
+Mallorca 1 - 0 Espanyol
+Espanyol 1 - 2 Real Madrid
+Espanyol 0 - 3 Barcelona
+Espanyol 0 - 2 Atlético Madrid
+Espanyol 1 - 0 Sevilla
+Espanyol 1 - 0 Villarreal
+Espanyol 1 - 0 Real Sociedad
+Espanyol 1 - 2 Granada
+Espanyol 1 - 0 Getafe
+Espanyol 0 - 2 Valencia
+Espanyol 1 - 1 Osasuna
+Espanyol 0 - 0 Athletic Bilbao
+Espanyol 1 - 2 Levante
+Espanyol 0 - 0 Valladolid
+Espanyol 0 - 1 Eibar
+Espanyol 0 - 1 Real Betis
+Espanyol 0 - 1 Alavés
+Espanyol 0 - 1 Celta Vigo
+Espanyol 0 - 2 Leganés
+Espanyol 1 - 1 Mallorca
+
+#---------------------------------
+#	 Season 170593
+#---------------------------------
+Real Madrid 1 - 0 Barcelona
+Real Madrid 2 - 0 Atlético Madrid
+Real Madrid 1 - 0 Sevilla
+Real Madrid 2 - 1 Villarreal
+Real Madrid 3 - 0 Real Sociedad
+Real Madrid 1 - 0 Granada
+Real Madrid 1 - 0 Getafe
+Real Madrid 3 - 0 Valencia
+Real Madrid 0 - 0 Osasuna
+Real Madrid 1 - 0 Athletic Bilbao
+Real Madrid 3 - 0 Levante
+Real Madrid 2 - 0 Valladolid
+Real Madrid 2 - 0 Eibar
+Real Madrid 0 - 1 Real Betis
+Real Madrid 1 - 0 Alavés
+Real Madrid 1 - 0 Celta Vigo
+Real Madrid 0 - 0 Leganés
+Real Madrid 2 - 0 Mallorca
+Real Madrid 2 - 0 Espanyol
+Barcelona 0 - 2 Real Madrid
+Barcelona 1 - 1 Atlético Madrid
+Barcelona 0 - 1 Sevilla
+Barcelona 3 - 0 Villarreal
+Barcelona 0 - 0 Real Sociedad
+Barcelona 2 - 0 Granada
+Barcelona 1 - 0 Getafe
+Barcelona 1 - 0 Valencia
+Barcelona 1 - 2 Osasuna
+Barcelona 1 - 1 Athletic Bilbao
+Barcelona 1 - 0 Levante
+Barcelona 3 - 0 Valladolid
+Barcelona 1 - 1 Eibar
+Barcelona 2 - 0 Real Betis
+Barcelona 0 - 1 Alavés
+Barcelona 2 - 0 Celta Vigo
+Barcelona 1 - 1 Leganés
+Barcelona 1 - 1 Mallorca
+Barcelona 3 - 0 Espanyol
+Atlético Madrid 0 - 1 Real Madrid
+Atlético Madrid 0 - 2 Barcelona
+Atlético Madrid 0 - 0 Sevilla
+Atlético Madrid 2 - 0 Villarreal
+Atlético Madrid 1 - 0 Real Sociedad
+Atlético Madrid 0 - 1 Granada
+Atlético Madrid 0 - 1 Getafe
+Atlético Madrid 0 - 1 Valencia
+Atlético Madrid 0 - 0 Osasuna
+Atlético Madrid 2 - 0 Athletic Bilbao
+Atlético Madrid 1 - 0 Levante
+Atlético Madrid 1 - 1 Valladolid
+Atlético Madrid 2 - 0 Eibar
+Atlético Madrid 0 - 0 Real Betis
+Atlético Madrid 1 - 1 Alavés
+Atlético Madrid 1 - 1 Celta Vigo
+Atlético Madrid 1 - 0 Leganés
+Atlético Madrid 2 - 1 Mallorca
+Atlético Madrid 2 - 0 Espanyol
+Sevilla 1 - 2 Real Madrid
+Sevilla 0 - 2 Barcelona
+Sevilla 0 - 1 Atlético Madrid
+Sevilla 2 - 0 Villarreal
+Sevilla 2 - 2 Real Sociedad
+Sevilla 0 - 1 Granada
+Sevilla 1 - 0 Getafe
+Sevilla 1 - 1 Valencia
+Sevilla 2 - 1 Osasuna
+Sevilla 1 - 0 Athletic Bilbao
+Sevilla 2 - 2 Levante
+Sevilla 2 - 0 Valladolid
+Sevilla 2 - 1 Eibar
+Sevilla 1 - 0 Real Betis
+Sevilla 1 - 1 Alavés
+Sevilla 0 - 0 Celta Vigo
+Sevilla 0 - 0 Leganés
+Sevilla 0 - 0 Mallorca
+Sevilla 2 - 0 Espanyol
+Villarreal 0 - 0 Real Madrid
+Villarreal 0 - 3 Barcelona
+Villarreal 1 - 1 Atlético Madrid
+Villarreal 0 - 2 Sevilla
+Villarreal 1 - 0 Real Sociedad
+Villarreal 0 - 1 Granada
+Villarreal 0 - 1 Getafe
+Villarreal 0 - 1 Valencia
+Villarreal 2 - 1 Osasuna
+Villarreal 2 - 1 Athletic Bilbao
+Villarreal 0 - 1 Levante
+Villarreal 2 - 0 Valladolid
+Villarreal 1 - 2 Eibar
+Villarreal 2 - 0 Real Betis
+Villarreal 1 - 0 Alavés
+Villarreal 0 - 1 Celta Vigo
+Villarreal 2 - 0 Leganés
+Villarreal 2 - 1 Mallorca
+Villarreal 0 - 1 Espanyol
+Real Sociedad 0 - 1 Real Madrid
+Real Sociedad 1 - 2 Barcelona
+Real Sociedad 0 - 0 Atlético Madrid
+Real Sociedad 0 - 2 Sevilla
+Real Sociedad 1 - 0 Villarreal
+Real Sociedad 0 - 0 Granada
+Real Sociedad 1 - 1 Getafe
+Real Sociedad 0 - 0 Valencia
+Real Sociedad 0 - 2 Osasuna
+Real Sociedad 0 - 1 Athletic Bilbao
+Real Sociedad 1 - 1 Levante
+Real Sociedad 1 - 1 Valladolid
+Real Sociedad 1 - 0 Eibar
+Real Sociedad 0 - 1 Real Betis
+Real Sociedad 2 - 1 Alavés
+Real Sociedad 0 - 1 Celta Vigo
+Real Sociedad 1 - 1 Leganés
+Real Sociedad 0 - 1 Mallorca
+Real Sociedad 0 - 0 Espanyol
+Granada 0 - 2 Real Madrid
+Granada 0 - 2 Barcelona
+Granada 0 - 1 Atlético Madrid
+Granada 0 - 0 Sevilla
+Granada 1 - 1 Villarreal
+Granada 0 - 2 Real Sociedad
+Granada 0 - 1 Getafe
+Granada 0 - 0 Valencia
+Granada 1 - 1 Osasuna
+Granada 1 - 1 Athletic Bilbao
+Granada 1 - 0 Levante
+Granada 0 - 1 Valladolid
+Granada 2 - 1 Eibar
+Granada 0 - 0 Real Betis
+Granada 2 - 1 Alavés
+Granada 0 - 1 Celta Vigo
+Granada 1 - 0 Leganés
+Granada 2 - 1 Mallorca
+Granada 1 - 1 Espanyol
+Getafe 0 - 0 Real Madrid
+Getafe 1 - 0 Barcelona
+Getafe 1 - 1 Atlético Madrid
+Getafe 0 - 0 Sevilla
+Getafe 1 - 0 Villarreal
+Getafe 1 - 0 Real Sociedad
+Getafe 0 - 1 Granada
+Getafe 1 - 1 Valencia
+Getafe 2 - 0 Osasuna
+Getafe 0 - 1 Athletic Bilbao
+Getafe 1 - 2 Levante
+Getafe 0 - 1 Valladolid
+Getafe 1 - 1 Eibar
+Getafe 0 - 1 Real Betis
+Getafe 0 - 0 Alavés
+Getafe 0 - 0 Celta Vigo
+Getafe 2 - 1 Leganés
+Getafe 1 - 1 Mallorca
+Getafe 1 - 0 Espanyol
+Valencia 0 - 2 Real Madrid
+Valencia 0 - 3 Barcelona
+Valencia 1 - 2 Atlético Madrid
+Valencia 1 - 1 Sevilla
+Valencia 1 - 2 Villarreal
+Valencia 1 - 0 Real Sociedad
+Valencia 0 - 2 Granada
+Valencia 0 - 2 Getafe
+Valencia 2 - 0 Osasuna
+Valencia 1 - 0 Athletic Bilbao
+Valencia 2 - 0 Levante
+Valencia 0 - 1 Valladolid
+Valencia 2 - 1 Eibar
+Valencia 0 - 0 Real Betis
+Valencia 0 - 0 Alavés
+Valencia 2 - 0 Celta Vigo
+Valencia 2 - 1 Leganés
+Valencia 2 - 1 Mallorca
+Valencia 1 - 1 Espanyol
+Osasuna 0 - 1 Real Madrid
+Osasuna 1 - 2 Barcelona
+Osasuna 1 - 1 Atlético Madrid
+Osasuna 0 - 0 Sevilla
+Osasuna 0 - 0 Villarreal
+Osasuna 0 - 0 Real Sociedad
+Osasuna 0 - 0 Granada
+Osasuna 2 - 1 Getafe
+Osasuna 1 - 0 Valencia
+Osasuna 1 - 1 Athletic Bilbao
+Osasuna 0 - 0 Levante
+Osasuna 1 - 1 Valladolid
+Osasuna 0 - 0 Eibar
+Osasuna 2 - 1 Real Betis
+Osasuna 0 - 0 Alavés
+Osasuna 0 - 1 Celta Vigo
+Osasuna 1 - 0 Leganés
+Osasuna 0 - 0 Mallorca
+Osasuna 0 - 0 Espanyol
+Athletic Bilbao 0 - 2 Real Madrid
+Athletic Bilbao 0 - 2 Barcelona
+Athletic Bilbao 1 - 0 Atlético Madrid
+Athletic Bilbao 1 - 0 Sevilla
+Athletic Bilbao 0 - 1 Villarreal
+Athletic Bilbao 0 - 1 Real Sociedad
+Athletic Bilbao 0 - 1 Granada
+Athletic Bilbao 0 - 1 Getafe
+Athletic Bilbao 2 - 0 Valencia
+Athletic Bilbao 0 - 0 Osasuna
+Athletic Bilbao 1 - 1 Levante
+Athletic Bilbao 1 - 0 Valladolid
+Athletic Bilbao 0 - 1 Eibar
+Athletic Bilbao 0 - 1 Real Betis
+Athletic Bilbao 1 - 0 Alavés
+Athletic Bilbao 0 - 1 Celta Vigo
+Athletic Bilbao 0 - 0 Leganés
+Athletic Bilbao 0 - 1 Mallorca
+Athletic Bilbao 0 - 0 Espanyol
+Levante 0 - 1 Real Madrid
+Levante 1 - 0 Barcelona
+Levante 0 - 0 Atlético Madrid
+Levante 1 - 1 Sevilla
+Levante 0 - 1 Villarreal
+Levante 1 - 2 Real Sociedad
+Levante 0 - 2 Granada
+Levante 0 - 0 Getafe
+Levante 1 - 1 Valencia
+Levante 0 - 0 Osasuna
+Levante 1 - 0 Athletic Bilbao
+Levante 1 - 0 Valladolid
+Levante 2 - 0 Eibar
+Levante 1 - 1 Real Betis
+Levante 0 - 2 Alavés
+Levante 1 - 1 Celta Vigo
+Levante 0 - 1 Leganés
+Levante 2 - 1 Mallorca
+Levante 1 - 0 Espanyol
+Valladolid 0 - 1 Real Madrid
+Valladolid 1 - 1 Barcelona
+Valladolid 0 - 1 Atlético Madrid
+Valladolid 0 - 1 Sevilla
+Valladolid 1 - 0 Villarreal
+Valladolid 1 - 0 Real Sociedad
+Valladolid 1 - 1 Granada
+Valladolid 0 - 0 Getafe
+Valladolid 1 - 0 Valencia
+Valladolid 1 - 1 Osasuna
+Valladolid 0 - 1 Athletic Bilbao
+Valladolid 1 - 0 Levante
+Valladolid 1 - 0 Eibar
+Valladolid 2 - 0 Real Betis
+Valladolid 1 - 1 Alavés
+Valladolid 0 - 0 Celta Vigo
+Valladolid 1 - 0 Leganés
+Valladolid 2 - 2 Mallorca
+Valladolid 0 - 0 Espanyol
+Eibar 0 - 3 Real Madrid
+Eibar 0 - 0 Barcelona
+Eibar 0 - 0 Atlético Madrid
+Eibar 1 - 0 Sevilla
+Eibar 0 - 3 Villarreal
+Eibar 0 - 0 Real Sociedad
+Eibar 0 - 0 Granada
+Eibar 0 - 2 Getafe
+Eibar 2 - 2 Valencia
+Eibar 1 - 2 Osasuna
+Eibar 1 - 1 Athletic Bilbao
+Eibar 1 - 0 Levante
+Eibar 0 - 0 Valladolid
+Eibar 2 - 0 Real Betis
+Eibar 0 - 1 Alavés
+Eibar 1 - 1 Celta Vigo
+Eibar 2 - 0 Leganés
+Eibar 2 - 1 Mallorca
+Eibar 0 - 0 Espanyol
+Real Betis 0 - 2 Real Madrid
+Real Betis 0 - 0 Barcelona
+Real Betis 0 - 0 Atlético Madrid
+Real Betis 0 - 1 Sevilla
+Real Betis 1 - 3 Villarreal
+Real Betis 0 - 2 Real Sociedad
+Real Betis 0 - 2 Granada
+Real Betis 0 - 1 Getafe
+Real Betis 1 - 0 Valencia
+Real Betis 0 - 0 Osasuna
+Real Betis 2 - 0 Athletic Bilbao
+Real Betis 0 - 1 Levante
+Real Betis 2 - 1 Valladolid
+Real Betis 0 - 1 Eibar
+Real Betis 0 - 0 Alavés
+Real Betis 0 - 0 Celta Vigo
+Real Betis 1 - 1 Leganés
+Real Betis 1 - 2 Mallorca
+Real Betis 1 - 1 Espanyol
+Alavés 0 - 2 Real Madrid
+Alavés 0 - 3 Barcelona
+Alavés 1 - 2 Atlético Madrid
+Alavés 0 - 1 Sevilla
+Alavés 0 - 2 Villarreal
+Alavés 0 - 1 Real Sociedad
+Alavés 0 - 2 Granada
+Alavés 1 - 0 Getafe
+Alavés 0 - 0 Valencia
+Alavés 0 - 2 Osasuna
+Alavés 0 - 1 Athletic Bilbao
+Alavés 1 - 1 Levante
+Alavés 0 - 1 Valladolid
+Alavés 1 - 0 Eibar
+Alavés 0 - 1 Real Betis
+Alavés 1 - 1 Celta Vigo
+Alavés 2 - 2 Leganés
+Alavés 1 - 0 Mallorca
+Alavés 0 - 0 Espanyol
+Celta Vigo 0 - 0 Real Madrid
+Celta Vigo 0 - 1 Barcelona
+Celta Vigo 0 - 1 Atlético Madrid
+Celta Vigo 1 - 1 Sevilla
+Celta Vigo 1 - 1 Villarreal
+Celta Vigo 1 - 1 Real Sociedad
+Celta Vigo 0 - 0 Granada
+Celta Vigo 1 - 1 Getafe
+Celta Vigo 0 - 2 Valencia
+Celta Vigo 0 - 1 Osasuna
+Celta Vigo 1 - 0 Athletic Bilbao
+Celta Vigo 0 - 2 Levante
+Celta Vigo 0 - 1 Valladolid
+Celta Vigo 0 - 1 Eibar
+Celta Vigo 1 - 1 Real Betis
+Celta Vigo 0 - 0 Alavés
+Celta Vigo 0 - 0 Leganés
+Celta Vigo 2 - 0 Mallorca
+Celta Vigo 1 - 1 Espanyol
+Leganés 0 - 1 Real Madrid
+Leganés 1 - 2 Barcelona
+Leganés 1 - 0 Atlético Madrid
+Leganés 0 - 2 Sevilla
+Leganés 0 - 1 Villarreal
+Leganés 1 - 1 Real Sociedad
+Leganés 1 - 2 Granada
+Leganés 0 - 1 Getafe
+Leganés 1 - 0 Valencia
+Leganés 1 - 0 Osasuna
+Leganés 1 - 1 Athletic Bilbao
+Leganés 0 - 2 Levante
+Leganés 1 - 0 Valladolid
+Leganés 0 - 1 Eibar
+Leganés 0 - 0 Real Betis
+Leganés 0 - 0 Alavés
+Leganés 1 - 0 Celta Vigo
+Leganés 2 - 1 Mallorca
+Leganés 1 - 2 Espanyol
+Mallorca 0 - 0 Real Madrid
+Mallorca 1 - 2 Barcelona
+Mallorca 0 - 1 Atlético Madrid
+Mallorca 1 - 0 Sevilla
+Mallorca 1 - 1 Villarreal
+Mallorca 1 - 2 Real Sociedad
+Mallorca 1 - 2 Granada
+Mallorca 0 - 0 Getafe
+Mallorca 0 - 0 Valencia
+Mallorca 0 - 2 Osasuna
+Mallorca 1 - 1 Athletic Bilbao
+Mallorca 2 - 2 Levante
+Mallorca 1 - 2 Valladolid
+Mallorca 1 - 1 Eibar
+Mallorca 1 - 1 Real Betis
+Mallorca 2 - 1 Alavés
+Mallorca 1 - 1 Celta Vigo
+Mallorca 2 - 1 Leganés
+Mallorca 1 - 0 Espanyol
+Espanyol 0 - 2 Real Madrid
+Espanyol 0 - 3 Barcelona
+Espanyol 0 - 2 Atlético Madrid
+Espanyol 1 - 1 Sevilla
+Espanyol 1 - 1 Villarreal
+Espanyol 0 - 1 Real Sociedad
+Espanyol 0 - 1 Granada
+Espanyol 1 - 2 Getafe
+Espanyol 0 - 1 Valencia
+Espanyol 0 - 2 Osasuna
+Espanyol 0 - 1 Athletic Bilbao
+Espanyol 0 - 0 Levante
+Espanyol 0 - 0 Valladolid
+Espanyol 0 - 0 Eibar
+Espanyol 2 - 0 Real Betis
+Espanyol 1 - 1 Alavés
+Espanyol 1 - 1 Celta Vigo
+Espanyol 2 - 0 Leganés
+Espanyol 1 - 1 Mallorca
+
+#---------------------------------
+#	 Season 198200
+#---------------------------------
+Real Madrid 0 - 0 Barcelona
+Real Madrid 2 - 0 Atlético Madrid
+Real Madrid 2 - 0 Sevilla
+Real Madrid 2 - 1 Villarreal
+Real Madrid 0 - 1 Real Sociedad
+Real Madrid 3 - 1 Granada
+Real Madrid 1 - 0 Getafe
+Real Madrid 1 - 0 Valencia
+Real Madrid 2 - 0 Osasuna
+Real Madrid 1 - 1 Athletic Bilbao
+Real Madrid 0 - 1 Levante
+Real Madrid 1 - 0 Valladolid
+Real Madrid 0 - 1 Eibar
+Real Madrid 0 - 0 Real Betis
+Real Madrid 3 - 0 Alavés
+Real Madrid 0 - 1 Celta Vigo
+Real Madrid 2 - 1 Leganés
+Real Madrid 1 - 1 Mallorca
+Real Madrid 0 - 0 Espanyol
+Barcelona 1 - 2 Real Madrid
+Barcelona 2 - 1 Atlético Madrid
+Barcelona 2 - 1 Sevilla
+Barcelona 3 - 0 Villarreal
+Barcelona 3 - 0 Real Sociedad
+Barcelona 1 - 0 Granada
+Barcelona 1 - 1 Getafe
+Barcelona 0 - 0 Valencia
+Barcelona 3 - 0 Osasuna
+Barcelona 2 - 1 Athletic Bilbao
+Barcelona 1 - 0 Levante
+Barcelona 3 - 1 Valladolid
+Barcelona 1 - 1 Eibar
+Barcelona 2 - 0 Real Betis
+Barcelona 2 - 0 Alavés
+Barcelona 2 - 1 Celta Vigo
+Barcelona 0 - 0 Leganés
+Barcelona 3 - 1 Mallorca
+Barcelona 0 - 1 Espanyol
+Atlético Madrid 0 - 1 Real Madrid
+Atlético Madrid 1 - 2 Barcelona
+Atlético Madrid 1 - 2 Sevilla
+Atlético Madrid 2 - 1 Villarreal
+Atlético Madrid 0 - 0 Real Sociedad
+Atlético Madrid 1 - 1 Granada
+Atlético Madrid 0 - 0 Getafe
+Atlético Madrid 0 - 1 Valencia
+Atlético Madrid 0 - 0 Osasuna
+Atlético Madrid 2 - 0 Athletic Bilbao
+Atlético Madrid 2 - 0 Levante
+Atlético Madrid 0 - 1 Valladolid
+Atlético Madrid 1 - 0 Eibar
+Atlético Madrid 1 - 1 Real Betis
+Atlético Madrid 0 - 1 Alavés
+Atlético Madrid 0 - 0 Celta Vigo
+Atlético Madrid 0 - 0 Leganés
+Atlético Madrid 0 - 0 Mallorca
+Atlético Madrid 2 - 0 Espanyol
+Sevilla 1 - 2 Real Madrid
+Sevilla 2 - 2 Barcelona
+Sevilla 1 - 0 Atlético Madrid
+Sevilla 0 - 0 Villarreal
+Sevilla 1 - 0 Real Sociedad
+Sevilla 1 - 1 Granada
+Sevilla 0 - 0 Getafe
+Sevilla 2 - 1 Valencia
+Sevilla 2 - 1 Osasuna
+Sevilla 1 - 1 Athletic Bilbao
+Sevilla 0 - 0 Levante
+Sevilla 1 - 1 Valladolid
+Sevilla 1 - 0 Eibar
+Sevilla 0 - 0 Real Betis
+Sevilla 0 - 1 Alavés
+Sevilla 0 - 1 Celta Vigo
+Sevilla 1 - 0 Leganés
+Sevilla 2 - 1 Mallorca
+Sevilla 1 - 0 Espanyol
+Villarreal 1 - 2 Real Madrid
+Villarreal 1 - 1 Barcelona
+Villarreal 0 - 2 Atlético Madrid
+Villarreal 0 - 1 Sevilla
+Villarreal 1 - 1 Real Sociedad
+Villarreal 1 - 1 Granada
+Villarreal 0 - 0 Getafe
+Villarreal 1 - 0 Valencia
+Villarreal 1 - 1 Osasuna
+Villarreal 1 - 2 Athletic Bilbao
+Villarreal 0 - 0 Levante
+Villarreal 2 - 0 Valladolid
+Villarreal 0 - 1 Eibar
+Villarreal 0 - 1 Real Betis
+Villarreal 2 - 1 Alavés
+Villarreal 1 - 2 Celta Vigo
+Villarreal 1 - 1 Leganés
+Villarreal 3 - 1 Mallorca
+Villarreal 0 - 1 Espanyol
+Real Sociedad 0 - 1 Real Madrid
+Real Sociedad 1 - 0 Barcelona
+Real Sociedad 1 - 1 Atlético Madrid
+Real Sociedad 1 - 1 Sevilla
+Real Sociedad 1 - 0 Villarreal
+Real Sociedad 1 - 1 Granada
+Real Sociedad 0 - 0 Getafe
+Real Sociedad 1 - 1 Valencia
+Real Sociedad 0 - 1 Osasuna
+Real Sociedad 2 - 0 Athletic Bilbao
+Real Sociedad 0 - 1 Levante
+Real Sociedad 2 - 1 Valladolid
+Real Sociedad 1 - 1 Eibar
+Real Sociedad 2 - 1 Real Betis
+Real Sociedad 0 - 1 Alavés
+Real Sociedad 0 - 1 Celta Vigo
+Real Sociedad 2 - 1 Leganés
+Real Sociedad 1 - 1 Mallorca
+Real Sociedad 0 - 0 Espanyol
+Granada 1 - 0 Real Madrid
+Granada 1 - 1 Barcelona
+Granada 0 - 0 Atlético Madrid
+Granada 2 - 1 Sevilla
+Granada 2 - 0 Villarreal
+Granada 1 - 2 Real Sociedad
+Granada 0 - 1 Getafe
+Granada 2 - 2 Valencia
+Granada 1 - 1 Osasuna
+Granada 1 - 1 Athletic Bilbao
+Granada 1 - 0 Levante
+Granada 1 - 1 Valladolid
+Granada 1 - 1 Eibar
+Granada 2 - 1 Real Betis
+Granada 1 - 1 Alavés
+Granada 0 - 1 Celta Vigo
+Granada 0 - 0 Leganés
+Granada 2 - 1 Mallorca
+Granada 2 - 1 Espanyol
+Getafe 0 - 2 Real Madrid
+Getafe 1 - 0 Barcelona
+Getafe 1 - 1 Atlético Madrid
+Getafe 0 - 0 Sevilla
+Getafe 0 - 2 Villarreal
+Getafe 0 - 2 Real Sociedad
+Getafe 1 - 1 Granada
+Getafe 0 - 0 Valencia
+Getafe 1 - 1 Osasuna
+Getafe 1 - 1 Athletic Bilbao
+Getafe 2 - 0 Levante
+Getafe 0 - 0 Valladolid
+Getafe 2 - 0 Eibar
+Getafe 0 - 1 Real Betis
+Getafe 1 - 0 Alavés
+Getafe 1 - 0 Celta Vigo
+Getafe 0 - 1 Leganés
+Getafe 0 - 1 Mallorca
+Getafe 0 - 0 Espanyol
+Valencia 0 - 0 Real Madrid
+Valencia 0 - 0 Barcelona
+Valencia 0 - 2 Atlético Madrid
+Valencia 1 - 2 Sevilla
+Valencia 1 - 0 Villarreal
+Valencia 1 - 2 Real Sociedad
+Valencia 1 - 0 Granada
+Valencia 0 - 2 Getafe
+Valencia 2 - 0 Osasuna
+Valencia 1 - 1 Athletic Bilbao
+Valencia 1 - 1 Levante
+Valencia 0 - 1 Valladolid
+Valencia 2 - 0 Eibar
+Valencia 0 - 2 Real Betis
+Valencia 1 - 0 Alavés
+Valencia 1 - 1 Celta Vigo
+Valencia 0 - 0 Leganés
+Valencia 1 - 0 Mallorca
+Valencia 1 - 1 Espanyol
+Osasuna 0 - 1 Real Madrid
+Osasuna 1 - 0 Barcelona
+Osasuna 0 - 0 Atlético Madrid
+Osasuna 0 - 1 Sevilla
+Osasuna 1 - 1 Villarreal
+Osasuna 0 - 1 Real Sociedad
+Osasuna 2 - 0 Granada
+Osasuna 2 - 1 Getafe
+Osasuna 1 - 1 Valencia
+Osasuna 1 - 1 Athletic Bilbao
+Osasuna 0 - 0 Levante
+Osasuna 1 - 1 Valladolid
+Osasuna 0 - 1 Eibar
+Osasuna 1 - 2 Real Betis
+Osasuna 1 - 0 Alavés
+Osasuna 2 - 1 Celta Vigo
+Osasuna 0 - 0 Leganés
+Osasuna 2 - 0 Mallorca
+Osasuna 2 - 0 Espanyol
+Athletic Bilbao 0 - 0 Real Madrid
+Athletic Bilbao 0 - 1 Barcelona
+Athletic Bilbao 0 - 1 Atlético Madrid
+Athletic Bilbao 1 - 0 Sevilla
+Athletic Bilbao 0 - 1 Villarreal
+Athletic Bilbao 1 - 2 Real Sociedad
+Athletic Bilbao 1 - 1 Granada
+Athletic Bilbao 0 - 1 Getafe
+Athletic Bilbao 0 - 1 Valencia
+Athletic Bilbao 1 - 1 Osasuna
+Athletic Bilbao 1 - 1 Levante
+Athletic Bilbao 0 - 0 Valladolid
+Athletic Bilbao 2 - 1 Eibar
+Athletic Bilbao 1 - 0 Real Betis
+Athletic Bilbao 0 - 1 Alavés
+Athletic Bilbao 0 - 1 Celta Vigo
+Athletic Bilbao 1 - 0 Leganés
+Athletic Bilbao 0 - 1 Mallorca
+Athletic Bilbao 1 - 0 Espanyol
+Levante 1 - 0 Real Madrid
+Levante 2 - 0 Barcelona
+Levante 0 - 0 Atlético Madrid
+Levante 0 - 2 Sevilla
+Levante 1 - 0 Villarreal
+Levante 0 - 1 Real Sociedad
+Levante 2 - 0 Granada
+Levante 1 - 0 Getafe
+Levante 1 - 1 Valencia
+Levante 2 - 2 Osasuna
+Levante 0 - 1 Athletic Bilbao
+Levante 0 - 1 Valladolid
+Levante 2 - 1 Eibar
+Levante 0 - 2 Real Betis
+Levante 1 - 0 Alavés
+Levante 1 - 2 Celta Vigo
+Levante 0 - 0 Leganés
+Levante 0 - 1 Mallorca
+Levante 2 - 1 Espanyol
+Valladolid 0 - 0 Real Madrid
+Valladolid 0 - 0 Barcelona
+Valladolid 0 - 0 Atlético Madrid
+Valladolid 1 - 1 Sevilla
+Valladolid 1 - 0 Villarreal
+Valladolid 0 - 0 Real Sociedad
+Valladolid 1 - 1 Granada
+Valladolid 1 - 1 Getafe
+Valladolid 1 - 2 Valencia
+Valladolid 2 - 0 Osasuna
+Valladolid 0 - 1 Athletic Bilbao
+Valladolid 0 - 0 Levante
+Valladolid 0 - 0 Eibar
+Valladolid 1 - 1 Real Betis
+Valladolid 0 - 1 Alavés
+Valladolid 2 - 0 Celta Vigo
+Valladolid 0 - 1 Leganés
+Valladolid 1 - 1 Mallorca
+Valladolid 1 - 0 Espanyol
+Eibar 1 - 2 Real Madrid
+Eibar 1 - 1 Barcelona
+Eibar 1 - 0 Atlético Madrid
+Eibar 1 - 0 Sevilla
+Eibar 1 - 0 Villarreal
+Eibar 0 - 1 Real Sociedad
+Eibar 1 - 0 Granada
+Eibar 1 - 1 Getafe
+Eibar 1 - 0 Valencia
+Eibar 0 - 1 Osasuna
+Eibar 1 - 2 Athletic Bilbao
+Eibar 2 - 1 Levante
+Eibar 0 - 0 Valladolid
+Eibar 0 - 2 Real Betis
+Eibar 2 - 1 Alavés
+Eibar 0 - 0 Celta Vigo
+Eibar 2 - 0 Leganés
+Eibar 0 - 0 Mallorca
+Eibar 0 - 1 Espanyol
+Real Betis 1 - 3 Real Madrid
+Real Betis 1 - 0 Barcelona
+Real Betis 0 - 1 Atlético Madrid
+Real Betis 0 - 1 Sevilla
+Real Betis 1 - 2 Villarreal
+Real Betis 1 - 2 Real Sociedad
+Real Betis 1 - 0 Granada
+Real Betis 1 - 2 Getafe
+Real Betis 0 - 2 Valencia
+Real Betis 2 - 1 Osasuna
+Real Betis 2 - 1 Athletic Bilbao
+Real Betis 2 - 2 Levante
+Real Betis 0 - 2 Valladolid
+Real Betis 2 - 0 Eibar
+Real Betis 1 - 0 Alavés
+Real Betis 2 - 1 Celta Vigo
+Real Betis 0 - 1 Leganés
+Real Betis 0 - 0 Mallorca
+Real Betis 0 - 1 Espanyol
+Alavés 0 - 1 Real Madrid
+Alavés 0 - 2 Barcelona
+Alavés 0 - 1 Atlético Madrid
+Alavés 0 - 0 Sevilla
+Alavés 0 - 3 Villarreal
+Alavés 1 - 0 Real Sociedad
+Alavés 2 - 1 Granada
+Alavés 0 - 2 Getafe
+Alavés 2 - 0 Valencia
+Alavés 0 - 1 Osasuna
+Alavés 1 - 1 Athletic Bilbao
+Alavés 1 - 0 Levante
+Alavés 1 - 0 Valladolid
+Alavés 2 - 0 Eibar
+Alavés 1 - 2 Real Betis
+Alavés 1 - 0 Celta Vigo
+Alavés 1 - 1 Leganés
+Alavés 0 - 1 Mallorca
+Alavés 0 - 0 Espanyol
+Celta Vigo 0 - 1 Real Madrid
+Celta Vigo 1 - 0 Barcelona
+Celta Vigo 1 - 2 Atlético Madrid
+Celta Vigo 1 - 1 Sevilla
+Celta Vigo 0 - 1 Villarreal
+Celta Vigo 0 - 0 Real Sociedad
+Celta Vigo 1 - 2 Granada
+Celta Vigo 1 - 1 Getafe
+Celta Vigo 0 - 2 Valencia
+Celta Vigo 1 - 0 Osasuna
+Celta Vigo 1 - 0 Athletic Bilbao
+Celta Vigo 1 - 0 Levante
+Celta Vigo 1 - 0 Valladolid
+Celta Vigo 0 - 0 Eibar
+Celta Vigo 0 - 1 Real Betis
+Celta Vigo 0 - 1 Alavés
+Celta Vigo 1 - 1 Leganés
+Celta Vigo 0 - 1 Mallorca
+Celta Vigo 0 - 0 Espanyol
+Leganés 0 - 2 Real Madrid
+Leganés 0 - 0 Barcelona
+Leganés 1 - 1 Atlético Madrid
+Leganés 1 - 0 Sevilla
+Leganés 0 - 2 Villarreal
+Leganés 0 - 1 Real Sociedad
+Leganés 1 - 0 Granada
+Leganés 1 - 0 Getafe
+Leganés 1 - 0 Valencia
+Leganés 1 - 0 Osasuna
+Leganés 1 - 1 Athletic Bilbao
+Leganés 1 - 1 Levante
+Leganés 0 - 0 Valladolid
+Leganés 0 - 1 Eibar
+Leganés 1 - 0 Real Betis
+Leganés 2 - 0 Alavés
+Leganés 0 - 1 Celta Vigo
+Leganés 0 - 0 Mallorca
+Leganés 1 - 1 Espanyol
+Mallorca 0 - 0 Real Madrid
+Mallorca 1 - 1 Barcelona
+Mallorca 0 - 0 Atlético Madrid
+Mallorca 1 - 2 Sevilla
+Mallorca 1 - 2 Villarreal
+Mallorca 1 - 0 Real Sociedad
+Mallorca 0 - 2 Granada
+Mallorca 1 - 2 Getafe
+Mallorca 1 - 0 Valencia
+Mallorca 2 - 0 Osasuna
+Mallorca 1 - 2 Athletic Bilbao
+Mallorca 0 - 2 Levante
+Mallorca 0 - 0 Valladolid
+Mallorca 2 - 0 Eibar
+Mallorca 0 - 0 Real Betis
+Mallorca 0 - 1 Alavés
+Mallorca 1 - 0 Celta Vigo
+Mallorca 0 - 1 Leganés
+Mallorca 1 - 0 Espanyol
+Espanyol 0 - 1 Real Madrid
+Espanyol 0 - 2 Barcelona
+Espanyol 0 - 1 Atlético Madrid
+Espanyol 0 - 1 Sevilla
+Espanyol 1 - 2 Villarreal
+Espanyol 0 - 0 Real Sociedad
+Espanyol 1 - 0 Granada
+Espanyol 0 - 1 Getafe
+Espanyol 1 - 0 Valencia
+Espanyol 2 - 2 Osasuna
+Espanyol 1 - 0 Athletic Bilbao
+Espanyol 0 - 2 Levante
+Espanyol 1 - 1 Valladolid
+Espanyol 1 - 0 Eibar
+Espanyol 1 - 0 Real Betis
+Espanyol 2 - 0 Alavés
+Espanyol 0 - 0 Celta Vigo
+Espanyol 1 - 1 Leganés
+Espanyol 1 - 0 Mallorca
+
+#---------------------------------
+#	 Season 247489
+#---------------------------------
+Real Madrid 0 - 0 Barcelona
+Real Madrid 0 - 1 Atlético Madrid
+Real Madrid 2 - 1 Sevilla
+Real Madrid 3 - 1 Villarreal
+Real Madrid 2 - 0 Real Sociedad
+Real Madrid 1 - 1 Granada
+Real Madrid 1 - 1 Getafe
+Real Madrid 0 - 1 Valencia
+Real Madrid 2 - 1 Osasuna
+Real Madrid 0 - 0 Athletic Bilbao
+Real Madrid 2 - 0 Levante
+Real Madrid 0 - 1 Valladolid
+Real Madrid 0 - 0 Eibar
+Real Madrid 2 - 0 Real Betis
+Real Madrid 0 - 1 Alavés
+Real Madrid 0 - 1 Celta Vigo
+Real Madrid 0 - 1 Leganés
+Real Madrid 1 - 1 Mallorca
+Real Madrid 0 - 1 Espanyol
+Barcelona 1 - 1 Real Madrid
+Barcelona 1 - 0 Atlético Madrid
+Barcelona 2 - 2 Sevilla
+Barcelona 1 - 2 Villarreal
+Barcelona 1 - 1 Real Sociedad
+Barcelona 0 - 0 Granada
+Barcelona 0 - 1 Getafe
+Barcelona 1 - 0 Valencia
+Barcelona 2 - 0 Osasuna
+Barcelona 3 - 0 Athletic Bilbao
+Barcelona 2 - 1 Levante
+Barcelona 0 - 1 Valladolid
+Barcelona 2 - 0 Eibar
+Barcelona 1 - 1 Real Betis
+Barcelona 2 - 1 Alavés
+Barcelona 1 - 0 Celta Vigo
+Barcelona 2 - 1 Leganés
+Barcelona 1 - 1 Mallorca
+Barcelona 1 - 0 Espanyol
+Atlético Madrid 0 - 0 Real Madrid
+Atlético Madrid 1 - 0 Barcelona
+Atlético Madrid 1 - 2 Sevilla
+Atlético Madrid 0 - 2 Villarreal
+Atlético Madrid 1 - 0 Real Sociedad
+Atlético Madrid 1 - 0 Granada
+Atlético Madrid 2 - 0 Getafe
+Atlético Madrid 2 - 1 Valencia
+Atlético Madrid 0 - 1 Osasuna
+Atlético Madrid 0 - 1 Athletic Bilbao
+Atlético Madrid 2 - 1 Levante
+Atlético Madrid 1 - 1 Valladolid
+Atlético Madrid 0 - 1 Eibar
+Atlético Madrid 0 - 1 Real Betis
+Atlético Madrid 1 - 0 Alavés
+Atlético Madrid 1 - 0 Celta Vigo
+Atlético Madrid 1 - 0 Leganés
+Atlético Madrid 1 - 1 Mallorca
+Atlético Madrid 1 - 0 Espanyol
+Sevilla 2 - 0 Real Madrid
+Sevilla 1 - 2 Barcelona
+Sevilla 1 - 2 Atlético Madrid
+Sevilla 2 - 1 Villarreal
+Sevilla 2 - 0 Real Sociedad
+Sevilla 0 - 1 Granada
+Sevilla 1 - 1 Getafe
+Sevilla 1 - 1 Valencia
+Sevilla 1 - 1 Osasuna
+Sevilla 1 - 1 Athletic Bilbao
+Sevilla 2 - 0 Levante
+Sevilla 1 - 0 Valladolid
+Sevilla 1 - 0 Eibar
+Sevilla 2 - 0 Real Betis
+Sevilla 1 - 0 Alavés
+Sevilla 1 - 0 Celta Vigo
+Sevilla 0 - 1 Leganés
+Sevilla 2 - 0 Mallorca
+Sevilla 0 - 0 Espanyol
+Villarreal 2 - 2 Real Madrid
+Villarreal 2 - 3 Barcelona
+Villarreal 1 - 0 Atlético Madrid
+Villarreal 1 - 2 Sevilla
+Villarreal 1 - 2 Real Sociedad
+Villarreal 2 - 2 Granada
+Villarreal 2 - 1 Getafe
+Villarreal 1 - 2 Valencia
+Villarreal 2 - 2 Osasuna
+Villarreal 1 - 0 Athletic Bilbao
+Villarreal 1 - 0 Levante
+Villarreal 2 - 1 Valladolid
+Villarreal 2 - 0 Eibar
+Villarreal 1 - 0 Real Betis
+Villarreal 1 - 1 Alavés
+Villarreal 2 - 0 Celta Vigo
+Villarreal 2 - 1 Leganés
+Villarreal 2 - 1 Mallorca
+Villarreal 2 - 1 Espanyol
+Real Sociedad 0 - 1 Real Madrid
+Real Sociedad 1 - 1 Barcelona
+Real Sociedad 2 - 0 Atlético Madrid
+Real Sociedad 0 - 2 Sevilla
+Real Sociedad 2 - 2 Villarreal
+Real Sociedad 1 - 0 Granada
+Real Sociedad 0 - 2 Getafe
+Real Sociedad 1 - 2 Valencia
+Real Sociedad 2 - 2 Osasuna
+Real Sociedad 2 - 0 Athletic Bilbao
+Real Sociedad 0 - 1 Levante
+Real Sociedad 1 - 1 Valladolid
+Real Sociedad 1 - 1 Eibar
+Real Sociedad 0 - 1 Real Betis
+Real Sociedad 0 - 0 Alavés
+Real Sociedad 2 - 1 Celta Vigo
+Real Sociedad 0 - 1 Leganés
+Real Sociedad 1 - 2 Mallorca
+Real Sociedad 2 - 1 Espanyol
+Granada 0 - 2 Real Madrid
+Granada 0 - 0 Barcelona
+Granada 0 - 1 Atlético Madrid
+Granada 1 - 0 Sevilla
+Granada 1 - 2 Villarreal
+Granada 2 - 2 Real Sociedad
+Granada 1 - 2 Getafe
+Granada 2 - 1 Valencia
+Granada 2 - 1 Osasuna
+Granada 2 - 2 Athletic Bilbao
+Granada 0 - 0 Levante
+Granada 2 - 1 Valladolid
+Granada 1 - 1 Eibar
+Granada 0 - 1 Real Betis
+Granada 0 - 0 Alavés
+Granada 1 - 1 Celta Vigo
+Granada 0 - 1 Leganés
+Granada 2 - 0 Mallorca
+Granada 2 - 1 Espanyol
+Getafe 0 - 0 Real Madrid
+Getafe 0 - 1 Barcelona
+Getafe 0 - 0 Atlético Madrid
+Getafe 1 - 0 Sevilla
+Getafe 1 - 2 Villarreal
+Getafe 0 - 1 Real Sociedad
+Getafe 1 - 1 Granada
+Getafe 2 - 1 Valencia
+Getafe 1 - 0 Osasuna
+Getafe 1 - 1 Athletic Bilbao
+Getafe 1 - 2 Levante
+Getafe 0 - 1 Valladolid
+Getafe 1 - 0 Eibar
+Getafe 1 - 0 Real Betis
+Getafe 1 - 1 Alavés
+Getafe 0 - 1 Celta Vigo
+Getafe 1 - 0 Leganés
+Getafe 1 - 1 Mallorca
+Getafe 2 - 1 Espanyol
+Valencia 1 - 1 Real Madrid
+Valencia 0 - 1 Barcelona
+Valencia 1 - 0 Atlético Madrid
+Valencia 1 - 1 Sevilla
+Valencia 1 - 2 Villarreal
+Valencia 1 - 1 Real Sociedad
+Valencia 0 - 1 Granada
+Valencia 0 - 0 Getafe
+Valencia 1 - 0 Osasuna
+Valencia 1 - 0 Athletic Bilbao
+Valencia 1 - 0 Levante
+Valencia 2 - 1 Valladolid
+Valencia 1 - 1 Eibar
+Valencia 1 - 0 Real Betis
+Valencia 2 - 1 Alavés
+Valencia 0 - 0 Celta Vigo
+Valencia 2 - 2 Leganés
+Valencia 0 - 0 Mallorca
+Valencia 1 - 0 Espanyol
+Osasuna 1 - 0 Real Madrid
+Osasuna 0 - 0 Barcelona
+Osasuna 1 - 1 Atlético Madrid
+Osasuna 0 - 0 Sevilla
+Osasuna 1 - 1 Villarreal
+Osasuna 1 - 0 Real Sociedad
+Osasuna 1 - 1 Granada
+Osasuna 0 - 1 Getafe
+Osasuna 0 - 2 Valencia
+Osasuna 1 - 1 Athletic Bilbao
+Osasuna 1 - 0 Levante
+Osasuna 1 - 1 Valladolid
+Osasuna 2 - 2 Eibar
+Osasuna 1 - 1 Real Betis
+Osasuna 1 - 0 Alavés
+Osasuna 1 - 1 Celta Vigo
+Osasuna 2 - 0 Leganés
+Osasuna 0 - 1 Mallorca
+Osasuna 0 - 1 Espanyol
+Athletic Bilbao 0 - 0 Real Madrid
+Athletic Bilbao 0 - 1 Barcelona
+Athletic Bilbao 0 - 0 Atlético Madrid
+Athletic Bilbao 1 - 1 Sevilla
+Athletic Bilbao 0 - 2 Villarreal
+Athletic Bilbao 0 - 0 Real Sociedad
+Athletic Bilbao 1 - 1 Granada
+Athletic Bilbao 1 - 0 Getafe
+Athletic Bilbao 0 - 1 Valencia
+Athletic Bilbao 1 - 1 Osasuna
+Athletic Bilbao 0 - 1 Levante
+Athletic Bilbao 0 - 1 Valladolid
+Athletic Bilbao 1 - 0 Eibar
+Athletic Bilbao 0 - 2 Real Betis
+Athletic Bilbao 1 - 0 Alavés
+Athletic Bilbao 0 - 0 Celta Vigo
+Athletic Bilbao 0 - 1 Leganés
+Athletic Bilbao 0 - 0 Mallorca
+Athletic Bilbao 0 - 0 Espanyol
+Levante 1 - 1 Real Madrid
+Levante 1 - 0 Barcelona
+Levante 1 - 1 Atlético Madrid
+Levante 1 - 1 Sevilla
+Levante 1 - 3 Villarreal
+Levante 0 - 2 Real Sociedad
+Levante 2 - 1 Granada
+Levante 0 - 1 Getafe
+Levante 0 - 2 Valencia
+Levante 0 - 2 Osasuna
+Levante 2 - 0 Athletic Bilbao
+Levante 0 - 1 Valladolid
+Levante 0 - 1 Eibar
+Levante 1 - 1 Real Betis
+Levante 2 - 0 Alavés
+Levante 0 - 0 Celta Vigo
+Levante 0 - 0 Leganés
+Levante 2 - 0 Mallorca
+Levante 2 - 0 Espanyol
+Valladolid 1 - 1 Real Madrid
+Valladolid 1 - 0 Barcelona
+Valladolid 0 - 0 Atlético Madrid
+Valladolid 1 - 1 Sevilla
+Valladolid 1 - 2 Villarreal
+Valladolid 0 - 2 Real Sociedad
+Valladolid 0 - 1 Granada
+Valladolid 0 - 0 Getafe
+Valladolid 0 - 1 Valencia
+Valladolid 0 - 0 Osasuna
+Valladolid 1 - 0 Athletic Bilbao
+Valladolid 0 - 0 Levante
+Valladolid 1 - 0 Eibar
+Valladolid 1 - 1 Real Betis
+Valladolid 1 - 1 Alavés
+Valladolid 0 - 1 Celta Vigo
+Valladolid 1 - 0 Leganés
+Valladolid 2 - 1 Mallorca
+Valladolid 1 - 1 Espanyol
+Eibar 1 - 0 Real Madrid
+Eibar 1 - 2 Barcelona
+Eibar 0 - 2 Atlético Madrid
+Eibar 0 - 0 Sevilla
+Eibar 1 - 2 Villarreal
+Eibar 0 - 2 Real Sociedad
+Eibar 2 - 1 Granada
+Eibar 1 - 1 Getafe
+Eibar 0 - 2 Valencia
+Eibar 0 - 2 Osasuna
+Eibar 0 - 0 Athletic Bilbao
+Eibar 0 - 0 Levante
+Eibar 1 - 1 Valladolid
+Eibar 1 - 1 Real Betis
+Eibar 2 - 0 Alavés
+Eibar 1 - 1 Celta Vigo
+Eibar 0 - 0 Leganés
+Eibar 2 - 0 Mallorca
+Eibar 1 - 0 Espanyol
+Real Betis 1 - 1 Real Madrid
+Real Betis 2 - 2 Barcelona
+Real Betis 1 - 0 Atlético Madrid
+Real Betis 1 - 2 Sevilla
+Real Betis 2 - 0 Villarreal
+Real Betis 2 - 1 Real Sociedad
+Real Betis 1 - 0 Granada
+Real Betis 0 - 2 Getafe
+Real Betis 1 - 2 Valencia
+Real Betis 2 - 1 Osasuna
+Real Betis 2 - 0 Athletic Bilbao
+Real Betis 0 - 1 Levante
+Real Betis 0 - 1 Valladolid
+Real Betis 0 - 1 Eibar
+Real Betis 1 - 1 Alavés
+Real Betis 1 - 1 Celta Vigo
+Real Betis 2 - 0 Leganés
+Real Betis 2 - 2 Mallorca
+Real Betis 0 - 2 Espanyol
+Alavés 0 - 0 Real Madrid
+Alavés 0 - 3 Barcelona
+Alavés 0 - 1 Atlético Madrid
+Alavés 1 - 1 Sevilla
+Alavés 1 - 1 Villarreal
+Alavés 0 - 1 Real Sociedad
+Alavés 1 - 2 Granada
+Alavés 0 - 2 Getafe
+Alavés 0 - 1 Valencia
+Alavés 0 - 1 Osasuna
+Alavés 1 - 0 Athletic Bilbao
+Alavés 2 - 0 Levante
+Alavés 1 - 0 Valladolid
+Alavés 0 - 0 Eibar
+Alavés 0 - 1 Real Betis
+Alavés 0 - 1 Celta Vigo
+Alavés 1 - 1 Leganés
+Alavés 1 - 1 Mallorca
+Alavés 0 - 0 Espanyol
+Celta Vigo 0 - 3 Real Madrid
+Celta Vigo 1 - 1 Barcelona
+Celta Vigo 1 - 1 Atlético Madrid
+Celta Vigo 0 - 2 Sevilla
+Celta Vigo 1 - 2 Villarreal
+Celta Vigo 0 - 0 Real Sociedad
+Celta Vigo 0 - 1 Granada
+Celta Vigo 1 - 1 Getafe
+Celta Vigo 0 - 0 Valencia
+Celta Vigo 0 - 0 Osasuna
+Celta Vigo 0 - 1 Athletic Bilbao
+Celta Vigo 2 - 1 Levante
+Celta Vigo 0 - 0 Valladolid
+Celta Vigo 1 - 1 Eibar
+Celta Vigo 1 - 0 Real Betis
+Celta Vigo 1 - 1 Alavés
+Celta Vigo 1 - 2 Leganés
+Celta Vigo 0 - 0 Mallorca
+Celta Vigo 1 - 0 Espanyol
+Leganés 0 - 0 Real Madrid
+Leganés 0 - 2 Barcelona
+Leganés 0 - 1 Atlético Madrid
+Leganés 0 - 0 Sevilla
+Leganés 0 - 1 Villarreal
+Leganés 1 - 0 Real Sociedad
+Leganés 0 - 0 Granada
+Leganés 0 - 2 Getafe
+Leganés 1 - 1 Valencia
+Leganés 2 - 0 Osasuna
+Leganés 0 - 1 Athletic Bilbao
+Leganés 0 - 0 Levante
+Leganés 0 - 0 Valladolid
+Leganés 0 - 0 Eibar
+Leganés 0 - 0 Real Betis
+Leganés 0 - 1 Alavés
+Leganés 1 - 0 Celta Vigo
+Leganés 0 - 0 Mallorca
+Leganés 0 - 1 Espanyol
+Mallorca 0 - 1 Real Madrid
+Mallorca 0 - 3 Barcelona
+Mallorca 0 - 2 Atlético Madrid
+Mallorca 0 - 1 Sevilla
+Mallorca 0 - 1 Villarreal
+Mallorca 1 - 2 Real Sociedad
+Mallorca 0 - 1 Granada
+Mallorca 0 - 0 Getafe
+Mallorca 2 - 1 Valencia
+Mallorca 0 - 2 Osasuna
+Mallorca 0 - 0 Athletic Bilbao
+Mallorca 0 - 1 Levante
+Mallorca 0 - 0 Valladolid
+Mallorca 0 - 2 Eibar
+Mallorca 0 - 2 Real Betis
+Mallorca 2 - 0 Alavés
+Mallorca 2 - 0 Celta Vigo
+Mallorca 0 - 1 Leganés
+Mallorca 2 - 0 Espanyol
+Espanyol 0 - 0 Real Madrid
+Espanyol 0 - 3 Barcelona
+Espanyol 0 - 2 Atlético Madrid
+Espanyol 1 - 1 Sevilla
+Espanyol 0 - 2 Villarreal
+Espanyol 1 - 1 Real Sociedad
+Espanyol 0 - 1 Granada
+Espanyol 1 - 1 Getafe
+Espanyol 0 - 0 Valencia
+Espanyol 2 - 1 Osasuna
+Espanyol 1 - 2 Athletic Bilbao
+Espanyol 1 - 1 Levante
+Espanyol 0 - 0 Valladolid
+Espanyol 0 - 0 Eibar
+Espanyol 2 - 2 Real Betis
+Espanyol 0 - 1 Alavés
+Espanyol 0 - 1 Celta Vigo
+Espanyol 0 - 0 Leganés
+Espanyol 1 - 1 Mallorca
+
+#---------------------------------
+#	 Season 450094
+#---------------------------------
+Real Madrid 0 - 1 Barcelona
+Real Madrid 2 - 0 Atlético Madrid
+Real Madrid 2 - 1 Sevilla
+Real Madrid 2 - 0 Villarreal
+Real Madrid 1 - 0 Real Sociedad
+Real Madrid 2 - 1 Granada
+Real Madrid 2 - 0 Getafe
+Real Madrid 1 - 1 Valencia
+Real Madrid 0 - 0 Osasuna
+Real Madrid 1 - 1 Athletic Bilbao
+Real Madrid 1 - 0 Levante
+Real Madrid 1 - 0 Valladolid
+Real Madrid 1 - 1 Eibar
+Real Madrid 1 - 0 Real Betis
+Real Madrid 0 - 0 Alavés
+Real Madrid 2 - 1 Celta Vigo
+Real Madrid 3 - 0 Leganés
+Real Madrid 2 - 1 Mallorca
+Real Madrid 1 - 1 Espanyol
+Barcelona 0 - 0 Real Madrid
+Barcelona 2 - 1 Atlético Madrid
+Barcelona 1 - 0 Sevilla
+Barcelona 0 - 0 Villarreal
+Barcelona 1 - 1 Real Sociedad
+Barcelona 0 - 1 Granada
+Barcelona 1 - 2 Getafe
+Barcelona 0 - 0 Valencia
+Barcelona 3 - 0 Osasuna
+Barcelona 0 - 0 Athletic Bilbao
+Barcelona 3 - 0 Levante
+Barcelona 1 - 1 Valladolid
+Barcelona 0 - 1 Eibar
+Barcelona 2 - 2 Real Betis
+Barcelona 3 - 0 Alavés
+Barcelona 2 - 0 Celta Vigo
+Barcelona 2 - 0 Leganés
+Barcelona 1 - 0 Mallorca
+Barcelona 0 - 0 Espanyol
+Atlético Madrid 1 - 2 Real Madrid
+Atlético Madrid 1 - 1 Barcelona
+Atlético Madrid 1 - 1 Sevilla
+Atlético Madrid 2 - 1 Villarreal
+Atlético Madrid 0 - 1 Real Sociedad
+Atlético Madrid 1 - 1 Granada
+Atlético Madrid 1 - 1 Getafe
+Atlético Madrid 1 - 0 Valencia
+Atlético Madrid 2 - 0 Osasuna
+Atlético Madrid 2 - 0 Athletic Bilbao
+Atlético Madrid 1 - 1 Levante
+Atlético Madrid 1 - 0 Valladolid
+Atlético Madrid 0 - 1 Eibar
+Atlético Madrid 0 - 1 Real Betis
+Atlético Madrid 2 - 0 Alavés
+Atlético Madrid 1 - 0 Celta Vigo
+Atlético Madrid 0 - 1 Leganés
+Atlético Madrid 1 - 0 Mallorca
+Atlético Madrid 2 - 0 Espanyol
+Sevilla 1 - 2 Real Madrid
+Sevilla 1 - 1 Barcelona
+Sevilla 1 - 1 Atlético Madrid
+Sevilla 1 - 1 Villarreal
+Sevilla 1 - 0 Real Sociedad
+Sevilla 2 - 0 Granada
+Sevilla 0 - 0 Getafe
+Sevilla 0 - 1 Valencia
+Sevilla 1 - 1 Osasuna
+Sevilla 0 - 0 Athletic Bilbao
+Sevilla 0 - 1 Levante
+Sevilla 1 - 0 Valladolid
+Sevilla 2 - 1 Eibar
+Sevilla 0 - 1 Real Betis
+Sevilla 0 - 1 Alavés
+Sevilla 0 - 0 Celta Vigo
+Sevilla 1 - 0 Leganés
+Sevilla 1 - 0 Mallorca
+Sevilla 1 - 0 Espanyol
+Villarreal 1 - 2 Real Madrid
+Villarreal 1 - 2 Barcelona
+Villarreal 0 - 0 Atlético Madrid
+Villarreal 2 - 1 Sevilla
+Villarreal 0 - 1 Real Sociedad
+Villarreal 2 - 1 Granada
+Villarreal 0 - 1 Getafe
+Villarreal 0 - 1 Valencia
+Villarreal 0 - 2 Osasuna
+Villarreal 0 - 1 Athletic Bilbao
+Villarreal 1 - 0 Levante
+Villarreal 1 - 0 Valladolid
+Villarreal 0 - 1 Eibar
+Villarreal 2 - 1 Real Betis
+Villarreal 0 - 1 Alavés
+Villarreal 2 - 2 Celta Vigo
+Villarreal 1 - 0 Leganés
+Villarreal 0 - 0 Mallorca
+Villarreal 2 - 1 Espanyol
+Real Sociedad 0 - 1 Real Madrid
+Real Sociedad 0 - 0 Barcelona
+Real Sociedad 1 - 1 Atlético Madrid
+Real Sociedad 1 - 2 Sevilla
+Real Sociedad 1 - 1 Villarreal
+Real Sociedad 0 - 2 Granada
+Real Sociedad 0 - 1 Getafe
+Real Sociedad 2 - 0 Valencia
+Real Sociedad 1 - 1 Osasuna
+Real Sociedad 0 - 1 Athletic Bilbao
+Real Sociedad 1 - 1 Levante
+Real Sociedad 0 - 0 Valladolid
+Real Sociedad 1 - 0 Eibar
+Real Sociedad 2 - 2 Real Betis
+Real Sociedad 3 - 1 Alavés
+Real Sociedad 1 - 1 Celta Vigo
+Real Sociedad 2 - 1 Leganés
+Real Sociedad 2 - 1 Mallorca
+Real Sociedad 0 - 0 Espanyol
+Granada 0 - 2 Real Madrid
+Granada 1 - 1 Barcelona
+Granada 0 - 0 Atlético Madrid
+Granada 0 - 0 Sevilla
+Granada 1 - 0 Villarreal
+Granada 0 - 1 Real Sociedad
+Granada 2 - 0 Getafe
+Granada 2 - 2 Valencia
+Granada 0 - 1 Osasuna
+Granada 0 - 2 Athletic Bilbao
+Granada 1 - 1 Levante
+Granada 0 - 1 Valladolid
+Granada 2 - 2 Eibar
+Granada 0 - 1 Real Betis
+Granada 0 - 1 Alavés
+Granada 2 - 0 Celta Vigo
+Granada 2 - 0 Leganés
+Granada 1 - 0 Mallorca
+Granada 0 - 0 Espanyol
+Getafe 0 - 2 Real Madrid
+Getafe 0 - 1 Barcelona
+Getafe 1 - 1 Atlético Madrid
+Getafe 1 - 1 Sevilla
+Getafe 2 - 0 Villarreal
+Getafe 1 - 1 Real Sociedad
+Getafe 1 - 2 Granada
+Getafe 1 - 0 Valencia
+Getafe 1 - 1 Osasuna
+Getafe 1 - 1 Athletic Bilbao
+Getafe 1 - 0 Levante
+Getafe 0 - 1 Valladolid
+Getafe 2 - 0 Eibar
+Getafe 0 - 2 Real Betis
+Getafe 1 - 1 Alavés
+Getafe 2 - 1 Celta Vigo
+Getafe 1 - 1 Leganés
+Getafe 1 - 0 Mallorca
+Getafe 1 - 0 Espanyol
+Valencia 1 - 1 Real Madrid
+Valencia 1 - 0 Barcelona
+Valencia 0 - 2 Atlético Madrid
+Valencia 1 - 1 Sevilla
+Valencia 1 - 3 Villarreal
+Valencia 1 - 2 Real Sociedad
+Valencia 1 - 1 Granada
+Valencia 1 - 1 Getafe
+Valencia 0 - 0 Osasuna
+Valencia 1 - 1 Athletic Bilbao
+Valencia 1 - 1 Levante
+Valencia 0 - 1 Valladolid
+Valencia 0 - 0 Eibar
+Valencia 0 - 0 Real Betis
+Valencia 0 - 1 Alavés
+Valencia 1 - 0 Celta Vigo
+Valencia 0 - 0 Leganés
+Valencia 2 - 0 Mallorca
+Valencia 2 - 1 Espanyol
+Osasuna 0 - 1 Real Madrid
+Osasuna 1 - 1 Barcelona
+Osasuna 0 - 0 Atlético Madrid
+Osasuna 0 - 1 Sevilla
+Osasuna 0 - 0 Villarreal
+Osasuna 2 - 0 Real Sociedad
+Osasuna 1 - 0 Granada
+Osasuna 1 - 0 Getafe
+Osasuna 2 - 1 Valencia
+Osasuna 0 - 2 Athletic Bilbao
+Osasuna 0 - 2 Levante
+Osasuna 0 - 1 Valladolid
+Osasuna 1 - 0 Eibar
+Osasuna 1 - 1 Real Betis
+Osasuna 1 - 0 Alavés
+Osasuna 1 - 0 Celta Vigo
+Osasuna 1 - 1 Leganés
+Osasuna 0 - 0 Mallorca
+Osasuna 2 - 2 Espanyol
+Athletic Bilbao 0 - 2 Real Madrid
+Athletic Bilbao 1 - 2 Barcelona
+Athletic Bilbao 1 - 0 Atlético Madrid
+Athletic Bilbao 0 - 1 Sevilla
+Athletic Bilbao 0 - 0 Villarreal
+Athletic Bilbao 0 - 0 Real Sociedad
+Athletic Bilbao 1 - 0 Granada
+Athletic Bilbao 0 - 1 Getafe
+Athletic Bilbao 1 - 0 Valencia
+Athletic Bilbao 0 - 0 Osasuna
+Athletic Bilbao 0 - 0 Levante
+Athletic Bilbao 1 - 1 Valladolid
+Athletic Bilbao 2 - 0 Eibar
+Athletic Bilbao 1 - 1 Real Betis
+Athletic Bilbao 1 - 1 Alavés
+Athletic Bilbao 0 - 1 Celta Vigo
+Athletic Bilbao 0 - 1 Leganés
+Athletic Bilbao 0 - 0 Mallorca
+Athletic Bilbao 0 - 0 Espanyol
+Levante 0 - 1 Real Madrid
+Levante 0 - 2 Barcelona
+Levante 1 - 0 Atlético Madrid
+Levante 1 - 0 Sevilla
+Levante 1 - 1 Villarreal
+Levante 0 - 1 Real Sociedad
+Levante 0 - 0 Granada
+Levante 0 - 1 Getafe
+Levante 2 - 2 Valencia
+Levante 0 - 0 Osasuna
+Levante 1 - 1 Athletic Bilbao
+Levante 1 - 1 Valladolid
+Levante 0 - 0 Eibar
+Levante 0 - 1 Real Betis
+Levante 2 - 1 Alavés
+Levante 0 - 2 Celta Vigo
+Levante 1 - 0 Leganés
+Levante 2 - 1 Mallorca
+Levante 2 - 0 Espanyol
+Valladolid 0 - 1 Real Madrid
+Valladolid 0 - 2 Barcelona
+Valladolid 0 - 0 Atlético Madrid
+Valladolid 1 - 0 Sevilla
+Valladolid 1 - 0 Villarreal
+Valladolid 1 - 2 Real Sociedad
+Valladolid 0 - 1 Granada
+Valladolid 1 - 0 Getafe
+Valladolid 1 - 1 Valencia
+Valladolid 2 - 2 Osasuna
+Valladolid 1 - 1 Athletic Bilbao
+Valladolid 0 - 0 Levante
+Valladolid 0 - 0 Eibar
+Valladolid 0 - 0 Real Betis
+Valladolid 0 - 0 Alavés
+Valladolid 0 - 0 Celta Vigo
+Valladolid 1 - 0 Leganés
+Valladolid 1 - 1 Mallorca
+Valladolid 0 - 1 Espanyol
+Eibar 1 - 0 Real Madrid
+Eibar 1 - 0 Barcelona
+Eibar 0 - 0 Atlético Madrid
+Eibar 1 - 0 Sevilla
+Eibar 1 - 1 Villarreal
+Eibar 2 - 0 Real Sociedad
+Eibar 0 - 0 Granada
+Eibar 1 - 2 Getafe
+Eibar 2 - 1 Valencia
+Eibar 0 - 2 Osasuna
+Eibar 0 - 1 Athletic Bilbao
+Eibar 2 - 1 Levante
+Eibar 1 - 1 Valladolid
+Eibar 2 - 0 Real Betis
+Eibar 0 - 1 Alavés
+Eibar 0 - 0 Celta Vigo
+Eibar 0 - 1 Leganés
+Eibar 2 - 1 Mallorca
+Eibar 2 - 1 Espanyol
+Real Betis 0 - 0 Real Madrid
+Real Betis 0 - 0 Barcelona
+Real Betis 1 - 2 Atlético Madrid
+Real Betis 0 - 2 Sevilla
+Real Betis 2 - 0 Villarreal
+Real Betis 1 - 1 Real Sociedad
+Real Betis 1 - 2 Granada
+Real Betis 1 - 0 Getafe
+Real Betis 1 - 0 Valencia
+Real Betis 1 - 1 Osasuna
+Real Betis 0 - 0 Athletic Bilbao
+Real Betis 0 - 1 Levante
+Real Betis 2 - 1 Valladolid
+Real Betis 1 - 2 Eibar
+Real Betis 0 - 1 Alavés
+Real Betis 0 - 0 Celta Vigo
+Real Betis 0 - 0 Leganés
+Real Betis 0 - 0 Mallorca
+Real Betis 1 - 0 Espanyol
+Alavés 1 - 0 Real Madrid
+Alavés 0 - 0 Barcelona
+Alavés 1 - 2 Atlético Madrid
+Alavés 1 - 1 Sevilla
+Alavés 0 - 0 Villarreal
+Alavés 0 - 0 Real Sociedad
+Alavés 0 - 1 Granada
+Alavés 0 - 1 Getafe
+Alavés 0 - 0 Valencia
+Alavés 1 - 2 Osasuna
+Alavés 0 - 2 Athletic Bilbao
+Alavés 0 - 0 Levante
+Alavés 1 - 0 Valladolid
+Alavés 1 - 1 Eibar
+Alavés 1 - 0 Real Betis
+Alavés 1 - 1 Celta Vigo
+Alavés 1 - 0 Leganés
+Alavés 1 - 0 Mallorca
+Alavés 0 - 0 Espanyol
+Celta Vigo 0 - 1 Real Madrid
+Celta Vigo 1 - 1 Barcelona
+Celta Vigo 1 - 0 Atlético Madrid
+Celta Vigo 1 - 2 Sevilla
+Celta Vigo 1 - 2 Villarreal
+Celta Vigo 1 - 1 Real Sociedad
+Celta Vigo 1 - 0 Granada
+Celta Vigo 0 - 1 Getafe
+Celta Vigo 2 - 0 Valencia
+Celta Vigo 1 - 2 Osasuna
+Celta Vigo 0 - 1 Athletic Bilbao
+Celta Vigo 2 - 0 Levante
+Celta Vigo 1 - 1 Valladolid
+Celta Vigo 1 - 1 Eibar
+Celta Vigo 1 - 1 Real Betis
+Celta Vigo 0 - 1 Alavés
+Celta Vigo 0 - 0 Leganés
+Celta Vigo 2 - 0 Mallorca
+Celta Vigo 0 - 1 Espanyol
+Leganés 0 - 0 Real Madrid
+Leganés 1 - 2 Barcelona
+Leganés 1 - 0 Atlético Madrid
+Leganés 1 - 0 Sevilla
+Leganés 0 - 1 Villarreal
+Leganés 1 - 2 Real Sociedad
+Leganés 0 - 0 Granada
+Leganés 1 - 0 Getafe
+Leganés 1 - 2 Valencia
+Leganés 1 - 1 Osasuna
+Leganés 0 - 2 Athletic Bilbao
+Leganés 1 - 2 Levante
+Leganés 0 - 1 Valladolid
+Leganés 1 - 2 Eibar
+Leganés 0 - 1 Real Betis
+Leganés 0 - 0 Alavés
+Leganés 0 - 0 Celta Vigo
+Leganés 2 - 1 Mallorca
+Leganés 0 - 1 Espanyol
+Mallorca 1 - 2 Real Madrid
+Mallorca 0 - 3 Barcelona
+Mallorca 0 - 0 Atlético Madrid
+Mallorca 0 - 2 Sevilla
+Mallorca 0 - 2 Villarreal
+Mallorca 0 - 2 Real Sociedad
+Mallorca 1 - 2 Granada
+Mallorca 0 - 1 Getafe
+Mallorca 0 - 0 Valencia
+Mallorca 0 - 2 Osasuna
+Mallorca 0 - 2 Athletic Bilbao
+Mallorca 1 - 2 Levante
+Mallorca 2 - 2 Valladolid
+Mallorca 0 - 1 Eibar
+Mallorca 0 - 0 Real Betis
+Mallorca 1 - 2 Alavés
+Mallorca 0 - 2 Celta Vigo
+Mallorca 0 - 2 Leganés
+Mallorca 0 - 1 Espanyol
+Espanyol 0 - 1 Real Madrid
+Espanyol 1 - 1 Barcelona
+Espanyol 0 - 2 Atlético Madrid
+Espanyol 1 - 0 Sevilla
+Espanyol 1 - 1 Villarreal
+Espanyol 1 - 2 Real Sociedad
+Espanyol 1 - 2 Granada
+Espanyol 0 - 0 Getafe
+Espanyol 0 - 2 Valencia
+Espanyol 0 - 1 Osasuna
+Espanyol 1 - 1 Athletic Bilbao
+Espanyol 0 - 1 Levante
+Espanyol 1 - 0 Valladolid
+Espanyol 0 - 0 Eibar
+Espanyol 1 - 2 Real Betis
+Espanyol 1 - 1 Alavés
+Espanyol 1 - 1 Celta Vigo
+Espanyol 1 - 1 Leganés
+Espanyol 2 - 0 Mallorca
+
+#---------------------------------
+#	 Season 468068
+#---------------------------------
+Real Madrid 2 - 1 Barcelona
+Real Madrid 1 - 1 Atlético Madrid
+Real Madrid 1 - 0 Sevilla
+Real Madrid 1 - 0 Villarreal
+Real Madrid 3 - 1 Real Sociedad
+Real Madrid 1 - 1 Granada
+Real Madrid 1 - 0 Getafe
+Real Madrid 1 - 0 Valencia
+Real Madrid 1 - 0 Osasuna
+Real Madrid 2 - 0 Athletic Bilbao
+Real Madrid 2 - 0 Levante
+Real Madrid 1 - 0 Valladolid
+Real Madrid 1 - 1 Eibar
+Real Madrid 0 - 0 Real Betis
+Real Madrid 2 - 0 Alavés
+Real Madrid 0 - 1 Celta Vigo
+Real Madrid 1 - 1 Leganés
+Real Madrid 3 - 1 Mallorca
+Real Madrid 2 - 1 Espanyol
+Barcelona 1 - 0 Real Madrid
+Barcelona 0 - 1 Atlético Madrid
+Barcelona 0 - 2 Sevilla
+Barcelona 0 - 0 Villarreal
+Barcelona 1 - 0 Real Sociedad
+Barcelona 0 - 1 Granada
+Barcelona 1 - 1 Getafe
+Barcelona 3 - 2 Valencia
+Barcelona 2 - 1 Osasuna
+Barcelona 0 - 0 Athletic Bilbao
+Barcelona 2 - 1 Levante
+Barcelona 0 - 0 Valladolid
+Barcelona 1 - 1 Eibar
+Barcelona 1 - 1 Real Betis
+Barcelona 0 - 1 Alavés
+Barcelona 2 - 1 Celta Vigo
+Barcelona 2 - 0 Leganés
+Barcelona 2 - 1 Mallorca
+Barcelona 0 - 1 Espanyol
+Atlético Madrid 0 - 0 Real Madrid
+Atlético Madrid 0 - 2 Barcelona
+Atlético Madrid 1 - 2 Sevilla
+Atlético Madrid 2 - 0 Villarreal
+Atlético Madrid 2 - 1 Real Sociedad
+Atlético Madrid 2 - 1 Granada
+Atlético Madrid 0 - 0 Getafe
+Atlético Madrid 1 - 0 Valencia
+Atlético Madrid 0 - 1 Osasuna
+Atlético Madrid 1 - 1 Athletic Bilbao
+Atlético Madrid 0 - 1 Levante
+Atlético Madrid 1 - 0 Valladolid
+Atlético Madrid 0 - 1 Eibar
+Atlético Madrid 1 - 1 Real Betis
+Atlético Madrid 2 - 0 Alavés
+Atlético Madrid 0 - 0 Celta Vigo
+Atlético Madrid 2 - 1 Leganés
+Atlético Madrid 1 - 1 Mallorca
+Atlético Madrid 2 - 0 Espanyol
+Sevilla 0 - 0 Real Madrid
+Sevilla 0 - 0 Barcelona
+Sevilla 1 - 1 Atlético Madrid
+Sevilla 1 - 1 Villarreal
+Sevilla 1 - 0 Real Sociedad
+Sevilla 2 - 0 Granada
+Sevilla 0 - 1 Getafe
+Sevilla 0 - 0 Valencia
+Sevilla 1 - 0 Osasuna
+Sevilla 1 - 1 Athletic Bilbao
+Sevilla 2 - 1 Levante
+Sevilla 1 - 0 Valladolid
+Sevilla 0 - 1 Eibar
+Sevilla 1 - 2 Real Betis
+Sevilla 2 - 0 Alavés
+Sevilla 2 - 1 Celta Vigo
+Sevilla 1 - 1 Leganés
+Sevilla 2 - 0 Mallorca
+Sevilla 1 - 0 Espanyol
+Villarreal 1 - 2 Real Madrid
+Villarreal 1 - 1 Barcelona
+Villarreal 0 - 0 Atlético Madrid
+Villarreal 1 - 2 Sevilla
+Villarreal 2 - 1 Real Sociedad
+Villarreal 2 - 1 Granada
+Villarreal 0 - 0 Getafe
+Villarreal 0 - 2 Valencia
+Villarreal 2 - 0 Osasuna
+Villarreal 2 - 0 Athletic Bilbao
+Villarreal 0 - 0 Levante
+Villarreal 1 - 1 Valladolid
+Villarreal 2 - 0 Eibar
+Villarreal 1 - 0 Real Betis
+Villarreal 1 - 0 Alavés
+Villarreal 0 - 1 Celta Vigo
+Villarreal 1 - 0 Leganés
+Villarreal 2 - 1 Mallorca
+Villarreal 0 - 0 Espanyol
+Real Sociedad 1 - 0 Real Madrid
+Real Sociedad 1 - 1 Barcelona
+Real Sociedad 1 - 2 Atlético Madrid
+Real Sociedad 2 - 0 Sevilla
+Real Sociedad 0 - 2 Villarreal
+Real Sociedad 1 - 1 Granada
+Real Sociedad 2 - 0 Getafe
+Real Sociedad 1 - 1 Valencia
+Real Sociedad 0 - 1 Osasuna
+Real Sociedad 1 - 2 Athletic Bilbao
+Real Sociedad 1 - 2 Levante
+Real Sociedad 1 - 0 Valladolid
+Real Sociedad 0 - 1 Eibar
+Real Sociedad 0 - 0 Real Betis
+Real Sociedad 2 - 1 Alavés
+Real Sociedad 1 - 1 Celta Vigo
+Real Sociedad 1 - 0 Leganés
+Real Sociedad 2 - 1 Mallorca
+Real Sociedad 1 - 1 Espanyol
+Granada 0 - 1 Real Madrid
+Granada 1 - 3 Barcelona
+Granada 2 - 2 Atlético Madrid
+Granada 1 - 2 Sevilla
+Granada 1 - 2 Villarreal
+Granada 0 - 0 Real Sociedad
+Granada 0 - 2 Getafe
+Granada 0 - 0 Valencia
+Granada 2 - 1 Osasuna
+Granada 1 - 0 Athletic Bilbao
+Granada 0 - 0 Levante
+Granada 1 - 1 Valladolid
+Granada 0 - 0 Eibar
+Granada 1 - 2 Real Betis
+Granada 0 - 0 Alavés
+Granada 1 - 2 Celta Vigo
+Granada 2 - 0 Leganés
+Granada 1 - 0 Mallorca
+Granada 0 - 1 Espanyol
+Getafe 1 - 2 Real Madrid
+Getafe 1 - 1 Barcelona
+Getafe 1 - 1 Atlético Madrid
+Getafe 0 - 1 Sevilla
+Getafe 0 - 1 Villarreal
+Getafe 0 - 0 Real Sociedad
+Getafe 1 - 1 Granada
+Getafe 2 - 0 Valencia
+Getafe 1 - 1 Osasuna
+Getafe 1 - 0 Athletic Bilbao
+Getafe 2 - 1 Levante
+Getafe 1 - 1 Valladolid
+Getafe 1 - 0 Eibar
+Getafe 0 - 0 Real Betis
+Getafe 0 - 1 Alavés
+Getafe 0 - 0 Celta Vigo
+Getafe 0 - 0 Leganés
+Getafe 2 - 1 Mallorca
+Getafe 2 - 0 Espanyol
+Valencia 0 - 0 Real Madrid
+Valencia 0 - 1 Barcelona
+Valencia 1 - 2 Atlético Madrid
+Valencia 1 - 2 Sevilla
+Valencia 2 - 2 Villarreal
+Valencia 2 - 2 Real Sociedad
+Valencia 2 - 1 Granada
+Valencia 0 - 0 Getafe
+Valencia 2 - 0 Osasuna
+Valencia 0 - 1 Athletic Bilbao
+Valencia 2 - 2 Levante
+Valencia 0 - 0 Valladolid
+Valencia 1 - 1 Eibar
+Valencia 0 - 0 Real Betis
+Valencia 0 - 1 Alavés
+Valencia 0 - 0 Celta Vigo
+Valencia 1 - 2 Leganés
+Valencia 1 - 1 Mallorca
+Valencia 1 - 1 Espanyol
+Osasuna 1 - 2 Real Madrid
+Osasuna 0 - 2 Barcelona
+Osasuna 0 - 0 Atlético Madrid
+Osasuna 0 - 1 Sevilla
+Osasuna 0 - 1 Villarreal
+Osasuna 0 - 2 Real Sociedad
+Osasuna 0 - 1 Granada
+Osasuna 1 - 0 Getafe
+Osasuna 1 - 1 Valencia
+Osasuna 1 - 0 Athletic Bilbao
+Osasuna 2 - 1 Levante
+Osasuna 1 - 1 Valladolid
+Osasuna 2 - 0 Eibar
+Osasuna 2 - 2 Real Betis
+Osasuna 0 - 1 Alavés
+Osasuna 0 - 1 Celta Vigo
+Osasuna 1 - 0 Leganés
+Osasuna 2 - 1 Mallorca
+Osasuna 0 - 0 Espanyol
+Athletic Bilbao 1 - 0 Real Madrid
+Athletic Bilbao 0 - 2 Barcelona
+Athletic Bilbao 0 - 1 Atlético Madrid
+Athletic Bilbao 1 - 0 Sevilla
+Athletic Bilbao 0 - 1 Villarreal
+Athletic Bilbao 0 - 0 Real Sociedad
+Athletic Bilbao 0 - 2 Granada
+Athletic Bilbao 0 - 0 Getafe
+Athletic Bilbao 1 - 0 Valencia
+Athletic Bilbao 2 - 1 Osasuna
+Athletic Bilbao 2 - 1 Levante
+Athletic Bilbao 1 - 0 Valladolid
+Athletic Bilbao 0 - 0 Eibar
+Athletic Bilbao 0 - 1 Real Betis
+Athletic Bilbao 1 - 0 Alavés
+Athletic Bilbao 1 - 0 Celta Vigo
+Athletic Bilbao 2 - 0 Leganés
+Athletic Bilbao 2 - 1 Mallorca
+Athletic Bilbao 0 - 0 Espanyol
+Levante 0 - 0 Real Madrid
+Levante 1 - 2 Barcelona
+Levante 0 - 0 Atlético Madrid
+Levante 1 - 0 Sevilla
+Levante 1 - 0 Villarreal
+Levante 0 - 0 Real Sociedad
+Levante 1 - 2 Granada
+Levante 1 - 1 Getafe
+Levante 0 - 2 Valencia
+Levante 1 - 2 Osasuna
+Levante 1 - 0 Athletic Bilbao
+Levante 0 - 0 Valladolid
+Levante 1 - 0 Eibar
+Levante 2 - 0 Real Betis
+Levante 0 - 1 Alavés
+Levante 0 - 1 Celta Vigo
+Levante 0 - 0 Leganés
+Levante 2 - 1 Mallorca
+Levante 2 - 0 Espanyol
+Valladolid 0 - 1 Real Madrid
+Valladolid 1 - 0 Barcelona
+Valladolid 1 - 0 Atlético Madrid
+Valladolid 0 - 1 Sevilla
+Valladolid 0 - 2 Villarreal
+Valladolid 0 - 0 Real Sociedad
+Valladolid 0 - 2 Granada
+Valladolid 0 - 0 Getafe
+Valladolid 1 - 0 Valencia
+Valladolid 0 - 0 Osasuna
+Valladolid 1 - 0 Athletic Bilbao
+Valladolid 0 - 0 Levante
+Valladolid 2 - 1 Eibar
+Valladolid 0 - 2 Real Betis
+Valladolid 1 - 0 Alavés
+Valladolid 1 - 0 Celta Vigo
+Valladolid 1 - 1 Leganés
+Valladolid 0 - 0 Mallorca
+Valladolid 0 - 0 Espanyol
+Eibar 0 - 3 Real Madrid
+Eibar 0 - 0 Barcelona
+Eibar 1 - 2 Atlético Madrid
+Eibar 0 - 0 Sevilla
+Eibar 1 - 0 Villarreal
+Eibar 0 - 2 Real Sociedad
+Eibar 1 - 1 Granada
+Eibar 0 - 1 Getafe
+Eibar 1 - 0 Valencia
+Eibar 0 - 0 Osasuna
+Eibar 0 - 2 Athletic Bilbao
+Eibar 0 - 1 Levante
+Eibar 1 - 2 Valladolid
+Eibar 0 - 0 Real Betis
+Eibar 1 - 1 Alavés
+Eibar 1 - 2 Celta Vigo
+Eibar 0 - 0 Leganés
+Eibar 2 - 0 Mallorca
+Eibar 0 - 1 Espanyol
+Real Betis 0 - 1 Real Madrid
+Real Betis 0 - 3 Barcelona
+Real Betis 0 - 2 Atlético Madrid
+Real Betis 1 - 0 Sevilla
+Real Betis 1 - 1 Villarreal
+Real Betis 1 - 0 Real Sociedad
+Real Betis 0 - 2 Granada
+Real Betis 0 - 2 Getafe
+Real Betis 0 - 1 Valencia
+Real Betis 2 - 1 Osasuna
+Real Betis 1 - 2 Athletic Bilbao
+Real Betis 2 - 2 Levante
+Real Betis 1 - 2 Valladolid
+Real Betis 1 - 1 Eibar
+Real Betis 1 - 1 Alavés
+Real Betis 1 - 0 Celta Vigo
+Real Betis 0 - 1 Leganés
+Real Betis 2 - 1 Mallorca
+Real Betis 0 - 0 Espanyol
+Alavés 0 - 0 Real Madrid
+Alavés 1 - 2 Barcelona
+Alavés 0 - 1 Atlético Madrid
+Alavés 0 - 1 Sevilla
+Alavés 0 - 2 Villarreal
+Alavés 1 - 1 Real Sociedad
+Alavés 1 - 1 Granada
+Alavés 0 - 2 Getafe
+Alavés 0 - 1 Valencia
+Alavés 0 - 1 Osasuna
+Alavés 0 - 0 Athletic Bilbao
+Alavés 0 - 0 Levante
+Alavés 0 - 1 Valladolid
+Alavés 1 - 1 Eibar
+Alavés 2 - 1 Real Betis
+Alavés 2 - 1 Celta Vigo
+Alavés 1 - 0 Leganés
+Alavés 2 - 1 Mallorca
+Alavés 1 - 2 Espanyol
+Celta Vigo 1 - 0 Real Madrid
+Celta Vigo 0 - 0 Barcelona
+Celta Vigo 1 - 2 Atlético Madrid
+Celta Vigo 1 - 0 Sevilla
+Celta Vigo 2 - 0 Villarreal
+Celta Vigo 0 - 1 Real Sociedad
+Celta Vigo 1 - 1 Granada
+Celta Vigo 0 - 1 Getafe
+Celta Vigo 2 - 0 Valencia
+Celta Vigo 0 - 2 Osasuna
+Celta Vigo 0 - 1 Athletic Bilbao
+Celta Vigo 0 - 0 Levante
+Celta Vigo 0 - 0 Valladolid
+Celta Vigo 1 - 0 Eibar
+Celta Vigo 1 - 2 Real Betis
+Celta Vigo 1 - 1 Alavés
+Celta Vigo 0 - 0 Leganés
+Celta Vigo 2 - 0 Mallorca
+Celta Vigo 0 - 0 Espanyol
+Leganés 0 - 0 Real Madrid
+Leganés 0 - 1 Barcelona
+Leganés 1 - 0 Atlético Madrid
+Leganés 0 - 1 Sevilla
+Leganés 0 - 1 Villarreal
+Leganés 0 - 2 Real Sociedad
+Leganés 0 - 1 Granada
+Leganés 0 - 2 Getafe
+Leganés 1 - 0 Valencia
+Leganés 0 - 0 Osasuna
+Leganés 1 - 1 Athletic Bilbao
+Leganés 0 - 0 Levante
+Leganés 0 - 0 Valladolid
+Leganés 1 - 1 Eibar
+Leganés 0 - 0 Real Betis
+Leganés 1 - 0 Alavés
+Leganés 1 - 1 Celta Vigo
+Leganés 1 - 2 Mallorca
+Leganés 1 - 1 Espanyol
+Mallorca 0 - 2 Real Madrid
+Mallorca 1 - 3 Barcelona
+Mallorca 0 - 1 Atlético Madrid
+Mallorca 0 - 2 Sevilla
+Mallorca 1 - 2 Villarreal
+Mallorca 0 - 0 Real Sociedad
+Mallorca 1 - 1 Granada
+Mallorca 1 - 2 Getafe
+Mallorca 1 - 2 Valencia
+Mallorca 2 - 2 Osasuna
+Mallorca 1 - 2 Athletic Bilbao
+Mallorca 1 - 2 Levante
+Mallorca 0 - 2 Valladolid
+Mallorca 1 - 2 Eibar
+Mallorca 1 - 1 Real Betis
+Mallorca 2 - 1 Alavés
+Mallorca 0 - 2 Celta Vigo
+Mallorca 1 - 0 Leganés
+Mallorca 1 - 2 Espanyol
+Espanyol 0 - 2 Real Madrid
+Espanyol 0 - 3 Barcelona
+Espanyol 0 - 0 Atlético Madrid
+Espanyol 0 - 0 Sevilla
+Espanyol 1 - 0 Villarreal
+Espanyol 0 - 2 Real Sociedad
+Espanyol 1 - 2 Granada
+Espanyol 1 - 1 Getafe
+Espanyol 0 - 2 Valencia
+Espanyol 0 - 1 Osasuna
+Espanyol 0 - 1 Athletic Bilbao
+Espanyol 1 - 1 Levante
+Espanyol 0 - 0 Valladolid
+Espanyol 1 - 1 Eibar
+Espanyol 2 - 1 Real Betis
+Espanyol 0 - 1 Alavés
+Espanyol 0 - 1 Celta Vigo
+Espanyol 1 - 0 Leganés
+Espanyol 2 - 2 Mallorca
+
+#---------------------------------
+#	 Season 485616
+#---------------------------------
+Real Madrid 0 - 2 Barcelona
+Real Madrid 0 - 0 Atlético Madrid
+Real Madrid 0 - 0 Sevilla
+Real Madrid 0 - 1 Villarreal
+Real Madrid 2 - 1 Real Sociedad
+Real Madrid 0 - 0 Granada
+Real Madrid 0 - 0 Getafe
+Real Madrid 1 - 1 Valencia
+Real Madrid 1 - 1 Osasuna
+Real Madrid 1 - 0 Athletic Bilbao
+Real Madrid 2 - 0 Levante
+Real Madrid 2 - 0 Valladolid
+Real Madrid 2 - 0 Eibar
+Real Madrid 0 - 1 Real Betis
+Real Madrid 2 - 1 Alavés
+Real Madrid 2 - 0 Celta Vigo
+Real Madrid 1 - 0 Leganés
+Real Madrid 0 - 1 Mallorca
+Real Madrid 1 - 0 Espanyol
+Barcelona 1 - 1 Real Madrid
+Barcelona 0 - 0 Atlético Madrid
+Barcelona 1 - 1 Sevilla
+Barcelona 0 - 0 Villarreal
+Barcelona 1 - 1 Real Sociedad
+Barcelona 1 - 2 Granada
+Barcelona 1 - 1 Getafe
+Barcelona 0 - 1 Valencia
+Barcelona 2 - 1 Osasuna
+Barcelona 0 - 0 Athletic Bilbao
+Barcelona 2 - 1 Levante
+Barcelona 0 - 0 Valladolid
+Barcelona 0 - 0 Eibar
+Barcelona 0 - 1 Real Betis
+Barcelona 2 - 1 Alavés
+Barcelona 1 - 1 Celta Vigo
+Barcelona 1 - 0 Leganés
+Barcelona 1 - 1 Mallorca
+Barcelona 0 - 0 Espanyol
+Atlético Madrid 1 - 0 Real Madrid
+Atlético Madrid 0 - 1 Barcelona
+Atlético Madrid 0 - 0 Sevilla
+Atlético Madrid 0 - 1 Villarreal
+Atlético Madrid 0 - 2 Real Sociedad
+Atlético Madrid 1 - 1 Granada
+Atlético Madrid 1 - 0 Getafe
+Atlético Madrid 1 - 0 Valencia
+Atlético Madrid 1 - 0 Osasuna
+Atlético Madrid 1 - 1 Athletic Bilbao
+Atlético Madrid 0 - 0 Levante
+Atlético Madrid 1 - 0 Valladolid
+Atlético Madrid 1 - 0 Eibar
+Atlético Madrid 1 - 1 Real Betis
+Atlético Madrid 1 - 0 Alavés
+Atlético Madrid 1 - 0 Celta Vigo
+Atlético Madrid 1 - 0 Leganés
+Atlético Madrid 0 - 1 Mallorca
+Atlético Madrid 2 - 0 Espanyol
+Sevilla 1 - 1 Real Madrid
+Sevilla 0 - 1 Barcelona
+Sevilla 1 - 0 Atlético Madrid
+Sevilla 0 - 1 Villarreal
+Sevilla 0 - 0 Real Sociedad
+Sevilla 0 - 0 Granada
+Sevilla 2 - 0 Getafe
+Sevilla 1 - 1 Valencia
+Sevilla 0 - 0 Osasuna
+Sevilla 1 - 1 Athletic Bilbao
+Sevilla 0 - 1 Levante
+Sevilla 2 - 0 Valladolid
+Sevilla 1 - 0 Eibar
+Sevilla 1 - 0 Real Betis
+Sevilla 0 - 0 Alavés
+Sevilla 2 - 1 Celta Vigo
+Sevilla 1 - 0 Leganés
+Sevilla 1 - 1 Mallorca
+Sevilla 1 - 1 Espanyol
+Villarreal 1 - 1 Real Madrid
+Villarreal 0 - 2 Barcelona
+Villarreal 0 - 0 Atlético Madrid
+Villarreal 1 - 0 Sevilla
+Villarreal 0 - 0 Real Sociedad
+Villarreal 1 - 0 Granada
+Villarreal 0 - 2 Getafe
+Villarreal 0 - 0 Valencia
+Villarreal 2 - 0 Osasuna
+Villarreal 1 - 1 Athletic Bilbao
+Villarreal 0 - 1 Levante
+Villarreal 1 - 1 Valladolid
+Villarreal 1 - 0 Eibar
+Villarreal 0 - 0 Real Betis
+Villarreal 1 - 1 Alavés
+Villarreal 2 - 1 Celta Vigo
+Villarreal 0 - 0 Leganés
+Villarreal 2 - 0 Mallorca
+Villarreal 1 - 0 Espanyol
+Real Sociedad 0 - 2 Real Madrid
+Real Sociedad 2 - 0 Barcelona
+Real Sociedad 1 - 0 Atlético Madrid
+Real Sociedad 1 - 2 Sevilla
+Real Sociedad 2 - 0 Villarreal
+Real Sociedad 1 - 0 Granada
+Real Sociedad 0 - 1 Getafe
+Real Sociedad 0 - 2 Valencia
+Real Sociedad 2 - 2 Osasuna
+Real Sociedad 1 - 0 Athletic Bilbao
+Real Sociedad 0 - 0 Levante
+Real Sociedad 0 - 0 Valladolid
+Real Sociedad 2 - 1 Eibar
+Real Sociedad 1 - 0 Real Betis
+Real Sociedad 0 - 0 Alavés
+Real Sociedad 0 - 1 Celta Vigo
+Real Sociedad 1 - 1 Leganés
+Real Sociedad 2 - 2 Mallorca
+Real Sociedad 2 - 1 Espanyol
+Granada 1 - 0 Real Madrid
+Granada 0 - 2 Barcelona
+Granada 0 - 0 Atlético Madrid
+Granada 1 - 0 Sevilla
+Granada 0 - 0 Villarreal
+Granada 0 - 0 Real Sociedad
+Granada 1 - 1 Getafe
+Granada 1 - 0 Valencia
+Granada 0 - 0 Osasuna
+Granada 1 - 1 Athletic Bilbao
+Granada 1 - 0 Levante
+Granada 2 - 1 Valladolid
+Granada 2 - 2 Eibar
+Granada 2 - 1 Real Betis
+Granada 1 - 1 Alavés
+Granada 1 - 0 Celta Vigo
+Granada 0 - 1 Leganés
+Granada 0 - 1 Mallorca
+Granada 0 - 1 Espanyol
+Getafe 1 - 2 Real Madrid
+Getafe 1 - 1 Barcelona
+Getafe 0 - 0 Atlético Madrid
+Getafe 1 - 1 Sevilla
+Getafe 1 - 1 Villarreal
+Getafe 0 - 1 Real Sociedad
+Getafe 1 - 1 Granada
+Getafe 1 - 0 Valencia
+Getafe 1 - 1 Osasuna
+Getafe 0 - 1 Athletic Bilbao
+Getafe 1 - 0 Levante
+Getafe 0 - 0 Valladolid
+Getafe 1 - 1 Eibar
+Getafe 1 - 2 Real Betis
+Getafe 0 - 1 Alavés
+Getafe 1 - 0 Celta Vigo
+Getafe 2 - 0 Leganés
+Getafe 0 - 1 Mallorca
+Getafe 2 - 1 Espanyol
+Valencia 1 - 1 Real Madrid
+Valencia 1 - 0 Barcelona
+Valencia 0 - 1 Atlético Madrid
+Valencia 0 - 0 Sevilla
+Valencia 0 - 0 Villarreal
+Valencia 2 - 2 Real Sociedad
+Valencia 0 - 0 Granada
+Valencia 0 - 1 Getafe
+Valencia 2 - 1 Osasuna
+Valencia 1 - 1 Athletic Bilbao
+Valencia 1 - 2 Levante
+Valencia 1 - 2 Valladolid
+Valencia 1 - 2 Eibar
+Valencia 2 - 0 Real Betis
+Valencia 1 - 0 Alavés
+Valencia 0 - 1 Celta Vigo
+Valencia 1 - 1 Leganés
+Valencia 0 - 2 Mallorca
+Valencia 0 - 1 Espanyol
+Osasuna 1 - 2 Real Madrid
+Osasuna 1 - 1 Barcelona
+Osasuna 0 - 1 Atlético Madrid
+Osasuna 0 - 1 Sevilla
+Osasuna 1 - 1 Villarreal
+Osasuna 0 - 1 Real Sociedad
+Osasuna 1 - 1 Granada
+Osasuna 1 - 1 Getafe
+Osasuna 0 - 1 Valencia
+Osasuna 1 - 1 Athletic Bilbao
+Osasuna 1 - 1 Levante
+Osasuna 1 - 0 Valladolid
+Osasuna 1 - 0 Eibar
+Osasuna 2 - 0 Real Betis
+Osasuna 0 - 1 Alavés
+Osasuna 2 - 0 Celta Vigo
+Osasuna 1 - 0 Leganés
+Osasuna 1 - 0 Mallorca
+Osasuna 1 - 0 Espanyol
+Athletic Bilbao 1 - 1 Real Madrid
+Athletic Bilbao 1 - 0 Barcelona
+Athletic Bilbao 0 - 0 Atlético Madrid
+Athletic Bilbao 0 - 0 Sevilla
+Athletic Bilbao 1 - 1 Villarreal
+Athletic Bilbao 2 - 2 Real Sociedad
+Athletic Bilbao 0 - 1 Granada
+Athletic Bilbao 0 - 1 Getafe
+Athletic Bilbao 2 - 1 Valencia
+Athletic Bilbao 0 - 1 Osasuna
+Athletic Bilbao 2 - 0 Levante
+Athletic Bilbao 1 - 0 Valladolid
+Athletic Bilbao 0 - 1 Eibar
+Athletic Bilbao 1 - 1 Real Betis
+Athletic Bilbao 2 - 0 Alavés
+Athletic Bilbao 2 - 1 Celta Vigo
+Athletic Bilbao 2 - 0 Leganés
+Athletic Bilbao 2 - 0 Mallorca
+Athletic Bilbao 1 - 0 Espanyol
+Levante 1 - 1 Real Madrid
+Levante 1 - 2 Barcelona
+Levante 1 - 0 Atlético Madrid
+Levante 0 - 0 Sevilla
+Levante 0 - 0 Villarreal
+Levante 0 - 2 Real Sociedad
+Levante 1 - 0 Granada
+Levante 2 - 1 Getafe
+Levante 0 - 0 Valencia
+Levante 2 - 1 Osasuna
+Levante 0 - 1 Athletic Bilbao
+Levante 1 - 0 Valladolid
+Levante 0 - 0 Eibar
+Levante 2 - 0 Real Betis
+Levante 0 - 0 Alavés
+Levante 1 - 1 Celta Vigo
+Levante 2 - 1 Leganés
+Levante 2 - 1 Mallorca
+Levante 2 - 0 Espanyol
+Valladolid 0 - 1 Real Madrid
+Valladolid 1 - 2 Barcelona
+Valladolid 0 - 0 Atlético Madrid
+Valladolid 1 - 0 Sevilla
+Valladolid 1 - 2 Villarreal
+Valladolid 1 - 0 Real Sociedad
+Valladolid 1 - 1 Granada
+Valladolid 1 - 0 Getafe
+Valladolid 0 - 0 Valencia
+Valladolid 1 - 1 Osasuna
+Valladolid 0 - 0 Athletic Bilbao
+Valladolid 0 - 0 Levante
+Valladolid 0 - 2 Eibar
+Valladolid 1 - 0 Real Betis
+Valladolid 0 - 1 Alavés
+Valladolid 0 - 0 Celta Vigo
+Valladolid 1 - 0 Leganés
+Valladolid 1 - 0 Mallorca
+Valladolid 1 - 0 Espanyol
+Eibar 0 - 1 Real Madrid
+Eibar 1 - 0 Barcelona
+Eibar 0 - 2 Atlético Madrid
+Eibar 0 - 2 Sevilla
+Eibar 1 - 0 Villarreal
+Eibar 0 - 2 Real Sociedad
+Eibar 0 - 1 Granada
+Eibar 1 - 1 Getafe
+Eibar 1 - 0 Valencia
+Eibar 0 - 2 Osasuna
+Eibar 0 - 1 Athletic Bilbao
+Eibar 1 - 1 Levante
+Eibar 2 - 1 Valladolid
+Eibar 1 - 1 Real Betis
+Eibar 0 - 1 Alavés
+Eibar 1 - 0 Celta Vigo
+Eibar 0 - 2 Leganés
+Eibar 2 - 1 Mallorca
+Eibar 2 - 0 Espanyol
+Real Betis 1 - 0 Real Madrid
+Real Betis 1 - 1 Barcelona
+Real Betis 0 - 1 Atlético Madrid
+Real Betis 0 - 0 Sevilla
+Real Betis 2 - 2 Villarreal
+Real Betis 1 - 0 Real Sociedad
+Real Betis 0 - 1 Granada
+Real Betis 1 - 2 Getafe
+Real Betis 2 - 1 Valencia
+Real Betis 1 - 2 Osasuna
+Real Betis 0 - 1 Athletic Bilbao
+Real Betis 1 - 2 Levante
+Real Betis 1 - 1 Valladolid
+Real Betis 0 - 1 Eibar
+Real Betis 1 - 0 Alavés
+Real Betis 1 - 0 Celta Vigo
+Real Betis 1 - 1 Leganés
+Real Betis 0 - 0 Mallorca
+Real Betis 0 - 0 Espanyol
+Alavés 0 - 1 Real Madrid
+Alavés 0 - 2 Barcelona
+Alavés 0 - 1 Atlético Madrid
+Alavés 1 - 0 Sevilla
+Alavés 1 - 0 Villarreal
+Alavés 1 - 1 Real Sociedad
+Alavés 0 - 1 Granada
+Alavés 1 - 0 Getafe
+Alavés 0 - 0 Valencia
+Alavés 1 - 0 Osasuna
+Alavés 1 - 1 Athletic Bilbao
+Alavés 0 - 0 Levante
+Alavés 1 - 1 Valladolid
+Alavés 0 - 1 Eibar
+Alavés 1 - 2 Real Betis
+Alavés 0 - 1 Celta Vigo
+Alavés 1 - 1 Leganés
+Alavés 1 - 0 Mallorca
+Alavés 0 - 1 Espanyol
+Celta Vigo 1 - 0 Real Madrid
+Celta Vigo 0 - 2 Barcelona
+Celta Vigo 0 - 2 Atlético Madrid
+Celta Vigo 0 - 2 Sevilla
+Celta Vigo 0 - 0 Villarreal
+Celta Vigo 0 - 1 Real Sociedad
+Celta Vigo 0 - 2 Granada
+Celta Vigo 0 - 2 Getafe
+Celta Vigo 1 - 0 Valencia
+Celta Vigo 0 - 0 Osasuna
+Celta Vigo 1 - 0 Athletic Bilbao
+Celta Vigo 0 - 0 Levante
+Celta Vigo 0 - 1 Valladolid
+Celta Vigo 2 - 1 Eibar
+Celta Vigo 2 - 0 Real Betis
+Celta Vigo 0 - 1 Alavés
+Celta Vigo 1 - 1 Leganés
+Celta Vigo 1 - 1 Mallorca
+Celta Vigo 0 - 0 Espanyol
+Leganés 0 - 0 Real Madrid
+Leganés 0 - 0 Barcelona
+Leganés 0 - 0 Atlético Madrid
+Leganés 0 - 0 Sevilla
+Leganés 1 - 1 Villarreal
+Leganés 0 - 1 Real Sociedad
+Leganés 0 - 2 Granada
+Leganés 1 - 0 Getafe
+Leganés 1 - 0 Valencia
+Leganés 1 - 2 Osasuna
+Leganés 0 - 1 Athletic Bilbao
+Leganés 0 - 0 Levante
+Leganés 1 - 1 Valladolid
+Leganés 0 - 1 Eibar
+Leganés 2 - 1 Real Betis
+Leganés 0 - 1 Alavés
+Leganés 1 - 0 Celta Vigo
+Leganés 2 - 0 Mallorca
+Leganés 0 - 1 Espanyol
+Mallorca 1 - 1 Real Madrid
+Mallorca 2 - 3 Barcelona
+Mallorca 0 - 1 Atlético Madrid
+Mallorca 0 - 0 Sevilla
+Mallorca 0 - 0 Villarreal
+Mallorca 1 - 1 Real Sociedad
+Mallorca 1 - 1 Granada
+Mallorca 0 - 0 Getafe
+Mallorca 2 - 2 Valencia
+Mallorca 0 - 2 Osasuna
+Mallorca 0 - 2 Athletic Bilbao
+Mallorca 2 - 1 Levante
+Mallorca 0 - 0 Valladolid
+Mallorca 0 - 1 Eibar
+Mallorca 2 - 2 Real Betis
+Mallorca 0 - 2 Alavés
+Mallorca 0 - 0 Celta Vigo
+Mallorca 1 - 0 Leganés
+Mallorca 2 - 0 Espanyol
+Espanyol 0 - 2 Real Madrid
+Espanyol 1 - 3 Barcelona
+Espanyol 0 - 0 Atlético Madrid
+Espanyol 1 - 1 Sevilla
+Espanyol 1 - 2 Villarreal
+Espanyol 1 - 2 Real Sociedad
+Espanyol 0 - 0 Granada
+Espanyol 1 - 0 Getafe
+Espanyol 1 - 2 Valencia
+Espanyol 0 - 0 Osasuna
+Espanyol 0 - 0 Athletic Bilbao
+Espanyol 0 - 2 Levante
+Espanyol 0 - 0 Valladolid
+Espanyol 0 - 2 Eibar
+Espanyol 0 - 2 Real Betis
+Espanyol 2 - 1 Alavés
+Espanyol 0 - 1 Celta Vigo
+Espanyol 0 - 1 Leganés
+Espanyol 2 - 0 Mallorca
+
+#---------------------------------
+#	 Season 512865
+#---------------------------------
+Real Madrid 1 - 0 Barcelona
+Real Madrid 0 - 1 Atlético Madrid
+Real Madrid 1 - 1 Sevilla
+Real Madrid 3 - 1 Villarreal
+Real Madrid 2 - 1 Real Sociedad
+Real Madrid 2 - 0 Granada
+Real Madrid 1 - 1 Getafe
+Real Madrid 2 - 0 Valencia
+Real Madrid 2 - 0 Osasuna
+Real Madrid 1 - 1 Athletic Bilbao
+Real Madrid 2 - 0 Levante
+Real Madrid 1 - 0 Valladolid
+Real Madrid 2 - 0 Eibar
+Real Madrid 0 - 0 Real Betis
+Real Madrid 2 - 1 Alavés
+Real Madrid 2 - 0 Celta Vigo
+Real Madrid 2 - 0 Leganés
+Real Madrid 1 - 1 Mallorca
+Real Madrid 0 - 0 Espanyol
+Barcelona 2 - 0 Real Madrid
+Barcelona 0 - 2 Atlético Madrid
+Barcelona 2 - 2 Sevilla
+Barcelona 2 - 0 Villarreal
+Barcelona 2 - 0 Real Sociedad
+Barcelona 0 - 1 Granada
+Barcelona 2 - 0 Getafe
+Barcelona 2 - 1 Valencia
+Barcelona 2 - 1 Osasuna
+Barcelona 2 - 1 Athletic Bilbao
+Barcelona 0 - 0 Levante
+Barcelona 0 - 1 Valladolid
+Barcelona 3 - 1 Eibar
+Barcelona 3 - 0 Real Betis
+Barcelona 0 - 0 Alavés
+Barcelona 1 - 1 Celta Vigo
+Barcelona 1 - 0 Leganés
+Barcelona 1 - 0 Mallorca
+Barcelona 2 - 1 Espanyol
+Atlético Madrid 1 - 1 Real Madrid
+Atlético Madrid 1 - 1 Barcelona
+Atlético Madrid 1 - 0 Sevilla
+Atlético Madrid 2 - 0 Villarreal
+Atlético Madrid 0 - 1 Real Sociedad
+Atlético Madrid 2 - 0 Granada
+Atlético Madrid 0 - 0 Getafe
+Atlético Madrid 0 - 0 Valencia
+Atlético Madrid 1 - 1 Osasuna
+Atlético Madrid 1 - 0 Athletic Bilbao
+Atlético Madrid 0 - 1 Levante
+Atlético Madrid 0 - 0 Valladolid
+Atlético Madrid 0 - 0 Eibar
+Atlético Madrid 2 - 0 Real Betis
+Atlético Madrid 2 - 1 Alavés
+Atlético Madrid 1 - 0 Celta Vigo
+Atlético Madrid 0 - 1 Leganés
+Atlético Madrid 0 - 0 Mallorca
+Atlético Madrid 2 - 0 Espanyol
+Sevilla 0 - 0 Real Madrid
+Sevilla 0 - 2 Barcelona
+Sevilla 1 - 0 Atlético Madrid
+Sevilla 1 - 0 Villarreal
+Sevilla 0 - 2 Real Sociedad
+Sevilla 1 - 2 Granada
+Sevilla 2 - 1 Getafe
+Sevilla 1 - 1 Valencia
+Sevilla 1 - 0 Osasuna
+Sevilla 1 - 0 Athletic Bilbao
+Sevilla 1 - 1 Levante
+Sevilla 0 - 0 Valladolid
+Sevilla 0 - 0 Eibar
+Sevilla 0 - 1 Real Betis
+Sevilla 0 - 0 Alavés
+Sevilla 0 - 0 Celta Vigo
+Sevilla 1 - 1 Leganés
+Sevilla 1 - 1 Mallorca
+Sevilla 0 - 0 Espanyol
+Villarreal 2 - 2 Real Madrid
+Villarreal 0 - 3 Barcelona
+Villarreal 0 - 2 Atlético Madrid
+Villarreal 1 - 0 Sevilla
+Villarreal 2 - 2 Real Sociedad
+Villarreal 1 - 1 Granada
+Villarreal 0 - 0 Getafe
+Villarreal 1 - 1 Valencia
+Villarreal 3 - 2 Osasuna
+Villarreal 2 - 1 Athletic Bilbao
+Villarreal 1 - 1 Levante
+Villarreal 0 - 1 Valladolid
+Villarreal 0 - 1 Eibar
+Villarreal 1 - 1 Real Betis
+Villarreal 0 - 2 Alavés
+Villarreal 1 - 0 Celta Vigo
+Villarreal 1 - 0 Leganés
+Villarreal 0 - 1 Mallorca
+Villarreal 0 - 1 Espanyol
+Real Sociedad 0 - 1 Real Madrid
+Real Sociedad 2 - 0 Barcelona
+Real Sociedad 1 - 0 Atlético Madrid
+Real Sociedad 0 - 1 Sevilla
+Real Sociedad 0 - 1 Villarreal
+Real Sociedad 2 - 0 Granada
+Real Sociedad 2 - 0 Getafe
+Real Sociedad 2 - 1 Valencia
+Real Sociedad 2 - 1 Osasuna
+Real Sociedad 1 - 0 Athletic Bilbao
+Real Sociedad 2 - 1 Levante
+Real Sociedad 0 - 0 Valladolid
+Real Sociedad 2 - 1 Eibar
+Real Sociedad 1 - 1 Real Betis
+Real Sociedad 0 - 2 Alavés
+Real Sociedad 2 - 1 Celta Vigo
+Real Sociedad 0 - 0 Leganés
+Real Sociedad 1 - 0 Mallorca
+Real Sociedad 1 - 0 Espanyol
+Granada 1 - 2 Real Madrid
+Granada 1 - 2 Barcelona
+Granada 0 - 0 Atlético Madrid
+Granada 1 - 0 Sevilla
+Granada 0 - 2 Villarreal
+Granada 0 - 2 Real Sociedad
+Granada 0 - 1 Getafe
+Granada 2 - 2 Valencia
+Granada 2 - 1 Osasuna
+Granada 0 - 1 Athletic Bilbao
+Granada 1 - 1 Levante
+Granada 1 - 1 Valladolid
+Granada 1 - 0 Eibar
+Granada 1 - 0 Real Betis
+Granada 2 - 1 Alavés
+Granada 2 - 0 Celta Vigo
+Granada 0 - 1 Leganés
+Granada 2 - 1 Mallorca
+Granada 2 - 0 Espanyol
+Getafe 0 - 0 Real Madrid
+Getafe 1 - 2 Barcelona
+Getafe 1 - 1 Atlético Madrid
+Getafe 0 - 0 Sevilla
+Getafe 1 - 0 Villarreal
+Getafe 1 - 1 Real Sociedad
+Getafe 1 - 1 Granada
+Getafe 0 - 1 Valencia
+Getafe 2 - 0 Osasuna
+Getafe 1 - 0 Athletic Bilbao
+Getafe 0 - 0 Levante
+Getafe 1 - 0 Valladolid
+Getafe 0 - 1 Eibar
+Getafe 0 - 1 Real Betis
+Getafe 1 - 1 Alavés
+Getafe 1 - 0 Celta Vigo
+Getafe 0 - 1 Leganés
+Getafe 1 - 1 Mallorca
+Getafe 1 - 1 Espanyol
+Valencia 1 - 2 Real Madrid
+Valencia 0 - 0 Barcelona
+Valencia 1 - 0 Atlético Madrid
+Valencia 1 - 1 Sevilla
+Valencia 2 - 3 Villarreal
+Valencia 0 - 1 Real Sociedad
+Valencia 1 - 1 Granada
+Valencia 0 - 1 Getafe
+Valencia 2 - 0 Osasuna
+Valencia 0 - 0 Athletic Bilbao
+Valencia 1 - 0 Levante
+Valencia 1 - 0 Valladolid
+Valencia 1 - 1 Eibar
+Valencia 1 - 1 Real Betis
+Valencia 0 - 1 Alavés
+Valencia 0 - 0 Celta Vigo
+Valencia 0 - 0 Leganés
+Valencia 0 - 1 Mallorca
+Valencia 2 - 0 Espanyol
+Osasuna 0 - 2 Real Madrid
+Osasuna 1 - 2 Barcelona
+Osasuna 1 - 0 Atlético Madrid
+Osasuna 1 - 0 Sevilla
+Osasuna 0 - 0 Villarreal
+Osasuna 2 - 1 Real Sociedad
+Osasuna 2 - 1 Granada
+Osasuna 1 - 0 Getafe
+Osasuna 0 - 2 Valencia
+Osasuna 0 - 2 Athletic Bilbao
+Osasuna 1 - 0 Levante
+Osasuna 1 - 0 Valladolid
+Osasuna 0 - 0 Eibar
+Osasuna 2 - 1 Real Betis
+Osasuna 0 - 1 Alavés
+Osasuna 1 - 1 Celta Vigo
+Osasuna 1 - 1 Leganés
+Osasuna 2 - 1 Mallorca
+Osasuna 0 - 1 Espanyol
+Athletic Bilbao 0 - 1 Real Madrid
+Athletic Bilbao 1 - 0 Barcelona
+Athletic Bilbao 0 - 0 Atlético Madrid
+Athletic Bilbao 1 - 1 Sevilla
+Athletic Bilbao 0 - 2 Villarreal
+Athletic Bilbao 1 - 0 Real Sociedad
+Athletic Bilbao 1 - 0 Granada
+Athletic Bilbao 1 - 2 Getafe
+Athletic Bilbao 1 - 0 Valencia
+Athletic Bilbao 0 - 1 Osasuna
+Athletic Bilbao 1 - 1 Levante
+Athletic Bilbao 0 - 0 Valladolid
+Athletic Bilbao 0 - 1 Eibar
+Athletic Bilbao 1 - 0 Real Betis
+Athletic Bilbao 2 - 0 Alavés
+Athletic Bilbao 1 - 1 Celta Vigo
+Athletic Bilbao 2 - 1 Leganés
+Athletic Bilbao 0 - 1 Mallorca
+Athletic Bilbao 0 - 0 Espanyol
+Levante 1 - 0 Real Madrid
+Levante 1 - 1 Barcelona
+Levante 0 - 2 Atlético Madrid
+Levante 2 - 0 Sevilla
+Levante 2 - 0 Villarreal
+Levante 2 - 2 Real Sociedad
+Levante 0 - 2 Granada
+Levante 0 - 1 Getafe
+Levante 0 - 2 Valencia
+Levante 0 - 1 Osasuna
+Levante 0 - 2 Athletic Bilbao
+Levante 1 - 0 Valladolid
+Levante 2 - 2 Eibar
+Levante 0 - 2 Real Betis
+Levante 0 - 0 Alavés
+Levante 0 - 2 Celta Vigo
+Levante 1 - 0 Leganés
+Levante 1 - 0 Mallorca
+Levante 0 - 0 Espanyol
+Valladolid 0 - 1 Real Madrid
+Valladolid 0 - 0 Barcelona
+Valladolid 0 - 0 Atlético Madrid
+Valladolid 0 - 0 Sevilla
+Valladolid 1 - 2 Villarreal
+Valladolid 1 - 0 Real Sociedad
+Valladolid 0 - 0 Granada
+Valladolid 1 - 1 Getafe
+Valladolid 0 - 1 Valencia
+Valladolid 0 - 0 Osasuna
+Valladolid 0 - 0 Athletic Bilbao
+Valladolid 1 - 0 Levante
+Valladolid 0 - 1 Eibar
+Valladolid 0 - 0 Real Betis
+Valladolid 0 - 0 Alavés
+Valladolid 0 - 0 Celta Vigo
+Valladolid 1 - 1 Leganés
+Valladolid 0 - 1 Mallorca
+Valladolid 1 - 1 Espanyol
+Eibar 0 - 1 Real Madrid
+Eibar 1 - 3 Barcelona
+Eibar 0 - 1 Atlético Madrid
+Eibar 0 - 2 Sevilla
+Eibar 1 - 2 Villarreal
+Eibar 0 - 0 Real Sociedad
+Eibar 1 - 2 Granada
+Eibar 1 - 1 Getafe
+Eibar 1 - 1 Valencia
+Eibar 1 - 0 Osasuna
+Eibar 0 - 1 Athletic Bilbao
+Eibar 0 - 1 Levante
+Eibar 2 - 1 Valladolid
+Eibar 1 - 0 Real Betis
+Eibar 1 - 1 Alavés
+Eibar 0 - 2 Celta Vigo
+Eibar 0 - 1 Leganés
+Eibar 0 - 1 Mallorca
+Eibar 1 - 0 Espanyol
+Real Betis 0 - 0 Real Madrid
+Real Betis 1 - 0 Barcelona
+Real Betis 0 - 1 Atlético Madrid
+Real Betis 1 - 2 Sevilla
+Real Betis 1 - 0 Villarreal
+Real Betis 1 - 2 Real Sociedad
+Real Betis 0 - 2 Granada
+Real Betis 2 - 1 Getafe
+Real Betis 2 - 2 Valencia
+Real Betis 1 - 0 Osasuna
+Real Betis 2 - 1 Athletic Bilbao
+Real Betis 2 - 0 Levante
+Real Betis 0 - 0 Valladolid
+Real Betis 1 - 0 Eibar
+Real Betis 2 - 0 Alavés
+Real Betis 2 - 0 Celta Vigo
+Real Betis 2 - 0 Leganés
+Real Betis 1 - 1 Mallorca
+Real Betis 0 - 1 Espanyol
+Alavés 0 - 1 Real Madrid
+Alavés 1 - 0 Barcelona
+Alavés 0 - 1 Atlético Madrid
+Alavés 1 - 2 Sevilla
+Alavés 0 - 1 Villarreal
+Alavés 0 - 2 Real Sociedad
+Alavés 1 - 1 Granada
+Alavés 0 - 0 Getafe
+Alavés 1 - 1 Valencia
+Alavés 0 - 1 Osasuna
+Alavés 0 - 0 Athletic Bilbao
+Alavés 2 - 1 Levante
+Alavés 0 - 0 Valladolid
+Alavés 0 - 1 Eibar
+Alavés 2 - 1 Real Betis
+Alavés 0 - 0 Celta Vigo
+Alavés 0 - 0 Leganés
+Alavés 1 - 0 Mallorca
+Alavés 1 - 2 Espanyol
+Celta Vigo 0 - 1 Real Madrid
+Celta Vigo 0 - 1 Barcelona
+Celta Vigo 0 - 0 Atlético Madrid
+Celta Vigo 0 - 2 Sevilla
+Celta Vigo 1 - 0 Villarreal
+Celta Vigo 1 - 1 Real Sociedad
+Celta Vigo 2 - 2 Granada
+Celta Vigo 0 - 2 Getafe
+Celta Vigo 1 - 0 Valencia
+Celta Vigo 1 - 2 Osasuna
+Celta Vigo 1 - 2 Athletic Bilbao
+Celta Vigo 0 - 0 Levante
+Celta Vigo 1 - 1 Valladolid
+Celta Vigo 0 - 1 Eibar
+Celta Vigo 2 - 0 Real Betis
+Celta Vigo 0 - 0 Alavés
+Celta Vigo 1 - 0 Leganés
+Celta Vigo 0 - 2 Mallorca
+Celta Vigo 2 - 1 Espanyol
+Leganés 1 - 2 Real Madrid
+Leganés 0 - 1 Barcelona
+Leganés 0 - 0 Atlético Madrid
+Leganés 0 - 0 Sevilla
+Leganés 1 - 0 Villarreal
+Leganés 1 - 0 Real Sociedad
+Leganés 0 - 0 Granada
+Leganés 0 - 2 Getafe
+Leganés 0 - 1 Valencia
+Leganés 0 - 0 Osasuna
+Leganés 1 - 1 Athletic Bilbao
+Leganés 0 - 0 Levante
+Leganés 0 - 0 Valladolid
+Leganés 0 - 1 Eibar
+Leganés 0 - 1 Real Betis
+Leganés 1 - 0 Alavés
+Leganés 1 - 2 Celta Vigo
+Leganés 0 - 1 Mallorca
+Leganés 0 - 0 Espanyol
+Mallorca 0 - 0 Real Madrid
+Mallorca 1 - 1 Barcelona
+Mallorca 0 - 2 Atlético Madrid
+Mallorca 1 - 2 Sevilla
+Mallorca 1 - 2 Villarreal
+Mallorca 1 - 2 Real Sociedad
+Mallorca 0 - 2 Granada
+Mallorca 1 - 2 Getafe
+Mallorca 0 - 2 Valencia
+Mallorca 1 - 0 Osasuna
+Mallorca 0 - 0 Athletic Bilbao
+Mallorca 1 - 0 Levante
+Mallorca 0 - 0 Valladolid
+Mallorca 1 - 1 Eibar
+Mallorca 0 - 1 Real Betis
+Mallorca 0 - 2 Alavés
+Mallorca 1 - 1 Celta Vigo
+Mallorca 0 - 2 Leganés
+Mallorca 1 - 0 Espanyol
+Espanyol 1 - 0 Real Madrid
+Espanyol 0 - 1 Barcelona
+Espanyol 0 - 1 Atlético Madrid
+Espanyol 1 - 0 Sevilla
+Espanyol 0 - 2 Villarreal
+Espanyol 1 - 0 Real Sociedad
+Espanyol 1 - 0 Granada
+Espanyol 1 - 0 Getafe
+Espanyol 0 - 0 Valencia
+Espanyol 0 - 1 Osasuna
+Espanyol 0 - 2 Athletic Bilbao
+Espanyol 0 - 0 Levante
+Espanyol 0 - 0 Valladolid
+Espanyol 1 - 2 Eibar
+Espanyol 0 - 1 Real Betis
+Espanyol 1 - 2 Alavés
+Espanyol 0 - 0 Celta Vigo
+Espanyol 0 - 1 Leganés
+Espanyol 1 - 2 Mallorca
+
+#---------------------------------
+#	 Season 648180
+#---------------------------------
+Real Madrid 0 - 2 Barcelona
+Real Madrid 1 - 0 Atlético Madrid
+Real Madrid 0 - 0 Sevilla
+Real Madrid 3 - 1 Villarreal
+Real Madrid 1 - 1 Real Sociedad
+Real Madrid 0 - 1 Granada
+Real Madrid 0 - 1 Getafe
+Real Madrid 0 - 1 Valencia
+Real Madrid 2 - 1 Osasuna
+Real Madrid 1 - 0 Athletic Bilbao
+Real Madrid 0 - 0 Levante
+Real Madrid 2 - 0 Valladolid
+Real Madrid 0 - 0 Eibar
+Real Madrid 2 - 1 Real Betis
+Real Madrid 2 - 0 Alavés
+Real Madrid 1 - 1 Celta Vigo
+Real Madrid 0 - 0 Leganés
+Real Madrid 2 - 0 Mallorca
+Real Madrid 1 - 1 Espanyol
+Barcelona 1 - 1 Real Madrid
+Barcelona 0 - 1 Atlético Madrid
+Barcelona 2 - 2 Sevilla
+Barcelona 0 - 2 Villarreal
+Barcelona 1 - 1 Real Sociedad
+Barcelona 1 - 0 Granada
+Barcelona 0 - 1 Getafe
+Barcelona 2 - 1 Valencia
+Barcelona 2 - 2 Osasuna
+Barcelona 0 - 0 Athletic Bilbao
+Barcelona 0 - 1 Levante
+Barcelona 0 - 0 Valladolid
+Barcelona 0 - 0 Eibar
+Barcelona 0 - 0 Real Betis
+Barcelona 1 - 1 Alavés
+Barcelona 0 - 1 Celta Vigo
+Barcelona 0 - 0 Leganés
+Barcelona 3 - 0 Mallorca
+Barcelona 3 - 1 Espanyol
+Atlético Madrid 0 - 0 Real Madrid
+Atlético Madrid 0 - 1 Barcelona
+Atlético Madrid 0 - 0 Sevilla
+Atlético Madrid 0 - 1 Villarreal
+Atlético Madrid 2 - 1 Real Sociedad
+Atlético Madrid 0 - 1 Granada
+Atlético Madrid 0 - 1 Getafe
+Atlético Madrid 0 - 0 Valencia
+Atlético Madrid 1 - 1 Osasuna
+Atlético Madrid 0 - 1 Athletic Bilbao
+Atlético Madrid 0 - 1 Levante
+Atlético Madrid 1 - 1 Valladolid
+Atlético Madrid 0 - 1 Eibar
+Atlético Madrid 1 - 0 Real Betis
+Atlético Madrid 2 - 0 Alavés
+Atlético Madrid 1 - 0 Celta Vigo
+Atlético Madrid 1 - 1 Leganés
+Atlético Madrid 2 - 0 Mallorca
+Atlético Madrid 0 - 1 Espanyol
+Sevilla 1 - 0 Real Madrid
+Sevilla 2 - 2 Barcelona
+Sevilla 0 - 0 Atlético Madrid
+Sevilla 0 - 2 Villarreal
+Sevilla 1 - 0 Real Sociedad
+Sevilla 1 - 0 Granada
+Sevilla 0 - 0 Getafe
+Sevilla 0 - 0 Valencia
+Sevilla 1 - 1 Osasuna
+Sevilla 0 - 0 Athletic Bilbao
+Sevilla 0 - 1 Levante
+Sevilla 1 - 1 Valladolid
+Sevilla 1 - 1 Eibar
+Sevilla 0 - 1 Real Betis
+Sevilla 0 - 0 Alavés
+Sevilla 2 - 0 Celta Vigo
+Sevilla 2 - 1 Leganés
+Sevilla 0 - 0 Mallorca
+Sevilla 2 - 1 Espanyol
+Villarreal 1 - 1 Real Madrid
+Villarreal 2 - 1 Barcelona
+Villarreal 0 - 0 Atlético Madrid
+Villarreal 1 - 2 Sevilla
+Villarreal 2 - 1 Real Sociedad
+Villarreal 0 - 1 Granada
+Villarreal 1 - 0 Getafe
+Villarreal 2 - 0 Valencia
+Villarreal 1 - 0 Osasuna
+Villarreal 1 - 0 Athletic Bilbao
+Villarreal 0 - 1 Levante
+Villarreal 0 - 0 Valladolid
+Villarreal 2 - 0 Eibar
+Villarreal 1 - 1 Real Betis
+Villarreal 1 - 1 Alavés
+Villarreal 2 - 2 Celta Vigo
+Villarreal 0 - 1 Leganés
+Villarreal 0 - 1 Mallorca
+Villarreal 1 - 1 Espanyol
+Real Sociedad 1 - 0 Real Madrid
+Real Sociedad 0 - 2 Barcelona
+Real Sociedad 1 - 2 Atlético Madrid
+Real Sociedad 1 - 1 Sevilla
+Real Sociedad 2 - 2 Villarreal
+Real Sociedad 1 - 2 Granada
+Real Sociedad 0 - 0 Getafe
+Real Sociedad 1 - 2 Valencia
+Real Sociedad 1 - 2 Osasuna
+Real Sociedad 0 - 1 Athletic Bilbao
+Real Sociedad 1 - 1 Levante
+Real Sociedad 1 - 0 Valladolid
+Real Sociedad 1 - 0 Eibar
+Real Sociedad 1 - 1 Real Betis
+Real Sociedad 1 - 1 Alavés
+Real Sociedad 0 - 2 Celta Vigo
+Real Sociedad 1 - 1 Leganés
+Real Sociedad 1 - 0 Mallorca
+Real Sociedad 2 - 0 Espanyol
+Granada 1 - 0 Real Madrid
+Granada 1 - 1 Barcelona
+Granada 1 - 1 Atlético Madrid
+Granada 0 - 1 Sevilla
+Granada 0 - 2 Villarreal
+Granada 1 - 0 Real Sociedad
+Granada 0 - 0 Getafe
+Granada 1 - 1 Valencia
+Granada 0 - 1 Osasuna
+Granada 1 - 2 Athletic Bilbao
+Granada 0 - 0 Levante
+Granada 0 - 0 Valladolid
+Granada 0 - 0 Eibar
+Granada 1 - 1 Real Betis
+Granada 0 - 0 Alavés
+Granada 1 - 0 Celta Vigo
+Granada 0 - 1 Leganés
+Granada 0 - 2 Mallorca
+Granada 2 - 0 Espanyol
+Getafe 0 - 0 Real Madrid
+Getafe 0 - 3 Barcelona
+Getafe 0 - 1 Atlético Madrid
+Getafe 1 - 0 Sevilla
+Getafe 0 - 2 Villarreal
+Getafe 1 - 2 Real Sociedad
+Getafe 1 - 1 Granada
+Getafe 2 - 1 Valencia
+Getafe 0 - 1 Osasuna
+Getafe 2 - 1 Athletic Bilbao
+Getafe 0 - 1 Levante
+Getafe 0 - 1 Valladolid
+Getafe 0 - 1 Eibar
+Getafe 0 - 0 Real Betis
+Getafe 0 - 0 Alavés
+Getafe 0 - 1 Celta Vigo
+Getafe 2 - 0 Leganés
+Getafe 1 - 0 Mallorca
+Getafe 1 - 0 Espanyol
+Valencia 0 - 1 Real Madrid
+Valencia 0 - 0 Barcelona
+Valencia 1 - 1 Atlético Madrid
+Valencia 0 - 0 Sevilla
+Valencia 2 - 2 Villarreal
+Valencia 0 - 0 Real Sociedad
+Valencia 1 - 1 Granada
+Valencia 2 - 0 Getafe
+Valencia 2 - 1 Osasuna
+Valencia 0 - 1 Athletic Bilbao
+Valencia 1 - 0 Levante
+Valencia 1 - 1 Valladolid
+Valencia 2 - 2 Eibar
+Valencia 2 - 2 Real Betis
+Valencia 2 - 0 Alavés
+Valencia 0 - 0 Celta Vigo
+Valencia 0 - 1 Leganés
+Valencia 1 - 0 Mallorca
+Valencia 1 - 0 Espanyol
+Osasuna 1 - 0 Real Madrid
+Osasuna 1 - 3 Barcelona
+Osasuna 1 - 0 Atlético Madrid
+Osasuna 1 - 0 Sevilla
+Osasuna 1 - 1 Villarreal
+Osasuna 1 - 2 Real Sociedad
+Osasuna 0 - 2 Granada
+Osasuna 0 - 0 Getafe
+Osasuna 1 - 2 Valencia
+Osasuna 0 - 1 Athletic Bilbao
+Osasuna 0 - 2 Levante
+Osasuna 2 - 0 Valladolid
+Osasuna 1 - 1 Eibar
+Osasuna 1 - 0 Real Betis
+Osasuna 0 - 1 Alavés
+Osasuna 0 - 1 Celta Vigo
+Osasuna 1 - 1 Leganés
+Osasuna 2 - 1 Mallorca
+Osasuna 0 - 1 Espanyol
+Athletic Bilbao 0 - 0 Real Madrid
+Athletic Bilbao 1 - 2 Barcelona
+Athletic Bilbao 0 - 0 Atlético Madrid
+Athletic Bilbao 0 - 0 Sevilla
+Athletic Bilbao 0 - 0 Villarreal
+Athletic Bilbao 2 - 0 Real Sociedad
+Athletic Bilbao 0 - 1 Granada
+Athletic Bilbao 0 - 0 Getafe
+Athletic Bilbao 0 - 1 Valencia
+Athletic Bilbao 1 - 0 Osasuna
+Athletic Bilbao 1 - 0 Levante
+Athletic Bilbao 1 - 1 Valladolid
+Athletic Bilbao 0 - 1 Eibar
+Athletic Bilbao 1 - 2 Real Betis
+Athletic Bilbao 0 - 0 Alavés
+Athletic Bilbao 2 - 1 Celta Vigo
+Athletic Bilbao 2 - 0 Leganés
+Athletic Bilbao 0 - 1 Mallorca
+Athletic Bilbao 2 - 0 Espanyol
+Levante 1 - 1 Real Madrid
+Levante 2 - 1 Barcelona
+Levante 0 - 1 Atlético Madrid
+Levante 0 - 2 Sevilla
+Levante 1 - 1 Villarreal
+Levante 0 - 1 Real Sociedad
+Levante 1 - 0 Granada
+Levante 0 - 1 Getafe
+Levante 0 - 0 Valencia
+Levante 1 - 2 Osasuna
+Levante 1 - 0 Athletic Bilbao
+Levante 2 - 0 Valladolid
+Levante 2 - 2 Eibar
+Levante 0 - 0 Real Betis
+Levante 0 - 0 Alavés
+Levante 0 - 1 Celta Vigo
+Levante 0 - 1 Leganés
+Levante 0 - 2 Mallorca
+Levante 1 - 0 Espanyol
+Valladolid 0 - 0 Real Madrid
+Valladolid 1 - 0 Barcelona
+Valladolid 0 - 2 Atlético Madrid
+Valladolid 1 - 1 Sevilla
+Valladolid 1 - 2 Villarreal
+Valladolid 0 - 0 Real Sociedad
+Valladolid 1 - 0 Granada
+Valladolid 0 - 2 Getafe
+Valladolid 1 - 1 Valencia
+Valladolid 1 - 1 Osasuna
+Valladolid 0 - 0 Athletic Bilbao
+Valladolid 0 - 1 Levante
+Valladolid 1 - 1 Eibar
+Valladolid 0 - 1 Real Betis
+Valladolid 1 - 1 Alavés
+Valladolid 1 - 1 Celta Vigo
+Valladolid 0 - 1 Leganés
+Valladolid 2 - 0 Mallorca
+Valladolid 2 - 1 Espanyol
+Eibar 1 - 3 Real Madrid
+Eibar 1 - 1 Barcelona
+Eibar 0 - 0 Atlético Madrid
+Eibar 0 - 2 Sevilla
+Eibar 0 - 0 Villarreal
+Eibar 1 - 0 Real Sociedad
+Eibar 0 - 2 Granada
+Eibar 0 - 2 Getafe
+Eibar 1 - 2 Valencia
+Eibar 0 - 0 Osasuna
+Eibar 0 - 2 Athletic Bilbao
+Eibar 1 - 2 Levante
+Eibar 0 - 1 Valladolid
+Eibar 0 - 2 Real Betis
+Eibar 0 - 0 Alavés
+Eibar 0 - 2 Celta Vigo
+Eibar 0 - 1 Leganés
+Eibar 1 - 1 Mallorca
+Eibar 2 - 1 Espanyol
+Real Betis 0 - 2 Real Madrid
+Real Betis 1 - 0 Barcelona
+Real Betis 0 - 0 Atlético Madrid
+Real Betis 0 - 0 Sevilla
+Real Betis 2 - 0 Villarreal
+Real Betis 0 - 1 Real Sociedad
+Real Betis 0 - 0 Granada
+Real Betis 0 - 2 Getafe
+Real Betis 1 - 0 Valencia
+Real Betis 0 - 2 Osasuna
+Real Betis 1 - 1 Athletic Bilbao
+Real Betis 0 - 0 Levante
+Real Betis 1 - 0 Valladolid
+Real Betis 2 - 1 Eibar
+Real Betis 0 - 0 Alavés
+Real Betis 0 - 1 Celta Vigo
+Real Betis 2 - 2 Leganés
+Real Betis 1 - 0 Mallorca
+Real Betis 0 - 0 Espanyol
+Alavés 0 - 2 Real Madrid
+Alavés 1 - 3 Barcelona
+Alavés 1 - 0 Atlético Madrid
+Alavés 0 - 1 Sevilla
+Alavés 1 - 1 Villarreal
+Alavés 1 - 0 Real Sociedad
+Alavés 0 - 1 Granada
+Alavés 0 - 0 Getafe
+Alavés 0 - 2 Valencia
+Alavés 1 - 1 Osasuna
+Alavés 0 - 0 Athletic Bilbao
+Alavés 0 - 1 Levante
+Alavés 1 - 1 Valladolid
+Alavés 1 - 2 Eibar
+Alavés 1 - 0 Real Betis
+Alavés 0 - 2 Celta Vigo
+Alavés 1 - 0 Leganés
+Alavés 1 - 1 Mallorca
+Alavés 0 - 1 Espanyol
+Celta Vigo 0 - 0 Real Madrid
+Celta Vigo 1 - 0 Barcelona
+Celta Vigo 0 - 1 Atlético Madrid
+Celta Vigo 0 - 0 Sevilla
+Celta Vigo 2 - 2 Villarreal
+Celta Vigo 0 - 2 Real Sociedad
+Celta Vigo 1 - 2 Granada
+Celta Vigo 1 - 2 Getafe
+Celta Vigo 0 - 1 Valencia
+Celta Vigo 0 - 2 Osasuna
+Celta Vigo 1 - 1 Athletic Bilbao
+Celta Vigo 0 - 1 Levante
+Celta Vigo 0 - 1 Valladolid
+Celta Vigo 2 - 1 Eibar
+Celta Vigo 1 - 0 Real Betis
+Celta Vigo 2 - 1 Alavés
+Celta Vigo 2 - 1 Leganés
+Celta Vigo 0 - 0 Mallorca
+Celta Vigo 1 - 0 Espanyol
+Leganés 1 - 2 Real Madrid
+Leganés 1 - 2 Barcelona
+Leganés 0 - 2 Atlético Madrid
+Leganés 1 - 2 Sevilla
+Leganés 1 - 1 Villarreal
+Leganés 0 - 1 Real Sociedad
+Leganés 0 - 0 Granada
+Leganés 0 - 0 Getafe
+Leganés 1 - 0 Valencia
+Leganés 1 - 0 Osasuna
+Leganés 0 - 1 Athletic Bilbao
+Leganés 1 - 0 Levante
+Leganés 1 - 1 Valladolid
+Leganés 1 - 0 Eibar
+Leganés 2 - 1 Real Betis
+Leganés 1 - 0 Alavés
+Leganés 0 - 0 Celta Vigo
+Leganés 1 - 1 Mallorca
+Leganés 0 - 0 Espanyol
+Mallorca 1 - 1 Real Madrid
+Mallorca 0 - 1 Barcelona
+Mallorca 0 - 1 Atlético Madrid
+Mallorca 0 - 2 Sevilla
+Mallorca 2 - 3 Villarreal
+Mallorca 0 - 1 Real Sociedad
+Mallorca 0 - 1 Granada
+Mallorca 1 - 1 Getafe
+Mallorca 2 - 0 Valencia
+Mallorca 0 - 0 Osasuna
+Mallorca 0 - 2 Athletic Bilbao
+Mallorca 0 - 0 Levante
+Mallorca 1 - 2 Valladolid
+Mallorca 0 - 0 Eibar
+Mallorca 1 - 0 Real Betis
+Mallorca 0 - 1 Alavés
+Mallorca 0 - 1 Celta Vigo
+Mallorca 0 - 1 Leganés
+Mallorca 0 - 1 Espanyol
+Espanyol 0 - 0 Real Madrid
+Espanyol 0 - 2 Barcelona
+Espanyol 1 - 2 Atlético Madrid
+Espanyol 1 - 0 Sevilla
+Espanyol 1 - 0 Villarreal
+Espanyol 1 - 1 Real Sociedad
+Espanyol 0 - 1 Granada
+Espanyol 0 - 2 Getafe
+Espanyol 2 - 0 Valencia
+Espanyol 0 - 2 Osasuna
+Espanyol 0 - 0 Athletic Bilbao
+Espanyol 0 - 0 Levante
+Espanyol 0 - 1 Valladolid
+Espanyol 1 - 1 Eibar
+Espanyol 1 - 1 Real Betis
+Espanyol 0 - 0 Alavés
+Espanyol 0 - 0 Celta Vigo
+Espanyol 1 - 0 Leganés
+Espanyol 0 - 1 Mallorca
+
+#---------------------------------
+#	 Season 657775
+#---------------------------------
+Real Madrid 1 - 1 Barcelona
+Real Madrid 0 - 0 Atlético Madrid
+Real Madrid 1 - 1 Sevilla
+Real Madrid 0 - 1 Villarreal
+Real Madrid 2 - 1 Real Sociedad
+Real Madrid 2 - 0 Granada
+Real Madrid 0 - 0 Getafe
+Real Madrid 3 - 0 Valencia
+Real Madrid 2 - 0 Osasuna
+Real Madrid 0 - 0 Athletic Bilbao
+Real Madrid 1 - 1 Levante
+Real Madrid 0 - 0 Valladolid
+Real Madrid 1 - 0 Eibar
+Real Madrid 3 - 0 Real Betis
+Real Madrid 1 - 0 Alavés
+Real Madrid 2 - 0 Celta Vigo
+Real Madrid 1 - 0 Leganés
+Real Madrid 0 - 1 Mallorca
+Real Madrid 3 - 0 Espanyol
+Barcelona 2 - 0 Real Madrid
+Barcelona 0 - 1 Atlético Madrid
+Barcelona 2 - 0 Sevilla
+Barcelona 1 - 0 Villarreal
+Barcelona 3 - 2 Real Sociedad
+Barcelona 2 - 2 Granada
+Barcelona 1 - 1 Getafe
+Barcelona 3 - 1 Valencia
+Barcelona 0 - 1 Osasuna
+Barcelona 0 - 1 Athletic Bilbao
+Barcelona 2 - 0 Levante
+Barcelona 2 - 0 Valladolid
+Barcelona 1 - 0 Eibar
+Barcelona 3 - 0 Real Betis
+Barcelona 2 - 1 Alavés
+Barcelona 1 - 0 Celta Vigo
+Barcelona 0 - 0 Leganés
+Barcelona 1 - 1 Mallorca
+Barcelona 3 - 1 Espanyol
+Atlético Madrid 0 - 2 Real Madrid
+Atlético Madrid 0 - 1 Barcelona
+Atlético Madrid 0 - 0 Sevilla
+Atlético Madrid 0 - 0 Villarreal
+Atlético Madrid 0 - 0 Real Sociedad
+Atlético Madrid 1 - 1 Granada
+Atlético Madrid 1 - 0 Getafe
+Atlético Madrid 1 - 0 Valencia
+Atlético Madrid 2 - 1 Osasuna
+Atlético Madrid 1 - 0 Athletic Bilbao
+Atlético Madrid 0 - 0 Levante
+Atlético Madrid 0 - 1 Valladolid
+Atlético Madrid 1 - 0 Eibar
+Atlético Madrid 1 - 1 Real Betis
+Atlético Madrid 1 - 0 Alavés
+Atlético Madrid 0 - 1 Celta Vigo
+Atlético Madrid 1 - 0 Leganés
+Atlético Madrid 1 - 0 Mallorca
+Atlético Madrid 2 - 0 Espanyol
+Sevilla 1 - 1 Real Madrid
+Sevilla 1 - 0 Barcelona
+Sevilla 0 - 1 Atlético Madrid
+Sevilla 2 - 2 Villarreal
+Sevilla 0 - 2 Real Sociedad
+Sevilla 1 - 0 Granada
+Sevilla 0 - 0 Getafe
+Sevilla 0 - 1 Valencia
+Sevilla 1 - 1 Osasuna
+Sevilla 1 - 0 Athletic Bilbao
+Sevilla 2 - 1 Levante
+Sevilla 1 - 0 Valladolid
+Sevilla 2 - 1 Eibar
+Sevilla 1 - 1 Real Betis
+Sevilla 0 - 0 Alavés
+Sevilla 2 - 0 Celta Vigo
+Sevilla 1 - 0 Leganés
+Sevilla 0 - 1 Mallorca
+Sevilla 0 - 0 Espanyol
+Villarreal 2 - 1 Real Madrid
+Villarreal 0 - 2 Barcelona
+Villarreal 0 - 1 Atlético Madrid
+Villarreal 0 - 1 Sevilla
+Villarreal 0 - 2 Real Sociedad
+Villarreal 1 - 2 Granada
+Villarreal 0 - 1 Getafe
+Villarreal 2 - 1 Valencia
+Villarreal 1 - 2 Osasuna
+Villarreal 0 - 0 Athletic Bilbao
+Villarreal 0 - 1 Levante
+Villarreal 0 - 0 Valladolid
+Villarreal 2 - 0 Eibar
+Villarreal 3 - 0 Real Betis
+Villarreal 1 - 1 Alavés
+Villarreal 1 - 0 Celta Vigo
+Villarreal 1 - 0 Leganés
+Villarreal 2 - 0 Mallorca
+Villarreal 3 - 0 Espanyol
+Real Sociedad 1 - 2 Real Madrid
+Real Sociedad 0 - 0 Barcelona
+Real Sociedad 1 - 1 Atlético Madrid
+Real Sociedad 2 - 0 Sevilla
+Real Sociedad 2 - 0 Villarreal
+Real Sociedad 1 - 2 Granada
+Real Sociedad 2 - 0 Getafe
+Real Sociedad 2 - 0 Valencia
+Real Sociedad 2 - 0 Osasuna
+Real Sociedad 0 - 1 Athletic Bilbao
+Real Sociedad 2 - 0 Levante
+Real Sociedad 1 - 0 Valladolid
+Real Sociedad 2 - 0 Eibar
+Real Sociedad 1 - 0 Real Betis
+Real Sociedad 1 - 1 Alavés
+Real Sociedad 0 - 1 Celta Vigo
+Real Sociedad 1 - 0 Leganés
+Real Sociedad 0 - 0 Mallorca
+Real Sociedad 2 - 0 Espanyol
+Granada 0 - 1 Real Madrid
+Granada 0 - 2 Barcelona
+Granada 0 - 2 Atlético Madrid
+Granada 0 - 1 Sevilla
+Granada 2 - 0 Villarreal
+Granada 1 - 1 Real Sociedad
+Granada 0 - 1 Getafe
+Granada 1 - 0 Valencia
+Granada 1 - 1 Osasuna
+Granada 0 - 0 Athletic Bilbao
+Granada 0 - 1 Levante
+Granada 0 - 1 Valladolid
+Granada 2 - 0 Eibar
+Granada 0 - 2 Real Betis
+Granada 0 - 1 Alavés
+Granada 2 - 1 Celta Vigo
+Granada 0 - 1 Leganés
+Granada 0 - 1 Mallorca
+Granada 1 - 0 Espanyol
+Getafe 0 - 2 Real Madrid
+Getafe 1 - 0 Barcelona
+Getafe 0 - 0 Atlético Madrid
+Getafe 1 - 2 Sevilla
+Getafe 1 - 1 Villarreal
+Getafe 2 - 1 Real Sociedad
+Getafe 1 - 1 Granada
+Getafe 0 - 1 Valencia
+Getafe 2 - 1 Osasuna
+Getafe 0 - 1 Athletic Bilbao
+Getafe 2 - 0 Levante
+Getafe 1 - 0 Valladolid
+Getafe 1 - 1 Eibar
+Getafe 1 - 0 Real Betis
+Getafe 0 - 1 Alavés
+Getafe 0 - 1 Celta Vigo
+Getafe 1 - 0 Leganés
+Getafe 1 - 0 Mallorca
+Getafe 1 - 0 Espanyol
+Valencia 0 - 0 Real Madrid
+Valencia 0 - 2 Barcelona
+Valencia 1 - 1 Atlético Madrid
+Valencia 0 - 2 Sevilla
+Valencia 0 - 0 Villarreal
+Valencia 1 - 1 Real Sociedad
+Valencia 2 - 2 Granada
+Valencia 1 - 1 Getafe
+Valencia 1 - 0 Osasuna
+Valencia 2 - 0 Athletic Bilbao
+Valencia 1 - 0 Levante
+Valencia 1 - 1 Valladolid
+Valencia 2 - 2 Eibar
+Valencia 0 - 0 Real Betis
+Valencia 2 - 1 Alavés
+Valencia 1 - 1 Celta Vigo
+Valencia 0 - 1 Leganés
+Valencia 0 - 2 Mallorca
+Valencia 1 - 0 Espanyol
+Osasuna 0 - 0 Real Madrid
+Osasuna 0 - 2 Barcelona
+Osasuna 1 - 0 Atlético Madrid
+Osasuna 1 - 1 Sevilla
+Osasuna 1 - 1 Villarreal
+Osasuna 0 - 2 Real Sociedad
+Osasuna 1 - 0 Granada
+Osasuna 0 - 0 Getafe
+Osasuna 0 - 0 Valencia
+Osasuna 0 - 1 Athletic Bilbao
+Osasuna 2 - 1 Levante
+Osasuna 0 - 2 Valladolid
+Osasuna 2 - 1 Eibar
+Osasuna 1 - 2 Real Betis
+Osasuna 1 - 2 Alavés
+Osasuna 1 - 1 Celta Vigo
+Osasuna 0 - 0 Leganés
+Osasuna 1 - 1 Mallorca
+Osasuna 2 - 0 Espanyol
+Athletic Bilbao 0 - 1 Real Madrid
+Athletic Bilbao 1 - 0 Barcelona
+Athletic Bilbao 0 - 1 Atlético Madrid
+Athletic Bilbao 0 - 2 Sevilla
+Athletic Bilbao 2 - 0 Villarreal
+Athletic Bilbao 0 - 1 Real Sociedad
+Athletic Bilbao 1 - 0 Granada
+Athletic Bilbao 1 - 0 Getafe
+Athletic Bilbao 0 - 1 Valencia
+Athletic Bilbao 2 - 0 Osasuna
+Athletic Bilbao 1 - 0 Levante
+Athletic Bilbao 1 - 1 Valladolid
+Athletic Bilbao 2 - 1 Eibar
+Athletic Bilbao 2 - 0 Real Betis
+Athletic Bilbao 2 - 0 Alavés
+Athletic Bilbao 1 - 1 Celta Vigo
+Athletic Bilbao 0 - 0 Leganés
+Athletic Bilbao 1 - 0 Mallorca
+Athletic Bilbao 1 - 1 Espanyol
+Levante 1 - 2 Real Madrid
+Levante 2 - 0 Barcelona
+Levante 1 - 1 Atlético Madrid
+Levante 1 - 2 Sevilla
+Levante 0 - 1 Villarreal
+Levante 0 - 2 Real Sociedad
+Levante 0 - 2 Granada
+Levante 1 - 1 Getafe
+Levante 0 - 0 Valencia
+Levante 1 - 0 Osasuna
+Levante 0 - 0 Athletic Bilbao
+Levante 1 - 1 Valladolid
+Levante 0 - 1 Eibar
+Levante 1 - 1 Real Betis
+Levante 1 - 0 Alavés
+Levante 1 - 1 Celta Vigo
+Levante 1 - 0 Leganés
+Levante 0 - 0 Mallorca
+Levante 1 - 1 Espanyol
+Valladolid 0 - 0 Real Madrid
+Valladolid 0 - 0 Barcelona
+Valladolid 0 - 1 Atlético Madrid
+Valladolid 1 - 0 Sevilla
+Valladolid 0 - 2 Villarreal
+Valladolid 1 - 2 Real Sociedad
+Valladolid 1 - 0 Granada
+Valladolid 0 - 0 Getafe
+Valladolid 1 - 0 Valencia
+Valladolid 0 - 0 Osasuna
+Valladolid 0 - 0 Athletic Bilbao
+Valladolid 0 - 2 Levante
+Valladolid 0 - 1 Eibar
+Valladolid 1 - 2 Real Betis
+Valladolid 0 - 1 Alavés
+Valladolid 1 - 1 Celta Vigo
+Valladolid 2 - 1 Leganés
+Valladolid 1 - 1 Mallorca
+Valladolid 2 - 0 Espanyol
+Eibar 1 - 0 Real Madrid
+Eibar 1 - 3 Barcelona
+Eibar 1 - 1 Atlético Madrid
+Eibar 1 - 1 Sevilla
+Eibar 1 - 1 Villarreal
+Eibar 0 - 0 Real Sociedad
+Eibar 1 - 2 Granada
+Eibar 0 - 0 Getafe
+Eibar 1 - 1 Valencia
+Eibar 2 - 0 Osasuna
+Eibar 1 - 1 Athletic Bilbao
+Eibar 1 - 0 Levante
+Eibar 1 - 0 Valladolid
+Eibar 2 - 0 Real Betis
+Eibar 2 - 0 Alavés
+Eibar 1 - 1 Celta Vigo
+Eibar 1 - 0 Leganés
+Eibar 1 - 2 Mallorca
+Eibar 0 - 0 Espanyol
+Real Betis 0 - 2 Real Madrid
+Real Betis 0 - 3 Barcelona
+Real Betis 0 - 1 Atlético Madrid
+Real Betis 1 - 2 Sevilla
+Real Betis 0 - 0 Villarreal
+Real Betis 1 - 1 Real Sociedad
+Real Betis 0 - 1 Granada
+Real Betis 1 - 1 Getafe
+Real Betis 1 - 0 Valencia
+Real Betis 1 - 1 Osasuna
+Real Betis 0 - 1 Athletic Bilbao
+Real Betis 2 - 1 Levante
+Real Betis 1 - 0 Valladolid
+Real Betis 2 - 1 Eibar
+Real Betis 2 - 1 Alavés
+Real Betis 1 - 0 Celta Vigo
+Real Betis 2 - 0 Leganés
+Real Betis 2 - 0 Mallorca
+Real Betis 0 - 1 Espanyol
+Alavés 0 - 1 Real Madrid
+Alavés 0 - 3 Barcelona
+Alavés 0 - 2 Atlético Madrid
+Alavés 0 - 1 Sevilla
+Alavés 2 - 0 Villarreal
+Alavés 1 - 2 Real Sociedad
+Alavés 1 - 0 Granada
+Alavés 0 - 1 Getafe
+Alavés 2 - 2 Valencia
+Alavés 1 - 2 Osasuna
+Alavés 0 - 0 Athletic Bilbao
+Alavés 1 - 0 Levante
+Alavés 0 - 1 Valladolid
+Alavés 1 - 1 Eibar
+Alavés 1 - 2 Real Betis
+Alavés 0 - 1 Celta Vigo
+Alavés 1 - 1 Leganés
+Alavés 2 - 0 Mallorca
+Alavés 0 - 0 Espanyol
+Celta Vigo 0 - 0 Real Madrid
+Celta Vigo 0 - 0 Barcelona
+Celta Vigo 0 - 2 Atlético Madrid
+Celta Vigo 1 - 2 Sevilla
+Celta Vigo 1 - 0 Villarreal
+Celta Vigo 1 - 0 Real Sociedad
+Celta Vigo 1 - 2 Granada
+Celta Vigo 0 - 0 Getafe
+Celta Vigo 0 - 0 Valencia
+Celta Vigo 2 - 0 Osasuna
+Celta Vigo 1 - 1 Athletic Bilbao
+Celta Vigo 0 - 0 Levante
+Celta Vigo 1 - 0 Valladolid
+Celta Vigo 1 - 0 Eibar
+Celta Vigo 0 - 0 Real Betis
+Celta Vigo 0 - 0 Alavés
+Celta Vigo 0 - 1 Leganés
+Celta Vigo 1 - 1 Mallorca
+Celta Vigo 1 - 0 Espanyol
+Leganés 1 - 2 Real Madrid
+Leganés 1 - 0 Barcelona
+Leganés 1 - 1 Atlético Madrid
+Leganés 0 - 0 Sevilla
+Leganés 0 - 1 Villarreal
+Leganés 0 - 0 Real Sociedad
+Leganés 0 - 2 Granada
+Leganés 0 - 0 Getafe
+Leganés 1 - 1 Valencia
+Leganés 2 - 2 Osasuna
+Leganés 0 - 0 Athletic Bilbao
+Leganés 0 - 0 Levante
+Leganés 1 - 0 Valladolid
+Leganés 1 - 1 Eibar
+Leganés 2 - 2 Real Betis
+Leganés 0 - 1 Alavés
+Leganés 1 - 0 Celta Vigo
+Leganés 0 - 0 Mallorca
+Leganés 1 - 0 Espanyol
+Mallorca 1 - 2 Real Madrid
+Mallorca 1 - 1 Barcelona
+Mallorca 1 - 0 Atlético Madrid
+Mallorca 0 - 2 Sevilla
+Mallorca 2 - 1 Villarreal
+Mallorca 0 - 0 Real Sociedad
+Mallorca 1 - 2 Granada
+Mallorca 1 - 2 Getafe
+Mallorca 2 - 1 Valencia
+Mallorca 1 - 0 Osasuna
+Mallorca 0 - 0 Athletic Bilbao
+Mallorca 1 - 2 Levante
+Mallorca 0 - 0 Valladolid
+Mallorca 0 - 0 Eibar
+Mallorca 1 - 0 Real Betis
+Mallorca 1 - 0 Alavés
+Mallorca 1 - 0 Celta Vigo
+Mallorca 1 - 0 Leganés
+Mallorca 0 - 0 Espanyol
+Espanyol 0 - 2 Real Madrid
+Espanyol 0 - 3 Barcelona
+Espanyol 0 - 1 Atlético Madrid
+Espanyol 0 - 2 Sevilla
+Espanyol 0 - 1 Villarreal
+Espanyol 0 - 2 Real Sociedad
+Espanyol 0 - 2 Granada
+Espanyol 0 - 0 Getafe
+Espanyol 0 - 1 Valencia
+Espanyol 0 - 1 Osasuna
+Espanyol 0 - 1 Athletic Bilbao
+Espanyol 0 - 2 Levante
+Espanyol 0 - 1 Valladolid
+Espanyol 1 - 2 Eibar
+Espanyol 1 - 1 Real Betis
+Espanyol 0 - 1 Alavés
+Espanyol 0 - 2 Celta Vigo
+Espanyol 0 - 2 Leganés
+Espanyol 0 - 1 Mallorca
+
+#---------------------------------
+#	 Season 722222
+#---------------------------------
+Real Madrid 0 - 0 Barcelona
+Real Madrid 1 - 0 Atlético Madrid
+Real Madrid 1 - 0 Sevilla
+Real Madrid 1 - 1 Villarreal
+Real Madrid 1 - 1 Real Sociedad
+Real Madrid 2 - 0 Granada
+Real Madrid 0 - 0 Getafe
+Real Madrid 1 - 1 Valencia
+Real Madrid 2 - 0 Osasuna
+Real Madrid 1 - 0 Athletic Bilbao
+Real Madrid 0 - 1 Levante
+Real Madrid 2 - 1 Valladolid
+Real Madrid 0 - 0 Eibar
+Real Madrid 0 - 1 Real Betis
+Real Madrid 2 - 0 Alavés
+Real Madrid 0 - 0 Celta Vigo
+Real Madrid 0 - 0 Leganés
+Real Madrid 0 - 1 Mallorca
+Real Madrid 2 - 0 Espanyol
+Barcelona 2 - 1 Real Madrid
+Barcelona 0 - 0 Atlético Madrid
+Barcelona 0 - 0 Sevilla
+Barcelona 2 - 2 Villarreal
+Barcelona 1 - 0 Real Sociedad
+Barcelona 2 - 0 Granada
+Barcelona 1 - 0 Getafe
+Barcelona 1 - 1 Valencia
+Barcelona 3 - 0 Osasuna
+Barcelona 1 - 1 Athletic Bilbao
+Barcelona 1 - 0 Levante
+Barcelona 2 - 0 Valladolid
+Barcelona 3 - 1 Eibar
+Barcelona 0 - 1 Real Betis
+Barcelona 3 - 0 Alavés
+Barcelona 1 - 1 Celta Vigo
+Barcelona 3 - 0 Leganés
+Barcelona 0 - 0 Mallorca
+Barcelona 3 - 1 Espanyol
+Atlético Madrid 1 - 1 Real Madrid
+Atlético Madrid 0 - 0 Barcelona
+Atlético Madrid 1 - 2 Sevilla
+Atlético Madrid 0 - 1 Villarreal
+Atlético Madrid 0 - 2 Real Sociedad
+Atlético Madrid 2 - 1 Granada
+Atlético Madrid 0 - 1 Getafe
+Atlético Madrid 1 - 0 Valencia
+Atlético Madrid 2 - 0 Osasuna
+Atlético Madrid 1 - 1 Athletic Bilbao
+Atlético Madrid 0 - 0 Levante
+Atlético Madrid 0 - 0 Valladolid
+Atlético Madrid 2 - 0 Eibar
+Atlético Madrid 2 - 0 Real Betis
+Atlético Madrid 0 - 1 Alavés
+Atlético Madrid 0 - 0 Celta Vigo
+Atlético Madrid 2 - 1 Leganés
+Atlético Madrid 2 - 1 Mallorca
+Atlético Madrid 0 - 0 Espanyol
+Sevilla 1 - 2 Real Madrid
+Sevilla 0 - 0 Barcelona
+Sevilla 2 - 0 Atlético Madrid
+Sevilla 1 - 1 Villarreal
+Sevilla 2 - 1 Real Sociedad
+Sevilla 0 - 1 Granada
+Sevilla 1 - 1 Getafe
+Sevilla 1 - 0 Valencia
+Sevilla 2 - 0 Osasuna
+Sevilla 1 - 0 Athletic Bilbao
+Sevilla 1 - 0 Levante
+Sevilla 0 - 1 Valladolid
+Sevilla 0 - 0 Eibar
+Sevilla 2 - 1 Real Betis
+Sevilla 2 - 0 Alavés
+Sevilla 0 - 1 Celta Vigo
+Sevilla 0 - 1 Leganés
+Sevilla 2 - 1 Mallorca
+Sevilla 1 - 0 Espanyol
+Villarreal 0 - 2 Real Madrid
+Villarreal 1 - 1 Barcelona
+Villarreal 1 - 0 Atlético Madrid
+Villarreal 0 - 2 Sevilla
+Villarreal 0 - 1 Real Sociedad
+Villarreal 1 - 1 Granada
+Villarreal 0 - 0 Getafe
+Villarreal 0 - 2 Valencia
+Villarreal 2 - 1 Osasuna
+Villarreal 1 - 0 Athletic Bilbao
+Villarreal 3 - 2 Levante
+Villarreal 1 - 1 Valladolid
+Villarreal 2 - 1 Eibar
+Villarreal 1 - 0 Real Betis
+Villarreal 1 - 2 Alavés
+Villarreal 0 - 1 Celta Vigo
+Villarreal 1 - 1 Leganés
+Villarreal 0 - 1 Mallorca
+Villarreal 2 - 1 Espanyol
+Real Sociedad 0 - 2 Real Madrid
+Real Sociedad 1 - 1 Barcelona
+Real Sociedad 2 - 0 Atlético Madrid
+Real Sociedad 1 - 2 Sevilla
+Real Sociedad 0 - 2 Villarreal
+Real Sociedad 1 - 0 Granada
+Real Sociedad 2 - 2 Getafe
+Real Sociedad 0 - 0 Valencia
+Real Sociedad 0 - 0 Osasuna
+Real Sociedad 0 - 1 Athletic Bilbao
+Real Sociedad 2 - 0 Levante
+Real Sociedad 2 - 1 Valladolid
+Real Sociedad 0 - 0 Eibar
+Real Sociedad 1 - 1 Real Betis
+Real Sociedad 0 - 1 Alavés
+Real Sociedad 2 - 1 Celta Vigo
+Real Sociedad 0 - 1 Leganés
+Real Sociedad 0 - 1 Mallorca
+Real Sociedad 1 - 1 Espanyol
+Granada 1 - 0 Real Madrid
+Granada 0 - 2 Barcelona
+Granada 0 - 1 Atlético Madrid
+Granada 1 - 1 Sevilla
+Granada 0 - 0 Villarreal
+Granada 2 - 0 Real Sociedad
+Granada 1 - 2 Getafe
+Granada 1 - 2 Valencia
+Granada 0 - 0 Osasuna
+Granada 2 - 1 Athletic Bilbao
+Granada 0 - 1 Levante
+Granada 2 - 1 Valladolid
+Granada 1 - 1 Eibar
+Granada 2 - 0 Real Betis
+Granada 2 - 2 Alavés
+Granada 1 - 0 Celta Vigo
+Granada 2 - 0 Leganés
+Granada 1 - 0 Mallorca
+Granada 1 - 0 Espanyol
+Getafe 1 - 0 Real Madrid
+Getafe 0 - 2 Barcelona
+Getafe 0 - 0 Atlético Madrid
+Getafe 1 - 0 Sevilla
+Getafe 1 - 0 Villarreal
+Getafe 0 - 0 Real Sociedad
+Getafe 1 - 2 Granada
+Getafe 2 - 1 Valencia
+Getafe 0 - 0 Osasuna
+Getafe 0 - 0 Athletic Bilbao
+Getafe 0 - 1 Levante
+Getafe 1 - 1 Valladolid
+Getafe 1 - 0 Eibar
+Getafe 0 - 1 Real Betis
+Getafe 0 - 0 Alavés
+Getafe 1 - 0 Celta Vigo
+Getafe 0 - 0 Leganés
+Getafe 1 - 1 Mallorca
+Getafe 2 - 0 Espanyol
+Valencia 0 - 2 Real Madrid
+Valencia 0 - 2 Barcelona
+Valencia 1 - 2 Atlético Madrid
+Valencia 2 - 2 Sevilla
+Valencia 0 - 2 Villarreal
+Valencia 0 - 0 Real Sociedad
+Valencia 0 - 0 Granada
+Valencia 2 - 0 Getafe
+Valencia 0 - 2 Osasuna
+Valencia 1 - 0 Athletic Bilbao
+Valencia 1 - 0 Levante
+Valencia 2 - 0 Valladolid
+Valencia 2 - 1 Eibar
+Valencia 1 - 1 Real Betis
+Valencia 2 - 1 Alavés
+Valencia 0 - 0 Celta Vigo
+Valencia 2 - 2 Leganés
+Valencia 2 - 1 Mallorca
+Valencia 0 - 0 Espanyol
+Osasuna 0 - 3 Real Madrid
+Osasuna 1 - 2 Barcelona
+Osasuna 1 - 1 Atlético Madrid
+Osasuna 0 - 0 Sevilla
+Osasuna 2 - 0 Villarreal
+Osasuna 0 - 0 Real Sociedad
+Osasuna 0 - 2 Granada
+Osasuna 0 - 1 Getafe
+Osasuna 2 - 1 Valencia
+Osasuna 1 - 1 Athletic Bilbao
+Osasuna 2 - 0 Levante
+Osasuna 0 - 0 Valladolid
+Osasuna 2 - 1 Eibar
+Osasuna 1 - 0 Real Betis
+Osasuna 0 - 0 Alavés
+Osasuna 1 - 1 Celta Vigo
+Osasuna 2 - 1 Leganés
+Osasuna 2 - 1 Mallorca
+Osasuna 0 - 1 Espanyol
+Athletic Bilbao 0 - 0 Real Madrid
+Athletic Bilbao 0 - 1 Barcelona
+Athletic Bilbao 1 - 1 Atlético Madrid
+Athletic Bilbao 0 - 1 Sevilla
+Athletic Bilbao 0 - 1 Villarreal
+Athletic Bilbao 0 - 0 Real Sociedad
+Athletic Bilbao 0 - 0 Granada
+Athletic Bilbao 1 - 1 Getafe
+Athletic Bilbao 1 - 1 Valencia
+Athletic Bilbao 1 - 1 Osasuna
+Athletic Bilbao 2 - 0 Levante
+Athletic Bilbao 0 - 0 Valladolid
+Athletic Bilbao 0 - 1 Eibar
+Athletic Bilbao 1 - 1 Real Betis
+Athletic Bilbao 0 - 1 Alavés
+Athletic Bilbao 0 - 0 Celta Vigo
+Athletic Bilbao 0 - 0 Leganés
+Athletic Bilbao 0 - 1 Mallorca
+Athletic Bilbao 2 - 0 Espanyol
+Levante 1 - 2 Real Madrid
+Levante 2 - 0 Barcelona
+Levante 0 - 2 Atlético Madrid
+Levante 1 - 0 Sevilla
+Levante 0 - 1 Villarreal
+Levante 2 - 1 Real Sociedad
+Levante 2 - 2 Granada
+Levante 1 - 1 Getafe
+Levante 1 - 0 Valencia
+Levante 0 - 2 Osasuna
+Levante 0 - 2 Athletic Bilbao
+Levante 1 - 1 Valladolid
+Levante 1 - 2 Eibar
+Levante 1 - 1 Real Betis
+Levante 2 - 1 Alavés
+Levante 2 - 0 Celta Vigo
+Levante 1 - 0 Leganés
+Levante 0 - 2 Mallorca
+Levante 1 - 1 Espanyol
+Valladolid 1 - 0 Real Madrid
+Valladolid 0 - 0 Barcelona
+Valladolid 0 - 0 Atlético Madrid
+Valladolid 1 - 2 Sevilla
+Valladolid 1 - 0 Villarreal
+Valladolid 1 - 1 Real Sociedad
+Valladolid 1 - 0 Granada
+Valladolid 0 - 2 Getafe
+Valladolid 0 - 1 Valencia
+Valladolid 2 - 0 Osasuna
+Valladolid 0 - 1 Athletic Bilbao
+Valladolid 0 - 0 Levante
+Valladolid 0 - 1 Eibar
+Valladolid 1 - 1 Real Betis
+Valladolid 1 - 1 Alavés
+Valladolid 1 - 1 Celta Vigo
+Valladolid 0 - 1 Leganés
+Valladolid 1 - 1 Mallorca
+Valladolid 1 - 0 Espanyol
+Eibar 0 - 1 Real Madrid
+Eibar 1 - 2 Barcelona
+Eibar 0 - 1 Atlético Madrid
+Eibar 0 - 0 Sevilla
+Eibar 0 - 2 Villarreal
+Eibar 1 - 2 Real Sociedad
+Eibar 0 - 1 Granada
+Eibar 0 - 0 Getafe
+Eibar 1 - 0 Valencia
+Eibar 2 - 0 Osasuna
+Eibar 1 - 0 Athletic Bilbao
+Eibar 1 - 0 Levante
+Eibar 0 - 2 Valladolid
+Eibar 1 - 2 Real Betis
+Eibar 0 - 1 Alavés
+Eibar 1 - 1 Celta Vigo
+Eibar 1 - 1 Leganés
+Eibar 1 - 0 Mallorca
+Eibar 1 - 1 Espanyol
+Real Betis 0 - 0 Real Madrid
+Real Betis 0 - 3 Barcelona
+Real Betis 0 - 1 Atlético Madrid
+Real Betis 0 - 2 Sevilla
+Real Betis 1 - 0 Villarreal
+Real Betis 1 - 2 Real Sociedad
+Real Betis 1 - 0 Granada
+Real Betis 2 - 1 Getafe
+Real Betis 1 - 0 Valencia
+Real Betis 2 - 1 Osasuna
+Real Betis 1 - 0 Athletic Bilbao
+Real Betis 2 - 0 Levante
+Real Betis 2 - 1 Valladolid
+Real Betis 0 - 0 Eibar
+Real Betis 1 - 1 Alavés
+Real Betis 0 - 1 Celta Vigo
+Real Betis 1 - 1 Leganés
+Real Betis 0 - 2 Mallorca
+Real Betis 2 - 2 Espanyol
+Alavés 1 - 0 Real Madrid
+Alavés 0 - 1 Barcelona
+Alavés 0 - 1 Atlético Madrid
+Alavés 1 - 1 Sevilla
+Alavés 0 - 1 Villarreal
+Alavés 1 - 0 Real Sociedad
+Alavés 0 - 0 Granada
+Alavés 1 - 0 Getafe
+Alavés 0 - 2 Valencia
+Alavés 0 - 2 Osasuna
+Alavés 1 - 1 Athletic Bilbao
+Alavés 1 - 2 Levante
+Alavés 0 - 2 Valladolid
+Alavés 1 - 0 Eibar
+Alavés 1 - 2 Real Betis
+Alavés 0 - 0 Celta Vigo
+Alavés 1 - 1 Leganés
+Alavés 0 - 1 Mallorca
+Alavés 0 - 0 Espanyol
+Celta Vigo 1 - 1 Real Madrid
+Celta Vigo 0 - 1 Barcelona
+Celta Vigo 0 - 1 Atlético Madrid
+Celta Vigo 0 - 0 Sevilla
+Celta Vigo 0 - 2 Villarreal
+Celta Vigo 0 - 0 Real Sociedad
+Celta Vigo 0 - 0 Granada
+Celta Vigo 1 - 2 Getafe
+Celta Vigo 2 - 0 Valencia
+Celta Vigo 1 - 0 Osasuna
+Celta Vigo 0 - 0 Athletic Bilbao
+Celta Vigo 1 - 2 Levante
+Celta Vigo 2 - 0 Valladolid
+Celta Vigo 1 - 1 Eibar
+Celta Vigo 1 - 1 Real Betis
+Celta Vigo 2 - 0 Alavés
+Celta Vigo 2 - 0 Leganés
+Celta Vigo 2 - 1 Mallorca
+Celta Vigo 1 - 1 Espanyol
+Leganés 0 - 0 Real Madrid
+Leganés 0 - 0 Barcelona
+Leganés 1 - 2 Atlético Madrid
+Leganés 1 - 0 Sevilla
+Leganés 0 - 2 Villarreal
+Leganés 0 - 1 Real Sociedad
+Leganés 1 - 0 Granada
+Leganés 1 - 0 Getafe
+Leganés 2 - 1 Valencia
+Leganés 2 - 0 Osasuna
+Leganés 0 - 2 Athletic Bilbao
+Leganés 0 - 2 Levante
+Leganés 1 - 1 Valladolid
+Leganés 0 - 0 Eibar
+Leganés 0 - 0 Real Betis
+Leganés 0 - 0 Alavés
+Leganés 0 - 0 Celta Vigo
+Leganés 2 - 1 Mallorca
+Leganés 1 - 1 Espanyol
+Mallorca 1 - 2 Real Madrid
+Mallorca 0 - 2 Barcelona
+Mallorca 0 - 1 Atlético Madrid
+Mallorca 0 - 0 Sevilla
+Mallorca 0 - 2 Villarreal
+Mallorca 0 - 2 Real Sociedad
+Mallorca 0 - 1 Granada
+Mallorca 1 - 0 Getafe
+Mallorca 0 - 1 Valencia
+Mallorca 2 - 1 Osasuna
+Mallorca 0 - 0 Athletic Bilbao
+Mallorca 2 - 2 Levante
+Mallorca 0 - 0 Valladolid
+Mallorca 1 - 2 Eibar
+Mallorca 0 - 0 Real Betis
+Mallorca 0 - 0 Alavés
+Mallorca 0 - 0 Celta Vigo
+Mallorca 2 - 0 Leganés
+Mallorca 0 - 1 Espanyol
+Espanyol 1 - 1 Real Madrid
+Espanyol 0 - 2 Barcelona
+Espanyol 0 - 0 Atlético Madrid
+Espanyol 1 - 0 Sevilla
+Espanyol 1 - 2 Villarreal
+Espanyol 1 - 0 Real Sociedad
+Espanyol 0 - 1 Granada
+Espanyol 1 - 0 Getafe
+Espanyol 1 - 1 Valencia
+Espanyol 1 - 0 Osasuna
+Espanyol 0 - 2 Athletic Bilbao
+Espanyol 1 - 1 Levante
+Espanyol 1 - 2 Valladolid
+Espanyol 0 - 2 Eibar
+Espanyol 1 - 0 Real Betis
+Espanyol 1 - 0 Alavés
+Espanyol 1 - 0 Celta Vigo
+Espanyol 1 - 0 Leganés
+Espanyol 0 - 1 Mallorca
+
+#---------------------------------
+#	 Season 783460
+#---------------------------------
+Real Madrid 1 - 0 Barcelona
+Real Madrid 0 - 1 Atlético Madrid
+Real Madrid 1 - 0 Sevilla
+Real Madrid 1 - 1 Villarreal
+Real Madrid 2 - 0 Real Sociedad
+Real Madrid 2 - 1 Granada
+Real Madrid 0 - 0 Getafe
+Real Madrid 2 - 1 Valencia
+Real Madrid 2 - 1 Osasuna
+Real Madrid 0 - 0 Athletic Bilbao
+Real Madrid 0 - 0 Levante
+Real Madrid 1 - 0 Valladolid
+Real Madrid 1 - 0 Eibar
+Real Madrid 3 - 0 Real Betis
+Real Madrid 0 - 0 Alavés
+Real Madrid 2 - 0 Celta Vigo
+Real Madrid 1 - 0 Leganés
+Real Madrid 0 - 1 Mallorca
+Real Madrid 0 - 1 Espanyol
+Barcelona 2 - 0 Real Madrid
+Barcelona 1 - 1 Atlético Madrid
+Barcelona 2 - 2 Sevilla
+Barcelona 2 - 0 Villarreal
+Barcelona 1 - 1 Real Sociedad
+Barcelona 1 - 0 Granada
+Barcelona 0 - 0 Getafe
+Barcelona 1 - 0 Valencia
+Barcelona 3 - 0 Osasuna
+Barcelona 2 - 0 Athletic Bilbao
+Barcelona 1 - 1 Levante
+Barcelona 1 - 0 Valladolid
+Barcelona 1 - 0 Eibar
+Barcelona 1 - 1 Real Betis
+Barcelona 0 - 1 Alavés
+Barcelona 3 - 1 Celta Vigo
+Barcelona 1 - 1 Leganés
+Barcelona 3 - 0 Mallorca
+Barcelona 3 - 0 Espanyol
+Atlético Madrid 1 - 1 Real Madrid
+Atlético Madrid 0 - 0 Barcelona
+Atlético Madrid 1 - 0 Sevilla
+Atlético Madrid 1 - 0 Villarreal
+Atlético Madrid 0 - 1 Real Sociedad
+Atlético Madrid 1 - 0 Granada
+Atlético Madrid 1 - 1 Getafe
+Atlético Madrid 0 - 0 Valencia
+Atlético Madrid 1 - 0 Osasuna
+Atlético Madrid 1 - 0 Athletic Bilbao
+Atlético Madrid 0 - 0 Levante
+Atlético Madrid 1 - 1 Valladolid
+Atlético Madrid 0 - 0 Eibar
+Atlético Madrid 2 - 1 Real Betis
+Atlético Madrid 1 - 0 Alavés
+Atlético Madrid 0 - 0 Celta Vigo
+Atlético Madrid 0 - 0 Leganés
+Atlético Madrid 1 - 0 Mallorca
+Atlético Madrid 2 - 0 Espanyol
+Sevilla 1 - 1 Real Madrid
+Sevilla 1 - 1 Barcelona
+Sevilla 0 - 1 Atlético Madrid
+Sevilla 0 - 0 Villarreal
+Sevilla 0 - 2 Real Sociedad
+Sevilla 2 - 0 Granada
+Sevilla 1 - 1 Getafe
+Sevilla 1 - 1 Valencia
+Sevilla 0 - 0 Osasuna
+Sevilla 0 - 0 Athletic Bilbao
+Sevilla 0 - 0 Levante
+Sevilla 0 - 1 Valladolid
+Sevilla 1 - 1 Eibar
+Sevilla 1 - 1 Real Betis
+Sevilla 2 - 0 Alavés
+Sevilla 0 - 0 Celta Vigo
+Sevilla 1 - 0 Leganés
+Sevilla 1 - 0 Mallorca
+Sevilla 1 - 1 Espanyol
+Villarreal 0 - 3 Real Madrid
+Villarreal 2 - 3 Barcelona
+Villarreal 0 - 2 Atlético Madrid
+Villarreal 1 - 0 Sevilla
+Villarreal 2 - 1 Real Sociedad
+Villarreal 1 - 1 Granada
+Villarreal 0 - 1 Getafe
+Villarreal 0 - 0 Valencia
+Villarreal 0 - 0 Osasuna
+Villarreal 0 - 1 Athletic Bilbao
+Villarreal 3 - 1 Levante
+Villarreal 0 - 0 Valladolid
+Villarreal 1 - 0 Eibar
+Villarreal 1 - 2 Real Betis
+Villarreal 3 - 0 Alavés
+Villarreal 0 - 0 Celta Vigo
+Villarreal 0 - 1 Leganés
+Villarreal 2 - 0 Mallorca
+Villarreal 1 - 0 Espanyol
+Real Sociedad 0 - 0 Real Madrid
+Real Sociedad 0 - 0 Barcelona
+Real Sociedad 1 - 0 Atlético Madrid
+Real Sociedad 2 - 0 Sevilla
+Real Sociedad 0 - 2 Villarreal
+Real Sociedad 2 - 0 Granada
+Real Sociedad 1 - 0 Getafe
+Real Sociedad 0 - 2 Valencia
+Real Sociedad 2 - 1 Osasuna
+Real Sociedad 2 - 1 Athletic Bilbao
+Real Sociedad 1 - 0 Levante
+Real Sociedad 0 - 1 Valladolid
+Real Sociedad 0 - 1 Eibar
+Real Sociedad 0 - 0 Real Betis
+Real Sociedad 1 - 1 Alavés
+Real Sociedad 1 - 0 Celta Vigo
+Real Sociedad 1 - 0 Leganés
+Real Sociedad 0 - 1 Mallorca
+Real Sociedad 1 - 1 Espanyol
+Granada 1 - 2 Real Madrid
+Granada 1 - 1 Barcelona
+Granada 0 - 1 Atlético Madrid
+Granada 1 - 2 Sevilla
+Granada 1 - 0 Villarreal
+Granada 0 - 0 Real Sociedad
+Granada 1 - 0 Getafe
+Granada 0 - 0 Valencia
+Granada 1 - 0 Osasuna
+Granada 2 - 1 Athletic Bilbao
+Granada 0 - 1 Levante
+Granada 2 - 1 Valladolid
+Granada 1 - 1 Eibar
+Granada 0 - 2 Real Betis
+Granada 1 - 1 Alavés
+Granada 2 - 0 Celta Vigo
+Granada 1 - 1 Leganés
+Granada 2 - 1 Mallorca
+Granada 2 - 0 Espanyol
+Getafe 0 - 1 Real Madrid
+Getafe 1 - 1 Barcelona
+Getafe 1 - 0 Atlético Madrid
+Getafe 1 - 1 Sevilla
+Getafe 1 - 1 Villarreal
+Getafe 2 - 1 Real Sociedad
+Getafe 1 - 0 Granada
+Getafe 2 - 1 Valencia
+Getafe 1 - 0 Osasuna
+Getafe 0 - 1 Athletic Bilbao
+Getafe 0 - 0 Levante
+Getafe 1 - 1 Valladolid
+Getafe 1 - 1 Eibar
+Getafe 0 - 0 Real Betis
+Getafe 1 - 1 Alavés
+Getafe 0 - 0 Celta Vigo
+Getafe 0 - 1 Leganés
+Getafe 0 - 0 Mallorca
+Getafe 1 - 1 Espanyol
+Valencia 1 - 3 Real Madrid
+Valencia 0 - 3 Barcelona
+Valencia 1 - 2 Atlético Madrid
+Valencia 0 - 2 Sevilla
+Valencia 0 - 2 Villarreal
+Valencia 0 - 1 Real Sociedad
+Valencia 0 - 1 Granada
+Valencia 1 - 0 Getafe
+Valencia 0 - 1 Osasuna
+Valencia 0 - 0 Athletic Bilbao
+Valencia 2 - 2 Levante
+Valencia 1 - 1 Valladolid
+Valencia 1 - 2 Eibar
+Valencia 2 - 1 Real Betis
+Valencia 1 - 1 Alavés
+Valencia 0 - 1 Celta Vigo
+Valencia 0 - 0 Leganés
+Valencia 2 - 0 Mallorca
+Valencia 1 - 0 Espanyol
+Osasuna 0 - 2 Real Madrid
+Osasuna 1 - 1 Barcelona
+Osasuna 1 - 0 Atlético Madrid
+Osasuna 1 - 0 Sevilla
+Osasuna 1 - 2 Villarreal
+Osasuna 1 - 2 Real Sociedad
+Osasuna 1 - 1 Granada
+Osasuna 0 - 1 Getafe
+Osasuna 1 - 1 Valencia
+Osasuna 0 - 0 Athletic Bilbao
+Osasuna 0 - 0 Levante
+Osasuna 1 - 1 Valladolid
+Osasuna 1 - 0 Eibar
+Osasuna 2 - 1 Real Betis
+Osasuna 0 - 0 Alavés
+Osasuna 2 - 2 Celta Vigo
+Osasuna 1 - 2 Leganés
+Osasuna 0 - 0 Mallorca
+Osasuna 0 - 0 Espanyol
+Athletic Bilbao 0 - 1 Real Madrid
+Athletic Bilbao 1 - 1 Barcelona
+Athletic Bilbao 0 - 0 Atlético Madrid
+Athletic Bilbao 0 - 1 Sevilla
+Athletic Bilbao 0 - 1 Villarreal
+Athletic Bilbao 0 - 1 Real Sociedad
+Athletic Bilbao 1 - 0 Granada
+Athletic Bilbao 1 - 0 Getafe
+Athletic Bilbao 1 - 0 Valencia
+Athletic Bilbao 0 - 0 Osasuna
+Athletic Bilbao 0 - 1 Levante
+Athletic Bilbao 0 - 0 Valladolid
+Athletic Bilbao 2 - 0 Eibar
+Athletic Bilbao 2 - 1 Real Betis
+Athletic Bilbao 0 - 1 Alavés
+Athletic Bilbao 0 - 0 Celta Vigo
+Athletic Bilbao 0 - 0 Leganés
+Athletic Bilbao 1 - 1 Mallorca
+Athletic Bilbao 1 - 1 Espanyol
+Levante 1 - 1 Real Madrid
+Levante 0 - 2 Barcelona
+Levante 0 - 0 Atlético Madrid
+Levante 0 - 1 Sevilla
+Levante 1 - 2 Villarreal
+Levante 2 - 1 Real Sociedad
+Levante 0 - 2 Granada
+Levante 0 - 0 Getafe
+Levante 0 - 0 Valencia
+Levante 0 - 2 Osasuna
+Levante 1 - 2 Athletic Bilbao
+Levante 0 - 1 Valladolid
+Levante 1 - 1 Eibar
+Levante 1 - 0 Real Betis
+Levante 1 - 0 Alavés
+Levante 0 - 0 Celta Vigo
+Levante 2 - 0 Leganés
+Levante 1 - 1 Mallorca
+Levante 1 - 0 Espanyol
+Valladolid 0 - 0 Real Madrid
+Valladolid 1 - 1 Barcelona
+Valladolid 1 - 0 Atlético Madrid
+Valladolid 1 - 1 Sevilla
+Valladolid 1 - 0 Villarreal
+Valladolid 0 - 0 Real Sociedad
+Valladolid 1 - 0 Granada
+Valladolid 0 - 1 Getafe
+Valladolid 0 - 0 Valencia
+Valladolid 0 - 2 Osasuna
+Valladolid 0 - 1 Athletic Bilbao
+Valladolid 2 - 0 Levante
+Valladolid 2 - 0 Eibar
+Valladolid 1 - 1 Real Betis
+Valladolid 1 - 0 Alavés
+Valladolid 0 - 1 Celta Vigo
+Valladolid 0 - 1 Leganés
+Valladolid 2 - 0 Mallorca
+Valladolid 0 - 0 Espanyol
+Eibar 0 - 1 Real Madrid
+Eibar 1 - 3 Barcelona
+Eibar 1 - 0 Atlético Madrid
+Eibar 0 - 1 Sevilla
+Eibar 0 - 0 Villarreal
+Eibar 2 - 0 Real Sociedad
+Eibar 1 - 1 Granada
+Eibar 0 - 2 Getafe
+Eibar 0 - 2 Valencia
+Eibar 0 - 1 Osasuna
+Eibar 1 - 0 Athletic Bilbao
+Eibar 1 - 2 Levante
+Eibar 2 - 0 Valladolid
+Eibar 2 - 1 Real Betis
+Eibar 1 - 2 Alavés
+Eibar 0 - 0 Celta Vigo
+Eibar 0 - 0 Leganés
+Eibar 2 - 2 Mallorca
+Eibar 2 - 0 Espanyol
+Real Betis 1 - 3 Real Madrid
+Real Betis 0 - 1 Barcelona
+Real Betis 1 - 1 Atlético Madrid
+Real Betis 1 - 1 Sevilla
+Real Betis 0 - 3 Villarreal
+Real Betis 0 - 1 Real Sociedad
+Real Betis 2 - 2 Granada
+Real Betis 2 - 2 Getafe
+Real Betis 1 - 2 Valencia
+Real Betis 2 - 2 Osasuna
+Real Betis 2 - 1 Athletic Bilbao
+Real Betis 0 - 1 Levante
+Real Betis 1 - 1 Valladolid
+Real Betis 1 - 1 Eibar
+Real Betis 2 - 1 Alavés
+Real Betis 1 - 1 Celta Vigo
+Real Betis 2 - 2 Leganés
+Real Betis 0 - 0 Mallorca
+Real Betis 0 - 0 Espanyol
+Alavés 0 - 0 Real Madrid
+Alavés 0 - 2 Barcelona
+Alavés 0 - 2 Atlético Madrid
+Alavés 0 - 0 Sevilla
+Alavés 0 - 1 Villarreal
+Alavés 0 - 1 Real Sociedad
+Alavés 1 - 0 Granada
+Alavés 0 - 2 Getafe
+Alavés 0 - 0 Valencia
+Alavés 1 - 1 Osasuna
+Alavés 1 - 1 Athletic Bilbao
+Alavés 1 - 0 Levante
+Alavés 0 - 1 Valladolid
+Alavés 0 - 2 Eibar
+Alavés 1 - 2 Real Betis
+Alavés 1 - 1 Celta Vigo
+Alavés 1 - 0 Leganés
+Alavés 0 - 1 Mallorca
+Alavés 1 - 0 Espanyol
+Celta Vigo 0 - 0 Real Madrid
+Celta Vigo 0 - 2 Barcelona
+Celta Vigo 0 - 0 Atlético Madrid
+Celta Vigo 0 - 1 Sevilla
+Celta Vigo 2 - 0 Villarreal
+Celta Vigo 0 - 0 Real Sociedad
+Celta Vigo 1 - 0 Granada
+Celta Vigo 0 - 2 Getafe
+Celta Vigo 1 - 2 Valencia
+Celta Vigo 1 - 0 Osasuna
+Celta Vigo 0 - 1 Athletic Bilbao
+Celta Vigo 1 - 1 Levante
+Celta Vigo 1 - 0 Valladolid
+Celta Vigo 1 - 1 Eibar
+Celta Vigo 2 - 1 Real Betis
+Celta Vigo 2 - 0 Alavés
+Celta Vigo 0 - 1 Leganés
+Celta Vigo 1 - 1 Mallorca
+Celta Vigo 0 - 0 Espanyol
+Leganés 1 - 1 Real Madrid
+Leganés 1 - 3 Barcelona
+Leganés 0 - 0 Atlético Madrid
+Leganés 0 - 1 Sevilla
+Leganés 0 - 2 Villarreal
+Leganés 0 - 1 Real Sociedad
+Leganés 1 - 1 Granada
+Leganés 0 - 1 Getafe
+Leganés 0 - 2 Valencia
+Leganés 1 - 2 Osasuna
+Leganés 0 - 0 Athletic Bilbao
+Leganés 1 - 1 Levante
+Leganés 1 - 1 Valladolid
+Leganés 1 - 2 Eibar
+Leganés 1 - 2 Real Betis
+Leganés 0 - 1 Alavés
+Leganés 1 - 0 Celta Vigo
+Leganés 2 - 2 Mallorca
+Leganés 0 - 0 Espanyol
+Mallorca 1 - 1 Real Madrid
+Mallorca 1 - 3 Barcelona
+Mallorca 1 - 2 Atlético Madrid
+Mallorca 0 - 0 Sevilla
+Mallorca 1 - 1 Villarreal
+Mallorca 0 - 1 Real Sociedad
+Mallorca 1 - 2 Granada
+Mallorca 0 - 0 Getafe
+Mallorca 2 - 1 Valencia
+Mallorca 2 - 0 Osasuna
+Mallorca 0 - 0 Athletic Bilbao
+Mallorca 1 - 1 Levante
+Mallorca 1 - 1 Valladolid
+Mallorca 0 - 2 Eibar
+Mallorca 2 - 1 Real Betis
+Mallorca 1 - 0 Alavés
+Mallorca 1 - 2 Celta Vigo
+Mallorca 0 - 2 Leganés
+Mallorca 0 - 0 Espanyol
+Espanyol 0 - 2 Real Madrid
+Espanyol 0 - 0 Barcelona
+Espanyol 1 - 0 Atlético Madrid
+Espanyol 1 - 0 Sevilla
+Espanyol 0 - 2 Villarreal
+Espanyol 0 - 2 Real Sociedad
+Espanyol 0 - 1 Granada
+Espanyol 1 - 2 Getafe
+Espanyol 1 - 2 Valencia
+Espanyol 1 - 0 Osasuna
+Espanyol 0 - 1 Athletic Bilbao
+Espanyol 1 - 0 Levante
+Espanyol 1 - 0 Valladolid
+Espanyol 2 - 2 Eibar
+Espanyol 2 - 2 Real Betis
+Espanyol 1 - 0 Alavés
+Espanyol 0 - 2 Celta Vigo
+Espanyol 0 - 0 Leganés
+Espanyol 1 - 0 Mallorca
+
+#---------------------------------
+#	 Season 795848
+#---------------------------------
+Real Madrid 1 - 1 Barcelona
+Real Madrid 0 - 1 Atlético Madrid
+Real Madrid 2 - 1 Sevilla
+Real Madrid 0 - 0 Villarreal
+Real Madrid 2 - 0 Real Sociedad
+Real Madrid 0 - 1 Granada
+Real Madrid 1 - 0 Getafe
+Real Madrid 2 - 1 Valencia
+Real Madrid 1 - 0 Osasuna
+Real Madrid 0 - 1 Athletic Bilbao
+Real Madrid 0 - 1 Levante
+Real Madrid 2 - 0 Valladolid
+Real Madrid 3 - 0 Eibar
+Real Madrid 1 - 0 Real Betis
+Real Madrid 1 - 1 Alavés
+Real Madrid 1 - 0 Celta Vigo
+Real Madrid 0 - 1 Leganés
+Real Madrid 0 - 0 Mallorca
+Real Madrid 0 - 1 Espanyol
+Barcelona 2 - 1 Real Madrid
+Barcelona 2 - 0 Atlético Madrid
+Barcelona 1 - 2 Sevilla
+Barcelona 2 - 0 Villarreal
+Barcelona 1 - 0 Real Sociedad
+Barcelona 1 - 1 Granada
+Barcelona 1 - 0 Getafe
+Barcelona 1 - 2 Valencia
+Barcelona 3 - 1 Osasuna
+Barcelona 2 - 0 Athletic Bilbao
+Barcelona 3 - 1 Levante
+Barcelona 3 - 1 Valladolid
+Barcelona 3 - 1 Eibar
+Barcelona 2 - 1 Real Betis
+Barcelona 1 - 1 Alavés
+Barcelona 2 - 0 Celta Vigo
+Barcelona 3 - 0 Leganés
+Barcelona 3 - 1 Mallorca
+Barcelona 3 - 1 Espanyol
+Atlético Madrid 1 - 2 Real Madrid
+Atlético Madrid 1 - 2 Barcelona
+Atlético Madrid 1 - 0 Sevilla
+Atlético Madrid 2 - 1 Villarreal
+Atlético Madrid 1 - 0 Real Sociedad
+Atlético Madrid 0 - 0 Granada
+Atlético Madrid 2 - 1 Getafe
+Atlético Madrid 1 - 1 Valencia
+Atlético Madrid 2 - 0 Osasuna
+Atlético Madrid 1 - 1 Athletic Bilbao
+Atlético Madrid 1 - 1 Levante
+Atlético Madrid 0 - 0 Valladolid
+Atlético Madrid 2 - 1 Eibar
+Atlético Madrid 1 - 0 Real Betis
+Atlético Madrid 2 - 1 Alavés
+Atlético Madrid 1 - 1 Celta Vigo
+Atlético Madrid 0 - 0 Leganés
+Atlético Madrid 0 - 1 Mallorca
+Atlético Madrid 1 - 0 Espanyol
+Sevilla 1 - 2 Real Madrid
+Sevilla 2 - 0 Barcelona
+Sevilla 0 - 1 Atlético Madrid
+Sevilla 0 - 2 Villarreal
+Sevilla 1 - 0 Real Sociedad
+Sevilla 1 - 2 Granada
+Sevilla 1 - 1 Getafe
+Sevilla 0 - 1 Valencia
+Sevilla 1 - 2 Osasuna
+Sevilla 1 - 0 Athletic Bilbao
+Sevilla 0 - 0 Levante
+Sevilla 1 - 1 Valladolid
+Sevilla 2 - 1 Eibar
+Sevilla 1 - 1 Real Betis
+Sevilla 0 - 1 Alavés
+Sevilla 1 - 1 Celta Vigo
+Sevilla 1 - 1 Leganés
+Sevilla 0 - 1 Mallorca
+Sevilla 0 - 0 Espanyol
+Villarreal 0 - 2 Real Madrid
+Villarreal 1 - 2 Barcelona
+Villarreal 0 - 0 Atlético Madrid
+Villarreal 1 - 2 Sevilla
+Villarreal 0 - 2 Real Sociedad
+Villarreal 1 - 0 Granada
+Villarreal 1 - 0 Getafe
+Villarreal 3 - 0 Valencia
+Villarreal 0 - 1 Osasuna
+Villarreal 0 - 0 Athletic Bilbao
+Villarreal 1 - 1 Levante
+Villarreal 0 - 1 Valladolid
+Villarreal 2 - 1 Eibar
+Villarreal 2 - 2 Real Betis
+Villarreal 1 - 2 Alavés
+Villarreal 1 - 0 Celta Vigo
+Villarreal 2 - 0 Leganés
+Villarreal 2 - 0 Mallorca
+Villarreal 2 - 0 Espanyol
+Real Sociedad 1 - 1 Real Madrid
+Real Sociedad 0 - 3 Barcelona
+Real Sociedad 1 - 1 Atlético Madrid
+Real Sociedad 2 - 0 Sevilla
+Real Sociedad 0 - 1 Villarreal
+Real Sociedad 2 - 0 Granada
+Real Sociedad 1 - 1 Getafe
+Real Sociedad 2 - 2 Valencia
+Real Sociedad 1 - 1 Osasuna
+Real Sociedad 1 - 2 Athletic Bilbao
+Real Sociedad 0 - 1 Levante
+Real Sociedad 1 - 1 Valladolid
+Real Sociedad 0 - 0 Eibar
+Real Sociedad 1 - 1 Real Betis
+Real Sociedad 1 - 0 Alavés
+Real Sociedad 1 - 2 Celta Vigo
+Real Sociedad 1 - 1 Leganés
+Real Sociedad 2 - 1 Mallorca
+Real Sociedad 2 - 1 Espanyol
+Granada 0 - 1 Real Madrid
+Granada 2 - 2 Barcelona
+Granada 1 - 0 Atlético Madrid
+Granada 1 - 0 Sevilla
+Granada 0 - 2 Villarreal
+Granada 1 - 2 Real Sociedad
+Granada 1 - 0 Getafe
+Granada 0 - 1 Valencia
+Granada 0 - 1 Osasuna
+Granada 1 - 1 Athletic Bilbao
+Granada 1 - 1 Levante
+Granada 2 - 0 Valladolid
+Granada 1 - 2 Eibar
+Granada 0 - 2 Real Betis
+Granada 1 - 2 Alavés
+Granada 2 - 0 Celta Vigo
+Granada 0 - 1 Leganés
+Granada 1 - 0 Mallorca
+Granada 0 - 0 Espanyol
+Getafe 1 - 1 Real Madrid
+Getafe 1 - 3 Barcelona
+Getafe 1 - 1 Atlético Madrid
+Getafe 0 - 1 Sevilla
+Getafe 1 - 0 Villarreal
+Getafe 1 - 2 Real Sociedad
+Getafe 1 - 0 Granada
+Getafe 2 - 0 Valencia
+Getafe 0 - 1 Osasuna
+Getafe 1 - 0 Athletic Bilbao
+Getafe 0 - 1 Levante
+Getafe 0 - 1 Valladolid
+Getafe 1 - 0 Eibar
+Getafe 0 - 0 Real Betis
+Getafe 2 - 1 Alavés
+Getafe 1 - 0 Celta Vigo
+Getafe 1 - 1 Leganés
+Getafe 1 - 0 Mallorca
+Getafe 0 - 1 Espanyol
+Valencia 1 - 1 Real Madrid
+Valencia 0 - 3 Barcelona
+Valencia 1 - 2 Atlético Madrid
+Valencia 0 - 2 Sevilla
+Valencia 0 - 1 Villarreal
+Valencia 0 - 0 Real Sociedad
+Valencia 1 - 0 Granada
+Valencia 1 - 1 Getafe
+Valencia 0 - 1 Osasuna
+Valencia 0 - 1 Athletic Bilbao
+Valencia 0 - 1 Levante
+Valencia 1 - 2 Valladolid
+Valencia 2 - 1 Eibar
+Valencia 1 - 1 Real Betis
+Valencia 1 - 2 Alavés
+Valencia 1 - 0 Celta Vigo
+Valencia 0 - 1 Leganés
+Valencia 2 - 0 Mallorca
+Valencia 0 - 0 Espanyol
+Osasuna 1 - 1 Real Madrid
+Osasuna 1 - 3 Barcelona
+Osasuna 1 - 1 Atlético Madrid
+Osasuna 1 - 2 Sevilla
+Osasuna 0 - 1 Villarreal
+Osasuna 0 - 2 Real Sociedad
+Osasuna 0 - 0 Granada
+Osasuna 0 - 0 Getafe
+Osasuna 0 - 0 Valencia
+Osasuna 1 - 0 Athletic Bilbao
+Osasuna 0 - 0 Levante
+Osasuna 0 - 1 Valladolid
+Osasuna 1 - 1 Eibar
+Osasuna 2 - 0 Real Betis
+Osasuna 2 - 0 Alavés
+Osasuna 0 - 1 Celta Vigo
+Osasuna 1 - 0 Leganés
+Osasuna 1 - 1 Mallorca
+Osasuna 0 - 1 Espanyol
+Athletic Bilbao 1 - 0 Real Madrid
+Athletic Bilbao 0 - 3 Barcelona
+Athletic Bilbao 0 - 0 Atlético Madrid
+Athletic Bilbao 0 - 1 Sevilla
+Athletic Bilbao 1 - 1 Villarreal
+Athletic Bilbao 0 - 1 Real Sociedad
+Athletic Bilbao 0 - 1 Granada
+Athletic Bilbao 1 - 1 Getafe
+Athletic Bilbao 2 - 1 Valencia
+Athletic Bilbao 0 - 2 Osasuna
+Athletic Bilbao 1 - 1 Levante
+Athletic Bilbao 1 - 1 Valladolid
+Athletic Bilbao 2 - 1 Eibar
+Athletic Bilbao 0 - 1 Real Betis
+Athletic Bilbao 0 - 0 Alavés
+Athletic Bilbao 1 - 1 Celta Vigo
+Athletic Bilbao 0 - 1 Leganés
+Athletic Bilbao 1 - 1 Mallorca
+Athletic Bilbao 0 - 0 Espanyol
+Levante 1 - 2 Real Madrid
+Levante 1 - 3 Barcelona
+Levante 1 - 0 Atlético Madrid
+Levante 1 - 0 Sevilla
+Levante 0 - 1 Villarreal
+Levante 0 - 2 Real Sociedad
+Levante 0 - 2 Granada
+Levante 0 - 0 Getafe
+Levante 0 - 0 Valencia
+Levante 1 - 0 Osasuna
+Levante 0 - 0 Athletic Bilbao
+Levante 2 - 0 Valladolid
+Levante 0 - 1 Eibar
+Levante 0 - 1 Real Betis
+Levante 2 - 1 Alavés
+Levante 0 - 0 Celta Vigo
+Levante 1 - 1 Leganés
+Levante 2 - 1 Mallorca
+Levante 1 - 1 Espanyol
+Valladolid 0 - 1 Real Madrid
+Valladolid 1 - 2 Barcelona
+Valladolid 1 - 1 Atlético Madrid
+Valladolid 1 - 1 Sevilla
+Valladolid 1 - 2 Villarreal
+Valladolid 0 - 2 Real Sociedad
+Valladolid 1 - 0 Granada
+Valladolid 0 - 2 Getafe
+Valladolid 0 - 1 Valencia
+Valladolid 2 - 0 Osasuna
+Valladolid 1 - 0 Athletic Bilbao
+Valladolid 0 - 1 Levante
+Valladolid 1 - 1 Eibar
+Valladolid 0 - 2 Real Betis
+Valladolid 0 - 1 Alavés
+Valladolid 1 - 1 Celta Vigo
+Valladolid 1 - 1 Leganés
+Valladolid 1 - 1 Mallorca
+Valladolid 1 - 1 Espanyol
+Eibar 0 - 0 Real Madrid
+Eibar 1 - 2 Barcelona
+Eibar 1 - 0 Atlético Madrid
+Eibar 1 - 2 Sevilla
+Eibar 2 - 2 Villarreal
+Eibar 2 - 1 Real Sociedad
+Eibar 1 - 0 Granada
+Eibar 1 - 0 Getafe
+Eibar 2 - 0 Valencia
+Eibar 1 - 0 Osasuna
+Eibar 0 - 0 Athletic Bilbao
+Eibar 1 - 2 Levante
+Eibar 1 - 0 Valladolid
+Eibar 0 - 1 Real Betis
+Eibar 0 - 0 Alavés
+Eibar 2 - 0 Celta Vigo
+Eibar 1 - 1 Leganés
+Eibar 0 - 1 Mallorca
+Eibar 1 - 0 Espanyol
+Real Betis 1 - 3 Real Madrid
+Real Betis 1 - 2 Barcelona
+Real Betis 1 - 0 Atlético Madrid
+Real Betis 0 - 1 Sevilla
+Real Betis 0 - 1 Villarreal
+Real Betis 0 - 1 Real Sociedad
+Real Betis 1 - 0 Granada
+Real Betis 0 - 0 Getafe
+Real Betis 1 - 0 Valencia
+Real Betis 1 - 2 Osasuna
+Real Betis 0 - 1 Athletic Bilbao
+Real Betis 0 - 0 Levante
+Real Betis 1 - 2 Valladolid
+Real Betis 0 - 1 Eibar
+Real Betis 0 - 0 Alavés
+Real Betis 0 - 2 Celta Vigo
+Real Betis 2 - 1 Leganés
+Real Betis 2 - 1 Mallorca
+Real Betis 2 - 1 Espanyol
+Alavés 1 - 0 Real Madrid
+Alavés 1 - 3 Barcelona
+Alavés 1 - 1 Atlético Madrid
+Alavés 0 - 1 Sevilla
+Alavés 0 - 2 Villarreal
+Alavés 1 - 1 Real Sociedad
+Alavés 0 - 2 Granada
+Alavés 1 - 2 Getafe
+Alavés 0 - 2 Valencia
+Alavés 1 - 0 Osasuna
+Alavés 1 - 1 Athletic Bilbao
+Alavés 0 - 0 Levante
+Alavés 1 - 2 Valladolid
+Alavés 0 - 0 Eibar
+Alavés 1 - 2 Real Betis
+Alavés 1 - 2 Celta Vigo
+Alavés 0 - 1 Leganés
+Alavés 1 - 1 Mallorca
+Alavés 2 - 0 Espanyol
+Celta Vigo 1 - 1 Real Madrid
+Celta Vigo 1 - 0 Barcelona
+Celta Vigo 1 - 0 Atlético Madrid
+Celta Vigo 1 - 1 Sevilla
+Celta Vigo 0 - 1 Villarreal
+Celta Vigo 2 - 0 Real Sociedad
+Celta Vigo 1 - 2 Granada
+Celta Vigo 1 - 1 Getafe
+Celta Vigo 2 - 0 Valencia
+Celta Vigo 0 - 1 Osasuna
+Celta Vigo 0 - 2 Athletic Bilbao
+Celta Vigo 0 - 0 Levante
+Celta Vigo 0 - 0 Valladolid
+Celta Vigo 0 - 1 Eibar
+Celta Vigo 0 - 0 Real Betis
+Celta Vigo 0 - 1 Alavés
+Celta Vigo 1 - 1 Leganés
+Celta Vigo 0 - 0 Mallorca
+Celta Vigo 1 - 1 Espanyol
+Leganés 1 - 2 Real Madrid
+Leganés 0 - 3 Barcelona
+Leganés 1 - 1 Atlético Madrid
+Leganés 0 - 1 Sevilla
+Leganés 0 - 2 Villarreal
+Leganés 0 - 2 Real Sociedad
+Leganés 1 - 1 Granada
+Leganés 0 - 0 Getafe
+Leganés 1 - 2 Valencia
+Leganés 0 - 1 Osasuna
+Leganés 0 - 0 Athletic Bilbao
+Leganés 0 - 0 Levante
+Leganés 1 - 2 Valladolid
+Leganés 1 - 1 Eibar
+Leganés 0 - 2 Real Betis
+Leganés 1 - 0 Alavés
+Leganés 0 - 0 Celta Vigo
+Leganés 0 - 0 Mallorca
+Leganés 0 - 1 Espanyol
+Mallorca 0 - 2 Real Madrid
+Mallorca 1 - 2 Barcelona
+Mallorca 0 - 1 Atlético Madrid
+Mallorca 1 - 0 Sevilla
+Mallorca 0 - 2 Villarreal
+Mallorca 0 - 1 Real Sociedad
+Mallorca 0 - 0 Granada
+Mallorca 1 - 1 Getafe
+Mallorca 0 - 1 Valencia
+Mallorca 1 - 0 Osasuna
+Mallorca 0 - 2 Athletic Bilbao
+Mallorca 0 - 2 Levante
+Mallorca 0 - 0 Valladolid
+Mallorca 2 - 2 Eibar
+Mallorca 2 - 1 Real Betis
+Mallorca 0 - 0 Alavés
+Mallorca 0 - 0 Celta Vigo
+Mallorca 1 - 1 Leganés
+Mallorca 2 - 1 Espanyol
+Espanyol 0 - 1 Real Madrid
+Espanyol 0 - 2 Barcelona
+Espanyol 0 - 2 Atlético Madrid
+Espanyol 0 - 2 Sevilla
+Espanyol 1 - 1 Villarreal
+Espanyol 1 - 1 Real Sociedad
+Espanyol 1 - 1 Granada
+Espanyol 0 - 0 Getafe
+Espanyol 0 - 0 Valencia
+Espanyol 1 - 2 Osasuna
+Espanyol 0 - 2 Athletic Bilbao
+Espanyol 1 - 1 Levante
+Espanyol 0 - 1 Valladolid
+Espanyol 0 - 2 Eibar
+Espanyol 0 - 1 Real Betis
+Espanyol 0 - 0 Alavés
+Espanyol 1 - 1 Celta Vigo
+Espanyol 0 - 0 Leganés
+Espanyol 1 - 1 Mallorca
+
+#---------------------------------
+#	 Season 995349
+#---------------------------------
+Real Madrid 0 - 2 Barcelona
+Real Madrid 0 - 1 Atlético Madrid
+Real Madrid 1 - 0 Sevilla
+Real Madrid 2 - 1 Villarreal
+Real Madrid 0 - 0 Real Sociedad
+Real Madrid 1 - 2 Granada
+Real Madrid 1 - 0 Getafe
+Real Madrid 0 - 1 Valencia
+Real Madrid 2 - 0 Osasuna
+Real Madrid 0 - 0 Athletic Bilbao
+Real Madrid 3 - 1 Levante
+Real Madrid 0 - 0 Valladolid
+Real Madrid 2 - 1 Eibar
+Real Madrid 1 - 1 Real Betis
+Real Madrid 3 - 0 Alavés
+Real Madrid 1 - 0 Celta Vigo
+Real Madrid 0 - 0 Leganés
+Real Madrid 2 - 1 Mallorca
+Real Madrid 3 - 0 Espanyol
+Barcelona 0 - 0 Real Madrid
+Barcelona 1 - 1 Atlético Madrid
+Barcelona 2 - 0 Sevilla
+Barcelona 2 - 1 Villarreal
+Barcelona 2 - 0 Real Sociedad
+Barcelona 3 - 0 Granada
+Barcelona 1 - 1 Getafe
+Barcelona 3 - 0 Valencia
+Barcelona 2 - 0 Osasuna
+Barcelona 2 - 1 Athletic Bilbao
+Barcelona 2 - 1 Levante
+Barcelona 2 - 1 Valladolid
+Barcelona 3 - 1 Eibar
+Barcelona 3 - 0 Real Betis
+Barcelona 3 - 0 Alavés
+Barcelona 3 - 1 Celta Vigo
+Barcelona 3 - 0 Leganés
+Barcelona 3 - 0 Mallorca
+Barcelona 3 - 0 Espanyol
+Atlético Madrid 1 - 2 Real Madrid
+Atlético Madrid 1 - 0 Barcelona
+Atlético Madrid 0 - 0 Sevilla
+Atlético Madrid 2 - 1 Villarreal
+Atlético Madrid 2 - 1 Real Sociedad
+Atlético Madrid 1 - 0 Granada
+Atlético Madrid 1 - 0 Getafe
+Atlético Madrid 2 - 0 Valencia
+Atlético Madrid 2 - 1 Osasuna
+Atlético Madrid 0 - 0 Athletic Bilbao
+Atlético Madrid 2 - 0 Levante
+Atlético Madrid 0 - 0 Valladolid
+Atlético Madrid 2 - 0 Eibar
+Atlético Madrid 0 - 0 Real Betis
+Atlético Madrid 0 - 0 Alavés
+Atlético Madrid 2 - 1 Celta Vigo
+Atlético Madrid 0 - 0 Leganés
+Atlético Madrid 1 - 1 Mallorca
+Atlético Madrid 2 - 0 Espanyol
+Sevilla 1 - 1 Real Madrid
+Sevilla 0 - 0 Barcelona
+Sevilla 1 - 0 Atlético Madrid
+Sevilla 2 - 1 Villarreal
+Sevilla 2 - 1 Real Sociedad
+Sevilla 2 - 1 Granada
+Sevilla 0 - 0 Getafe
+Sevilla 2 - 0 Valencia
+Sevilla 1 - 1 Osasuna
+Sevilla 1 - 0 Athletic Bilbao
+Sevilla 1 - 1 Levante
+Sevilla 0 - 0 Valladolid
+Sevilla 1 - 1 Eibar
+Sevilla 2 - 1 Real Betis
+Sevilla 2 - 0 Alavés
+Sevilla 1 - 1 Celta Vigo
+Sevilla 0 - 0 Leganés
+Sevilla 3 - 1 Mallorca
+Sevilla 1 - 1 Espanyol
+Villarreal 0 - 0 Real Madrid
+Villarreal 1 - 0 Barcelona
+Villarreal 0 - 1 Atlético Madrid
+Villarreal 1 - 1 Sevilla
+Villarreal 2 - 1 Real Sociedad
+Villarreal 0 - 2 Granada
+Villarreal 0 - 2 Getafe
+Villarreal 0 - 1 Valencia
+Villarreal 2 - 1 Osasuna
+Villarreal 0 - 1 Athletic Bilbao
+Villarreal 1 - 0 Levante
+Villarreal 0 - 0 Valladolid
+Villarreal 2 - 1 Eibar
+Villarreal 0 - 2 Real Betis
+Villarreal 1 - 2 Alavés
+Villarreal 1 - 1 Celta Vigo
+Villarreal 2 - 1 Leganés
+Villarreal 1 - 0 Mallorca
+Villarreal 2 - 0 Espanyol
+Real Sociedad 0 - 1 Real Madrid
+Real Sociedad 0 - 2 Barcelona
+Real Sociedad 0 - 0 Atlético Madrid
+Real Sociedad 1 - 2 Sevilla
+Real Sociedad 0 - 1 Villarreal
+Real Sociedad 1 - 1 Granada
+Real Sociedad 1 - 0 Getafe
+Real Sociedad 1 - 2 Valencia
+Real Sociedad 0 - 0 Osasuna
+Real Sociedad 0 - 0 Athletic Bilbao
+Real Sociedad 0 - 1 Levante
+Real Sociedad 1 - 1 Valladolid
+Real Sociedad 1 - 1 Eibar
+Real Sociedad 0 - 0 Real Betis
+Real Sociedad 0 - 1 Alavés
+Real Sociedad 1 - 0 Celta Vigo
+Real Sociedad 1 - 1 Leganés
+Real Sociedad 1 - 1 Mallorca
+Real Sociedad 1 - 1 Espanyol
+Granada 0 - 2 Real Madrid
+Granada 1 - 2 Barcelona
+Granada 1 - 1 Atlético Madrid
+Granada 0 - 1 Sevilla
+Granada 1 - 0 Villarreal
+Granada 0 - 0 Real Sociedad
+Granada 0 - 0 Getafe
+Granada 0 - 1 Valencia
+Granada 0 - 2 Osasuna
+Granada 0 - 1 Athletic Bilbao
+Granada 1 - 0 Levante
+Granada 0 - 0 Valladolid
+Granada 2 - 1 Eibar
+Granada 0 - 1 Real Betis
+Granada 0 - 1 Alavés
+Granada 2 - 2 Celta Vigo
+Granada 0 - 1 Leganés
+Granada 0 - 0 Mallorca
+Granada 2 - 0 Espanyol
+Getafe 1 - 2 Real Madrid
+Getafe 0 - 2 Barcelona
+Getafe 0 - 2 Atlético Madrid
+Getafe 0 - 0 Sevilla
+Getafe 0 - 0 Villarreal
+Getafe 2 - 0 Real Sociedad
+Getafe 0 - 1 Granada
+Getafe 1 - 0 Valencia
+Getafe 0 - 1 Osasuna
+Getafe 1 - 0 Athletic Bilbao
+Getafe 2 - 0 Levante
+Getafe 1 - 1 Valladolid
+Getafe 1 - 1 Eibar
+Getafe 1 - 0 Real Betis
+Getafe 2 - 1 Alavés
+Getafe 0 - 1 Celta Vigo
+Getafe 1 - 1 Leganés
+Getafe 0 - 0 Mallorca
+Getafe 0 - 1 Espanyol
+Valencia 1 - 0 Real Madrid
+Valencia 0 - 3 Barcelona
+Valencia 0 - 2 Atlético Madrid
+Valencia 1 - 2 Sevilla
+Valencia 1 - 1 Villarreal
+Valencia 0 - 0 Real Sociedad
+Valencia 0 - 0 Granada
+Valencia 1 - 1 Getafe
+Valencia 1 - 1 Osasuna
+Valencia 0 - 0 Athletic Bilbao
+Valencia 0 - 1 Levante
+Valencia 1 - 2 Valladolid
+Valencia 0 - 1 Eibar
+Valencia 2 - 2 Real Betis
+Valencia 1 - 1 Alavés
+Valencia 0 - 0 Celta Vigo
+Valencia 1 - 1 Leganés
+Valencia 2 - 0 Mallorca
+Valencia 0 - 0 Espanyol
+Osasuna 1 - 1 Real Madrid
+Osasuna 0 - 2 Barcelona
+Osasuna 0 - 0 Atlético Madrid
+Osasuna 1 - 1 Sevilla
+Osasuna 0 - 2 Villarreal
+Osasuna 0 - 0 Real Sociedad
+Osasuna 0 - 1 Granada
+Osasuna 0 - 0 Getafe
+Osasuna 1 - 0 Valencia
+Osasuna 1 - 0 Athletic Bilbao
+Osasuna 1 - 1 Levante
+Osasuna 2 - 1 Valladolid
+Osasuna 1 - 1 Eibar
+Osasuna 0 - 0 Real Betis
+Osasuna 0 - 1 Alavés
+Osasuna 0 - 0 Celta Vigo
+Osasuna 0 - 1 Leganés
+Osasuna 1 - 1 Mallorca
+Osasuna 2 - 1 Espanyol
+Athletic Bilbao 0 - 1 Real Madrid
+Athletic Bilbao 0 - 1 Barcelona
+Athletic Bilbao 0 - 0 Atlético Madrid
+Athletic Bilbao 1 - 0 Sevilla
+Athletic Bilbao 1 - 1 Villarreal
+Athletic Bilbao 0 - 1 Real Sociedad
+Athletic Bilbao 0 - 1 Granada
+Athletic Bilbao 1 - 2 Getafe
+Athletic Bilbao 1 - 1 Valencia
+Athletic Bilbao 1 - 1 Osasuna
+Athletic Bilbao 0 - 1 Levante
+Athletic Bilbao 0 - 1 Valladolid
+Athletic Bilbao 0 - 1 Eibar
+Athletic Bilbao 1 - 0 Real Betis
+Athletic Bilbao 2 - 0 Alavés
+Athletic Bilbao 2 - 0 Celta Vigo
+Athletic Bilbao 0 - 0 Leganés
+Athletic Bilbao 2 - 0 Mallorca
+Athletic Bilbao 2 - 0 Espanyol
+Levante 0 - 2 Real Madrid
+Levante 0 - 1 Barcelona
+Levante 1 - 0 Atlético Madrid
+Levante 0 - 2 Sevilla
+Levante 0 - 1 Villarreal
+Levante 1 - 0 Real Sociedad
+Levante 0 - 0 Granada
+Levante 0 - 1 Getafe
+Levante 0 - 2 Valencia
+Levante 1 - 1 Osasuna
+Levante 0 - 1 Athletic Bilbao
+Levante 1 - 1 Valladolid
+Levante 0 - 0 Eibar
+Levante 2 - 2 Real Betis
+Levante 1 - 0 Alavés
+Levante 2 - 1 Celta Vigo
+Levante 0 - 0 Leganés
+Levante 1 - 1 Mallorca
+Levante 1 - 1 Espanyol
+Valladolid 1 - 2 Real Madrid
+Valladolid 0 - 2 Barcelona
+Valladolid 0 - 2 Atlético Madrid
+Valladolid 1 - 1 Sevilla
+Valladolid 0 - 2 Villarreal
+Valladolid 0 - 1 Real Sociedad
+Valladolid 1 - 2 Granada
+Valladolid 1 - 0 Getafe
+Valladolid 1 - 1 Valencia
+Valladolid 0 - 1 Osasuna
+Valladolid 0 - 1 Athletic Bilbao
+Valladolid 1 - 0 Levante
+Valladolid 0 - 0 Eibar
+Valladolid 1 - 2 Real Betis
+Valladolid 0 - 1 Alavés
+Valladolid 1 - 0 Celta Vigo
+Valladolid 1 - 1 Leganés
+Valladolid 0 - 1 Mallorca
+Valladolid 0 - 1 Espanyol
+Eibar 0 - 1 Real Madrid
+Eibar 0 - 2 Barcelona
+Eibar 0 - 2 Atlético Madrid
+Eibar 1 - 1 Sevilla
+Eibar 0 - 2 Villarreal
+Eibar 1 - 2 Real Sociedad
+Eibar 1 - 0 Granada
+Eibar 0 - 0 Getafe
+Eibar 1 - 0 Valencia
+Eibar 0 - 0 Osasuna
+Eibar 0 - 0 Athletic Bilbao
+Eibar 0 - 1 Levante
+Eibar 0 - 1 Valladolid
+Eibar 1 - 2 Real Betis
+Eibar 2 - 0 Alavés
+Eibar 1 - 2 Celta Vigo
+Eibar 0 - 0 Leganés
+Eibar 1 - 1 Mallorca
+Eibar 1 - 1 Espanyol
+Real Betis 1 - 2 Real Madrid
+Real Betis 1 - 2 Barcelona
+Real Betis 1 - 2 Atlético Madrid
+Real Betis 0 - 1 Sevilla
+Real Betis 0 - 1 Villarreal
+Real Betis 0 - 2 Real Sociedad
+Real Betis 2 - 0 Granada
+Real Betis 1 - 2 Getafe
+Real Betis 0 - 2 Valencia
+Real Betis 1 - 1 Osasuna
+Real Betis 0 - 1 Athletic Bilbao
+Real Betis 0 - 2 Levante
+Real Betis 1 - 0 Valladolid
+Real Betis 0 - 2 Eibar
+Real Betis 1 - 0 Alavés
+Real Betis 1 - 1 Celta Vigo
+Real Betis 1 - 2 Leganés
+Real Betis 1 - 1 Mallorca
+Real Betis 2 - 1 Espanyol
+Alavés 0 - 0 Real Madrid
+Alavés 0 - 3 Barcelona
+Alavés 0 - 0 Atlético Madrid
+Alavés 1 - 0 Sevilla
+Alavés 0 - 2 Villarreal
+Alavés 1 - 0 Real Sociedad
+Alavés 1 - 1 Granada
+Alavés 0 - 0 Getafe
+Alavés 0 - 0 Valencia
+Alavés 0 - 1 Osasuna
+Alavés 1 - 2 Athletic Bilbao
+Alavés 1 - 0 Levante
+Alavés 1 - 0 Valladolid
+Alavés 1 - 1 Eibar
+Alavés 0 - 2 Real Betis
+Alavés 1 - 2 Celta Vigo
+Alavés 0 - 1 Leganés
+Alavés 1 - 0 Mallorca
+Alavés 2 - 0 Espanyol
+Celta Vigo 0 - 1 Real Madrid
+Celta Vigo 0 - 2 Barcelona
+Celta Vigo 1 - 1 Atlético Madrid
+Celta Vigo 0 - 1 Sevilla
+Celta Vigo 0 - 0 Villarreal
+Celta Vigo 0 - 1 Real Sociedad
+Celta Vigo 1 - 1 Granada
+Celta Vigo 0 - 0 Getafe
+Celta Vigo 2 - 1 Valencia
+Celta Vigo 1 - 0 Osasuna
+Celta Vigo 0 - 0 Athletic Bilbao
+Celta Vigo 0 - 0 Levante
+Celta Vigo 0 - 0 Valladolid
+Celta Vigo 0 - 1 Eibar
+Celta Vigo 0 - 0 Real Betis
+Celta Vigo 2 - 0 Alavés
+Celta Vigo 0 - 1 Leganés
+Celta Vigo 2 - 0 Mallorca
+Celta Vigo 1 - 0 Espanyol
+Leganés 1 - 0 Real Madrid
+Leganés 1 - 1 Barcelona
+Leganés 0 - 1 Atlético Madrid
+Leganés 0 - 1 Sevilla
+Leganés 0 - 2 Villarreal
+Leganés 1 - 2 Real Sociedad
+Leganés 1 - 0 Granada
+Leganés 1 - 1 Getafe
+Leganés 0 - 2 Valencia
+Leganés 0 - 2 Osasuna
+Leganés 1 - 1 Athletic Bilbao
+Leganés 0 - 2 Levante
+Leganés 0 - 0 Valladolid
+Leganés 0 - 0 Eibar
+Leganés 1 - 1 Real Betis
+Leganés 1 - 0 Alavés
+Leganés 1 - 1 Celta Vigo
+Leganés 1 - 1 Mallorca
+Leganés 0 - 1 Espanyol
+Mallorca 0 - 1 Real Madrid
+Mallorca 0 - 2 Barcelona
+Mallorca 1 - 0 Atlético Madrid
+Mallorca 1 - 1 Sevilla
+Mallorca 1 - 2 Villarreal
+Mallorca 1 - 1 Real Sociedad
+Mallorca 1 - 2 Granada
+Mallorca 1 - 1 Getafe
+Mallorca 1 - 0 Valencia
+Mallorca 1 - 0 Osasuna
+Mallorca 0 - 1 Athletic Bilbao
+Mallorca 1 - 0 Levante
+Mallorca 1 - 1 Valladolid
+Mallorca 0 - 2 Eibar
+Mallorca 0 - 2 Real Betis
+Mallorca 1 - 0 Alavés
+Mallorca 1 - 1 Celta Vigo
+Mallorca 0 - 1 Leganés
+Mallorca 2 - 0 Espanyol
+Espanyol 1 - 0 Real Madrid
+Espanyol 0 - 2 Barcelona
+Espanyol 0 - 0 Atlético Madrid
+Espanyol 1 - 0 Sevilla
+Espanyol 0 - 2 Villarreal
+Espanyol 0 - 0 Real Sociedad
+Espanyol 0 - 1 Granada
+Espanyol 1 - 0 Getafe
+Espanyol 0 - 2 Valencia
+Espanyol 0 - 2 Osasuna
+Espanyol 1 - 0 Athletic Bilbao
+Espanyol 1 - 2 Levante
+Espanyol 0 - 1 Valladolid
+Espanyol 1 - 0 Eibar
+Espanyol 1 - 2 Real Betis
+Espanyol 1 - 0 Alavés
+Espanyol 1 - 0 Celta Vigo
+Espanyol 0 - 1 Leganés
+Espanyol 1 - 1 Mallorca
+

@@ -1,0 +1,81 @@
+Number of Seasons simulated: 1000000
+Total time (h:m:s): 00:07:40.3624932
+
+---------------------------------
+|       Best Performances:      |
+---------------------------------
+Highest points:       97p, by Ajax in season 192446
+Most goals scored:    94 goals, by Ajax in season 801617
+Least goals admitted: 4 goals, by Ajax in season 542043
+Best goal difference: 70 goals, by Ajax in season 801617
+
+---------------------------------
+|      Worst Performances:      |
+---------------------------------
+Lowest points:         4p, by RKC Waalwijk in season 213675
+Least goals scored:    6 goals, by VVV-Venlo in season 940276
+Most goals admitted:   81 goals, by RKC Waalwijk in season 605206
+Worst goal difference: -64 goals, by RKC Waalwijk in season 213675
+
+---------------------------------
+|  Worst teams in first place:  |
+---------------------------------
+Lowest points by a team in first place:         54p, by Ajax in season 397435
+Least goals scored by a team in first place:    27 goals, by FC Groningen in season 198722
+Most goals admitted by a team in first place:   46 goals, by FC Utrecht in season 390671
+Worst goal difference by a team in first place: 0 goals, by PEC Zwolle in season 34295
+
+---------------------------------
+|   Best teams in last place:   |
+---------------------------------
+Higest points by a team in last place:         39p, by ADO Den Haag in season 115342
+Most goals scored by a team in last place:     47 goals, by PEC Zwolle in season 412036
+Least goals admitted by a team in last place:  21 goals, by FC Groningen in season 256227
+Best goal difference by a team in last place: 2 goals, by Feyenoord in season 166894
+
+---------------------------------
+|     Points needed to win:     |
+---------------------------------
+Highest points needed to win: 88p, in season 556705
+Lowest points needed to win:  51p, in season 689405
+Average points needed to win: 66p
+
+---------------------------------
+| Average points per placement: |
+---------------------------------
+1: 72p
+2: 65,9p
+3: 61,5p
+4: 58p
+5: 55,1p
+6: 52,7p
+7: 50,5p
+8: 48,4p
+9: 46,4p
+10: 44,5p
+11: 42,5p
+12: 40,5p
+13: 38,5p
+14: 36,4p
+15: 34,1p
+16: 31,7p
+17: 28,7p
+18: 24,4p
+
+---------------------------------
+|      Most league titles       |
+---------------------------------
+1: Ajax, 510979 times
+2: AZ, 322435 times
+3: PSV Eindhoven, 91972 times
+4: FC Utrecht, 27757 times
+5: Feyenoord, 24691 times
+---------------------------------
+|      Most league jumbos       |
+---------------------------------
+1: RKC Waalwijk, 302607 times
+2: ADO Den Haag, 233282 times
+3: VVV-Venlo, 201548 times
+4: Fortuna Sittard, 118883 times
+5: PEC Zwolle, 58295 times
+

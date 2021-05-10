@@ -1,0 +1,81 @@
+Number of Seasons simulated: 1000000
+Total time (h:m:s): 00:07:45.2249839
+
+---------------------------------
+|       Best Performances:      |
+---------------------------------
+Highest points:       100p, by Bayern Munich in season 573713
+Most goals scored:    97 goals, by Bayern Munich in season 605917
+Least goals admitted: 7 goals, by Bayern Munich in season 853306
+Best goal difference: 76 goals, by Bayern Munich in season 440639
+
+---------------------------------
+|      Worst Performances:      |
+---------------------------------
+Lowest points:         3p, by SC Paderborn in season 643835
+Least goals scored:    9 goals, by Mainz 05 in season 15678
+Most goals admitted:   80 goals, by SC Paderborn in season 635936
+Worst goal difference: -56 goals, by SC Paderborn in season 544876
+
+---------------------------------
+|  Worst teams in first place:  |
+---------------------------------
+Lowest points by a team in first place:         55p, by SC Freiburg in season 45117
+Least goals scored by a team in first place:    27 goals, by Schalke 04 in season 819765
+Most goals admitted by a team in first place:   51 goals, by Eintracht Frankfurt in season 917875
+Worst goal difference by a team in first place: 2 goals, by SC Paderborn in season 214195
+
+---------------------------------
+|   Best teams in last place:   |
+---------------------------------
+Higest points by a team in last place:         39p, by Fortuna Düsseldorf in season 313467
+Most goals scored by a team in last place:     49 goals, by Mainz 05 in season 198121
+Least goals admitted by a team in last place:  27 goals, by VfL Wolfsburg in season 48198
+Best goal difference by a team in last place: 0 goals, by Borussia Mönchengladbach in season 219509
+
+---------------------------------
+|     Points needed to win:     |
+---------------------------------
+Highest points needed to win: 89p, in season 497480
+Lowest points needed to win:  51p, in season 344902
+Average points needed to win: 66p
+
+---------------------------------
+| Average points per placement: |
+---------------------------------
+1: 72,5p
+2: 66p
+3: 61,5p
+4: 57,7p
+5: 54,5p
+6: 51,8p
+7: 49,5p
+8: 47,4p
+9: 45,5p
+10: 43,8p
+11: 42,1p
+12: 40,5p
+13: 38,8p
+14: 37,1p
+15: 35,2p
+16: 33,1p
+17: 30,5p
+18: 26,5p
+
+---------------------------------
+|      Most league titles       |
+---------------------------------
+1: Bayern Munich, 598652 times
+2: RB Leipzig, 175376 times
+3: Borussia Dortmund, 157888 times
+4: Borussia Mönchengladbach, 41888 times
+5: Bayer Leverkusen, 16649 times
+---------------------------------
+|      Most league jumbos       |
+---------------------------------
+1: SC Paderborn, 286934 times
+2: Fortuna Düsseldorf, 196925 times
+3: Werder Bremen, 133305 times
+4: Schalke 04, 78652 times
+5: Mainz 05, 78240 times
+

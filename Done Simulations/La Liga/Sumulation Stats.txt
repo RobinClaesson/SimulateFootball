@@ -1,0 +1,83 @@
+Number of Seasons simulated: 1000000
+Total time (h:m:s): 00:10:08.0286013
+
+---------------------------------
+|       Best Performances:      |
+---------------------------------
+Highest points:       106p, by Barcelona in season 52957
+Most goals scored:    80 goals, by Barcelona in season 795848
+Least goals admitted: 3 goals, by Real Madrid in season 170593
+Best goal difference: 61 goals, by Barcelona in season 995349
+
+---------------------------------
+|      Worst Performances:      |
+---------------------------------
+Lowest points:         9p, by Mallorca in season 450094
+Least goals scored:    5 goals, by Espanyol in season 32417
+Most goals admitted:   64 goals, by Mallorca in season 468068
+Worst goal difference: -46 goals, by Espanyol in season 657775
+
+---------------------------------
+|  Worst teams in first place:  |
+---------------------------------
+Lowest points by a team in first place:         58p, by Villarreal in season 648180
+Least goals scored by a team in first place:    23 goals, by Atlético Madrid in season 485616
+Most goals admitted by a team in first place:   40 goals, by Villarreal in season 247489
+Worst goal difference by a team in first place: 3 goals, by Athletic Bilbao in season 82660
+
+---------------------------------
+|   Best teams in last place:   |
+---------------------------------
+Higest points by a team in last place:         43p, by Athletic Bilbao in season 198200
+Most goals scored by a team in last place:     39 goals, by Real Betis in season 783460
+Least goals admitted by a team in last place:  18 goals, by Valladolid in season 512865
+Best goal difference by a team in last place: -1 goals, by Athletic Bilbao in season 722222
+
+---------------------------------
+|     Points needed to win:     |
+---------------------------------
+Highest points needed to win: 96p, in season 145115
+Lowest points needed to win:  56p, in season 123933
+Average points needed to win: 71p
+
+---------------------------------
+| Average points per placement: |
+---------------------------------
+1: 76,7p
+2: 70,4p
+3: 65,8p
+4: 62,4p
+5: 59,6p
+6: 57,3p
+7: 55,2p
+8: 53,3p
+9: 51,5p
+10: 49,9p
+11: 48,3p
+12: 46,7p
+13: 45,1p
+14: 43,6p
+15: 42p
+16: 40,2p
+17: 38,4p
+18: 36,3p
+19: 33,6p
+20: 29,5p
+
+---------------------------------
+|      Most league titles       |
+---------------------------------
+1: Barcelona, 426555 times
+2: Real Madrid, 421363 times
+3: Atlético Madrid, 63790 times
+4: Sevilla, 42041 times
+5: Villarreal, 20374 times
+---------------------------------
+|      Most league jumbos       |
+---------------------------------
+1: Espanyol, 331684 times
+2: Alavés, 167923 times
+3: Mallorca, 141004 times
+4: Leganés, 125999 times
+5: Eibar, 68404 times
+
