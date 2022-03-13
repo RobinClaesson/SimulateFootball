@@ -40,7 +40,7 @@ This is a copy of what is shown in the console after the simulation is complete 
 This is how many times all teams got every placement in the league, and also their averagement placement. 
 
 ### Tables From Record Seasons.txt and Matches From Record Seasons.txt
-This is the leagu table / all the matches from the seasons that holds a record in Simulations Stats.txt.
+This is the league table / all the matches from the seasons that holds a record in Simulations Stats.txt.
 Its sorted by season number.
 
 ## How does it work? 
@@ -51,7 +51,6 @@ The formatting for this file is explained in more details lower down, but it's b
 From this table the program calculates the average goales scored and admitted in a game for every team, this data is whats drives the simulation. 
 
 ### How is a game simulated? 
-As stated the programs algoritm for simulationg a game, and this is (sadly) probably one of the programs weakest points. 
 The program takes a teams average scored goals and adds the opponents average admitted goals, and vice versa. This gives a base for the expected number of goals from both teams. 
 It then uses the C# built in random to generate the score for each team. 
 On average "Team 1" will score this many goals: 
@@ -59,9 +58,9 @@ On average "Team 1" will score this many goals:
 ![Average goals for Team 1](https://i.imgur.com/4NaWjKH.png)
 
 ### Issues with algoritm
-The biggest problem with this algoritm is that i won't give any unexpecedly large victories. The max number of goals a team can make is the avrg scored + opponends avrg admitted rounded upp. A large victory like 8-1 is impossible for most simulations in the program, but is possible (even if unlikely). 
+The biggest problem with this algoritm is that i won't give any unexpecedly large victories. The max number of goals a team can make is the avrg scored + opponends avrg admitted rounded upp. A large victory like 8-1 is impossible for most simulations in the program, but is possible in reality (even if unlikely). 
 
-The [Numberphile video](https://www.youtube.com/watch?v=Vv9wpQIGZDw) that inspired me to do this I believe uses poisson distribution to generate scored goals, and this is a far superior way to do it. Perhaps I'll refactor the simulation to use some more advance statistics like poisson distribution or something else once I've taken a statistics course at my university.
+The [Numberphile video](https://www.youtube.com/watch?v=Vv9wpQIGZDw) that inspired me to do this I believe uses poisson distribution to generate scored goals, and this is a superior way to do it. 
 
 One small strength that my algoritm do have vs the poisson distribution is that my algoritm is not unlikely to generate a 0-0 game, which Tony Padilla mention in the video their alogritm didn't
 
