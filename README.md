@@ -3,7 +3,7 @@ This is a program made for simple simulations of entire seasons of football (soc
 Inspired by a [Numberphile video](https://www.youtube.com/watch?v=Vv9wpQIGZDw)
 
 ## What does it do? 
-The program uses a basic and fairly crude algoritm to decide how a certrain game will end. 
+The program uses a basic algoritm to decide how a certrain game will end. 
 
 Every season the program uses that algoritm to let each team play all their home games in a season and calculates the leagu table from the matches. 
 It then takes the table and checks for some interesting statistics like most points and most scored goals and keeps track of these records over all simulations.
