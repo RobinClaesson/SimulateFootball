@@ -83,8 +83,6 @@ Each row in the table should contain these collums seperaded by a singe tab (**b
 9. Goal difference
 10. Points
 
-**Warning!**
-If any value in bold except for name isn't a number the program will crash. (Yeah that should be fixed I know). 
 
 ## Build
 This is a Console Aplication build on .NET Framework 4.7.2 and should be buildable with any compiler compatible with that. 
