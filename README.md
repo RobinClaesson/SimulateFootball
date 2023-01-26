@@ -30,7 +30,7 @@ This is a copy of what is shown in the console after the simulation is complete 
 1. Best Performances: Most points, most scored goals etc. 
 2. Worst Performances: Least points, most admitted goals etc. 
 3. Worst teams in first place: Stats from teams that performed not great but still won the league
-4. Best teams in last place: Stats from the team that got last but maby didn't totally suck. 
+4. Best teams in last place: Stats from the team that got last place but maybe didn't totally suck. 
 5. Points needed to win: The number of points needed to win the league, also known as 2nd place + 1 point.
 6. Average points per placement: Average point of all positions in the leage.
 7. Most league titles: How many times the the top teams won the league.
